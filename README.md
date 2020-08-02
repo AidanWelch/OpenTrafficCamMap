@@ -9,7 +9,7 @@ Cameras will be stored in cameras.json with the following schema.  All informati
         "[state or standardized administrative region]": {
             "[zipcode or standardized regional breakdown, this should not be skipped but may be a single entry of 'all']": [
                 {
-                    "address": "[address of camera]",
+                    "location": "[address of camera or best description of location]",
                     "url": "[url of stream]",
                     "encoding": "[encoding used]",
                     "format": "[the format of the given stream]",
