@@ -1,11 +1,11 @@
 {
-    "KENTUCKY": {
-        "40207": [
+    "Kentucky": {
+        "Jefferson": [
             {
                 "location": "I-65 at I-264",
-                "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1307.jpg?",
+                "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0018.jpg",
                 "encoding": "JPEG",
-                "format": "IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS",
+                "format": "IMAGE_STREAM",
                 "marked_for_review": false
             }
         ]

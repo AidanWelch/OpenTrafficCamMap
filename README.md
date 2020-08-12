@@ -2,20 +2,27 @@
 A crowdsourced database of traffic cameras
 
 ## Camera list
-Cameras will be stored in cameras/[Alpha-3 Country Code].json with the following schema.  All information in brackets should be the relevant input and should be in all uppercase.
+Cameras will be stored in cameras/[Alpha-3 Country Code].json with the following schema.  All information in brackets should be the relevant input.
+The list can be compiled to from transport authority provided lists or it can added to manually.
 ```json
 {
-        "[state or standardized administrative region]": {
-            "[zipcode or standardized regional breakdown, this should not be skipped but may be a single entry of 'all']": [
-                {
-                    "location": "[address of camera or best description of location]",
-                    "url": "[url of stream]",
-                    "encoding": "[encoding used]",
-                    "format": "[the format of the given stream]",
-                    "marked_for_review": bool
-                }
-            ]
-        }
+    "[state or standardized administrative region]": {
+        "[county or standardized regional breakdown, this should not be skipped but if not applicable use 'other']": [
+            {
+                "location": {
+                    "description": "[address of camera or best description of location]",
+                    "direction": "[the cardinal direction the camera is facing, optional]",
+                    "latitude": "[the latitude of the camera, optional]",
+                    "longitude": "[the longitude of the camera, optional]"
+                },
+                "url": "[url of stream]",
+                "encoding": "[encoding used]",
+                "format": "[the format of the given stream]",
+                "update_rate": "[only relevant on image stream formats, and even then is optional, but provides the rate at which the image provided can be pinged for an update]",
+                "marked_for_review": bool
+            }
+        ]
+    }
 }
 ```
 
@@ -33,4 +40,8 @@ Not only can the stream be encoded in various ways, it can be sent and requested
 
 Format | Description
 -------|------------
-IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS | A format for a stream of images requested by epoch time in milliseconds
+IMAGE_STREAM | A format for a stream of images where the most recent one is sent on each request.
+IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS | A format for a stream of images requested by epoch time in milliseconds.
+
+## Compilation
+The compilation folder contains scripts for compiling from sources listed in the file name.
