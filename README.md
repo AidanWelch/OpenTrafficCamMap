@@ -7,7 +7,7 @@ The list can be compiled to from transport authority provided lists or it can ad
 ```json
 {
     "[state or standardized administrative region]": {
-        "[county or standardized regional breakdown, this should not be skipped but if not applicable use 'other']": [
+        "[county or standardized regional breakdown, this should not be skipped but if not applicable or unknown use 'other']": [
             {
                 "location": {
                     "description": "[address of camera or best description of location]",
