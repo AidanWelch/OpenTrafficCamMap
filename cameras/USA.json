@@ -1,13 +1,3022 @@
 {
-    "Kentucky": {
-        "Jefferson": [
-            {
-                "location": "I-65 at I-264",
-                "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0018.jpg",
-                "encoding": "JPEG",
-                "format": "IMAGE_STREAM",
-                "marked_for_review": false
-            }
-        ]
-    }
+  "Kentucky": {
+    "McCracken": [
+      {
+        "location": {
+          "description": "I-24 MP 9",
+          "direction": null,
+          "latitude": 37.027055,
+          "longitude": -88.61358
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D01/current_0240109.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 7 @ US62",
+          "direction": null,
+          "latitude": 37.058327,
+          "longitude": -88.654947
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D01/current_0240105.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 7.5 @ US 45 Lone Oak Rd.",
+          "direction": null,
+          "latitude": 37.052231,
+          "longitude": -88.650398
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D01/current_0240107.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 4@ US 60",
+          "direction": null,
+          "latitude": 37.078133,
+          "longitude": -88.68057
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D01/current_0240104.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 3@ KY 305",
+          "direction": null,
+          "latitude": 37.098037,
+          "longitude": -88.688573
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D01/current_0240103.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 9.6",
+          "direction": "West",
+          "latitude": 37.026195,
+          "longitude": -88.612239
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_01_24_0096.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 6.4",
+          "direction": "West",
+          "latitude": 37.058328,
+          "longitude": -88.654947
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_01_24_0064.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 6.9",
+          "direction": "West",
+          "latitude": 37.052232,
+          "longitude": -88.650398
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_01_24_0069.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 2.8 @ KY 305",
+          "direction": "East",
+          "latitude": 37.09917,
+          "longitude": -88.689012
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_01_24_0028.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-24 MP 4.4 @ US 60",
+          "direction": "West",
+          "latitude": 37.07819,
+          "longitude": -88.680325
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_01_24_0044.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Christian": [
+      {
+        "location": {
+          "description": "I-24 MP 90",
+          "direction": null,
+          "latitude": 36.648675,
+          "longitude": -87.350857
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_I240002.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 Gate 7 for DMS Sign Camera",
+          "direction": null,
+          "latitude": 36.678013,
+          "longitude": -87.447352
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_41G7D02.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 Gate 7 Fort Campbell Entrance",
+          "direction": null,
+          "latitude": 36.676533,
+          "longitude": -87.446923
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_41G7E02.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 @ KY 911 Intersection",
+          "direction": null,
+          "latitude": 36.665148,
+          "longitude": -87.442878
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_U419112.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 Gate 5 Fort Campbell Entrance",
+          "direction": null,
+          "latitude": 36.660776,
+          "longitude": -87.442384
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_U41G502.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 @ State Line Rd",
+          "direction": null,
+          "latitude": 36.640966,
+          "longitude": -87.436028
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_U41SL02.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 Gate 4 Fort Campbell Entrance",
+          "direction": null,
+          "latitude": 36.644525,
+          "longitude": -87.437181
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_41G4E02.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY 911 DMS Sign Camera",
+          "direction": null,
+          "latitude": 36.665415,
+          "longitude": -87.4407
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_KY91102.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 & I-24 Overpass",
+          "direction": null,
+          "latitude": 36.704192,
+          "longitude": -87.455098
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_U412402.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 41 & Pennyrile Overpass",
+          "direction": null,
+          "latitude": 36.831821,
+          "longitude": -87.472865
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D02/current_U41PR02.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Warren": [
+      {
+        "location": {
+          "description": "I-65 MP 17",
+          "direction": null,
+          "latitude": 36.8725,
+          "longitude": -86.44817
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_0650317.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 32",
+          "direction": null,
+          "latitude": 37.01453,
+          "longitude": -86.2857
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_0650332.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 36",
+          "direction": null,
+          "latitude": 37.03932,
+          "longitude": -86.22566
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_0650336.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Natcher Parkway MP 5",
+          "direction": null,
+          "latitude": 36.95387,
+          "longitude": -86.49671
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_natcher.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 @ 234",
+          "direction": null,
+          "latitude": 36.97742,
+          "longitude": -86.3917
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_6503234.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY 446 @ US 31W",
+          "direction": null,
+          "latitude": 37.00855,
+          "longitude": -86.37676
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_6503446.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 31W MP 7",
+          "direction": null,
+          "latitude": 36.91903,
+          "longitude": -86.50375
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_0310307.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Morgantown Rd and Campbell Ln",
+          "direction": null,
+          "latitude": 36.988636,
+          "longitude": -86.486434
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_eastc03.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 @ US231",
+          "direction": null,
+          "latitude": 36.93455819,
+          "longitude": -86.41799471
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_I652313.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 231 @ Natcher Pky.",
+          "direction": null,
+          "latitude": 36.90134707,
+          "longitude": -86.39049768
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_natch03.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Barren": [
+      {
+        "location": {
+          "description": "I-65 MP 50",
+          "direction": null,
+          "latitude": 37.12137,
+          "longitude": -86.00705
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_0650350.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Louie B Nunn @ MP 3",
+          "direction": null,
+          "latitude": 37.03713,
+          "longitude": -86.05878
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_lbn0303.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Bullitt": [
+      {
+        "location": {
+          "description": "I-65 MP 107",
+          "direction": null,
+          "latitude": 37.87192,
+          "longitude": -85.70411
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_65SB107.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Hardin": [
+      {
+        "location": {
+          "description": "I-65 Bluegrass Parkway",
+          "direction": null,
+          "latitude": 37.70229,
+          "longitude": -85.83312
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_I65NBBG.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 92.6",
+          "direction": null,
+          "latitude": 37.69209,
+          "longitude": -85.84012
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_I65926N.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 92.4",
+          "direction": null,
+          "latitude": 37.69196,
+          "longitude": -85.8413
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_65SB924.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 Western Kentucky Parkway",
+          "direction": null,
+          "latitude": 37.67383,
+          "longitude": -85.84911
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_I65D4WK.JPG",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 89.2",
+          "direction": null,
+          "latitude": 37.64781,
+          "longitude": -85.85793
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_65SB892.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 82.8",
+          "direction": null,
+          "latitude": 37.55403,
+          "longitude": -85.87815
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_65SB828.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WK Pky @ MP 129",
+          "direction": null,
+          "latitude": 37.619028,
+          "longitude": -85.955051
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_wkmp129.JPG",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 96.2",
+          "direction": "North",
+          "latitude": 37.73531,
+          "longitude": -85.80641
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_04_65_0962.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 102.8",
+          "direction": "North",
+          "latitude": 37.80725,
+          "longitude": -85.74418
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_04_65_1028.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WK Pkwy MP 129.0",
+          "direction": "East",
+          "latitude": 37.61869,
+          "longitude": -85.955216
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_04_WKP_1290.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Simpson": [
+      {
+        "location": {
+          "description": "I-65 MP 2 Simpson Co.",
+          "direction": null,
+          "latitude": 36.647581,
+          "longitude": -86.568617
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_65NBSIM.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Hart": [
+      {
+        "location": {
+          "description": "I-65 MP 73.9",
+          "direction": null,
+          "latitude": 37.42621,
+          "longitude": -85.88253
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_65NB739.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 MP 55",
+          "direction": null,
+          "latitude": 37.1677411,
+          "longitude": -85.96232416
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D03/current_I65MP55.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Franklin": [
+      {
+        "location": {
+          "description": "US60 @ Chenault Road",
+          "direction": null,
+          "latitude": 38.176367,
+          "longitude": -84.81235
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D05/current_us60che.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US127 @ Frankfort KY",
+          "direction": null,
+          "latitude": 38.166121,
+          "longitude": -84.897651
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D05/current_us127jc.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US60 @ US127 Intersection",
+          "direction": null,
+          "latitude": 38.180766,
+          "longitude": -84.894483
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D05/current_us60127.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "other": [
+      {
+        "location": {
+          "description": "I-65 just South of I-265 Exit 6 Indiana",
+          "direction": null,
+          "latitude": 38.345217,
+          "longitude": -85.753507
+        },
+        "url": "http://pws.trafficwise.org/pullover/172_65_56_11.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at SR 60 Exit 7 Indiana",
+          "direction": null,
+          "latitude": 38.370025,
+          "longitude": -85.754724
+        },
+        "url": "http://www.trimarc.org/images/snapshots/IND_CCTV005.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 over Market St. Exit 0 Indiana",
+          "direction": null,
+          "latitude": 38.2694,
+          "longitude": -85.7456
+        },
+        "url": "http://pws.trafficwise.org/pullover/172_65_1_10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at Eastern Ave. Ind. Exit 2 Indiana",
+          "direction": null,
+          "latitude": 38.29485,
+          "longitude": -85.755883
+        },
+        "url": "http://www.trimarc.org/images/snapshots/IND_CCTV008.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Ind. 150",
+          "direction": null,
+          "latitude": 38.3027,
+          "longitude": -85.8771
+        },
+        "url": "http://pws.trafficwise.org/pullover/172_64_204_10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sherman Minton Br (Indiana side)",
+          "direction": null,
+          "latitude": 38.2821,
+          "longitude": -85.82605
+        },
+        "url": "http://pws.trafficwise.org/pullover/172_64_237_11.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at New Albany, Ind.",
+          "direction": null,
+          "latitude": 38.2857,
+          "longitude": -85.8291
+        },
+        "url": "http://pws.trafficwise.org/pullover/172_64_234_10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at I-265 in Ind.",
+          "direction": null,
+          "latitude": 38.301483,
+          "longitude": -85.849133
+        },
+        "url": "http://www.trimarc.org/images/snapshots/CCTV027.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at Sellersburg, Ind.(Exit 9 - SR 311)",
+          "direction": null,
+          "latitude": 38.3935,
+          "longitude": -85.7619
+        },
+        "url": "http://pws.trafficwise.org/pullover/172_65_90_10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Jefferson": [
+      {
+        "location": {
+          "description": "I-65 at Spaghetti Junction",
+          "direction": null,
+          "latitude": 38.25932994,
+          "longitude": -85.741192
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1365.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 adj. Adams St.",
+          "direction": null,
+          "latitude": 38.26104241,
+          "longitude": -85.73032357
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0058.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Downtown Louisville at 9th & Market",
+          "direction": null,
+          "latitude": 38.25602,
+          "longitude": -85.76504
+        },
+        "url": "http://www.trimarc.org/images/snapshots/CCTV064.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Downtown Louisville at Brook & Jefferson",
+          "direction": null,
+          "latitude": 38.25326,
+          "longitude": -85.75056
+        },
+        "url": "http://www.trimarc.org/images/snapshots/CCTV067.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 near M. Ali Exit",
+          "direction": null,
+          "latitude": 38.2493,
+          "longitude": -85.74786
+        },
+        "url": "http://www.trimarc.org/images/snapshots/CCTV070.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at I-264",
+          "direction": "West",
+          "latitude": 38.238614,
+          "longitude": -85.626111
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0121.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Frazier Museum",
+          "direction": "East",
+          "latitude": 38.258167,
+          "longitude": -85.764833
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0041.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Oxmoor Farm Rd.",
+          "direction": "West",
+          "latitude": 38.229639,
+          "longitude": -85.597533
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0138.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at Outer Loop",
+          "direction": "North",
+          "latitude": 38.136886,
+          "longitude": -85.705892
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1267.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Dixie Hwy.",
+          "direction": "East-West",
+          "latitude": 38.185242,
+          "longitude": -85.812508
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0075.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at I-71",
+          "direction": "East",
+          "latitude": 38.288479,
+          "longitude": -85.646294
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0051.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 at I-264",
+          "direction": "North-South",
+          "latitude": 38.291639,
+          "longitude": -85.650625
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0048.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 N. of I-264",
+          "direction": "South",
+          "latitude": 38.292244,
+          "longitude": -85.639967
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0055.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Cannons Ln.",
+          "direction": "West",
+          "latitude": 38.236033,
+          "longitude": -85.658056
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0104.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Breckenridge Ln.",
+          "direction": "East",
+          "latitude": 38.23575,
+          "longitude": -85.641708
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0114.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at I-64",
+          "direction": "South",
+          "latitude": 38.224239,
+          "longitude": -85.505781
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0256.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 at Frankfort Ave.",
+          "direction": "North",
+          "latitude": 38.262228,
+          "longitude": -85.723783
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0001.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 W. of Dixie Hwy., E. of Crums Ln.",
+          "direction": "East",
+          "latitude": 38.188042,
+          "longitude": -85.829481
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0065.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Crums Ln.",
+          "direction": "West",
+          "latitude": 38.195394,
+          "longitude": -85.828858
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0060.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "2nd and Main",
+          "direction": "Southwest",
+          "latitude": 38.25618,
+          "longitude": -85.75339
+        },
+        "url": "http://www.trimarc.org/images/snapshots/CCTV065.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Virginia Ave./Dumensil St.",
+          "direction": "West",
+          "latitude": 38.240939,
+          "longitude": -85.8151
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0027.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Bank St.",
+          "direction": "West",
+          "latitude": 38.267431,
+          "longitude": -85.807478
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0007.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at I-264",
+          "direction": "East",
+          "latitude": 38.276903,
+          "longitude": -85.806503
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0012.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Intersection of 9th St & Market St",
+          "direction": "East",
+          "latitude": 38.256016,
+          "longitude": -85.765167
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_9th_&_Market.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Bells Ln.",
+          "direction": "West",
+          "latitude": 38.220994,
+          "longitude": -85.822056
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0041.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KFC Yum! Center",
+          "direction": "East",
+          "latitude": 38.258349,
+          "longitude": -85.754329
+        },
+        "url": "",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at I-265",
+          "direction": "North",
+          "latitude": 38.114503,
+          "longitude": -85.700872
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1252.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at English Station Rd.",
+          "direction": "East",
+          "latitude": 38.222058,
+          "longitude": -85.493911
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0195.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Taylor Blvd.",
+          "direction": "East",
+          "latitude": 38.189347,
+          "longitude": -85.780981
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0093.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Blankenbaker Ln.",
+          "direction": "West",
+          "latitude": 38.224303,
+          "longitude": -85.539453
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0171.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 at Blankenbaker Ln.",
+          "direction": "North-South",
+          "latitude": 38.2918,
+          "longitude": -85.67002
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0037.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Clark Station",
+          "direction": "West",
+          "latitude": 38.218206,
+          "longitude": -85.416036
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0238.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 EB at 22nd Street 3.1",
+          "direction": "East",
+          "latitude": 38.266553,
+          "longitude": -85.77965
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0030.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Shelbyville Rd",
+          "direction": "East",
+          "latitude": 38.251788,
+          "longitude": -85.618429
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0199.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Taylorsville Rd",
+          "direction": "East",
+          "latitude": 38.221628,
+          "longitude": -85.650111
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0170.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at Grade Ln.",
+          "direction": "South",
+          "latitude": 38.178044,
+          "longitude": -85.719869
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1297.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at Old Henry Rd.",
+          "direction": "North",
+          "latitude": 38.26974,
+          "longitude": -85.500562
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0287.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at I-264",
+          "direction": "North",
+          "latitude": 38.189794,
+          "longitude": -85.72845
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1307.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 adj. Arthur Street",
+          "direction": "North",
+          "latitude": 38.224383,
+          "longitude": -85.750858
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1337.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 next to Crittenden Dr.",
+          "direction": "North",
+          "latitude": 38.207833,
+          "longitude": -85.751936
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1327.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Newburg Rd.",
+          "direction": "East",
+          "latitude": 38.201636,
+          "longitude": -85.688789
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0145.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 adj. to Fairgrounds",
+          "direction": "North",
+          "latitude": 38.202653,
+          "longitude": -85.736881
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1317.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 South at MP 11",
+          "direction": "North-South",
+          "latitude": 38.32726,
+          "longitude": -85.547304
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0112.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at UofL Medical Tower",
+          "direction": "North",
+          "latitude": 38.249331,
+          "longitude": -85.748483
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1359.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 @ Breckenridge Ln",
+          "direction": "West",
+          "latitude": 38.228666,
+          "longitude": -85.636525
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0179.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at Eastern Pkwy",
+          "direction": "South",
+          "latitude": 38.212088,
+          "longitude": -85.753083
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1330.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 at Zorn Ave.",
+          "direction": "North-South",
+          "latitude": 38.274619,
+          "longitude": -85.697725
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0018.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 near I-264 (West Louisville)",
+          "direction": "East",
+          "latitude": 38.274958,
+          "longitude": -85.812678
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0008.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 near Slugger Field",
+          "direction": "East-West",
+          "latitude": 38.258674,
+          "longitude": -85.744449
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0050.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Mellwood Ave.",
+          "direction": "East",
+          "latitude": 38.256158,
+          "longitude": -85.721175
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0068.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 West of 22nd St.",
+          "direction": "West",
+          "latitude": 38.274263,
+          "longitude": -85.787427
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0022.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Brook and Broadway",
+          "direction": "Northeast",
+          "latitude": 38.24583,
+          "longitude": -85.75146
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_Brook_&_Broadway.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Poplar Level Rd.",
+          "direction": "West",
+          "latitude": 38.195539,
+          "longitude": -85.708436
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0133.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 E. of Cochran Hill Tunnel",
+          "direction": "West",
+          "latitude": 38.242286,
+          "longitude": -85.684672
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0088.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at I-265",
+          "direction": "West",
+          "latitude": 38.223081,
+          "longitude": -85.507728
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0189.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Bardstown Rd.",
+          "direction": "East",
+          "latitude": 38.210332,
+          "longitude": -85.671682
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0156.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY 841 at New Cut Rd.",
+          "direction": "West",
+          "latitude": 38.120618,
+          "longitude": -85.779346
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0060.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at Westport Rd.",
+          "direction": "North",
+          "latitude": 38.297018,
+          "longitude": -85.547249
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0325.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at LaGrange Rd.",
+          "direction": "North-South",
+          "latitude": 38.28645,
+          "longitude": -85.515304
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0305.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at Shelbyville Rd.",
+          "direction": "North-South",
+          "latitude": 38.241681,
+          "longitude": -85.503818
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0268.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 W of Oxmoor Farm Overpass",
+          "direction": "West",
+          "latitude": 38.233218,
+          "longitude": -85.608779
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0131.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 at I-265",
+          "direction": "North-South",
+          "latitude": 38.313175,
+          "longitude": -85.584431
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0089.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Cane Run Rd.",
+          "direction": "West",
+          "latitude": 38.206231,
+          "longitude": -85.827581
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0052.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at River Park Dr.",
+          "direction": "West",
+          "latitude": 38.253936,
+          "longitude": -85.805725
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0016.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Westport Rd.",
+          "direction": "East",
+          "latitude": 38.26465,
+          "longitude": -85.6234
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0208.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at Bardstown Rd",
+          "direction": "South",
+          "latitude": 38.141809,
+          "longitude": -85.584026
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0173.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at Taylorsville Rd",
+          "direction": "North-South",
+          "latitude": 38.189286,
+          "longitude": -85.509157
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0231.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at Smyrna Pkwy",
+          "direction": "North",
+          "latitude": 38.11777,
+          "longitude": -85.64376
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0135.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-265 at Preston Hwy",
+          "direction": "North",
+          "latitude": 38.109725,
+          "longitude": -85.675979
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_265_0117.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Echo Trail",
+          "direction": "West",
+          "latitude": 38.221514,
+          "longitude": -85.460008
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0214.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 N. at Barbour Ln Overpass",
+          "direction": "North",
+          "latitude": 38.301333,
+          "longitude": -85.608349
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0074.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Freedom Way",
+          "direction": "West",
+          "latitude": 38.190428,
+          "longitude": -85.738092
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0116.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY22 East at I-265",
+          "direction": "East",
+          "latitude": 38.30701,
+          "longitude": -85.575605
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_ADMS112_KY22-EB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "2nd and Broadway",
+          "direction": "Southeast",
+          "latitude": 38.24576,
+          "longitude": -85.75481
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_2nd_&_Broadway.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-264 at Brownsboro Rd",
+          "direction": "East",
+          "latitude": 38.279806,
+          "longitude": -85.635885
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_264_0221.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Hurstbourne Ln.",
+          "direction": "East",
+          "latitude": 38.223081,
+          "longitude": -85.577975
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0150.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "2nd and Market",
+          "direction": "Southeast",
+          "latitude": 38.25493,
+          "longitude": -85.75333
+        },
+        "url": "http://www.trimarc.org/images/snapshots/CCTV066.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 at I-71",
+          "direction": "South",
+          "latitude": 38.315675,
+          "longitude": -85.584868
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0349.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 near I-71",
+          "direction": "South",
+          "latitude": 38.317716,
+          "longitude": -85.597479
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0356.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 near US42 exit",
+          "direction": "North",
+          "latitude": 38.319108,
+          "longitude": -85.606409
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0361.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 at US42 entrance ramp",
+          "direction": "South",
+          "latitude": 38.321369,
+          "longitude": -85.615962
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0366.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 at tunnel entrance",
+          "direction": "North",
+          "latitude": 38.323321,
+          "longitude": -85.618942
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0369.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 at tunnel entrance",
+          "direction": "South",
+          "latitude": 38.327656,
+          "longitude": -85.626076
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0373.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 near Harrods Creek",
+          "direction": "South",
+          "latitude": 38.32977,
+          "longitude": -85.628654
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0375.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 at MP 38",
+          "direction": "South",
+          "latitude": 38.335008,
+          "longitude": -85.634538
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0380.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY841 south of Lewis and Clark Bridge",
+          "direction": "North-South",
+          "latitude": 38.339468,
+          "longitude": -85.639506
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_841_0384.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 on the Kennedy Bridge at MP 137",
+          "direction": "South",
+          "latitude": 38.267017,
+          "longitude": -85.744935
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1370.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at the 5.5 MM",
+          "direction": "East-West",
+          "latitude": 38.261047,
+          "longitude": -85.735298
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0055.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at the 5.8 MM",
+          "direction": "East-West",
+          "latitude": 38.261042,
+          "longitude": -85.730324
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0058.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 WB at the 6.1 MM",
+          "direction": "West",
+          "latitude": 38.26136,
+          "longitude": -85.725886
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0061.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at 6.3 MM",
+          "direction": "West",
+          "latitude": 38.260707,
+          "longitude": -85.72608
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0063.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at the 5.3 MM",
+          "direction": "West",
+          "latitude": 38.260815,
+          "longitude": -85.740429
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0053.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 near I-64 and I-71",
+          "direction": "North",
+          "latitude": 38.254501,
+          "longitude": -85.742095
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1361.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 on the Kennedy Bridge at MP 136.8",
+          "direction": "South",
+          "latitude": 38.262257,
+          "longitude": -85.742209
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1368.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 south at the Kennedy Bridge",
+          "direction": "North-South",
+          "latitude": 38.25933,
+          "longitude": -85.741192
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1365.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at Grinstead Dr.",
+          "direction": "West",
+          "latitude": 38.24755,
+          "longitude": -85.700581
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0079.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 at 9th St.",
+          "direction": "East",
+          "latitude": 38.258642,
+          "longitude": -85.765308
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0040.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 at MM 8.5 just south of I-265",
+          "direction": "South",
+          "latitude": 38.307349,
+          "longitude": -85.597315
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0082.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "KY22 West at I-265",
+          "direction": "West",
+          "latitude": 38.31277,
+          "longitude": -85.567799
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_ADMS111_KY22-WB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 near I-65",
+          "direction": "East-West",
+          "latitude": 38.259705,
+          "longitude": -85.739411
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0054-1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 near I-65",
+          "direction": "East-West",
+          "latitude": 38.259696,
+          "longitude": -85.739358
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0054-2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 over E. M. Ali Blvd.",
+          "direction": "South",
+          "latitude": 38.250117,
+          "longitude": -85.751914
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1356.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at University Hospital",
+          "direction": "",
+          "latitude": 38.252999,
+          "longitude": -85.743951
+        },
+        "url": "",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 on the Lincoln Bridge at MP 136.7",
+          "direction": "North",
+          "latitude": 38.26242,
+          "longitude": -85.741213
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1367.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at St. Catherine",
+          "direction": "North",
+          "latitude": 38.233086,
+          "longitude": -85.750586
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1344.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at I-264",
+          "direction": "South",
+          "latitude": 38.195874,
+          "longitude": -85.733829
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1313.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 on the Lincoln Bridge at MP 136.9",
+          "direction": "North",
+          "latitude": 38.266064,
+          "longitude": -85.743809
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1369.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-65 at Fern Valley Rd.",
+          "direction": "South",
+          "latitude": 38.157736,
+          "longitude": -85.719975
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_65_1283.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 at Indian Hills Ave.",
+          "direction": "North-South",
+          "latitude": 38.286186,
+          "longitude": -85.679264
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0030.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Woodford": [
+      {
+        "location": {
+          "description": "I-64 Woodford County",
+          "direction": null,
+          "latitude": 38.16196,
+          "longitude": -84.722785
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I64MP63.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Fayette": [
+      {
+        "location": {
+          "description": "I-75 Exit 107 Athens - Boonesboro",
+          "direction": null,
+          "latitude": 37.962825,
+          "longitude": -84.389634
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75107S.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Ironworks Pike",
+          "direction": null,
+          "latitude": 38.147391,
+          "longitude": -84.530131
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_7512007.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Northern Split",
+          "direction": null,
+          "latitude": 38.119372,
+          "longitude": -84.526716
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75NSNB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Newtown Pike",
+          "direction": null,
+          "latitude": 38.099709,
+          "longitude": -84.48497
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75NEWT.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Paris Pike",
+          "direction": null,
+          "latitude": 38.076728,
+          "longitude": -84.456505
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75PIKE.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Southern Split",
+          "direction": null,
+          "latitude": 38.056118,
+          "longitude": -84.430737
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75Spit.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Winchester Road",
+          "direction": null,
+          "latitude": 38.039412,
+          "longitude": -84.419977
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75winc.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Russell Cave Rd",
+          "direction": null,
+          "latitude": 38.08939206,
+          "longitude": -84.46703275
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75russ.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I - 75 @ Bryan Station",
+          "direction": null,
+          "latitude": 38.06748081,
+          "longitude": -84.44606709
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75BYST.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 @ Man O War",
+          "direction": null,
+          "latitude": 38.02200563,
+          "longitude": -84.41166259
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75manw.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Clays Ferry Bridge NB Above Deck",
+          "direction": null,
+          "latitude": 37.88444616,
+          "longitude": -84.3400344
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75CLNB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Madison": [
+      {
+        "location": {
+          "description": "Clays Ferry Bridge SB Above Deck",
+          "direction": null,
+          "latitude": 37.882156,
+          "longitude": -84.33738
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75CF76.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 Madison County SB",
+          "direction": null,
+          "latitude": 37.809573,
+          "longitude": -84.323747
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75MCSB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 Madison County NB",
+          "direction": null,
+          "latitude": 37.823361,
+          "longitude": -84.323114
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75MCNB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Clark": [
+      {
+        "location": {
+          "description": "I-64 Clark County",
+          "direction": null,
+          "latitude": 38.016001,
+          "longitude": -84.159664
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I64CCWB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Scott": [
+      {
+        "location": {
+          "description": "I-75 Scott County SB",
+          "direction": null,
+          "latitude": 38.253346,
+          "longitude": -84.549018
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75SCSB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 Scott County NB",
+          "direction": null,
+          "latitude": 38.243697,
+          "longitude": -84.545459
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D07/current_I75SCNB.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Whitley": [
+      {
+        "location": {
+          "description": "I-75 @ MP 23",
+          "direction": null,
+          "latitude": 36.900878,
+          "longitude": -84.135264
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D11a/snap_c1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 NB @ 23.4 - Whitley Co",
+          "direction": "North",
+          "latitude": 36.900847,
+          "longitude": -84.135172
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_11_75_0234.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Laurel": [
+      {
+        "location": {
+          "description": "I-75 @ MP 36",
+          "direction": null,
+          "latitude": 37.081246,
+          "longitude": -84.09933
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D11/current_I75MP36.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-75 SB @ 35.6 - Laurel Co.",
+          "direction": "South",
+          "latitude": 37.073145,
+          "longitude": -84.099435
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_11_75_0356.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Rowan": [
+      {
+        "location": {
+          "description": "I-64 @ KY801 near Morehead I-64 @ KY801 near Morehead I-64 @ KY801 near Morehead",
+          "direction": null,
+          "latitude": 38.18302184,
+          "longitude": -83.55617163
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D09/current_I64M133.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-64 MP 133 @ KY 801",
+          "direction": "West",
+          "latitude": 38.183649,
+          "longitude": -83.556034
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_09_64_1330.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Mason": [
+      {
+        "location": {
+          "description": "US68 @ Ohio River near Maysville",
+          "direction": null,
+          "latitude": 38.68310354,
+          "longitude": -83.78805402
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D09/current_MAYUS68.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 68 MP 18 @ Ohio River Brdg Maysville",
+          "direction": "North",
+          "latitude": 38.683252,
+          "longitude": -83.786774
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_09_US68_0180.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Wolfe": [
+      {
+        "location": {
+          "description": "Mountain Parkway MP36 - Slade",
+          "direction": null,
+          "latitude": 37.78778605,
+          "longitude": -83.64856152
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D10/current_d10mp36.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mountain Pkwy near Slade",
+          "direction": "North",
+          "latitude": 37.78989,
+          "longitude": -83.64847
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_10_MtnP_0364.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Letcher": [
+      {
+        "location": {
+          "description": "US-119 at Pine Mountain",
+          "direction": null,
+          "latitude": 37.075851,
+          "longitude": -82.810138
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D12/current_D12letc.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US23 & US119 at Jenkins",
+          "direction": null,
+          "latitude": 37.159763,
+          "longitude": -82.649029
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D12/current_us23119.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 23 MP 1.1 @ US 119",
+          "direction": "South",
+          "latitude": 37.15974,
+          "longitude": -82.64903
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_12_US23_0011.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 119 MP 12.3 @ Pine Mountain (Whitesburg)",
+          "direction": "South",
+          "latitude": 37.07569,
+          "longitude": -82.81018
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_12_US119_0123.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Gallatin": [
+      {
+        "location": {
+          "description": "I-71 SB MP 66.9 @ KY 562 - Gallatin",
+          "direction": null,
+          "latitude": 38.77857819,
+          "longitude": -84.76599087
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D06/current_I710665.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 SB at the 66.9 MM",
+          "direction": "South",
+          "latitude": 38.778835,
+          "longitude": -84.766628
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_71_0669.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Boone": [
+      {
+        "location": {
+          "description": "I-71 SB MP 73.9 - Boone Co.",
+          "direction": null,
+          "latitude": 38.85014278,
+          "longitude": -84.66551878
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D06/current_I710673.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Turfway Rd",
+          "direction": "South",
+          "latitude": 39.011906,
+          "longitude": -84.633224
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1823.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Burlington Pike",
+          "direction": "South",
+          "latitude": 39.001342,
+          "longitude": -84.64842
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1812.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at US-42",
+          "direction": "South",
+          "latitude": 38.984552,
+          "longitude": -84.642151
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1801.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at KY 237",
+          "direction": "East",
+          "latitude": 39.081008,
+          "longitude": -84.708573
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0070.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at Mineola Pike",
+          "direction": "West",
+          "latitude": 39.055124,
+          "longitude": -84.626084
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0020.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 East of KY 237",
+          "direction": "West",
+          "latitude": 39.078321,
+          "longitude": -84.69048
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0060.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at KY 8/Petersburg Exit",
+          "direction": "East",
+          "latitude": 39.087752,
+          "longitude": -84.793139
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0116.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at Petersburg Rd Overpass",
+          "direction": "East",
+          "latitude": 39.073604,
+          "longitude": -84.670966
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0048.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 East of KY/IN Border",
+          "direction": "East",
+          "latitude": 39.093536,
+          "longitude": -84.81325
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0128.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Mt. Zion Rd",
+          "direction": "South",
+          "latitude": 38.957018,
+          "longitude": -84.634987
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1781.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 West of KY 237",
+          "direction": "East",
+          "latitude": 39.084599,
+          "longitude": -84.74395
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0089.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 KY Split",
+          "direction": "South",
+          "latitude": 38.87687,
+          "longitude": -84.62551
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1725.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 north of Richwood Rd",
+          "direction": "North",
+          "latitude": 38.9251,
+          "longitude": -84.629714
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1758.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 East of KY 212/Airport",
+          "direction": "West",
+          "latitude": 39.06969,
+          "longitude": -84.64961
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0037.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71 SB at the 73.9 MM",
+          "direction": "South",
+          "latitude": 38.851326,
+          "longitude": -84.665229
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_71_0739.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75",
+          "direction": "North-South",
+          "latitude": 38.876548,
+          "longitude": -84.625566
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_71_0770.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Nelson": [
+      {
+        "location": {
+          "description": "BG Parkway MP 18.5 Bardstown",
+          "direction": null,
+          "latitude": 37.77777181,
+          "longitude": -85.52467637
+        },
+        "url": "http://rwis.kytc.ky.gov/itscams/D04/current_bgparky.JPG",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bluegrass Pkwy MP 18.5",
+          "direction": "East",
+          "latitude": 37.77728,
+          "longitude": -85.52121
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_04_BP_0185.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Shelby": [
+      {
+        "location": {
+          "description": "I-64 at Jeff./Shelby Co. Line",
+          "direction": "East",
+          "latitude": 38.217033,
+          "longitude": -85.40785
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_64_0242.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Oldham": [
+      {
+        "location": {
+          "description": "I-71 North of I-265 @ 11.8 MM",
+          "direction": "North-South",
+          "latitude": 38.330691,
+          "longitude": -85.540881
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_05_71_0116.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Larue": [
+      {
+        "location": {
+          "description": "I-65 MP 77.5",
+          "direction": "North",
+          "latitude": 37.48138,
+          "longitude": -85.88072
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_04_65_0775.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Campbell": [
+      {
+        "location": {
+          "description": "I-471 NB just N of I-275",
+          "direction": "North",
+          "latitude": 39.051527,
+          "longitude": -84.466639
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_471_0006.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-471 SB just S of Ky Rt 8",
+          "direction": "South",
+          "latitude": 39.097694,
+          "longitude": -84.488275
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_471_0045.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-471 SB at Highland Ave Overpass",
+          "direction": "South",
+          "latitude": 39.073563,
+          "longitude": -84.465439
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_471_0023.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at I-471",
+          "direction": "West",
+          "latitude": 39.04603,
+          "longitude": -84.458049
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0748.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-471 South of US-27",
+          "direction": "South",
+          "latitude": 39.062522,
+          "longitude": -84.468169
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_471_0014.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-471 at Grand Ave",
+          "direction": "North",
+          "latitude": 39.081178,
+          "longitude": -84.471483
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_471_0027.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at US-27 Overpass",
+          "direction": "East",
+          "latitude": 39.049601,
+          "longitude": -84.446461
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0741.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 East of Johns Hill Road",
+          "direction": "East-West",
+          "latitude": 39.033299,
+          "longitude": -84.470374
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0762.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Rockcastle": [
+      {
+        "location": {
+          "description": "I-75 MP 62.1 @ US 25",
+          "direction": "South",
+          "latitude": 37.37771,
+          "longitude": -84.330893
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_08_75_0621.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Pike": [
+      {
+        "location": {
+          "description": "US 23 MP 26.3 @ US 119",
+          "direction": "North",
+          "latitude": 37.504047,
+          "longitude": -82.531973
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_12_US23_0263.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Kenton": [
+      {
+        "location": {
+          "description": "I-71/I-75 at I-275",
+          "direction": "South",
+          "latitude": 39.034924,
+          "longitude": -84.600641
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1847.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Dixie Hwy",
+          "direction": "North",
+          "latitude": 39.049779,
+          "longitude": -84.549766
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1877.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at N of Buttermilk Pike",
+          "direction": "South",
+          "latitude": 39.05143,
+          "longitude": -84.566327
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1868.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at 12th St",
+          "direction": "South",
+          "latitude": 39.08087,
+          "longitude": -84.52272
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1908.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 N on Brent Spence Bridge",
+          "direction": "North",
+          "latitude": 39.086807,
+          "longitude": -84.522802
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1911.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Cut in the Hill",
+          "direction": "North",
+          "latitude": 39.064305,
+          "longitude": -84.521547
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1896.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Kyles Ln",
+          "direction": "South",
+          "latitude": 39.058768,
+          "longitude": -84.53853
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1886.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Buttermilk Pike",
+          "direction": "North",
+          "latitude": 39.04637,
+          "longitude": -84.57494
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1863.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-71/I-75 at Donaldson Hwy",
+          "direction": "South",
+          "latitude": 39.025822,
+          "longitude": -84.613453
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_75_1838.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at Taylor Mill",
+          "direction": "East",
+          "latitude": 39.02147,
+          "longitude": -84.511388
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0788.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 at Dixie Hwy",
+          "direction": "East",
+          "latitude": 39.026161,
+          "longitude": -84.572846
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0823.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-275 East of Turkeyfoot Road Mile 81.2",
+          "direction": "East-West",
+          "latitude": 39.02674,
+          "longitude": -84.552739
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_06_275_0812.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Marshall": [
+      {
+        "location": {
+          "description": "I-24 MP 24.8",
+          "direction": "West",
+          "latitude": 36.99056,
+          "longitude": -88.350134
+        },
+        "url": "http://www.trimarc.org/images/milestone/CCTV_01_24_0248.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ]
+  }
 }
