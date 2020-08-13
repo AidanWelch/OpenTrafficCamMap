@@ -36,7 +36,7 @@ VP9 |
 JPEG |
 
 ## Format
-Not only can the stream be encoded in various ways, it can be sent and requested in various way.  This just like the encoding list is not exhaustive and should be added to.
+Not only can the stream be encoded in various ways, it can be sent and requested in various way.  This, just like the encoding list, is not exhaustive and should be added to.
 
 Format | Description
 -------|------------
