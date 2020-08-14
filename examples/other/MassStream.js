@@ -16,15 +16,19 @@ for (var county in cameras.Kentucky) {
                 var data = '';
                 res.setEncoding('binary');
 
+                res.on('error', (err) => {
+                    console.log(cam.url);
+                });
+
                 res.on('data', (chunk) =>{
                     data += chunk;
                 });
                 
                 res.on('end', () => {
-                    fs.writeFileSync(`./shots/${county}/${cam.location.description.replace(/ /g, '_').replace(/\//g, '|').replace(/\./g, '')}.jpg`, data, 'binary');
+                    fs.writeFileSync(`./shots/${county}/${cam.location.description.replace(/ /g, '_').replace(/\//g, '∕').replace(/\./g, '')}.jpg`, data, 'binary');
                 });
-            }).end();
-            await new Promise(r => setTimeout(r, 1000));
+            }).setTimeout(10000).end();
+            await new Promise(r => setTimeout(r, 3000));
         }
     })();
 }
