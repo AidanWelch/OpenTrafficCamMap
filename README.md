@@ -42,6 +42,7 @@ Format | Description
 -------|------------
 IMAGE_STREAM | A format for a stream of images where the most recent one is sent on each request.
 IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS | A format for a stream of images requested by epoch time in milliseconds.
+M3U8 | A format which points to a video stream.
 
 ## Compilation
 The compilation folder contains scripts for compiling from sources listed in the file name.

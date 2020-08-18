@@ -17,30 +17,32 @@ https.request("https://smartway.tn.gov/Traffic/api/Cameras/0", (res) => {
 class Camera {
     constructor (cam) {
         this.location = {
-            description: cam.attributes.description,
-            direction: cam.attributes.direction,
-            latitude: cam.attributes.latitude,
-            longitude: cam.attributes.longitude
+            description: cam.dataItem.title,
+            latitude: cam.dataItem.coordinates.lat,
+            longitude: cam.dataItem.coordinates.lng
         }
-        this.url = cam.attributes.snapshot;
-        this.encoding = "JPEG";
-        this.format = "IMAGE_STREAM";
+        this.url = cam.dataItem.httpVideoUrl;
+        this.encoding = "H.264";
+        this.format = "M3U8";
         this.marked_for_review = false;
     }
 }
 
 function Compile(data){
-    for(cam of data.features){
-        if(cam.attributes.county !== null){
-            if(!cameras.Kentucky[cam.attributes.county]){
-                cameras.Kentucky[cam.attributes.county] = [];
+    if(!cameras.Tennessee){
+        cameras.Tennessee = {};
+    }
+    for(cam of data.actions){
+        if(cam.dataItem.jurisdiction !== null){
+            if(!cameras.Tennessee[cam.dataItem.jurisdiction]){
+                cameras.Tennessee[cam.dataItem.jurisdiction] = [];
             }
-            cameras.Kentucky[cam.attributes.county].push(new Camera(cam));
+            cameras.Tennessee[cam.dataItem.jurisdiction].push(new Camera(cam));
         } else {
-            if(!cameras.Kentucky.other){
-                cameras.Kentucky.other = [];
+            if(!cameras.Tennessee.other){
+                cameras.Tennessee.other = [];
             }
-            cameras.Kentucky.other.push(new Camera(cam));
+            cameras.Tennessee.other.push(new Camera(cam));
         }
     }
     fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));

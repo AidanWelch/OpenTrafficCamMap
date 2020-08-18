@@ -30,6 +30,9 @@ class Camera {
 }
 
 function Compile(data){
+    if(!cameras.Kentucky){
+        cameras.Kentucky = {};
+    }
     for(cam of data.features){
         if(cam.attributes.county !== null){
             if(!cameras.Kentucky[cam.attributes.county]){
