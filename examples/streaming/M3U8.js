@@ -4,7 +4,7 @@ const cameras = JSON.parse(fs.readFileSync('../../cameras/USA.json'));
 
 const test_cam = cameras.Tennessee.Nashville.find(cam => cam.format === 'M3U8');
 
-var stream = http.request(test_cam.url, (res) => {
+http.request(test_cam.url, (res) => {
     var data = '';
 
     res.on('data', (chunk) =>{
@@ -12,8 +12,20 @@ var stream = http.request(test_cam.url, (res) => {
     });
     
     res.on('end', () => {
-        fs.writeFileSync(`stream.m3u8`, data);
+        GetChunklist(data);
     });
-});
+}).end();
 
-setTimeout(() => stream.end(), 30000);
+function GetChunklist(data){
+    http.request(test_cam.url.slice(0, -13) + data.slice(data.indexOf('chunklist'), -1), (res) => {
+        var data = '';
+    
+        res.on('data', (chunk) =>{
+            data += chunk;
+        });
+        
+        res.on('end', () => {
+            fs.writeFileSync('cam.m3u8', data);
+        });
+    }).end();
+}
