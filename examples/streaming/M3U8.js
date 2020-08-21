@@ -69,15 +69,13 @@ function GetChunklist(data){
 function GetChunk(chunk_name){ 
     return new Promise((resolve, reject) => {
         http.request(test_cam.url.slice(0, -13) + chunk_name, (res) => {
-            var data = '';
             res.setEncoding('binary');
         
             res.on('data', (chunk) =>{
-                data += chunk;
+                video_file.write(chunk, 'binary');
             });
             
             res.on('end', () => {
-                video_file.write(data, 'binary');
                 resolve();
             });
 
