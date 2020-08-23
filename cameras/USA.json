@@ -69830,5 +69830,449 @@
         "marked_for_review": false
       }
     ]
+  },
+  "Hawaii": {
+    "other": [
+      {
+        "location": {
+          "description": "H-1 and Makakilo Dr (Westbound)",
+          "longitude": "-158.0779",
+          "latitude": "21.3422"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0253.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Makakilo Dr (Eastbound)",
+          "longitude": "-158.077773",
+          "latitude": "21.342107"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0252.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Kunia Rd (Westbound)",
+          "longitude": "-158.03202",
+          "latitude": "21.38373"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0037.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Kunia Rd (Eastbound)",
+          "longitude": "-158.03202",
+          "latitude": "21.38373"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0036.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Waikele (Westbound)",
+          "longitude": "-158.0095",
+          "latitude": "21.39622"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0060.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Waikele (Eastbound)",
+          "longitude": "-158.0095",
+          "latitude": "21.39622"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0059.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and H-2 Merge (Westbound)",
+          "longitude": "-157.985039",
+          "latitude": "21.39589"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0040.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and H-2 Merge (Eastbound)",
+          "longitude": "-157.985101",
+          "latitude": "21.39591"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0039.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Lehua Ave (Eastbound)",
+          "longitude": "-157.97055",
+          "latitude": "21.39037"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0046.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Waimalu Exit (Eastbound)",
+          "longitude": "-157.96249",
+          "latitude": "21.39094"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0061.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Waimalu Exit (Westbound)",
+          "longitude": "-157.96249",
+          "latitude": "21.39094"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0062.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Kaahumanu (Westbound)",
+          "longitude": "-157.95301",
+          "latitude": "21.39302"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0042.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Kaahumanu (Eastbound)",
+          "longitude": "-157.95301",
+          "latitude": "21.39302"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0041.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Kaonohi (Westbound)",
+          "longitude": "-157.94098",
+          "latitude": "21.38864"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0044.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Kaonohi (Eastbound)",
+          "longitude": "-157.94098",
+          "latitude": "21.38864"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0043.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Aiea Heights Overpass",
+          "longitude": "-157.92909",
+          "latitude": "21.37991"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0038.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Kahuapaani St",
+          "longitude": "-157.91968",
+          "latitude": "21.372115"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0187.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Halawa",
+          "longitude": "-157.91968",
+          "latitude": "21.37231"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0188.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Red Hill",
+          "longitude": "-157.908399",
+          "latitude": "21.368739"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0305.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Ala Kapuna Street",
+          "longitude": "-157.904139",
+          "latitude": "21.36689"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0303.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Ala Napunani Street",
+          "longitude": "-157.899191",
+          "latitude": "21.359237"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0302.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Puuloa Road",
+          "longitude": "-157.89623",
+          "latitude": "21.349106"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0300.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Ft. Shafter",
+          "longitude": "-157.889989",
+          "latitude": "21.34329"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0122.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-201 and Funston Road",
+          "longitude": "-157.888695",
+          "latitude": "21.342245"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0304.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Salt Lake Blvd (Eastbound)",
+          "longitude": "-157.929802",
+          "latitude": "21.362917"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0055.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Salt Lake Blvd (Westbound)",
+          "longitude": "-157.929802",
+          "latitude": "21.362917"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0054.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Radford (Westbound)",
+          "longitude": "-157.93259",
+          "latitude": "21.35215"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0052.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Radford (Eastbound)",
+          "longitude": "-157.93259",
+          "latitude": "21.35215"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0053.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Viaduct (Westbound)",
+          "longitude": "-157.923108",
+          "latitude": "21.338581"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0056.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Viaduct (Eastbound)",
+          "longitude": "-157.903481",
+          "latitude": "21.335326"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0057.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and MIDDLE",
+          "longitude": "-157.886088",
+          "latitude": "21.336579"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0228.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Middle St",
+          "longitude": "-157.88395",
+          "latitude": "21.33758"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0049.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and HOUGHTAILING",
+          "longitude": "-157.869868",
+          "latitude": "21.330275"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0227.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Vineyard Off Ramp",
+          "longitude": "-157.865214",
+          "latitude": "21.324132"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0058.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Liliha",
+          "longitude": "-157.86026",
+          "latitude": "21.32134"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0048.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pali Hwy and H-1 Off Ramp",
+          "longitude": "-157.85477",
+          "latitude": "21.31454"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0145.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Ward",
+          "longitude": "-157.84857",
+          "latitude": "21.30581"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0063.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Punahou",
+          "longitude": "-157.83386",
+          "latitude": "21.30083"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0051.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "H-1 and Kokohead",
+          "longitude": "-157.79902",
+          "latitude": "21.27932"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0045.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kal Hwy and Ainakoa",
+          "longitude": "-157.77971",
+          "latitude": "21.27792"
+        },
+        "url": "http://cctv.cdn.goakamai.org//SnapShot/320x240/TL-0069.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ]
   }
 }
