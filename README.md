@@ -1,5 +1,5 @@
 # OpenTrafficCam
-A crowdsourced database of 4026 traffic cameras
+A crowdsourced database of 5232 traffic cameras
 
 ## Camera list
 Cameras will be stored in cameras/[Alpha-3 Country Code].json with the following schema.  All information in brackets should be the relevant input.
@@ -42,7 +42,11 @@ Format | Description
 -------|------------
 IMAGE_STREAM | A format for a stream of images where the most recent one is sent on each request.
 IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS | A format for a stream of images requested by epoch time in milliseconds.
-M3U8 | A format which points to a video stream.
+M3U8 | A format which points to a chunklist which points to chunks.
 
 ## Compilation
 The compilation folder contains scripts for compiling from sources listed in the file name.
+
+## Contribution Tips
+
+[This FHWA site has helpful streaming information.](https://ops.fhwa.dot.gov/publications/fhwahop19037/appb.htm)

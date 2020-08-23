@@ -1,3 +1,5 @@
+//This is a simple example that is non-reliable and should not be relied upon.
+
 const fs = require('fs');
 const http = require('http');
 const cameras = JSON.parse(fs.readFileSync('../../cameras/USA.json'));
