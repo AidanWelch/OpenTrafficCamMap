@@ -60350,5 +60350,1253 @@
         "marked_for_review": false
       }
     ]
+  },
+  "West Virginia": {
+    "Northern": [
+      {
+        "location": {
+          "description": "MM 5",
+          "direction": null,
+          "latitude": 40.0492,
+          "longitude": -80.6646
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM118/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "New Martinsville Bridge",
+          "direction": null,
+          "latitude": 39.658384,
+          "longitude": -80.8564
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM120/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wheeling Tunnel",
+          "direction": null,
+          "latitude": 40.0719,
+          "longitude": -80.7246
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM125/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 1.8",
+          "direction": null,
+          "latitude": 40.052,
+          "longitude": -80.698
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM123/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 11 Dallas Pike",
+          "direction": null,
+          "latitude": 40.0674,
+          "longitude": -80.5675
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM035/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 7.5 2 Mile Hill",
+          "direction": null,
+          "latitude": 40.044,
+          "longitude": -80.619
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM017/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "CRT 19/24",
+          "direction": null,
+          "latitude": 39.6596,
+          "longitude": -79.9999
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM006/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Elmer Prince",
+          "direction": null,
+          "latitude": 39.652182,
+          "longitude": -79.963634
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM005/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Patteson Drive",
+          "direction": null,
+          "latitude": 39.6494,
+          "longitude": -79.9799
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM007/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 119/Clarksburg I/C",
+          "direction": null,
+          "latitude": 39.2751,
+          "longitude": -80.2853
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM028/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Chestnut Ridge at Pineview",
+          "direction": null,
+          "latitude": 39.657888,
+          "longitude": -79.955
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM064/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "University Ave at Westover Bridge",
+          "direction": null,
+          "latitude": 39.629662,
+          "longitude": -79.959
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM066/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 119 I/C",
+          "direction": null,
+          "latitude": 39.585195,
+          "longitude": -79.954
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM065/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 250 I/C",
+          "direction": null,
+          "latitude": 40.073355,
+          "longitude": -80.715
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM070/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cabela Dr",
+          "direction": null,
+          "latitude": 40.062052,
+          "longitude": -80.594
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM069/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mileground Roundabout",
+          "direction": null,
+          "latitude": 39.642056,
+          "longitude": -79.932
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM095/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 I/C - C",
+          "direction": null,
+          "latitude": 39.573268,
+          "longitude": -79.976389
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM094/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 I/C - B",
+          "direction": null,
+          "latitude": 39.582321,
+          "longitude": -79.97909
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM093/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-79 I/C - A",
+          "direction": null,
+          "latitude": 39.579646,
+          "longitude": -79.968964
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM092/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Goodwin Hill Road",
+          "direction": null,
+          "latitude": 39.6879,
+          "longitude": -79.8455
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM025/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 11.5",
+          "direction": null,
+          "latitude": 39.657824,
+          "longitude": -79.835969
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM024/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 29.4 Hazelton",
+          "direction": null,
+          "latitude": 39.657951,
+          "longitude": -79.524788
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM020/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 153",
+          "direction": null,
+          "latitude": 39.639141,
+          "longitude": -80.002455
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM116/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Washington Ave",
+          "direction": null,
+          "latitude": 40.067331,
+          "longitude": -80.692878
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM114/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 75.5",
+          "direction": null,
+          "latitude": 39.2847,
+          "longitude": -80.3922
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM001/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Southern": [
+      {
+        "location": {
+          "description": "Ambrose",
+          "direction": null,
+          "latitude": 37.3619,
+          "longitude": -81.0563
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM124/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bradley Rd",
+          "direction": null,
+          "latitude": 37.865,
+          "longitude": -81.18761
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM032/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 4.5",
+          "direction": null,
+          "latitude": 37.3097,
+          "longitude": -81.0691
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM021/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 125",
+          "direction": null,
+          "latitude": 37.7657,
+          "longitude": -81.1367
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM003/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 9",
+          "direction": null,
+          "latitude": 37.3633,
+          "longitude": -81.0479
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM061/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Appalachian Heights Road",
+          "direction": null,
+          "latitude": 37.858273,
+          "longitude": -81.188158
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM040/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glen Jean I/C",
+          "direction": null,
+          "latitude": 37.923121,
+          "longitude": -81.159183
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM039/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "North Beckely I/C",
+          "direction": null,
+          "latitude": 37.836891,
+          "longitude": -81.214646
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM041/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lewisburg I/C",
+          "direction": null,
+          "latitude": 37.817133,
+          "longitude": -80.427215
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM047/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "New River Gorge Bridge",
+          "direction": null,
+          "latitude": 38.066667,
+          "longitude": -81.087667
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM046/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 20",
+          "direction": null,
+          "latitude": 37.425278,
+          "longitude": -81.06583
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM023/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 44",
+          "direction": null,
+          "latitude": 37.793889,
+          "longitude": -81.217
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM075/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 124",
+          "direction": null,
+          "latitude": 37.762,
+          "longitude": -81.1474
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM082/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 179",
+          "direction": null,
+          "latitude": 37.787502,
+          "longitude": -80.298027
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM083/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 16",
+          "direction": null,
+          "latitude": 37.36393,
+          "longitude": -81.04166
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM088/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 11",
+          "direction": null,
+          "latitude": 37.34356,
+          "longitude": -81.12138
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM087/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 66",
+          "direction": null,
+          "latitude": 38.0275,
+          "longitude": -81.3558
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM019/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 58.5",
+          "direction": null,
+          "latitude": 37.965556,
+          "longitude": -81.270556
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM106/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 26.5",
+          "direction": null,
+          "latitude": 37.5829,
+          "longitude": -81.1195
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM109/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 12.5",
+          "direction": null,
+          "latitude": 37.4084,
+          "longitude": -81.0607
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM108/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 14.0",
+          "direction": null,
+          "latitude": 37.393889,
+          "longitude": -81.06
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM107/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "[MER]US460 @ US 52 I/C",
+          "direction": null,
+          "latitude": 37.2735,
+          "longitude": -81.1635
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM034/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Metro Valley": [
+      {
+        "location": {
+          "description": "MM 79.8",
+          "direction": null,
+          "latitude": 38.3493,
+          "longitude": -81.6503
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM121/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 86.5",
+          "direction": null,
+          "latitude": 38.2322,
+          "longitude": -81.5507
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM016/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bigley I/C",
+          "direction": null,
+          "latitude": 38.3599,
+          "longitude": -81.6304
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM089/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Montrose I/C",
+          "direction": null,
+          "latitude": 38.3644,
+          "longitude": -81.6767
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM013/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hal Greer I/C",
+          "direction": null,
+          "latitude": 38.3933,
+          "longitude": -82.4058
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM011/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Greenbrier I/C",
+          "direction": null,
+          "latitude": 38.3397,
+          "longitude": -81.6101
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM008/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Dunbar",
+          "direction": null,
+          "latitude": 38.3616,
+          "longitude": -81.7362
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM009/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hurricane Exit",
+          "direction": null,
+          "latitude": 38.440408,
+          "longitude": -82.019
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM071/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cross Lanes I/C",
+          "direction": null,
+          "latitude": 38.412,
+          "longitude": -81.7956
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM022/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Teays Valley I/C",
+          "direction": null,
+          "latitude": 38.456367,
+          "longitude": -81.936463
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM015/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Oakwood I/C",
+          "direction": null,
+          "latitude": 38.3547,
+          "longitude": -81.6512
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM014/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-77 I/C",
+          "direction": null,
+          "latitude": 38.3591,
+          "longitude": -81.6353
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM038/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Barboursville I/C",
+          "direction": null,
+          "latitude": 38.41596,
+          "longitude": -82.25985
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM045/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Nitro Exit",
+          "direction": null,
+          "latitude": 38.4408,
+          "longitude": -81.8332
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM027/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "3rd St",
+          "direction": null,
+          "latitude": 38.389351,
+          "longitude": -81.833612
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM055/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Southridge",
+          "direction": null,
+          "latitude": 38.3202,
+          "longitude": -81.7176
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM054/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Trace Fork",
+          "direction": null,
+          "latitude": 38.3278,
+          "longitude": -81.713
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM057/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Oakwood Rd",
+          "direction": null,
+          "latitude": 38.3422,
+          "longitude": -81.6632
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM056/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "77/79 - Westmoreland Exit",
+          "direction": null,
+          "latitude": 38.359052,
+          "longitude": -81.633287
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM042/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 98 35th St.",
+          "direction": null,
+          "latitude": 38.3344,
+          "longitude": -81.5982
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM081/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 100",
+          "direction": null,
+          "latitude": 38.3515,
+          "longitude": -81.6261
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM079/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Buffalo Bridge",
+          "direction": null,
+          "latitude": 38.58329,
+          "longitude": -82.00294
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM086/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Chelyan Bridge",
+          "direction": null,
+          "latitude": 38.1967,
+          "longitude": -81.49757
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM090/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 148",
+          "direction": null,
+          "latitude": 38.948498,
+          "longitude": -81.703728
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM084/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WV-61/MacCorkle AVE SW I/C",
+          "direction": null,
+          "latitude": 38.3632,
+          "longitude": -81.670454
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM048/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 18.5",
+          "direction": null,
+          "latitude": 38.4167,
+          "longitude": -82.2821
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM091/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WV-34 I/C",
+          "direction": null,
+          "latitude": 38.48314,
+          "longitude": -81.92926
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM085/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lory Pl",
+          "direction": null,
+          "latitude": 38.136553,
+          "longitude": -81.835828
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM101/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Institute Hill",
+          "direction": null,
+          "latitude": 38.387013,
+          "longitude": -81.768547
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM097/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 130",
+          "direction": null,
+          "latitude": 38.73423,
+          "longitude": -81.663681
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM096/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Milton I/C",
+          "direction": null,
+          "latitude": 38.438778,
+          "longitude": -82.122833
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM012/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fry Dr.",
+          "direction": null,
+          "latitude": 37.888808,
+          "longitude": -82.049696
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM100/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 79",
+          "direction": null,
+          "latitude": 38.1526,
+          "longitude": -81.4468
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM049/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 74",
+          "direction": null,
+          "latitude": 38.129167,
+          "longitude": -81.3883
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM111/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Eureka Rd",
+          "direction": null,
+          "latitude": 38.340366,
+          "longitude": -81.683413
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM113/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "[CAB]I-64 @ 6",
+          "direction": null,
+          "latitude": 38.401886,
+          "longitude": -82.478733
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM033/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "[CAB]I-64 @ 15",
+          "direction": null,
+          "latitude": 38.4145,
+          "longitude": -82.349857
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM036/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 41",
+          "direction": null,
+          "latitude": 38.455917,
+          "longitude": -81.883393
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM115/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Eastern": [
+      {
+        "location": {
+          "description": "MM 65.5",
+          "direction": null,
+          "latitude": 39.309723,
+          "longitude": -77.843056
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM119/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Park and Ride",
+          "direction": null,
+          "latitude": 39.146928,
+          "longitude": -79.57435
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM018/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 20",
+          "direction": null,
+          "latitude": 39.5409,
+          "longitude": -77.9141
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM026/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 16",
+          "direction": null,
+          "latitude": 39.4968,
+          "longitude": -77.9586
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM030/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Inwood I/C",
+          "direction": null,
+          "latitude": 39.3624,
+          "longitude": -78.0481
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM031/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "King St.",
+          "direction": null,
+          "latitude": 39.4628,
+          "longitude": -77.9903
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM029/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "John Adams Link Bridge",
+          "direction": null,
+          "latitude": 39.295491,
+          "longitude": -77.838956
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM098/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rest Area",
+          "direction": null,
+          "latitude": 39.5851,
+          "longitude": -77.8492
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM002/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Chestnuthill",
+          "direction": null,
+          "latitude": 39.264547,
+          "longitude": -77.773563
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM105/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smith Road",
+          "direction": null,
+          "latitude": 39.20231,
+          "longitude": -77.91761
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM104/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 0.5",
+          "direction": null,
+          "latitude": 39.302863,
+          "longitude": -78.078892
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM117/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Central": [
+      {
+        "location": {
+          "description": "Mineral Wells I/C",
+          "direction": null,
+          "latitude": 39.1897,
+          "longitude": -81.5295
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM077/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 I/C",
+          "direction": null,
+          "latitude": 39.267825,
+          "longitude": -81.499246
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM078/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Weston I/C",
+          "direction": null,
+          "latitude": 39.022953,
+          "longitude": -80.425753
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM058/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-19 I/C",
+          "direction": null,
+          "latitude": 38.617384,
+          "longitude": -80.757103
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM080/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Williamstown",
+          "direction": null,
+          "latitude": 39.399201,
+          "longitude": -81.434787
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM103/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MM 16.5",
+          "direction": null,
+          "latitude": 39.245175,
+          "longitude": -81.391601
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM004/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Exit 67",
+          "direction": null,
+          "latitude": 38.702764,
+          "longitude": -80.662167
+        },
+        "url": "http://162.210.14.137:1935/rtplive/CAM102/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ]
   }
 }
