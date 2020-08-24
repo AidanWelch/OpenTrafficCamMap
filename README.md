@@ -1,5 +1,5 @@
 # OpenTrafficCam
-A crowdsourced database of 6123 traffic cameras
+A crowdsourced database of 6489 traffic cameras
 
 ## Camera list
 Cameras will be stored in cameras/[Alpha-3 Country Code].json with the following schema.  All information in brackets should be the relevant input.

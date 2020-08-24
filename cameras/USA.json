@@ -70274,5 +70274,4409 @@
         "marked_for_review": false
       }
     ]
+  },
+  "Alaska": {
+    "other": [
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Eielson Street",
+          "direction": null,
+          "latitude": 64.8353,
+          "longitude": -147.7104
+        },
+        "url": "https://511.alaska.gov/map/Cctv/63_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Airport Way @ Cowles Street Fairbanks",
+          "direction": null,
+          "latitude": 64.836853,
+          "longitude": -147.739218
+        },
+        "url": "https://511.alaska.gov/map/Cctv/65_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Dot Lake MP 1355.2",
+          "direction": null,
+          "latitude": 63.59155,
+          "longitude": -143.9455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/25_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alaska Highway @ Canadian Border MP 1221.8",
+          "direction": null,
+          "latitude": 62.621359,
+          "longitude": -141.010619
+        },
+        "url": "https://511.alaska.gov/map/Cctv/37_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Old Richardson Highway",
+          "direction": null,
+          "latitude": 64.8105,
+          "longitude": -147.5728
+        },
+        "url": "https://511.alaska.gov/map/Cctv/64_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Old Richardson Highway",
+          "direction": null,
+          "latitude": 64.8105,
+          "longitude": -147.5728
+        },
+        "url": "https://511.alaska.gov/map/Cctv/64_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Old Richardson Highway",
+          "direction": null,
+          "latitude": 64.8105,
+          "longitude": -147.5728
+        },
+        "url": "https://511.alaska.gov/map/Cctv/64_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Old Richardson Highway",
+          "direction": null,
+          "latitude": 64.8105,
+          "longitude": -147.5728
+        },
+        "url": "https://511.alaska.gov/map/Cctv/64_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Old Richardson Highway",
+          "direction": null,
+          "latitude": 64.8105,
+          "longitude": -147.5728
+        },
+        "url": "https://511.alaska.gov/map/Cctv/64_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Old Richardson Highway",
+          "direction": null,
+          "latitude": 64.8105,
+          "longitude": -147.5728
+        },
+        "url": "https://511.alaska.gov/map/Cctv/64_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Old Richardson Highway",
+          "direction": null,
+          "latitude": 64.8105,
+          "longitude": -147.5728
+        },
+        "url": "https://511.alaska.gov/map/Cctv/64_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Elvira Avenue",
+          "direction": null,
+          "latitude": 64.770751,
+          "longitude": -147.349962
+        },
+        "url": "https://511.alaska.gov/map/Cctv/67_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Elvira Avenue",
+          "direction": null,
+          "latitude": 64.770751,
+          "longitude": -147.349962
+        },
+        "url": "https://511.alaska.gov/map/Cctv/67_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Elvira Avenue",
+          "direction": null,
+          "latitude": 64.770751,
+          "longitude": -147.349962
+        },
+        "url": "https://511.alaska.gov/map/Cctv/67_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Elvira Avenue",
+          "direction": null,
+          "latitude": 64.770751,
+          "longitude": -147.349962
+        },
+        "url": "https://511.alaska.gov/map/Cctv/67_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Elvira Avenue",
+          "direction": null,
+          "latitude": 64.770751,
+          "longitude": -147.349962
+        },
+        "url": "https://511.alaska.gov/map/Cctv/67_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Elvira Avenue",
+          "direction": null,
+          "latitude": 64.770751,
+          "longitude": -147.349962
+        },
+        "url": "https://511.alaska.gov/map/Cctv/67_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Badger Road @ Elvira Avenue",
+          "direction": null,
+          "latitude": 64.770751,
+          "longitude": -147.349962
+        },
+        "url": "https://511.alaska.gov/map/Cctv/67_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Road @ Whittier Tunnel",
+          "direction": null,
+          "latitude": 60.77614,
+          "longitude": -148.726101
+        },
+        "url": "https://511.alaska.gov/map/Cctv/52_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Egan Drive/Glacier Highway @ MP 3",
+          "direction": null,
+          "latitude": 58.320153,
+          "longitude": -134.454085
+        },
+        "url": "https://511.alaska.gov/map/Cctv/14_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fairbanks International Airport",
+          "direction": null,
+          "latitude": 64.8173,
+          "longitude": -147.8686
+        },
+        "url": "https://511.alaska.gov/map/Cctv/72_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glacier Highway @ Cohen Drive MP 21",
+          "direction": null,
+          "latitude": 58.449655,
+          "longitude": -134.770122
+        },
+        "url": "https://511.alaska.gov/map/Cctv/16_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Eagle River Bridge MP 12.8",
+          "direction": null,
+          "latitude": 61.3117,
+          "longitude": -149.576
+        },
+        "url": "https://511.alaska.gov/map/Cctv/03_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ S Curves  MP 10",
+          "direction": null,
+          "latitude": 61.27593,
+          "longitude": -149.632437
+        },
+        "url": "https://511.alaska.gov/map/Cctv/06_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ 2nd Knik River Bridge MP 31.1",
+          "direction": null,
+          "latitude": 61.4908,
+          "longitude": -149.2455
+        },
+        "url": "https://511.alaska.gov/map/Cctv/07_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Gunsight Mountain MP 117",
+          "direction": null,
+          "latitude": 61.82303,
+          "longitude": -147.425977
+        },
+        "url": "https://511.alaska.gov/map/Cctv/18_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 176.6",
+          "direction": null,
+          "latitude": 62.10634,
+          "longitude": -145.852834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/42_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Thunderbird Falls MP 24.5",
+          "direction": null,
+          "latitude": 61.438763,
+          "longitude": -149.396087
+        },
+        "url": "https://511.alaska.gov/map/Cctv/46_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Thunderbird Falls MP 24.5",
+          "direction": null,
+          "latitude": 61.438763,
+          "longitude": -149.396087
+        },
+        "url": "https://511.alaska.gov/map/Cctv/46_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Thunderbird Falls MP 24.5",
+          "direction": null,
+          "latitude": 61.438763,
+          "longitude": -149.396087
+        },
+        "url": "https://511.alaska.gov/map/Cctv/46_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Thunderbird Falls MP 24.5",
+          "direction": null,
+          "latitude": 61.438763,
+          "longitude": -149.396087
+        },
+        "url": "https://511.alaska.gov/map/Cctv/46_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Thunderbird Falls MP 24.5",
+          "direction": null,
+          "latitude": 61.438763,
+          "longitude": -149.396087
+        },
+        "url": "https://511.alaska.gov/map/Cctv/46_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Thunderbird Falls MP 24.5",
+          "direction": null,
+          "latitude": 61.438763,
+          "longitude": -149.396087
+        },
+        "url": "https://511.alaska.gov/map/Cctv/46_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 34.5",
+          "direction": null,
+          "latitude": 61.54686,
+          "longitude": -149.250609
+        },
+        "url": "https://511.alaska.gov/map/Cctv/53_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ MP 35.2",
+          "direction": null,
+          "latitude": 61.554022,
+          "longitude": -149.244717
+        },
+        "url": "https://511.alaska.gov/map/Cctv/55_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Bragaw",
+          "direction": null,
+          "latitude": 61.2193,
+          "longitude": -149.8151
+        },
+        "url": "https://511.alaska.gov/map/Cctv/58_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Bragaw",
+          "direction": null,
+          "latitude": 61.2193,
+          "longitude": -149.8151
+        },
+        "url": "https://511.alaska.gov/map/Cctv/58_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Highway @ Bragaw",
+          "direction": null,
+          "latitude": 61.2193,
+          "longitude": -149.8151
+        },
+        "url": "https://511.alaska.gov/map/Cctv/58_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Hwy & E Inner Springer lp/Jay St",
+          "direction": null,
+          "latitude": 61.585115,
+          "longitude": -149.130356
+        },
+        "url": "https://511.alaska.gov/map/Cctv/ozdwf2rklzh--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Hwy & Palmer Wasilla Hwy / Evergreen Rd",
+          "direction": null,
+          "latitude": 61.599429,
+          "longitude": -149.12246
+        },
+        "url": "https://511.alaska.gov/map/Cctv/h1vu5u0qixi--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenn Hwy & Arctic St",
+          "direction": null,
+          "latitude": 61.606666,
+          "longitude": -149.118472
+        },
+        "url": "https://511.alaska.gov/map/Cctv/zorwjbnfs52--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Chilkat River Bridge MP 23.8",
+          "direction": null,
+          "latitude": 59.413976,
+          "longitude": -135.93196
+        },
+        "url": "https://511.alaska.gov/map/Cctv/17_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Haines Highway @ Klehini MP 36.6",
+          "direction": null,
+          "latitude": 59.439289,
+          "longitude": -136.272708
+        },
+        "url": "https://511.alaska.gov/map/Cctv/30_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hillside Road @ Upper Huffman Road",
+          "direction": null,
+          "latitude": 61.107798,
+          "longitude": -149.744807
+        },
+        "url": "https://511.alaska.gov/map/Cctv/04_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hollis Highway",
+          "direction": null,
+          "latitude": 55.45805,
+          "longitude": -132.84125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/70_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kachemak Bay at end of Main St",
+          "direction": null,
+          "latitude": 59.63819,
+          "longitude": -151.544387
+        },
+        "url": "https://511.alaska.gov/map/Cctv/j5ll1bmif0s--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kenai Spur Hwy & Bridge Access",
+          "direction": null,
+          "latitude": 60.55732,
+          "longitude": -151.241596
+        },
+        "url": "https://511.alaska.gov/map/Cctv/205kbs1d1z5--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klawock Hwy @ Control Lake",
+          "direction": null,
+          "latitude": 55.694,
+          "longitude": -132.87799
+        },
+        "url": "https://511.alaska.gov/map/Cctv/69_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Klondike Highway @ US/Canadian Border MP 14.9",
+          "direction": null,
+          "latitude": 59.628724,
+          "longitude": -135.164067
+        },
+        "url": "https://511.alaska.gov/map/Cctv/32_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lathrop Street @ 21st Avenue Fairbanks",
+          "direction": null,
+          "latitude": 64.828286,
+          "longitude": -147.744991
+        },
+        "url": "https://511.alaska.gov/map/Cctv/66_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mendenhall Loop Road @ Goat Hill - bottom",
+          "direction": null,
+          "latitude": 58.394243,
+          "longitude": -134.623103
+        },
+        "url": "https://511.alaska.gov/map/Cctv/15_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mitkof Highway @ Blaquiere Point MP 33",
+          "direction": null,
+          "latitude": 56.585419,
+          "longitude": -132.54265
+        },
+        "url": "https://511.alaska.gov/map/Cctv/49_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mitkof Highway @ Blaquiere Point MP 33",
+          "direction": null,
+          "latitude": 56.585419,
+          "longitude": -132.54265
+        },
+        "url": "https://511.alaska.gov/map/Cctv/49_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mitkof Highway @ Banana Point 27.4",
+          "direction": null,
+          "latitude": 56.55018,
+          "longitude": -132.65496
+        },
+        "url": "https://511.alaska.gov/map/Cctv/50_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "North Douglas Highway MP 4.4",
+          "direction": null,
+          "latitude": 58.333031,
+          "longitude": -134.502251
+        },
+        "url": "https://511.alaska.gov/map/Cctv/34_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Palmer Wasilla Hwy & Trunk Rd",
+          "direction": null,
+          "latitude": 61.599396,
+          "longitude": -149.238058
+        },
+        "url": "https://511.alaska.gov/map/Cctv/quhznus0wbj--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Hwy & Main St",
+          "direction": null,
+          "latitude": 61.580906,
+          "longitude": -149.441483
+        },
+        "url": "https://511.alaska.gov/map/Cctv/oq0qklzzaxq--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Hwy & Palmer Wasilla Hwy",
+          "direction": null,
+          "latitude": 61.576942,
+          "longitude": -149.409608
+        },
+        "url": "https://511.alaska.gov/map/Cctv/ni3xljjihcx--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks / Glenn Hwy Interchange",
+          "direction": null,
+          "latitude": 61.553523,
+          "longitude": -149.247159
+        },
+        "url": "https://511.alaska.gov/map/Cctv/54_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Talkeetna Road MP 98.7",
+          "direction": null,
+          "latitude": 62.129099,
+          "longitude": -150.037939
+        },
+        "url": "https://511.alaska.gov/map/Cctv/09_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Little Coal Creek MP 163.2",
+          "direction": null,
+          "latitude": 62.889492,
+          "longitude": -149.768231
+        },
+        "url": "https://511.alaska.gov/map/Cctv/31_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Nenana Hills MP 325.4",
+          "direction": null,
+          "latitude": 64.707598,
+          "longitude": -148.631838
+        },
+        "url": "https://511.alaska.gov/map/Cctv/38_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Antler Creek MP 244",
+          "direction": null,
+          "latitude": 63.809683,
+          "longitude": -148.964518
+        },
+        "url": "https://511.alaska.gov/map/Cctv/39_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Rex Bridge MP 276",
+          "direction": null,
+          "latitude": 64.218261,
+          "longitude": -149.276766
+        },
+        "url": "https://511.alaska.gov/map/Cctv/41_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pasagshak Road Kodiak @ MP 3.8",
+          "direction": null,
+          "latitude": 57.530225,
+          "longitude": -152.459724
+        },
+        "url": "https://511.alaska.gov/map/Cctv/47_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Sheep Creek MP 18.6",
+          "direction": null,
+          "latitude": 61.110941,
+          "longitude": -145.812607
+        },
+        "url": "https://511.alaska.gov/map/Cctv/20_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Edgerton Highway MP 82.7",
+          "direction": null,
+          "latitude": 61.708652,
+          "longitude": -145.16183
+        },
+        "url": "https://511.alaska.gov/map/Cctv/21_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Birch Lake MP 307.2",
+          "direction": null,
+          "latitude": 64.315701,
+          "longitude": -146.69147
+        },
+        "url": "https://511.alaska.gov/map/Cctv/22_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Birch Lake MP 307.2",
+          "direction": null,
+          "latitude": 64.315701,
+          "longitude": -146.69147
+        },
+        "url": "https://511.alaska.gov/map/Cctv/22_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Birch Lake MP 307.2",
+          "direction": null,
+          "latitude": 64.315701,
+          "longitude": -146.69147
+        },
+        "url": "https://511.alaska.gov/map/Cctv/22_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Birch Lake MP 307.2",
+          "direction": null,
+          "latitude": 64.315701,
+          "longitude": -146.69147
+        },
+        "url": "https://511.alaska.gov/map/Cctv/22_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Trims DOT MS MP 218.2",
+          "direction": null,
+          "latitude": 63.415446,
+          "longitude": -145.748738
+        },
+        "url": "https://511.alaska.gov/map/Cctv/24_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Thompson Pass MP 25.7",
+          "direction": null,
+          "latitude": 61.128452,
+          "longitude": -145.73279
+        },
+        "url": "https://511.alaska.gov/map/Cctv/26_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Badger Interchange MP 358",
+          "direction": null,
+          "latitude": 64.8087,
+          "longitude": -147.5787
+        },
+        "url": "https://511.alaska.gov/map/Cctv/27_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Stuart Creek MP 45.7",
+          "direction": null,
+          "latitude": 61.260581,
+          "longitude": -145.283504
+        },
+        "url": "https://511.alaska.gov/map/Cctv/35_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Stuart Creek MP 45.7",
+          "direction": null,
+          "latitude": 61.260581,
+          "longitude": -145.283504
+        },
+        "url": "https://511.alaska.gov/map/Cctv/35_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Tenderfoot MP 292.6",
+          "direction": null,
+          "latitude": 64.28219,
+          "longitude": -146.276866
+        },
+        "url": "https://511.alaska.gov/map/Cctv/36_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Tenderfoot MP 292.6",
+          "direction": null,
+          "latitude": 64.28219,
+          "longitude": -146.276866
+        },
+        "url": "https://511.alaska.gov/map/Cctv/36_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Tenderfoot MP 292.6",
+          "direction": null,
+          "latitude": 64.28219,
+          "longitude": -146.276866
+        },
+        "url": "https://511.alaska.gov/map/Cctv/36_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Tenderfoot MP 292.6",
+          "direction": null,
+          "latitude": 64.28219,
+          "longitude": -146.276866
+        },
+        "url": "https://511.alaska.gov/map/Cctv/36_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Tenderfoot MP 292.6",
+          "direction": null,
+          "latitude": 64.28219,
+          "longitude": -146.276866
+        },
+        "url": "https://511.alaska.gov/map/Cctv/36_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Richardson Highway @ Keystone Canyon MP 12.3",
+          "direction": null,
+          "latitude": 61.059403,
+          "longitude": -145.934595
+        },
+        "url": "https://511.alaska.gov/map/Cctv/51_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Portage Glacier Road MP 78.9",
+          "direction": null,
+          "latitude": 60.818883,
+          "longitude": -148.975515
+        },
+        "url": "https://511.alaska.gov/map/Cctv/00_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Bird Point MP 96.3",
+          "direction": null,
+          "latitude": 60.929619,
+          "longitude": -149.346632
+        },
+        "url": "https://511.alaska.gov/map/Cctv/01_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Bird Point MP 96.3",
+          "direction": null,
+          "latitude": 60.929619,
+          "longitude": -149.346632
+        },
+        "url": "https://511.alaska.gov/map/Cctv/01_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Bird Point MP 96.3",
+          "direction": null,
+          "latitude": 60.929619,
+          "longitude": -149.346632
+        },
+        "url": "https://511.alaska.gov/map/Cctv/01_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Bird Point MP 96.3",
+          "direction": null,
+          "latitude": 60.929619,
+          "longitude": -149.346632
+        },
+        "url": "https://511.alaska.gov/map/Cctv/01_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Bird Point MP 96.3",
+          "direction": null,
+          "latitude": 60.929619,
+          "longitude": -149.346632
+        },
+        "url": "https://511.alaska.gov/map/Cctv/01_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Bird Point MP 96.3",
+          "direction": null,
+          "latitude": 60.929619,
+          "longitude": -149.346632
+        },
+        "url": "https://511.alaska.gov/map/Cctv/01_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Bird Point MP 96.3",
+          "direction": null,
+          "latitude": 60.929619,
+          "longitude": -149.346632
+        },
+        "url": "https://511.alaska.gov/map/Cctv/01_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ McHugh Creek MP 111.8",
+          "direction": null,
+          "latitude": 61.015621,
+          "longitude": -149.729834
+        },
+        "url": "https://511.alaska.gov/map/Cctv/05_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Summit Lake MP 45.8",
+          "direction": null,
+          "latitude": 60.640439,
+          "longitude": -149.500788
+        },
+        "url": "https://511.alaska.gov/map/Cctv/11_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Turnagain Pass MP 69.9",
+          "direction": null,
+          "latitude": 60.804228,
+          "longitude": -149.18476
+        },
+        "url": "https://511.alaska.gov/map/Cctv/43_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Divide MP12",
+          "direction": null,
+          "latitude": 60.25128,
+          "longitude": -149.35293
+        },
+        "url": "https://511.alaska.gov/map/Cctv/44_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Potter Marsh MP 117.3",
+          "direction": null,
+          "latitude": 61.076423,
+          "longitude": -149.829526
+        },
+        "url": "https://511.alaska.gov/map/Cctv/57_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Potter Marsh MP 117.3",
+          "direction": null,
+          "latitude": 61.076423,
+          "longitude": -149.829526
+        },
+        "url": "https://511.alaska.gov/map/Cctv/57_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seward Highway @ Potter Marsh MP 117.3",
+          "direction": null,
+          "latitude": 61.076423,
+          "longitude": -149.829526
+        },
+        "url": "https://511.alaska.gov/map/Cctv/57_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Steese Highway @ Cleary Summit MP 20.9",
+          "direction": null,
+          "latitude": 65.046871,
+          "longitude": -147.437112
+        },
+        "url": "https://511.alaska.gov/map/Cctv/29_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ DOT Soldotna MS - MP 97.8",
+          "direction": null,
+          "latitude": 60.45548,
+          "longitude": -151.10021
+        },
+        "url": "https://511.alaska.gov/map/Cctv/10_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Russian River Ferry MP 54.8",
+          "direction": null,
+          "latitude": 60.487019,
+          "longitude": -150.002009
+        },
+        "url": "https://511.alaska.gov/map/Cctv/12_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Ninilchik River Bridge MP 135.2",
+          "direction": null,
+          "latitude": 60.047761,
+          "longitude": -151.658884
+        },
+        "url": "https://511.alaska.gov/map/Cctv/13_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Tern Lake MP 37",
+          "direction": null,
+          "latitude": 60.533264,
+          "longitude": -149.554167
+        },
+        "url": "https://511.alaska.gov/map/Cctv/45_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Highway @ Jean Lake Hill MP 62.2",
+          "direction": null,
+          "latitude": 60.523121,
+          "longitude": -150.208952
+        },
+        "url": "https://511.alaska.gov/map/Cctv/48_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Hwy & Kalifornsky Beach Rd",
+          "direction": null,
+          "latitude": 60.474899,
+          "longitude": -151.084417
+        },
+        "url": "https://511.alaska.gov/map/Cctv/jfkhhwmdao4--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Hwy & Binkley St",
+          "direction": null,
+          "latitude": 60.48259,
+          "longitude": -151.070816
+        },
+        "url": "https://511.alaska.gov/map/Cctv/lowlmobam2v--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Hwy & Kenai Spur Hwy",
+          "direction": null,
+          "latitude": 60.486456,
+          "longitude": -151.057212
+        },
+        "url": "https://511.alaska.gov/map/Cctv/5ff1fqdw2s5--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Hwy & Lake St",
+          "direction": null,
+          "latitude": 59.642368,
+          "longitude": -151.524764
+        },
+        "url": "https://511.alaska.gov/map/Cctv/jzqokdxvcdy--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 1.9",
+          "direction": null,
+          "latitude": 58.2828,
+          "longitude": -134.3748
+        },
+        "url": "https://511.alaska.gov/map/Cctv/59_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Snowslide Creek Avalanche Path MP 2.2",
+          "direction": null,
+          "latitude": 58.2812,
+          "longitude": -134.369739
+        },
+        "url": "https://511.alaska.gov/map/Cctv/60_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Middle Pass MP 2.5",
+          "direction": null,
+          "latitude": 58.279335,
+          "longitude": -134.363908
+        },
+        "url": "https://511.alaska.gov/map/Cctv/61_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thane Road @ Cross Bay MP 3.0",
+          "direction": null,
+          "latitude": 58.27399,
+          "longitude": -134.353261
+        },
+        "url": "https://511.alaska.gov/map/Cctv/62_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tok Cutoff @ Mentasta Pass MP 79.2",
+          "direction": null,
+          "latitude": 62.902909,
+          "longitude": -143.669369
+        },
+        "url": "https://511.alaska.gov/map/Cctv/23_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "University Avenue Fairbanks @ Chena River Bridge",
+          "direction": null,
+          "latitude": 64.8415,
+          "longitude": -147.8125
+        },
+        "url": "https://511.alaska.gov/map/Cctv/28_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_01--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_02--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_03--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_04--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_05--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_06--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whittier Access Road @ Tunnel MP 6.5 (Bear Valley)",
+          "direction": null,
+          "latitude": 60.790241,
+          "longitude": -148.81304
+        },
+        "url": "https://511.alaska.gov/map/Cctv/33_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Kenai Peninsula Borough": [
+      {
+        "location": {
+          "description": "Kenai Spur Hwy & Willow St",
+          "direction": null,
+          "latitude": 60.554928,
+          "longitude": -151.251108
+        },
+        "url": "https://511.alaska.gov/map/Cctv/imnqzgor1oo--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling Hwy & Main St",
+          "direction": null,
+          "latitude": 59.641436,
+          "longitude": -151.544286
+        },
+        "url": "https://511.alaska.gov/map/Cctv/ckhqo5ggt0v--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Anchorage Municipality": [
+      {
+        "location": {
+          "description": "Parks Hwy & Crusey St",
+          "direction": null,
+          "latitude": 61.580561,
+          "longitude": -149.429696
+        },
+        "url": "https://511.alaska.gov/map/Cctv/mk2bn53xxau--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Hwy & Hermon Rd",
+          "direction": null,
+          "latitude": 61.57217,
+          "longitude": -149.39016
+        },
+        "url": "https://511.alaska.gov/map/Cctv/hl2hpbwdx2d--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Matanuska-Susitna Borough": [
+      {
+        "location": {
+          "description": "Parks Hwy & Church St/S Mack Dr",
+          "direction": null,
+          "latitude": 61.579084,
+          "longitude": -149.511342
+        },
+        "url": "https://511.alaska.gov/map/Cctv/q5lqrl02utl--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ],
+    "Juneau City And Borough": [
+      {
+        "location": {
+          "description": "Parks Highway @ Hawk Lane MP 53.2",
+          "direction": null,
+          "latitude": 61.585003,
+          "longitude": -149.745264
+        },
+        "url": "https://511.alaska.gov/map/Cctv/08_00--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parks Highway @ Hawk Lane MP 53.2",
+          "direction": null,
+          "latitude": 61.585003,
+          "longitude": -149.745264
+        },
+        "url": "https://511.alaska.gov/map/Cctv/08_07--1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ]
   }
 }
