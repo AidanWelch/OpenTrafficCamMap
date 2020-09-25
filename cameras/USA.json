@@ -59582,7 +59582,7 @@
           "description": "VA-168 & Stateline",
           "direction": "North",
           "latitude": 36.3675,
-          "longitude": 76.192805
+          "longitude": -76.192805
         },
         "url": "http://s11.us-east-1.skyvdn.com:1935/rtplive/chesapeakestream021/playlist.m3u8",
         "encoding": "H.264",
