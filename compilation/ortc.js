@@ -18,8 +18,8 @@ class Camera {
     constructor (cam) {
         this.location = {
             description: cam.attributes.title,
-            longitude: cam.geometry.x/100000,
-            latitude: cam.geometry.y/100000
+            longitude: cam.attributes.longitude,
+            latitude: cam.attributes.latitude
         }
         this.url = `https://tripcheck.com/RoadCams/cams/${cam.attributes.filename}`;
         this.encoding = "JPEG";
@@ -29,6 +29,7 @@ class Camera {
 }
 
 function Compile(data){
+    cameras.Oregon = {};
     if(!cameras.Oregon){
         cameras.Oregon = {};
     }
