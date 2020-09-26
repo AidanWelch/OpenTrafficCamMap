@@ -14,7 +14,7 @@ console.log(count);
 var readme = fs.readFileSync('../../README.md', 'utf8');
 
 readme = readme.split('\n');
-readme[1] = `A crowdsourced database of ${count} traffic cameras`;
+readme[1] = `A crowdsourced database of ${count} traffic cameras.`;
 readme = readme.join('\n');
 
 fs.writeFileSync('../../README.md', readme);
