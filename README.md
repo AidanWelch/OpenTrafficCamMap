@@ -1,5 +1,6 @@
 # OpenTrafficCam
 A crowdsourced database of 7256 traffic cameras
+
 [Checkout the interactive map!](https://aidanwelch.github.io/OpenTrafficCam/map)
 
 ## Camera list
