@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>OpenTrafficCam Map</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+        <style>
+            body {
+                padding: 0;
+                margin: 0;
+            }
+            html, body, #map {
+                height: 100%;
+                width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+        <script src="https://leafletjs.com/examples/choropleth/us-states.js"></script>
+        <script>
+            var map = L.map('map').setView([39, -100], 4);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            fetch('https://raw.githubusercontent.com/AidanWelch/OpenTrafficCam/master/cameras/USA.json').then((response) => {return response.json();}).then((data) => {
+                cameras = data;
+            });
+
+            var cameras;
+
+            fetch('https://raw.githubusercontent.com/AidanWelch/OpenTrafficCam/master/cameras/USA.json').then((response) => {return response.json();}).then((data) => {
+                cameras = data;
+                DrawHeatMap();
+            });
+
+            function DrawHeatMap(){
+                var counts = new Map();
+                var highest_count = 0;
+                for(var state in cameras){
+                    let count = 0;
+                    for(var county in cameras[state]){
+                        for(var camera in cameras[state][county]){
+                            count++;
+                        }
+                    }
+                    highest_count = (count > highest_count) ? count : highest_count;
+                    counts.set(state, count);
+                }
+                function getColor(state){
+                    var color = 0
+                    if(counts.has(state)){
+                        color = Math.floor((counts.get(state)/highest_count)*155) + 100;
+                    }
+                    return `#${color.toString(16)}0000`;
+                }
+                function style(feature){
+                    return {
+                        fillColor: getColor(feature.properties.name),
+                        weight: 2,
+                        opacity: 1,
+                        color: 'white',
+                        dashArray: '3',
+                        fillOpacity: 0.7
+                    };
+                }
+
+                function highlightFeature(e) {
+                    var layer = e.target;
+
+                    layer.setStyle({
+                        weight: 5,
+                        color: '#666',
+                        dashArray: '',
+                        fillOpacity: 0.7
+                    });
+
+                    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                        layer.bringToFront();
+                    }
+                }
+
+                function resetHighlight(e) {
+                    geojson.resetStyle(e.target);
+                }
+
+                var camera_layer;
+                function onClick(e) {
+                    (camera_layer) ? map.removeLayer(camera_layer) : null;
+                    camera_layer = L.layerGroup(DrawCams(e.target.feature.properties.name));
+                    map.addLayer(camera_layer);
+                }
+                
+                function listener(feature, layer) {
+                    layer.on({
+                        mouseover: highlightFeature,
+                        mouseout: resetHighlight,
+                        click: onClick
+                    });
+                }
+                
+                var geojson = L.geoJson(statesData, {style: style, onEachFeature: listener}).addTo(map);
+            }
+
+            function DrawCams(state){
+                var layer = [];
+                for(var county in cameras[state]){
+                    for(var i in cameras[state][county]){
+                        let cam = cameras[state][county][i];
+                        if(cam.location.latitude && cam.location.longitude){
+                            layer.push(
+                                L.marker([cam.location.latitude, cam.location.longitude])
+                                    .bindPopup(cam.location.description)
+                                    .openPopup()
+                            );
+                        }
+                    }
+                }
+                return layer;
+            }
+
+        </script>
+    </body>
+</html>
