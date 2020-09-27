@@ -4,6 +4,7 @@
         <title>OpenTrafficCam Map</title>
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
         <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+        <script src="https://hls-js.netlify.app/dist/hls.js"></script>
         <style>
             body {
                 padding: 0;
@@ -34,6 +35,11 @@
                 cameras = data;
                 DrawHeatMap();
             });
+
+            var hls;
+            if(Hls.isSupported()){
+                hls = new Hls();
+            }
 
             function DrawHeatMap(){
                 var counts = new Map();
@@ -111,11 +117,25 @@
                         if(cam.location.latitude && cam.location.longitude){
                             layer.push(
                                 L.marker([cam.location.latitude, cam.location.longitude])
-                                    .bindPopup(cam.location.description + `\n${
-                                        (cam.format === "IMAGE_STREAM") ?
-                                            `<img`:
-                                            `<video type="application/x-mpegURL"`
-                                    } width="320" height="240" src="${cam.url}" alt="Camera Stream">`)
+                                    .bindPopup(cam.location.description + '\n' + (() => {
+                                        if(cam.format === "IMAGE_STREAM"){
+                                            return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
+                                        } else if (cam.format === "M3U8"){
+                                            return (`
+                                                <video id="video" width="320" height="240"></video>
+                                                <script>
+                                                    var video = document.getElementById('video');
+                                                    hls.loadSource(${cam.url});
+                                                    hls.attachMedia(video);
+                                                    hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                                                        video.play();
+                                                    });
+                                                </script>
+                                            `);
+                                        } else {
+                                            return "An error has occurred";
+                                        }
+                                    })())
                                     .openPopup()
                             );
                         }
