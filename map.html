@@ -114,7 +114,7 @@
                                     .bindPopup(cam.location.description + `\n${
                                         (cam.format === "IMAGE_STREAM") ?
                                             `<img`:
-                                            `<video type="application/x-mpegURL"`
+                                            `<video type="application/x-mpegURL" autoplay="autoplay"`
                                     } width="320" height="240" src="${cam.url}" alt="Camera Stream">`)
                                     .openPopup()
                             );
