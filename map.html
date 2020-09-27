@@ -111,7 +111,11 @@
                         if(cam.location.latitude && cam.location.longitude){
                             layer.push(
                                 L.marker([cam.location.latitude, cam.location.longitude])
-                                    .bindPopup(cam.location.description + "\nLink: " + cam.url)
+                                    .bindPopup(cam.location.description + `\n${
+                                        (cam.format === "IMAGE_STREAM") ?
+                                            `<img`:
+                                            `<video type="application/x-mpegURL"`
+                                    } width="320" height="240" src="${cam.url}" alt="Camera Stream">`)
                                     .openPopup()
                             );
                         }
