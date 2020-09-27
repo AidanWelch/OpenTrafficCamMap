@@ -111,7 +111,7 @@
                         if(cam.location.latitude && cam.location.longitude){
                             layer.push(
                                 L.marker([cam.location.latitude, cam.location.longitude])
-                                    .bindPopup(cam.location.description)
+                                    .bindPopup(cam.location.description + "\nLink: " + cam.url)
                                     .openPopup()
                             );
                         }
