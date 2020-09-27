@@ -117,6 +117,7 @@
                         if(cam.location.latitude && cam.location.longitude){
                             layer.push(
                                 L.marker([cam.location.latitude, cam.location.longitude])
+<<<<<<< HEAD
                                     .bindPopup(cam.location.description + '\n' + (() => {
                                         if(cam.format === "IMAGE_STREAM"){
                                             return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
@@ -136,6 +137,13 @@
                                             return "An error has occurred";
                                         }
                                     })())
+=======
+                                    .bindPopup(cam.location.description + `\n${
+                                        (cam.format === "IMAGE_STREAM") ?
+                                            `<img`:
+                                            `<video type="application/x-mpegURL" autoplay="autoplay"`
+                                    } width="320" height="240" src="${cam.url}" alt="Camera Stream">`)
+>>>>>>> 0c05562ec4dce2c1485f60b91a4563c82f398835
                                     .openPopup()
                             );
                         }
