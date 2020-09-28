@@ -1,7 +1,7 @@
 # OpenTrafficCam
 A crowdsourced database of 7256 traffic cameras.
 
-[Checkout the interactive map!](https://aidanwelch.github.io/OpenTrafficCam/map)
+[Checkout the interactive map!](http://otc.armchairresearch.org/map)
 
 ## Camera list
 Cameras will be stored in cameras/[Alpha-3 Country Code].json with the following schema.  All information in brackets should be the relevant input.
