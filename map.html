@@ -4,7 +4,8 @@
         <title>OpenTrafficCam Map</title>
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
         <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-        <script src="https://hls-js.netlify.app/dist/hls.js"></script>
+        <script src="https://leafletjs.com/examples/choropleth/us-states.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
         <style>
             body {
                 padding: 0;
@@ -18,7 +19,6 @@
     </head>
     <body>
         <div id="map"></div>
-        <script src="https://leafletjs.com/examples/choropleth/us-states.js"></script>
         <script>
             var map = L.map('map').setView([39, -100], 4);
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -37,9 +37,6 @@
             });
 
             var hls;
-            if(Hls.isSupported()){
-                hls = new Hls();
-            }
 
             function DrawHeatMap(){
                 var counts = new Map();
@@ -109,35 +106,50 @@
                 var geojson = L.geoJson(statesData, {style: style, onEachFeature: listener}).addTo(map);
             }
 
+            map.on('popupopen', (e) => {
+                if(e.popup._source._url){
+                    hls = new Hls();
+                    let video = document.getElementById('video');
+                    hls.loadSource(e.popup._source._url);
+                    hls.attachMedia(video);
+                }
+            });
+
+            map.on('popupclose', (e) => {
+                if(e.popup._source._url){
+                    let video = document.getElementById('video');
+                    hls.detachMedia();
+                    hls.destroy();
+                    video.remove();
+                }
+            });
+
+
             function DrawCams(state){
                 var layer = [];
                 for(var county in cameras[state]){
                     for(var i in cameras[state][county]){
                         let cam = cameras[state][county][i];
                         if(cam.location.latitude && cam.location.longitude){
-                            layer.push(
-                                L.marker([cam.location.latitude, cam.location.longitude])
-                                    .bindPopup(cam.location.description + '\n' + (() => {
+                            let m = L.marker([cam.location.latitude, cam.location.longitude])
+                                .bindPopup(cam.location.description + '\n' + (() => {
+                                    if(cam.url){
                                         if(cam.format === "IMAGE_STREAM"){
                                             return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
                                         } else if (cam.format === "M3U8"){
-                                            return (`
-                                                <video id="video" width="320" height="240"></video>
-                                                <script>
-                                                    var video = document.getElementById('video');
-                                                    hls.loadSource(${cam.url});
-                                                    hls.attachMedia(video);
-                                                    hls.on(Hls.Events.MANIFEST_PARSED, () => {
-                                                        video.play();
-                                                    });
-                                                <\/script>
-                                            `);
+                                            return '<video id="video" width="320" height="240" autoplay muted></video>';
                                         } else {
                                             return "An error has occurred";
                                         }
-                                    })())
-                                    .openPopup()
-                            );
+                                    } else {
+                                        return "No Image";
+                                    }
+                                })())
+                                .openPopup();
+                            if(cam.format === "M3U8"){
+                                m._url = cam.url
+                            }
+                            layer.push(m);
                         }
                     }
                 }
