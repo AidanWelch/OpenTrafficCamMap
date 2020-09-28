@@ -16,6 +16,12 @@
                 width: 100%;
             }
         </style>
+        <script>
+            if(location.protocol !== 'http:') {
+                alert("It seems you are attempting to force SSL/TLS.  HTTPS is not used for this site because it can cause issues with some of the traffic camera \
+                providers.  Until they all support HTTPS we won't be able to.  You can continue, but some streams may not work properly.");
+            }
+        </script>
     </head>
     <body>
         <div id="map"></div>
