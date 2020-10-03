@@ -1,0 +1,14 @@
+{
+  "name": "nvrd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nvrd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidan Welch",
+  "license": "ISC",
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}
