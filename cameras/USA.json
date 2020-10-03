@@ -104587,5 +104587,5481 @@
         "url": "http://cwwp2.dot.ca.gov/data/d12/cctv/image/12-405-CCTV-0224.jpg"
       }
     ]
+  },
+  "Arizona": {
+    "other": [
+      {
+        "location": {
+          "description": "I-10 WB 364.78",
+          "direction": "Westbound",
+          "latitude": 32.317439543,
+          "longitude": -109.48446655
+        },
+        "url": "https://az511.gov/map/Cctv/11661.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 364.78",
+          "direction": "Eastbound",
+          "latitude": 32.317439543,
+          "longitude": -109.48446655
+        },
+        "url": "https://az511.gov/map/Cctv/11661.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 380.35",
+          "direction": "Westbound",
+          "latitude": 32.263367273,
+          "longitude": -109.228124696
+        },
+        "url": "https://az511.gov/map/Cctv/11662.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 380.35",
+          "direction": "Eastbound",
+          "latitude": 32.263367273,
+          "longitude": -109.228124696
+        },
+        "url": "https://az511.gov/map/Cctv/11662.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 260.10 @I-19",
+          "direction": "Westbound",
+          "latitude": 32.1941850420001,
+          "longitude": -110.975993848
+        },
+        "url": "https://az511.gov/map/Cctv/4000--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 259.40 @22nd St",
+          "direction": "Westbound",
+          "latitude": 32.2064570910001,
+          "longitude": -110.9798498
+        },
+        "url": "https://az511.gov/map/Cctv/4001--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 258.40 @Congress",
+          "direction": "Westbound",
+          "latitude": 32.2206333780001,
+          "longitude": -110.980280975
+        },
+        "url": "https://az511.gov/map/Cctv/4002--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 257.40 @Speedway",
+          "direction": "Eastbound",
+          "latitude": 32.2360183750001,
+          "longitude": -110.984391307
+        },
+        "url": "https://az511.gov/map/Cctv/4003--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 256.20 @Grant",
+          "direction": "Eastbound",
+          "latitude": 32.2500507680001,
+          "longitude": -110.992492495
+        },
+        "url": "https://az511.gov/map/Cctv/4004--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 255.20 @Miracle Mile",
+          "direction": "Eastbound",
+          "latitude": 32.260276666,
+          "longitude": -111.003556389
+        },
+        "url": "https://az511.gov/map/Cctv/4005--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 254.63 @S of Prince",
+          "direction": "Westbound",
+          "latitude": 32.268856274,
+          "longitude": -111.00771676
+        },
+        "url": "https://az511.gov/map/Cctv/4006--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 253.48 @N of Prince",
+          "direction": "Westbound",
+          "latitude": 32.2821739340001,
+          "longitude": -111.018847007
+        },
+        "url": "https://az511.gov/map/Cctv/4007--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 252.60 @Ruthrauff",
+          "direction": "Westbound",
+          "latitude": 32.2938499690001,
+          "longitude": -111.029030249
+        },
+        "url": "https://az511.gov/map/Cctv/4008--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 251.20 @Sunset",
+          "direction": "Westbound",
+          "latitude": 32.3095436900001,
+          "longitude": -111.041924915
+        },
+        "url": "https://az511.gov/map/Cctv/4009--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 250.00 @Orange Grove",
+          "direction": "Westbound",
+          "latitude": 32.323266115,
+          "longitude": -111.051347546
+        },
+        "url": "https://az511.gov/map/Cctv/4010--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 248.70 @Ina",
+          "direction": "Westbound",
+          "latitude": 32.337249657,
+          "longitude": -111.065908859
+        },
+        "url": "https://az511.gov/map/Cctv/4011--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10  EB 260.97 @6th Ave",
+          "direction": " EB",
+          "latitude": 32.1867387120001,
+          "longitude": -110.968562573
+        },
+        "url": "https://az511.gov/map/Cctv/4019--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 261.36 @E of 6th Ave",
+          "direction": "Westbound",
+          "latitude": 32.1857367920001,
+          "longitude": -110.96188175
+        },
+        "url": "https://az511.gov/map/Cctv/4020--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 261.75 @Park",
+          "direction": "Westbound",
+          "latitude": 32.183763605,
+          "longitude": -110.955732438
+        },
+        "url": "https://az511.gov/map/Cctv/4021--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 262.56 @Kino",
+          "direction": "Westbound",
+          "latitude": 32.1773247720001,
+          "longitude": -110.944053492
+        },
+        "url": "https://az511.gov/map/Cctv/4022--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 263.80 @Country Club",
+          "direction": "Westbound",
+          "latitude": 32.1674640030001,
+          "longitude": -110.926599132
+        },
+        "url": "https://az511.gov/map/Cctv/4023--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 264.46 @Palo Verde",
+          "direction": "Westbound",
+          "latitude": 32.162253402,
+          "longitude": -110.917265592
+        },
+        "url": "https://az511.gov/map/Cctv/4024--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 265.08 @Alvernon",
+          "direction": "Eastbound",
+          "latitude": 32.156980936,
+          "longitude": -110.908856772
+        },
+        "url": "https://az511.gov/map/Cctv/4025--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 265.97 @Drexel",
+          "direction": "Westbound",
+          "latitude": 32.149093957,
+          "longitude": -110.895983515
+        },
+        "url": "https://az511.gov/map/Cctv/4026--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 267.10 @Valencia",
+          "direction": "Eastbound",
+          "latitude": 32.134640587,
+          "longitude": -110.88805042
+        },
+        "url": "https://az511.gov/map/Cctv/4027--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 254.35 @Prince",
+          "direction": "Eastbound",
+          "latitude": 32.271503481,
+          "longitude": -111.010886062
+        },
+        "url": "https://az511.gov/map/Cctv/4028--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 347.90 @Willcox",
+          "direction": "Eastbound",
+          "latitude": 32.340982641,
+          "longitude": -109.75541223
+        },
+        "url": "https://az511.gov/map/Cctv/4035--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 195.60 @Casa Grande",
+          "direction": "Westbound",
+          "latitude": 32.8704274300001,
+          "longitude": -111.68815193
+        },
+        "url": "https://az511.gov/map/Cctv/4045--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 195.60 @Casa Grande",
+          "direction": "Eastbound",
+          "latitude": 32.8704274300001,
+          "longitude": -111.688253968
+        },
+        "url": "https://az511.gov/map/Cctv/4046--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 249.00 @E of Ina",
+          "direction": "Westbound",
+          "latitude": 32.332810867,
+          "longitude": -111.06015612
+        },
+        "url": "https://az511.gov/map/Cctv/4058--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 141.33 @W of 35th Ave",
+          "direction": "Westbound",
+          "latitude": 33.4625436740001,
+          "longitude": -112.139753453
+        },
+        "url": "https://az511.gov/map/Cctv/4060--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 141.92 @E of 35th Ave",
+          "direction": "Westbound",
+          "latitude": 33.46296174,
+          "longitude": -112.13027357
+        },
+        "url": "https://az511.gov/map/Cctv/4061--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 144.58 @W of 7th Ave",
+          "direction": "Westbound",
+          "latitude": 33.4613433660001,
+          "longitude": -112.084160286
+        },
+        "url": "https://az511.gov/map/Cctv/4062--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 159.77 @Ray",
+          "direction": "Eastbound",
+          "latitude": 33.3196629380001,
+          "longitude": -111.972704627
+        },
+        "url": "https://az511.gov/map/Cctv/4068--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 160.73 @Chandler",
+          "direction": "Westbound",
+          "latitude": 33.3048233800001,
+          "longitude": -111.971914018
+        },
+        "url": "https://az511.gov/map/Cctv/4069--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 M 161.35 @L-202",
+          "direction": "M",
+          "latitude": 33.2963013990001,
+          "longitude": -111.972181599
+        },
+        "url": "https://az511.gov/map/Cctv/4070--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 162.59 @Wild Horse",
+          "direction": "Eastbound",
+          "latitude": 33.279054247,
+          "longitude": -111.967068639
+        },
+        "url": "https://az511.gov/map/Cctv/4071--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 163.44 @W of Queen Creek",
+          "direction": "Eastbound",
+          "latitude": 33.2686455320001,
+          "longitude": -111.95888468
+        },
+        "url": "https://az511.gov/map/Cctv/4072--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 163.67 @E of Wild Horse",
+          "direction": "Westbound",
+          "latitude": 33.2659893330001,
+          "longitude": -111.955795908
+        },
+        "url": "https://az511.gov/map/Cctv/4073--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 M 136.18 @E of 83rd Ave",
+          "direction": "M",
+          "latitude": 33.462489831,
+          "longitude": -112.229292213
+        },
+        "url": "https://az511.gov/map/Cctv/4142--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 138.14 @E of 67th Ave",
+          "direction": "Eastbound",
+          "latitude": 33.4622460300001,
+          "longitude": -112.1952825
+        },
+        "url": "https://az511.gov/map/Cctv/4143--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 137.24 @E of 75th Ave",
+          "direction": "Eastbound",
+          "latitude": 33.462304062,
+          "longitude": -112.210948683
+        },
+        "url": "https://az511.gov/map/Cctv/4144--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 141.17 @E of 43rd Ave",
+          "direction": "Eastbound",
+          "latitude": 33.461428584,
+          "longitude": -112.143271799
+        },
+        "url": "https://az511.gov/map/Cctv/4145--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 142.16 @E of 35th Ave",
+          "direction": "Eastbound",
+          "latitude": 33.4616245350001,
+          "longitude": -112.126058469
+        },
+        "url": "https://az511.gov/map/Cctv/4146--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 M 142.84 @E of 27th Ave",
+          "direction": "M",
+          "latitude": 33.4618825380001,
+          "longitude": -112.114460147
+        },
+        "url": "https://az511.gov/map/Cctv/4147--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 M 143.73 @19th Ave",
+          "direction": "M",
+          "latitude": 33.461802171,
+          "longitude": -112.099220629
+        },
+        "url": "https://az511.gov/map/Cctv/4149--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 144.44 @W of 7th Ave",
+          "direction": "Eastbound",
+          "latitude": 33.4606384310001,
+          "longitude": -112.086049853
+        },
+        "url": "https://az511.gov/map/Cctv/4150--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 M 145.67 @7th St",
+          "direction": "M",
+          "latitude": 33.4624245700001,
+          "longitude": -112.065420641
+        },
+        "url": "https://az511.gov/map/Cctv/4151--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 146.40 @W of 16th St",
+          "direction": "Westbound",
+          "latitude": 33.4624826100001,
+          "longitude": -112.052878096
+        },
+        "url": "https://az511.gov/map/Cctv/4152--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 M 147.26 @Mini-Stack N",
+          "direction": "M",
+          "latitude": 33.4616362140001,
+          "longitude": -112.037577801
+        },
+        "url": "https://az511.gov/map/Cctv/4153--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 147.91 @Van Buren",
+          "direction": "Westbound",
+          "latitude": 33.4518318570001,
+          "longitude": -112.036878936
+        },
+        "url": "https://az511.gov/map/Cctv/4154--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 154.60 @Southern",
+          "direction": "Westbound",
+          "latitude": 33.3990338990001,
+          "longitude": -111.967154988
+        },
+        "url": "https://az511.gov/map/Cctv/4177--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 155.55 @E of US-60",
+          "direction": "Eastbound",
+          "latitude": 33.3851748980001,
+          "longitude": -111.968294032
+        },
+        "url": "https://az511.gov/map/Cctv/4178--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 156.41 @E of Baseline",
+          "direction": "Westbound",
+          "latitude": 33.3725451330001,
+          "longitude": -111.96771395
+        },
+        "url": "https://az511.gov/map/Cctv/4179--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 157.20 @W of Elliot",
+          "direction": "Eastbound",
+          "latitude": 33.357912077,
+          "longitude": -111.970385903
+        },
+        "url": "https://az511.gov/map/Cctv/4180--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 158.32 @W of Warner",
+          "direction": "Eastbound",
+          "latitude": 33.341416048,
+          "longitude": -111.972607147
+        },
+        "url": "https://az511.gov/map/Cctv/4181--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 159.34 @W of Ray",
+          "direction": "Eastbound",
+          "latitude": 33.32616906,
+          "longitude": -111.972642005
+        },
+        "url": "https://az511.gov/map/Cctv/4182--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 160.12 @W of Chandler",
+          "direction": "Eastbound",
+          "latitude": 33.3121170530001,
+          "longitude": -111.972670712
+        },
+        "url": "https://az511.gov/map/Cctv/4183--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 150.69 @Salt River Bridge",
+          "direction": "Eastbound",
+          "latitude": 33.420473789,
+          "longitude": -112.019899276
+        },
+        "url": "https://az511.gov/map/Cctv/4212--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 151.75 @E of 32nd St",
+          "direction": "Westbound",
+          "latitude": 33.4112241510001,
+          "longitude": -112.005570602
+        },
+        "url": "https://az511.gov/map/Cctv/4213--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 152.73 @E of 40th St",
+          "direction": "Westbound",
+          "latitude": 33.411301392,
+          "longitude": -111.986323743
+        },
+        "url": "https://az511.gov/map/Cctv/4214--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 153.54 @48th St/SR-143",
+          "direction": "Westbound",
+          "latitude": 33.411239193,
+          "longitude": -111.977535698
+        },
+        "url": "https://az511.gov/map/Cctv/4215--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 145.37 @Tunnel",
+          "direction": "Westbound",
+          "latitude": 33.4623564010001,
+          "longitude": -112.070627913
+        },
+        "url": "https://az511.gov/map/Cctv/4238--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 145.23 @Tunnel",
+          "direction": "Westbound",
+          "latitude": 33.4618921150001,
+          "longitude": -112.072939122
+        },
+        "url": "https://az511.gov/map/Cctv/4239--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 145.08 @Tunnel",
+          "direction": "Westbound",
+          "latitude": 33.4617736960001,
+          "longitude": -112.075361028
+        },
+        "url": "https://az511.gov/map/Cctv/4240--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 144.95 @Tunnel",
+          "direction": "Westbound",
+          "latitude": 33.461793674,
+          "longitude": -112.077755665
+        },
+        "url": "https://az511.gov/map/Cctv/4241--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB  144.95 @Tunnel",
+          "direction": "EB ",
+          "latitude": 33.461493874,
+          "longitude": -112.07767255
+        },
+        "url": "https://az511.gov/map/Cctv/4242--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB  145.08 @Tunnel",
+          "direction": "EB ",
+          "latitude": 33.461496891,
+          "longitude": -112.075333004
+        },
+        "url": "https://az511.gov/map/Cctv/4243--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB  145.23 @Tunnel",
+          "direction": "EB ",
+          "latitude": 33.461569211,
+          "longitude": -112.072883502
+        },
+        "url": "https://az511.gov/map/Cctv/4244--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB  145.37 @Tunnel",
+          "direction": "EB ",
+          "latitude": 33.462079675,
+          "longitude": -112.07054485
+        },
+        "url": "https://az511.gov/map/Cctv/4245--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 147.45 @Mini-Stack--@ S",
+          "direction": "Eastbound",
+          "latitude": 33.4582308330001,
+          "longitude": -112.038021493
+        },
+        "url": "https://az511.gov/map/Cctv/4246--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 134.02 @L-101W",
+          "direction": "Westbound",
+          "latitude": 33.462159007,
+          "longitude": -112.266989393
+        },
+        "url": "https://az511.gov/map/Cctv/4247--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 177.30 @Sacaton",
+          "direction": "Westbound",
+          "latitude": 33.0998336960001,
+          "longitude": -111.827683521
+        },
+        "url": "https://az511.gov/map/Cctv/4275--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 151.44 @32nd St",
+          "direction": "Eastbound",
+          "latitude": 33.4119202260001,
+          "longitude": -112.011184791
+        },
+        "url": "https://az511.gov/map/Cctv/4286--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 153.46 @Broadway",
+          "direction": "Eastbound",
+          "latitude": 33.4085299320001,
+          "longitude": -111.972622937
+        },
+        "url": "https://az511.gov/map/Cctv/4287--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 146.86 @E of 16th St",
+          "direction": "Eastbound",
+          "latitude": 33.4616373700001,
+          "longitude": -112.045166304
+        },
+        "url": "https://az511.gov/map/Cctv/4288--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 153.30 @Broadway",
+          "direction": "Westbound",
+          "latitude": 33.410303497,
+          "longitude": -111.974599715
+        },
+        "url": "https://az511.gov/map/Cctv/4289--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 146.97 @E of 16th St",
+          "direction": "Westbound",
+          "latitude": 33.4624205310001,
+          "longitude": -112.043605702
+        },
+        "url": "https://az511.gov/map/Cctv/4290--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 122.73 @Perryville",
+          "direction": "Eastbound",
+          "latitude": 33.46083788,
+          "longitude": -112.460597715
+        },
+        "url": "https://az511.gov/map/Cctv/4315--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 123.69 @Citrus",
+          "direction": "Westbound",
+          "latitude": 33.462806877,
+          "longitude": -112.444961564
+        },
+        "url": "https://az511.gov/map/Cctv/4316--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 125.74 @Sarival",
+          "direction": "Eastbound",
+          "latitude": 33.460374587,
+          "longitude": -112.408708859
+        },
+        "url": "https://az511.gov/map/Cctv/4317--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 124.60 @L-303/Cotton Lane",
+          "direction": "Westbound",
+          "latitude": 33.461648644,
+          "longitude": -112.426545653
+        },
+        "url": "https://az511.gov/map/Cctv/4318--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 126.68 @Estrella ",
+          "direction": "Westbound",
+          "latitude": 33.4617644670001,
+          "longitude": -112.392725237
+        },
+        "url": "https://az511.gov/map/Cctv/4319--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 133.70 @SR-101 TI",
+          "direction": "Eastbound",
+          "latitude": 33.461057634,
+          "longitude": -112.272190312
+        },
+        "url": "https://az511.gov/map/Cctv/4320--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 133.22 @99th",
+          "direction": "Westbound",
+          "latitude": 33.461756747,
+          "longitude": -112.28059152
+        },
+        "url": "https://az511.gov/map/Cctv/4321--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 132.63 @107th",
+          "direction": "Westbound",
+          "latitude": 33.461618706,
+          "longitude": -112.290263464
+        },
+        "url": "https://az511.gov/map/Cctv/4322--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 131.67 @Avondale 115th ave",
+          "direction": "Eastbound",
+          "latitude": 33.4586689540001,
+          "longitude": -112.307017868
+        },
+        "url": "https://az511.gov/map/Cctv/4323--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 131.11 @El Mirage",
+          "direction": "Eastbound",
+          "latitude": 33.4572532920001,
+          "longitude": -112.317390715
+        },
+        "url": "https://az511.gov/map/Cctv/4324--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 129.65 @Dysart Rd",
+          "direction": "Eastbound",
+          "latitude": 33.4574615770001,
+          "longitude": -112.341275631
+        },
+        "url": "https://az511.gov/map/Cctv/4325--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 128.66 @Litchfield Rd",
+          "direction": "Westbound",
+          "latitude": 33.458367089,
+          "longitude": -112.358920327
+        },
+        "url": "https://az511.gov/map/Cctv/4326--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 127.74 @Bullard Ave",
+          "direction": "Eastbound",
+          "latitude": 33.4596615350001,
+          "longitude": -112.375062971
+        },
+        "url": "https://az511.gov/map/Cctv/4327--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 135.70 @83rd",
+          "direction": "Westbound",
+          "latitude": 33.4627619080001,
+          "longitude": -112.237690105
+        },
+        "url": "https://az511.gov/map/Cctv/4328--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 134.69 @91st",
+          "direction": "Eastbound",
+          "latitude": 33.461863158,
+          "longitude": -112.254574201
+        },
+        "url": "https://az511.gov/map/Cctv/4329--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 M 144.82 @5th ave",
+          "direction": "M",
+          "latitude": 33.461343347,
+          "longitude": -112.079780076
+        },
+        "url": "https://az511.gov/map/Cctv/4334--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 144.73 @E of 7th Ave",
+          "direction": "Westbound",
+          "latitude": 33.4615286100001,
+          "longitude": -112.081038057
+        },
+        "url": "https://az511.gov/map/Cctv/4335--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 139.15 @59th ave",
+          "direction": "Westbound",
+          "latitude": 33.46333256,
+          "longitude": -112.1838826
+        },
+        "url": "https://az511.gov/map/Cctv/4377--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 140.17 @51st ave",
+          "direction": "Westbound",
+          "latitude": 33.4634673400001,
+          "longitude": -112.16941
+        },
+        "url": "https://az511.gov/map/Cctv/4379--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 WB 140.66 @43rd ave",
+          "direction": "Westbound",
+          "latitude": 33.4623832400001,
+          "longitude": -112.1516238
+        },
+        "url": "https://az511.gov/map/Cctv/4380--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 246.50 @Cortaro",
+          "direction": "Eastbound",
+          "latitude": 32.337249657,
+          "longitude": -111.065908859
+        },
+        "url": "https://az511.gov/map/Cctv/4547--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 321.94 @Dragoon - DMS462 - Cam01",
+          "direction": "Eastbound",
+          "latitude": 32.0760900000001,
+          "longitude": -110.06054
+        },
+        "url": "https://az511.gov/map/Cctv/4566--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-10 EB 179.33 @Sacaton - DMS458 - Cam01",
+          "direction": "Eastbound",
+          "latitude": 33.074506,
+          "longitude": -111.808952
+        },
+        "url": "https://az511.gov/map/Cctv/4567--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-15 SB 28.10 @Near Utah",
+          "direction": "Southbound",
+          "latitude": 36.9868775,
+          "longitude": -113.635657217
+        },
+        "url": "https://az511.gov/map/Cctv/4057--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-15 NB 7.70 @Littlefield",
+          "direction": "Northbound",
+          "latitude": 36.88295286,
+          "longitude": -113.9422454
+        },
+        "url": "https://az511.gov/map/Cctv/4546--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 334.70 @Flagstaff",
+          "direction": "Northbound",
+          "latitude": 35.102370251,
+          "longitude": -111.681648195
+        },
+        "url": "https://az511.gov/map/Cctv/4029--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 334.70",
+          "direction": "Southbound",
+          "latitude": 35.1028913750001,
+          "longitude": -111.681790916
+        },
+        "url": "https://az511.gov/map/Cctv/4030--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 264.70 @Cordes Junction - DMS 386",
+          "direction": "Southbound",
+          "latitude": 34.3585410110001,
+          "longitude": -112.117487608
+        },
+        "url": "https://az511.gov/map/Cctv/4053--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 264.70 @Cordes Junction - DMS 386",
+          "direction": "Northbound",
+          "latitude": 34.358541012,
+          "longitude": -112.117436589
+        },
+        "url": "https://az511.gov/map/Cctv/4054--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 297.40 @McGuireville",
+          "direction": "Northbound",
+          "latitude": 34.6755196180001,
+          "longitude": -111.762611222
+        },
+        "url": "https://az511.gov/map/Cctv/4055--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 210.92 @Thunderbird",
+          "direction": "Northbound",
+          "latitude": 33.610585083,
+          "longitude": -112.1163971
+        },
+        "url": "https://az511.gov/map/Cctv/4131--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 211.94 @Greenway",
+          "direction": "Northbound",
+          "latitude": 33.625559111,
+          "longitude": -112.116161414
+        },
+        "url": "https://az511.gov/map/Cctv/4132--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 212.92 @Bell",
+          "direction": "Northbound",
+          "latitude": 33.639565641,
+          "longitude": -112.11538539
+        },
+        "url": "https://az511.gov/map/Cctv/4133--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 213.98 @Union Hills",
+          "direction": "Northbound",
+          "latitude": 33.6549455570001,
+          "longitude": -112.114098427
+        },
+        "url": "https://az511.gov/map/Cctv/4134--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 214.50 @S of L101",
+          "direction": "Northbound",
+          "latitude": 33.662262696,
+          "longitude": -112.113475679
+        },
+        "url": "https://az511.gov/map/Cctv/4135--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 209.96 @Cactus",
+          "direction": "Northbound",
+          "latitude": 33.5967993040001,
+          "longitude": -112.116438806
+        },
+        "url": "https://az511.gov/map/Cctv/4136--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 208.94 @Peoria",
+          "direction": "Northbound",
+          "latitude": 33.5823430180001,
+          "longitude": -112.116571305
+        },
+        "url": "https://az511.gov/map/Cctv/4137--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 194.29 @I-10 Split",
+          "direction": "Southbound",
+          "latitude": 33.42667264,
+          "longitude": -112.036920756
+        },
+        "url": "https://az511.gov/map/Cctv/4148--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 195.45 @S of 7th St",
+          "direction": "Southbound",
+          "latitude": 33.428100106,
+          "longitude": -112.05685826
+        },
+        "url": "https://az511.gov/map/Cctv/4169--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 196.41 @S of 7th Ave",
+          "direction": "Southbound",
+          "latitude": 33.428318991,
+          "longitude": -112.073422613
+        },
+        "url": "https://az511.gov/map/Cctv/4170--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 197.42 @S of 19th Ave",
+          "direction": "Southbound",
+          "latitude": 33.429477788,
+          "longitude": -112.09068528
+        },
+        "url": "https://az511.gov/map/Cctv/4171--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 198.43 @Durango Curve",
+          "direction": "Southbound",
+          "latitude": 33.430795978,
+          "longitude": -112.10744997
+        },
+        "url": "https://az511.gov/map/Cctv/4172--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 199.18 @Grant",
+          "direction": "Northbound",
+          "latitude": 33.441619621,
+          "longitude": -112.107877835
+        },
+        "url": "https://az511.gov/map/Cctv/4173--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 M 200.08 @Van Buren",
+          "direction": "M",
+          "latitude": 33.454516649,
+          "longitude": -112.1077914
+        },
+        "url": "https://az511.gov/map/Cctv/4174--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 200.65 @I-10 Stack",
+          "direction": "Southbound",
+          "latitude": 33.462471796,
+          "longitude": -112.108845968
+        },
+        "url": "https://az511.gov/map/Cctv/4175--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 M 200.94 @N of McDowell",
+          "direction": "M",
+          "latitude": 33.4668679660001,
+          "longitude": -112.110300987
+        },
+        "url": "https://az511.gov/map/Cctv/4176--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 202.31 @S of Indian School",
+          "direction": "Northbound",
+          "latitude": 33.487388594,
+          "longitude": -112.112762515
+        },
+        "url": "https://az511.gov/map/Cctv/4203--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 203.38 @S of Camelback",
+          "direction": "Northbound",
+          "latitude": 33.502449042,
+          "longitude": -112.112506705
+        },
+        "url": "https://az511.gov/map/Cctv/4204--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 204.36 @S of Bethany Home",
+          "direction": "Northbound",
+          "latitude": 33.516454493,
+          "longitude": -112.11202258
+        },
+        "url": "https://az511.gov/map/Cctv/4205--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 205.35 @S of Glendale",
+          "direction": "Northbound",
+          "latitude": 33.5307831910001,
+          "longitude": -112.112007036
+        },
+        "url": "https://az511.gov/map/Cctv/4206--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 205.89 @Glendale",
+          "direction": "Southbound",
+          "latitude": 33.538808273,
+          "longitude": -112.112760397
+        },
+        "url": "https://az511.gov/map/Cctv/4207--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 206.36 @S of Northern",
+          "direction": "Northbound",
+          "latitude": 33.5460110430001,
+          "longitude": -112.112070989
+        },
+        "url": "https://az511.gov/map/Cctv/4208--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 207.10 @N of Northern",
+          "direction": "Northbound",
+          "latitude": 33.557236285,
+          "longitude": -112.112690082
+        },
+        "url": "https://az511.gov/map/Cctv/4209--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 207.78 @Dunlap",
+          "direction": "Southbound",
+          "latitude": 33.5652771200001,
+          "longitude": -112.117160797
+        },
+        "url": "https://az511.gov/map/Cctv/4210--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 208.50 @S of Peoria",
+          "direction": "Southbound",
+          "latitude": 33.5773586920001,
+          "longitude": -112.117316276
+        },
+        "url": "https://az511.gov/map/Cctv/4211--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 201.39 @S of Thomas",
+          "direction": "Southbound",
+          "latitude": 33.475081317,
+          "longitude": -112.113566569
+        },
+        "url": "https://az511.gov/map/Cctv/4216--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 227.08 @N of Daisy Mtn",
+          "direction": "Northbound",
+          "latitude": 33.8418846800001,
+          "longitude": -112.14322827
+        },
+        "url": "https://az511.gov/map/Cctv/4292--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 229.05 @Anthem",
+          "direction": "Southbound",
+          "latitude": 33.8705959500001,
+          "longitude": -112.14695
+        },
+        "url": "https://az511.gov/map/Cctv/4293--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 226.31 @Daisy Mtn",
+          "direction": "Southbound",
+          "latitude": 33.83087849,
+          "longitude": -112.14506917
+        },
+        "url": "https://az511.gov/map/Cctv/4294--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 215.46 @N of L-101",
+          "direction": "Southbound",
+          "latitude": 33.6763596800001,
+          "longitude": -112.11321748
+        },
+        "url": "https://az511.gov/map/Cctv/4295--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 216.00 @Deer valley",
+          "direction": "Northbound",
+          "latitude": 33.6841641,
+          "longitude": -112.11204493
+        },
+        "url": "https://az511.gov/map/Cctv/4296--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 217.10 @Pinnacle Peak",
+          "direction": "Southbound",
+          "latitude": 33.6997978100001,
+          "longitude": -112.11559416
+        },
+        "url": "https://az511.gov/map/Cctv/4297--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 218.05 @Happy Valley",
+          "direction": "Southbound",
+          "latitude": 33.71297931,
+          "longitude": -112.11806962
+        },
+        "url": "https://az511.gov/map/Cctv/4298--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 218.93 @Jomax",
+          "direction": "Northbound",
+          "latitude": 33.72595547,
+          "longitude": -112.1193822
+        },
+        "url": "https://az511.gov/map/Cctv/4299--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 220.93 @Dixileta",
+          "direction": "Southbound",
+          "latitude": 33.7543724600001,
+          "longitude": -112.12706245
+        },
+        "url": "https://az511.gov/map/Cctv/4300--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 219.88 @Dynamite",
+          "direction": "Northbound",
+          "latitude": 33.7392073400001,
+          "longitude": -112.1225126
+        },
+        "url": "https://az511.gov/map/Cctv/4301--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 225.53 @Pioneer",
+          "direction": "Northbound",
+          "latitude": 33.820213187,
+          "longitude": -112.140697726
+        },
+        "url": "https://az511.gov/map/Cctv/4302--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 223.97 @SR-74 ",
+          "direction": "Northbound",
+          "latitude": 33.7980544500001,
+          "longitude": -112.13464884
+        },
+        "url": "https://az511.gov/map/Cctv/4303--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 222.93 @Dove Valley",
+          "direction": "Northbound",
+          "latitude": 33.7832991500001,
+          "longitude": -112.13136716
+        },
+        "url": "https://az511.gov/map/Cctv/4304--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 221.92 @L-303",
+          "direction": "Northbound",
+          "latitude": 33.76874192,
+          "longitude": -112.12880947
+        },
+        "url": "https://az511.gov/map/Cctv/4305--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 235.50 @Table Mesa Rd - DMS #465",
+          "direction": "Northbound",
+          "latitude": 33.9617450600001,
+          "longitude": -112.1320353
+        },
+        "url": "https://az511.gov/map/Cctv/4330--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 242.71 @Black Canyon City",
+          "direction": "Northbound",
+          "latitude": 34.06122157,
+          "longitude": -112.1438342
+        },
+        "url": "https://az511.gov/map/Cctv/4331--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 252.83 @Sunset Point - DMS467",
+          "direction": "Southbound",
+          "latitude": 34.20098111,
+          "longitude": -112.1267503
+        },
+        "url": "https://az511.gov/map/Cctv/4332--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 261.70 @S of SR69 - DMS #468",
+          "direction": "Southbound",
+          "latitude": 34.31601892,
+          "longitude": -112.1244735
+        },
+        "url": "https://az511.gov/map/Cctv/4333--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 NB 251.90 @Sunset Point - DMS-385",
+          "direction": "Northbound",
+          "latitude": 34.1843243500001,
+          "longitude": -112.1333044
+        },
+        "url": "https://az511.gov/map/Cctv/4381--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-17 SB 264.70 @Cordes Junction - DMS 386",
+          "direction": "Southbound",
+          "latitude": 34.3592407400001,
+          "longitude": -112.1175061
+        },
+        "url": "https://az511.gov/map/Cctv/4382--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-19 NB 62.68 @N of Ajo",
+          "direction": "Northbound",
+          "latitude": 32.1887751420001,
+          "longitude": -110.98174048
+        },
+        "url": "https://az511.gov/map/Cctv/4012--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-19 SB 61.88 @Ajo",
+          "direction": "Southbound",
+          "latitude": 32.1783,
+          "longitude": -110.986116667
+        },
+        "url": "https://az511.gov/map/Cctv/4013--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-19 NB 60.88 @Irvington",
+          "direction": "Northbound",
+          "latitude": 32.16314033,
+          "longitude": -110.985381237
+        },
+        "url": "https://az511.gov/map/Cctv/4014--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-19 NB 60.31 @S of Irvington",
+          "direction": "Northbound",
+          "latitude": 32.155468549,
+          "longitude": -110.986069955
+        },
+        "url": "https://az511.gov/map/Cctv/4015--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-19 SB 59.83 @Drexel",
+          "direction": "Southbound",
+          "latitude": 32.1486694870001,
+          "longitude": -110.986958173
+        },
+        "url": "https://az511.gov/map/Cctv/4016--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-19 NB 58.81 @Valencia",
+          "direction": "Northbound",
+          "latitude": 32.1335834590001,
+          "longitude": -110.986184051
+        },
+        "url": "https://az511.gov/map/Cctv/4017--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-19 NB 57.82 @N of San Xavier",
+          "direction": "Northbound",
+          "latitude": 32.1193626300001,
+          "longitude": -110.988813773
+        },
+        "url": "https://az511.gov/map/Cctv/4018--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 91.38",
+          "direction": "Westbound",
+          "latitude": 35.190623934,
+          "longitude": -113.370688619
+        },
+        "url": "https://az511.gov/map/Cctv/11646.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 132.25",
+          "direction": "Eastbound",
+          "latitude": 35.258592186,
+          "longitude": -112.714447078
+        },
+        "url": "https://az511.gov/map/Cctv/11647.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 132.25",
+          "direction": "Westbound",
+          "latitude": 35.258592186,
+          "longitude": -112.714447078
+        },
+        "url": "https://az511.gov/map/Cctv/11647.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 154.19",
+          "direction": "Eastbound",
+          "latitude": 35.2198441030001,
+          "longitude": -112.337903459
+        },
+        "url": "https://az511.gov/map/Cctv/11648.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 154.19",
+          "direction": "Westbound",
+          "latitude": 35.2198441030001,
+          "longitude": -112.337903459
+        },
+        "url": "https://az511.gov/map/Cctv/11648.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 158.94",
+          "direction": "Westbound",
+          "latitude": 35.222547632,
+          "longitude": -112.256184554
+        },
+        "url": "https://az511.gov/map/Cctv/11649.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 158.94",
+          "direction": "Eastbound",
+          "latitude": 35.222547632,
+          "longitude": -112.256184554
+        },
+        "url": "https://az511.gov/map/Cctv/11649.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 190.78",
+          "direction": "Eastbound",
+          "latitude": 35.1952806960001,
+          "longitude": -111.7390106
+        },
+        "url": "https://az511.gov/map/Cctv/11650.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 190.78",
+          "direction": "Westbound",
+          "latitude": 35.1952806960001,
+          "longitude": -111.7390106
+        },
+        "url": "https://az511.gov/map/Cctv/11650.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 256.89",
+          "direction": "Eastbound",
+          "latitude": 35.012324273,
+          "longitude": -110.65552355
+        },
+        "url": "https://az511.gov/map/Cctv/11651.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 256.89",
+          "direction": "Westbound",
+          "latitude": 35.012324273,
+          "longitude": -110.65552355
+        },
+        "url": "https://az511.gov/map/Cctv/11651.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 358.88",
+          "direction": "Westbound",
+          "latitude": 35.3541135290001,
+          "longitude": -109.055229877
+        },
+        "url": "https://az511.gov/map/Cctv/11652.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 358.88",
+          "direction": "Eastbound",
+          "latitude": 35.3541135290001,
+          "longitude": -109.055229877
+        },
+        "url": "https://az511.gov/map/Cctv/11652.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 229.97",
+          "direction": "Eastbound",
+          "latitude": 35.117726577,
+          "longitude": -111.099027961
+        },
+        "url": "https://az511.gov/map/Cctv/11655.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 229.97",
+          "direction": "Westbound",
+          "latitude": 35.117726577,
+          "longitude": -111.099027961
+        },
+        "url": "https://az511.gov/map/Cctv/11655.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 270.01",
+          "direction": "Eastbound",
+          "latitude": 34.969216121,
+          "longitude": -110.433329581
+        },
+        "url": "https://az511.gov/map/Cctv/11657.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 270.01",
+          "direction": "Westbound",
+          "latitude": 34.969216121,
+          "longitude": -110.433329581
+        },
+        "url": "https://az511.gov/map/Cctv/11657.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 311.98",
+          "direction": "Eastbound",
+          "latitude": 35.0636931600001,
+          "longitude": -109.775671066
+        },
+        "url": "https://az511.gov/map/Cctv/11659.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 311.98",
+          "direction": "Westbound",
+          "latitude": 35.0636931600001,
+          "longitude": -109.775671066
+        },
+        "url": "https://az511.gov/map/Cctv/11659.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 91.38",
+          "direction": "Eastbound",
+          "latitude": 35.190623934,
+          "longitude": -113.370688619
+        },
+        "url": "https://az511.gov/map/Cctv/2.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 42.20 @Kingman",
+          "direction": "Eastbound",
+          "latitude": 35.1084260910001,
+          "longitude": -114.116814798
+        },
+        "url": "https://az511.gov/map/Cctv/4031--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 42.20 @Kingman",
+          "direction": "Westbound",
+          "latitude": 35.1083964700001,
+          "longitude": -114.116645147
+        },
+        "url": "https://az511.gov/map/Cctv/4032--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 250.70 @Winslow",
+          "direction": "Westbound",
+          "latitude": 35.0415635950001,
+          "longitude": -110.746347371
+        },
+        "url": "https://az511.gov/map/Cctv/4033--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 250.70 @Winslow",
+          "direction": "Eastbound",
+          "latitude": 35.041633609,
+          "longitude": -110.74631775
+        },
+        "url": "https://az511.gov/map/Cctv/4034--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 212.10 @Winona",
+          "direction": "Westbound",
+          "latitude": 35.1960358000001,
+          "longitude": -111.392397473
+        },
+        "url": "https://az511.gov/map/Cctv/4056--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 340.44 @Sanders POE",
+          "direction": "Westbound",
+          "latitude": 35.2266091600001,
+          "longitude": -109.3187071
+        },
+        "url": "https://az511.gov/map/Cctv/4535--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 197.61 @Butler",
+          "direction": "Westbound",
+          "latitude": 35.1868230600001,
+          "longitude": -111.6325006
+        },
+        "url": "https://az511.gov/map/Cctv/4536--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 184.50 @Bellemont",
+          "direction": "Eastbound",
+          "latitude": 35.2423180700001,
+          "longitude": -111.8343278
+        },
+        "url": "https://az511.gov/map/Cctv/4538--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 168.00 @Williams",
+          "direction": "Westbound",
+          "latitude": 35.2590429100001,
+          "longitude": -112.113995
+        },
+        "url": "https://az511.gov/map/Cctv/4539--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 148.08 @Ash Fork",
+          "direction": "Westbound",
+          "latitude": 35.2188138700001,
+          "longitude": -112.4428279
+        },
+        "url": "https://az511.gov/map/Cctv/4540--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 199.60 @Flagstaff - DMS355",
+          "direction": "Eastbound",
+          "latitude": 35.2064301400001,
+          "longitude": -111.6015104
+        },
+        "url": "https://az511.gov/map/Cctv/4548--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 330.40 @Chambers - DMS340",
+          "direction": "Eastbound",
+          "latitude": 35.1673748700001,
+          "longitude": -109.4809424
+        },
+        "url": "https://az511.gov/map/Cctv/4556--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 281.00 @Holbrook - DMS338",
+          "direction": "Eastbound",
+          "latitude": 34.91960314,
+          "longitude": -110.2564616
+        },
+        "url": "https://az511.gov/map/Cctv/4557--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 358.00 @Sanders - DMS342",
+          "direction": "Westbound",
+          "latitude": 35.34840947,
+          "longitude": -109.0600335
+        },
+        "url": "https://az511.gov/map/Cctv/4558--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 EB 69.30 @Kingman - DMS376",
+          "direction": "Eastbound",
+          "latitude": 35.16541907,
+          "longitude": -113.743329
+        },
+        "url": "https://az511.gov/map/Cctv/4562--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-40 WB 123.90 @Seligman - DMS373",
+          "direction": "Westbound",
+          "latitude": 35.3053602000001,
+          "longitude": -112.8463711
+        },
+        "url": "https://az511.gov/map/Cctv/4563--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-8 EB 174.10 @4 mi West of I-10",
+          "direction": "Eastbound",
+          "latitude": 32.8277771100001,
+          "longitude": -111.7477407
+        },
+        "url": "https://az511.gov/map/Cctv/4541--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-8 EB 0.42 @Yuma border - DMS301 - Cam01",
+          "direction": "Eastbound",
+          "latitude": 32.72274,
+          "longitude": -114.61384
+        },
+        "url": "https://az511.gov/map/Cctv/4568--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 19.17 @59 AVE",
+          "direction": "Westbound",
+          "latitude": 33.668643721,
+          "longitude": -112.186499237
+        },
+        "url": "https://az511.gov/map/Cctv/4063--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 EB 17.53 @75 AVE",
+          "direction": "Eastbound",
+          "latitude": 33.6673990240001,
+          "longitude": -112.220044968
+        },
+        "url": "https://az511.gov/map/Cctv/4064--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 16.59 @N of Union Hills Rd",
+          "direction": "Southbound",
+          "latitude": 33.665421533,
+          "longitude": -112.229389352
+        },
+        "url": "https://az511.gov/map/Cctv/4065--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 13.49 @S of Bell Rd",
+          "direction": "Northbound",
+          "latitude": 33.622245806,
+          "longitude": -112.239551809
+        },
+        "url": "https://az511.gov/map/Cctv/4066--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 2.97 @Thomas",
+          "direction": "Northbound",
+          "latitude": 33.4798827170001,
+          "longitude": -112.26363831
+        },
+        "url": "https://az511.gov/map/Cctv/4067--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 22.07 @35 AVE",
+          "direction": "Westbound",
+          "latitude": 33.669507185,
+          "longitude": -112.13505244
+        },
+        "url": "https://az511.gov/map/Cctv/4080--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 6.88 @Glendale",
+          "direction": "Northbound",
+          "latitude": 33.535330742,
+          "longitude": -112.269420379
+        },
+        "url": "https://az511.gov/map/Cctv/4081--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 40.11 @Cactus",
+          "direction": "Northbound",
+          "latitude": 33.5960459730001,
+          "longitude": -111.891097163
+        },
+        "url": "https://az511.gov/map/Cctv/4098--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 38.63 @Raintree",
+          "direction": "Northbound",
+          "latitude": 33.6177504400001,
+          "longitude": -111.89092671
+        },
+        "url": "https://az511.gov/map/Cctv/4099--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 37.84 @FLW Blvd",
+          "direction": "Southbound",
+          "latitude": 33.6291692560001,
+          "longitude": -111.890765939
+        },
+        "url": "https://az511.gov/map/Cctv/4100--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 36.96 @Princess Dr",
+          "direction": "Northbound",
+          "latitude": 33.646611696,
+          "longitude": -111.892608805
+        },
+        "url": "https://az511.gov/map/Cctv/4101--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 57.58 @Elliot",
+          "direction": "Southbound",
+          "latitude": 33.3497152040001,
+          "longitude": -111.894259613
+        },
+        "url": "https://az511.gov/map/Cctv/4102--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 58.58 @Warner",
+          "direction": "Southbound",
+          "latitude": 33.335186246,
+          "longitude": -111.893282169
+        },
+        "url": "https://az511.gov/map/Cctv/4103--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 59.63 @Ray",
+          "direction": "Northbound",
+          "latitude": 33.3201082900001,
+          "longitude": -111.89368151
+        },
+        "url": "https://az511.gov/map/Cctv/4104--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 60.62 @Chandler",
+          "direction": "Northbound",
+          "latitude": 33.30538711,
+          "longitude": -111.894027628
+        },
+        "url": "https://az511.gov/map/Cctv/4105--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 36.21 @E of Hayden",
+          "direction": "Westbound",
+          "latitude": 33.651363836,
+          "longitude": -111.897318228
+        },
+        "url": "https://az511.gov/map/Cctv/4109--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 EB 35.54 @Hayden",
+          "direction": "Eastbound",
+          "latitude": 33.6545110660001,
+          "longitude": -111.908636273
+        },
+        "url": "https://az511.gov/map/Cctv/4110--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 34.48 @Scottsdale Rd",
+          "direction": "Westbound",
+          "latitude": 33.6585504390001,
+          "longitude": -111.926006981
+        },
+        "url": "https://az511.gov/map/Cctv/4111--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 EB 33.47 @64th St.",
+          "direction": "Eastbound",
+          "latitude": 33.661484526,
+          "longitude": -111.943229899
+        },
+        "url": "https://az511.gov/map/Cctv/4112--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 32.37 @56th St.",
+          "direction": "Westbound",
+          "latitude": 33.6683789310001,
+          "longitude": -111.960606115
+        },
+        "url": "https://az511.gov/map/Cctv/4113--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 31.36 @Tatum Blvd",
+          "direction": "Westbound",
+          "latitude": 33.6731863050001,
+          "longitude": -111.976606454
+        },
+        "url": "https://az511.gov/map/Cctv/4114--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 EB 29.81 @W of SR51",
+          "direction": "Eastbound",
+          "latitude": 33.6720315760001,
+          "longitude": -112.00369554
+        },
+        "url": "https://az511.gov/map/Cctv/4116--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 28.19 @Cave Creek",
+          "direction": "Westbound",
+          "latitude": 33.6724044810001,
+          "longitude": -112.031543068
+        },
+        "url": "https://az511.gov/map/Cctv/4117--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 EB 27.37 @E of 16th St.",
+          "direction": "Eastbound",
+          "latitude": 33.6687695430001,
+          "longitude": -112.045144634
+        },
+        "url": "https://az511.gov/map/Cctv/4118--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 26.16 @7th St.",
+          "direction": "Westbound",
+          "latitude": 33.669166476,
+          "longitude": -112.065118814
+        },
+        "url": "https://az511.gov/map/Cctv/4119--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 25.17 @7th Ave",
+          "direction": "Westbound",
+          "latitude": 33.669053036,
+          "longitude": -112.083073664
+        },
+        "url": "https://az511.gov/map/Cctv/4120--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 EB 24.15 @19th Ave",
+          "direction": "Eastbound",
+          "latitude": 33.6690468370001,
+          "longitude": -112.100230053
+        },
+        "url": "https://az511.gov/map/Cctv/4121--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 23.79 @E of I-17",
+          "direction": "Westbound",
+          "latitude": 33.6690976030001,
+          "longitude": -112.106697377
+        },
+        "url": "https://az511.gov/map/Cctv/4122--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 54.23 @N of Southern",
+          "direction": "Northbound",
+          "latitude": 33.397808303,
+          "longitude": -111.890662012
+        },
+        "url": "https://az511.gov/map/Cctv/4184--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 51.78 @L202 Red Mountain",
+          "direction": "Northbound",
+          "latitude": 33.4333235350001,
+          "longitude": -111.89061236
+        },
+        "url": "https://az511.gov/map/Cctv/4192--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 52.65 @University",
+          "direction": "Northbound",
+          "latitude": 33.420848849,
+          "longitude": -111.890959251
+        },
+        "url": "https://az511.gov/map/Cctv/4193--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 53.49 @Broadway",
+          "direction": "Northbound",
+          "latitude": 33.408765685,
+          "longitude": -111.890845926
+        },
+        "url": "https://az511.gov/map/Cctv/4194--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 55.18 @US-60",
+          "direction": "Southbound",
+          "latitude": 33.3843069260001,
+          "longitude": -111.892071597
+        },
+        "url": "https://az511.gov/map/Cctv/4234--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 55.61 @Baseline",
+          "direction": "Southbound",
+          "latitude": 33.3780896150001,
+          "longitude": -111.893617283
+        },
+        "url": "https://az511.gov/map/Cctv/4235--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 56.08 @Guadalupe",
+          "direction": "Southbound",
+          "latitude": 33.3649143850001,
+          "longitude": -111.894243161
+        },
+        "url": "https://az511.gov/map/Cctv/4236--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 1.85 @McDowell",
+          "direction": "Southbound",
+          "latitude": 33.4645843010001,
+          "longitude": -112.269192498
+        },
+        "url": "https://az511.gov/map/Cctv/4248--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 3.95 @Indian School",
+          "direction": "Southbound",
+          "latitude": 33.4943278260001,
+          "longitude": -112.264561814
+        },
+        "url": "https://az511.gov/map/Cctv/4249--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 4.96 @Camelback",
+          "direction": "Southbound",
+          "latitude": 33.5080446380001,
+          "longitude": -112.26950165
+        },
+        "url": "https://az511.gov/map/Cctv/4250--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 5.94 @Bethany Home",
+          "direction": "Southbound",
+          "latitude": 33.5223380480001,
+          "longitude": -112.269329831
+        },
+        "url": "https://az511.gov/map/Cctv/4251--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 6.91 @Glendale",
+          "direction": "Southbound",
+          "latitude": 33.536814006,
+          "longitude": -112.270016801
+        },
+        "url": "https://az511.gov/map/Cctv/4252--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 9.15 @Olive",
+          "direction": "Northbound",
+          "latitude": 33.566568408,
+          "longitude": -112.256971304
+        },
+        "url": "https://az511.gov/map/Cctv/4253--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 7.89 @Northern",
+          "direction": "Southbound",
+          "latitude": 33.5511225860001,
+          "longitude": -112.267375351
+        },
+        "url": "https://az511.gov/map/Cctv/4254--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 10.19 @Peoria",
+          "direction": "Southbound",
+          "latitude": 33.581139842,
+          "longitude": -112.25977055
+        },
+        "url": "https://az511.gov/map/Cctv/4255--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 11.44 @N of Grand",
+          "direction": "Southbound",
+          "latitude": 33.5976039280001,
+          "longitude": -112.258955253
+        },
+        "url": "https://az511.gov/map/Cctv/4256--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 12.57 @Thunderbird",
+          "direction": "Northbound",
+          "latitude": 33.610271014,
+          "longitude": -112.243509689
+        },
+        "url": "https://az511.gov/map/Cctv/4257--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 14.57 @Bell",
+          "direction": "Southbound",
+          "latitude": 33.63773503,
+          "longitude": -112.238118908
+        },
+        "url": "https://az511.gov/map/Cctv/4258--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 15.67 @Union Hills",
+          "direction": "Southbound",
+          "latitude": 33.6524383650001,
+          "longitude": -112.232952165
+        },
+        "url": "https://az511.gov/map/Cctv/4259--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 23.27 @I-17",
+          "direction": "Westbound",
+          "latitude": 33.6693573260001,
+          "longitude": -112.113689279
+        },
+        "url": "https://az511.gov/map/Cctv/4260--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 20.05 @51st Av",
+          "direction": "Westbound",
+          "latitude": 33.668598762,
+          "longitude": -112.169777512
+        },
+        "url": "https://az511.gov/map/Cctv/4261--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 WB 18.12 @67th Av",
+          "direction": "Westbound",
+          "latitude": 33.6683951360001,
+          "longitude": -112.203334511
+        },
+        "url": "https://az511.gov/map/Cctv/4262--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 EB 20.96 @W of 35th Ave",
+          "direction": "Eastbound",
+          "latitude": 33.6690111990001,
+          "longitude": -112.152286571
+        },
+        "url": "https://az511.gov/map/Cctv/4273--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 46.40 @N of Chaparral",
+          "direction": "Southbound",
+          "latitude": 33.512218961,
+          "longitude": -111.888172749
+        },
+        "url": "https://az511.gov/map/Cctv/4336--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 49.58 @McDowell",
+          "direction": "Southbound",
+          "latitude": 33.4656922820001,
+          "longitude": -111.888767501
+        },
+        "url": "https://az511.gov/map/Cctv/4337--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 40.91 @N of Shea",
+          "direction": "Southbound",
+          "latitude": 33.5851906410001,
+          "longitude": -111.891862719
+        },
+        "url": "https://az511.gov/map/Cctv/4338--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 44.88 @N of McDonald",
+          "direction": "Southbound",
+          "latitude": 33.5316300650001,
+          "longitude": -111.88490458
+        },
+        "url": "https://az511.gov/map/Cctv/4339--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 42.02 @Via Linda",
+          "direction": "Southbound",
+          "latitude": 33.568495092,
+          "longitude": -111.891337646
+        },
+        "url": "https://az511.gov/map/Cctv/4340--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 41.11 @Shea",
+          "direction": "Northbound",
+          "latitude": 33.581828483,
+          "longitude": -111.890810263
+        },
+        "url": "https://az511.gov/map/Cctv/4341--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 41.58 @Mountain View",
+          "direction": "Northbound",
+          "latitude": 33.5752385650001,
+          "longitude": -111.888632195
+        },
+        "url": "https://az511.gov/map/Cctv/4342--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 42.40 @90th St",
+          "direction": "Southbound",
+          "latitude": 33.5638523310001,
+          "longitude": -111.88853428
+        },
+        "url": "https://az511.gov/map/Cctv/4343--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 42.92 @S of 90th St",
+          "direction": "Northbound",
+          "latitude": 33.5600869020001,
+          "longitude": -111.880648553
+        },
+        "url": "https://az511.gov/map/Cctv/4344--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 43.44 @Via de Ventura",
+          "direction": "Northbound",
+          "latitude": 33.553183942,
+          "longitude": -111.87902493
+        },
+        "url": "https://az511.gov/map/Cctv/4345--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 44.50 @Indian Bend",
+          "direction": "Northbound",
+          "latitude": 33.538117545,
+          "longitude": -111.881703804
+        },
+        "url": "https://az511.gov/map/Cctv/4346--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 45.53 @McDonald Dr.",
+          "direction": "Southbound",
+          "latitude": 33.523566712,
+          "longitude": -111.887734242
+        },
+        "url": "https://az511.gov/map/Cctv/4347--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 46.42 @Chaparral",
+          "direction": "Southbound",
+          "latitude": 33.5097915270001,
+          "longitude": -111.888215712
+        },
+        "url": "https://az511.gov/map/Cctv/4348--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 48.04 @S of Indian School",
+          "direction": "Northbound",
+          "latitude": 33.487236538,
+          "longitude": -111.887508744
+        },
+        "url": "https://az511.gov/map/Cctv/4349--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 47.57 @Indian School",
+          "direction": "Northbound",
+          "latitude": 33.494375259,
+          "longitude": -111.887704699
+        },
+        "url": "https://az511.gov/map/Cctv/4350--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 49.52 @McDowell",
+          "direction": "Northbound",
+          "latitude": 33.466186361,
+          "longitude": -111.888187495
+        },
+        "url": "https://az511.gov/map/Cctv/4351--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 NB 50.58 @McKellips",
+          "direction": "Northbound",
+          "latitude": 33.4509405370001,
+          "longitude": -111.890232186
+        },
+        "url": "https://az511.gov/map/Cctv/4352--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-101 SB 48.55 @Thomas",
+          "direction": "Southbound",
+          "latitude": 33.480130537,
+          "longitude": -111.890657463
+        },
+        "url": "https://az511.gov/map/Cctv/4353--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 22.20 @Recker",
+          "direction": "Eastbound",
+          "latitude": 33.475035163,
+          "longitude": -111.701033528
+        },
+        "url": "https://az511.gov/map/Cctv/4059--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 49.64 @Dobson",
+          "direction": "Eastbound",
+          "latitude": 33.2868450670001,
+          "longitude": -111.876528182
+        },
+        "url": "https://az511.gov/map/Cctv/4074--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 51.74 @McClintock",
+          "direction": "Westbound",
+          "latitude": 33.2922768110001,
+          "longitude": -111.911466139
+        },
+        "url": "https://az511.gov/map/Cctv/4075--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 52.71 @W of McClintock",
+          "direction": "Eastbound",
+          "latitude": 33.291098257,
+          "longitude": -111.928142184
+        },
+        "url": "https://az511.gov/map/Cctv/4076--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 53.71 @Kyrene",
+          "direction": "Westbound",
+          "latitude": 33.292635606,
+          "longitude": -111.945406672
+        },
+        "url": "https://az511.gov/map/Cctv/4077--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 54.78 @56 st",
+          "direction": "Eastbound",
+          "latitude": 33.2953720180001,
+          "longitude": -111.963909346
+        },
+        "url": "https://az511.gov/map/Cctv/4078--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 55.44 @West of I-10",
+          "direction": "Westbound",
+          "latitude": 33.297067285,
+          "longitude": -111.974923153
+        },
+        "url": "https://az511.gov/map/Cctv/4079--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 17.66 @E of McDowell Rd",
+          "direction": "Westbound",
+          "latitude": 33.477605962,
+          "longitude": -111.775706379
+        },
+        "url": "https://az511.gov/map/Cctv/4082--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 19.00 @Val Vista",
+          "direction": "Westbound",
+          "latitude": 33.483016191,
+          "longitude": -111.753890744
+        },
+        "url": "https://az511.gov/map/Cctv/4083--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 19.45 @W of Greenfield",
+          "direction": "Eastbound",
+          "latitude": 33.4800476980001,
+          "longitude": -111.746820842
+        },
+        "url": "https://az511.gov/map/Cctv/4084--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 20.12 @Greenfield",
+          "direction": "Eastbound",
+          "latitude": 33.4802659000001,
+          "longitude": -111.735405556
+        },
+        "url": "https://az511.gov/map/Cctv/4085--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 21.06 @Higley",
+          "direction": "Westbound",
+          "latitude": 33.4817843330001,
+          "longitude": -111.718899534
+        },
+        "url": "https://az511.gov/map/Cctv/4086--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 21.61 @E of Higley",
+          "direction": "Westbound",
+          "latitude": 33.4784657370001,
+          "longitude": -111.710136798
+        },
+        "url": "https://az511.gov/map/Cctv/4087--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 23.18 @Power",
+          "direction": "Westbound",
+          "latitude": 33.473661668,
+          "longitude": -111.684540154
+        },
+        "url": "https://az511.gov/map/Cctv/4088--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 23.79 @McDowell",
+          "direction": "Westbound",
+          "latitude": 33.4660449990001,
+          "longitude": -111.679124175
+        },
+        "url": "https://az511.gov/map/Cctv/4089--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 24.94 @McKellips Rd",
+          "direction": "Eastbound",
+          "latitude": 33.451187824,
+          "longitude": -111.670010709
+        },
+        "url": "https://az511.gov/map/Cctv/4090--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 24.94 @McKellips Rd",
+          "direction": "Eastbound",
+          "latitude": 33.449433163,
+          "longitude": -111.666965753
+        },
+        "url": "https://az511.gov/map/Cctv/4091--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 26.37 @Brown",
+          "direction": "Eastbound",
+          "latitude": 33.437127564,
+          "longitude": -111.651936166
+        },
+        "url": "https://az511.gov/map/Cctv/4092--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 27.31 @E of Brown",
+          "direction": "Westbound",
+          "latitude": 33.4306047650001,
+          "longitude": -111.637666618
+        },
+        "url": "https://az511.gov/map/Cctv/4093--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 27.95 @University",
+          "direction": "Eastbound",
+          "latitude": 33.422120954,
+          "longitude": -111.636537222
+        },
+        "url": "https://az511.gov/map/Cctv/4094--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 28.43 @Apache",
+          "direction": "Westbound",
+          "latitude": 33.41497961,
+          "longitude": -111.636476615
+        },
+        "url": "https://az511.gov/map/Cctv/4095--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 28.95 @Broadway",
+          "direction": "Eastbound",
+          "latitude": 33.4083206290001,
+          "longitude": -111.640885471
+        },
+        "url": "https://az511.gov/map/Cctv/4096--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 29.73 @E of Broadway",
+          "direction": "Westbound",
+          "latitude": 33.397276081,
+          "longitude": -111.642010797
+        },
+        "url": "https://az511.gov/map/Cctv/4097--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 50.75 @L101",
+          "direction": "Eastbound",
+          "latitude": 33.2917303890001,
+          "longitude": -111.894261628
+        },
+        "url": "https://az511.gov/map/Cctv/4106--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 51.23 @W of L-101",
+          "direction": "Westbound",
+          "latitude": 33.292299251,
+          "longitude": -111.902500256
+        },
+        "url": "https://az511.gov/map/Cctv/4107--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 50.27 @E of L-101",
+          "direction": "Westbound",
+          "latitude": 33.2908649620001,
+          "longitude": -111.886101576
+        },
+        "url": "https://az511.gov/map/Cctv/4108--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 11.10 @Dobson Rd",
+          "direction": "Eastbound",
+          "latitude": 33.437297066,
+          "longitude": -111.868837629
+        },
+        "url": "https://az511.gov/map/Cctv/4123--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 12.01 @Alma School Rd",
+          "direction": "Westbound",
+          "latitude": 33.4457741790001,
+          "longitude": -111.857113964
+        },
+        "url": "https://az511.gov/map/Cctv/4124--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 12.73 @McKellips Rd",
+          "direction": "Westbound",
+          "latitude": 33.452270577,
+          "longitude": -111.847714974
+        },
+        "url": "https://az511.gov/map/Cctv/4125--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 13.26 @Country Club Dr.",
+          "direction": "Eastbound",
+          "latitude": 33.454909715,
+          "longitude": -111.838814068
+        },
+        "url": "https://az511.gov/map/Cctv/4126--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 13.80 @Center St.",
+          "direction": "Eastbound",
+          "latitude": 33.457976494,
+          "longitude": -111.830735322
+        },
+        "url": "https://az511.gov/map/Cctv/4127--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 14.52 @Mesa Dr.",
+          "direction": "Westbound",
+          "latitude": 33.4659850900001,
+          "longitude": -111.822624101
+        },
+        "url": "https://az511.gov/map/Cctv/4128--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 15.54 @Stapley Dr.",
+          "direction": "Eastbound",
+          "latitude": 33.4655358850001,
+          "longitude": -111.80518376
+        },
+        "url": "https://az511.gov/map/Cctv/4129--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 16.58 @Gilbert Rd",
+          "direction": "Eastbound",
+          "latitude": 33.4650632280001,
+          "longitude": -111.786879025
+        },
+        "url": "https://az511.gov/map/Cctv/4130--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 0.29 @E of 24th St",
+          "direction": "Westbound",
+          "latitude": 33.4623677180001,
+          "longitude": -112.021257202
+        },
+        "url": "https://az511.gov/map/Cctv/4163--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 1.28 @E of 32nd St",
+          "direction": "Westbound",
+          "latitude": 33.4592821890001,
+          "longitude": -112.005355166
+        },
+        "url": "https://az511.gov/map/Cctv/4164--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 4.41 @E of 52nd St",
+          "direction": "Westbound",
+          "latitude": 33.4526696670001,
+          "longitude": -111.969202944
+        },
+        "url": "https://az511.gov/map/Cctv/4185--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 5.26 @E of Van Buren",
+          "direction": "Eastbound",
+          "latitude": 33.440374343,
+          "longitude": -111.967878844
+        },
+        "url": "https://az511.gov/map/Cctv/4186--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 5.75 @Priest",
+          "direction": "Westbound",
+          "latitude": 33.4379986770001,
+          "longitude": -111.960211737
+        },
+        "url": "https://az511.gov/map/Cctv/4187--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 6.87 @E of Center",
+          "direction": "Westbound",
+          "latitude": 33.4357372920001,
+          "longitude": -111.940891687
+        },
+        "url": "https://az511.gov/map/Cctv/4188--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 7.80 @Scottsdale",
+          "direction": "Westbound",
+          "latitude": 33.436336714,
+          "longitude": -111.925015291
+        },
+        "url": "https://az511.gov/map/Cctv/4189--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 8.54 @McClintock",
+          "direction": "Westbound",
+          "latitude": 33.4362817520001,
+          "longitude": -111.912371934
+        },
+        "url": "https://az511.gov/map/Cctv/4190--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 9.26 @E of McClintock",
+          "direction": "Westbound",
+          "latitude": 33.436153877,
+          "longitude": -111.900029072
+        },
+        "url": "https://az511.gov/map/Cctv/4191--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 2.22 @E of 40th St",
+          "direction": "Westbound",
+          "latitude": 33.4589242550001,
+          "longitude": -111.989401412
+        },
+        "url": "https://az511.gov/map/Cctv/4237--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 46.54 @McQueen",
+          "direction": "Eastbound",
+          "latitude": 33.2821252000001,
+          "longitude": -111.8239135
+        },
+        "url": "https://az511.gov/map/Cctv/4276--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 47.67 @Arizona Ave",
+          "direction": "Westbound",
+          "latitude": 33.28768946,
+          "longitude": -111.84195097
+        },
+        "url": "https://az511.gov/map/Cctv/4277--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 48.66 @Alma School",
+          "direction": "Westbound",
+          "latitude": 33.2877005600001,
+          "longitude": -111.85921298
+        },
+        "url": "https://az511.gov/map/Cctv/4278--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 39.83 @Ray",
+          "direction": "Westbound",
+          "latitude": 33.3210721,
+          "longitude": -111.73896807
+        },
+        "url": "https://az511.gov/map/Cctv/4279--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 40.82 @Williams Field",
+          "direction": "Eastbound",
+          "latitude": 33.30657087,
+          "longitude": -111.73877741
+        },
+        "url": "https://az511.gov/map/Cctv/4280--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 41.52 @Santan Village Pkwy",
+          "direction": "Eastbound",
+          "latitude": 33.2966699300001,
+          "longitude": -111.74170485
+        },
+        "url": "https://az511.gov/map/Cctv/4281--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 42.56 @Val Vista",
+          "direction": "Eastbound",
+          "latitude": 33.2876550300001,
+          "longitude": -111.75572776
+        },
+        "url": "https://az511.gov/map/Cctv/4282--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 43.59 @Lindsay",
+          "direction": "Westbound",
+          "latitude": 33.28345159,
+          "longitude": -111.77304366
+        },
+        "url": "https://az511.gov/map/Cctv/4283--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 44.53 @Gilbert",
+          "direction": "Eastbound",
+          "latitude": 33.2825054300001,
+          "longitude": -111.78933264
+        },
+        "url": "https://az511.gov/map/Cctv/4284--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 45.55 @Cooper",
+          "direction": "Eastbound",
+          "latitude": 33.2823082,
+          "longitude": -111.8065567
+        },
+        "url": "https://az511.gov/map/Cctv/4285--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 37.66 @E of Higley",
+          "direction": "Westbound",
+          "latitude": 33.329336218,
+          "longitude": -111.704277525
+        },
+        "url": "https://az511.gov/map/Cctv/4306--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 36.67 @Power",
+          "direction": "Eastbound",
+          "latitude": 33.3280149870001,
+          "longitude": -111.687526332
+        },
+        "url": "https://az511.gov/map/Cctv/4307--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 35.63 @E of Power",
+          "direction": "Westbound",
+          "latitude": 33.3287586280001,
+          "longitude": -111.668784246
+        },
+        "url": "https://az511.gov/map/Cctv/4308--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 34.68 @W of SR-24",
+          "direction": "Eastbound",
+          "latitude": 33.3306725740001,
+          "longitude": -111.653418729
+        },
+        "url": "https://az511.gov/map/Cctv/4309--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 NB 34.28 @N of SR-24",
+          "direction": "Northbound",
+          "latitude": 33.3344492860001,
+          "longitude": -111.647086798
+        },
+        "url": "https://az511.gov/map/Cctv/4310--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 NB 33.11 @Elliott",
+          "direction": "Northbound",
+          "latitude": 33.3506133560001,
+          "longitude": -111.64270563
+        },
+        "url": "https://az511.gov/map/Cctv/4311--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 38.65 @Higley",
+          "direction": "Westbound",
+          "latitude": 33.3282722160001,
+          "longitude": -111.721803924
+        },
+        "url": "https://az511.gov/map/Cctv/4312--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 NB 32.10 @Guadalupe",
+          "direction": "Northbound",
+          "latitude": 33.3649236430001,
+          "longitude": -111.643364657
+        },
+        "url": "https://az511.gov/map/Cctv/4313--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 SB 31.06 @Baseline",
+          "direction": "Southbound",
+          "latitude": 33.379547937,
+          "longitude": -111.649386863
+        },
+        "url": "https://az511.gov/map/Cctv/4314--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 56.91 @40th St",
+          "direction": "Westbound",
+          "latitude": 33.2929391550001,
+          "longitude": -111.997846605
+        },
+        "url": "https://az511.gov/map/Cctv/4355--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 58.91 @24th St",
+          "direction": "Westbound",
+          "latitude": 33.2930250810001,
+          "longitude": -112.032689955
+        },
+        "url": "https://az511.gov/map/Cctv/4357--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 61.72 @W of Desert Foothills",
+          "direction": "Eastbound",
+          "latitude": 33.290404311,
+          "longitude": -112.077243043
+        },
+        "url": "https://az511.gov/map/Cctv/4360--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 62.69 @17th Ave",
+          "direction": "Westbound",
+          "latitude": 33.292767301,
+          "longitude": -112.097779567
+        },
+        "url": "https://az511.gov/map/Cctv/4361--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 63.83 @W of 17th Ave",
+          "direction": "Eastbound",
+          "latitude": 33.290662092,
+          "longitude": -112.113719004
+        },
+        "url": "https://az511.gov/map/Cctv/4362--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 64.69 @Bend",
+          "direction": "Eastbound",
+          "latitude": 33.290997776,
+          "longitude": -112.132148665
+        },
+        "url": "https://az511.gov/map/Cctv/4363--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 65.71 @S of Ivanhoe",
+          "direction": "Eastbound",
+          "latitude": 33.3027697580001,
+          "longitude": -112.145381405
+        },
+        "url": "https://az511.gov/map/Cctv/4364--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 66.91 @Ivanhoe",
+          "direction": "Eastbound",
+          "latitude": 33.311706154,
+          "longitude": -112.155177069
+        },
+        "url": "https://az511.gov/map/Cctv/4365--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 67.89 @51st ave",
+          "direction": "Eastbound",
+          "latitude": 33.325196674,
+          "longitude": -112.168323882
+        },
+        "url": "https://az511.gov/map/Cctv/4366--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 68.53 @Estrella Dr",
+          "direction": "Westbound",
+          "latitude": 33.3352501190001,
+          "longitude": -112.175112106
+        },
+        "url": "https://az511.gov/map/Cctv/4367--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 69.83 @Elliot",
+          "direction": "Eastbound",
+          "latitude": 33.3471939560001,
+          "longitude": -112.191266359
+        },
+        "url": "https://az511.gov/map/Cctv/4368--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 70.93 @Dobbins",
+          "direction": "Westbound",
+          "latitude": 33.362059306,
+          "longitude": -112.190664871
+        },
+        "url": "https://az511.gov/map/Cctv/4369--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 71.81 @Baseline",
+          "direction": "Westbound",
+          "latitude": 33.376495022,
+          "longitude": -112.188001138
+        },
+        "url": "https://az511.gov/map/Cctv/4370--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 72.83 @Southern",
+          "direction": "Eastbound",
+          "latitude": 33.3911387200001,
+          "longitude": -112.192507651
+        },
+        "url": "https://az511.gov/map/Cctv/4371--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 73.77 @Broadway",
+          "direction": "Westbound",
+          "latitude": 33.4070849920001,
+          "longitude": -112.190235237
+        },
+        "url": "https://az511.gov/map/Cctv/4372--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 75.13 @Lower Buckeye",
+          "direction": "Eastbound",
+          "latitude": 33.425301491,
+          "longitude": -112.19040709
+        },
+        "url": "https://az511.gov/map/Cctv/4373--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 75.98 @Buckeye",
+          "direction": "Westbound",
+          "latitude": 33.436042351,
+          "longitude": -112.185509258
+        },
+        "url": "https://az511.gov/map/Cctv/4374--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 EB 76.97 @Van Buren",
+          "direction": "Eastbound",
+          "latitude": 33.4505639930001,
+          "longitude": -112.187485576
+        },
+        "url": "https://az511.gov/map/Cctv/4375--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-202 WB 77.69 @I10",
+          "direction": "Westbound",
+          "latitude": 33.4614314340001,
+          "longitude": -112.184969885
+        },
+        "url": "https://az511.gov/map/Cctv/4376--5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-303 EB 136.89 @35th ave",
+          "direction": "Eastbound",
+          "latitude": 33.7688367000001,
+          "longitude": -112.16880988
+        },
+        "url": "https://az511.gov/map/Cctv/4291--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-303 NB 104.24 @MCDOWELL",
+          "direction": "Northbound",
+          "latitude": 33.4659687020001,
+          "longitude": -112.42615608
+        },
+        "url": "https://az511.gov/map/Cctv/4383--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-303 NB 105.24 @THOMAS",
+          "direction": "Northbound",
+          "latitude": 33.4799126980001,
+          "longitude": -112.423070798
+        },
+        "url": "https://az511.gov/map/Cctv/4384--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-303 NB 106.11 @INDIAN SCHOOOL",
+          "direction": "Northbound",
+          "latitude": 33.492771056,
+          "longitude": -112.420213385
+        },
+        "url": "https://az511.gov/map/Cctv/4385--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-303 NB 107.13 @CAMELBACK",
+          "direction": "Northbound",
+          "latitude": 33.507504075,
+          "longitude": -112.41809923
+        },
+        "url": "https://az511.gov/map/Cctv/4386--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-303 SB 108.14 @BETHANY HOME",
+          "direction": "Southbound",
+          "latitude": 33.522269243,
+          "longitude": -112.419015829
+        },
+        "url": "https://az511.gov/map/Cctv/4387--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "L-303 NB 109.15 @GLENDALE",
+          "direction": "Northbound",
+          "latitude": 33.5363182880001,
+          "longitude": -112.417818223
+        },
+        "url": "https://az511.gov/map/Cctv/4388--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-143 NB 1.68 @Sky Harbor",
+          "direction": "Northbound",
+          "latitude": 33.436282626,
+          "longitude": -111.978664288
+        },
+        "url": "https://az511.gov/map/Cctv/4141--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-143 NB 0.51 @University",
+          "direction": "Northbound",
+          "latitude": 33.418307418,
+          "longitude": -111.977817142
+        },
+        "url": "https://az511.gov/map/Cctv/4165--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-143 NB 1.41 @N of University",
+          "direction": "Northbound",
+          "latitude": 33.431238896,
+          "longitude": -111.977972921
+        },
+        "url": "https://az511.gov/map/Cctv/4166--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-143 SB 2.38 @Washington",
+          "direction": "Southbound",
+          "latitude": 33.445084036,
+          "longitude": -111.981449948
+        },
+        "url": "https://az511.gov/map/Cctv/4167--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-143 SB 3.32 @L202",
+          "direction": "Southbound",
+          "latitude": 33.4584410320001,
+          "longitude": -111.983389884
+        },
+        "url": "https://az511.gov/map/Cctv/4168--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-260 EB 302.40 @Heber",
+          "direction": "Eastbound",
+          "latitude": 34.4395525480001,
+          "longitude": -110.622367855
+        },
+        "url": "https://az511.gov/map/Cctv/4037--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-260 WB 302.40 @Heber",
+          "direction": "Westbound",
+          "latitude": 34.439415212,
+          "longitude": -110.622351698
+        },
+        "url": "https://az511.gov/map/Cctv/4038--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-260 EB 335.17 @Show Low",
+          "direction": "Eastbound",
+          "latitude": 34.2847849300001,
+          "longitude": -110.1181209
+        },
+        "url": "https://az511.gov/map/Cctv/4544--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-264 WB 466.41",
+          "direction": "Westbound",
+          "latitude": 35.679234378,
+          "longitude": -109.205553469
+        },
+        "url": "https://az511.gov/map/Cctv/11660.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-264 EB 466.41",
+          "direction": "Eastbound",
+          "latitude": 35.679234378,
+          "longitude": -109.205553469
+        },
+        "url": "https://az511.gov/map/Cctv/11660.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-264 WB 447.50 @Ganado - DMS433",
+          "direction": "Westbound",
+          "latitude": 35.7097825000001,
+          "longitude": -109.5312013
+        },
+        "url": "https://az511.gov/map/Cctv/4559--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-264 WB 475.00 @Window Rock - DMS343",
+          "direction": "Westbound",
+          "latitude": 35.6634313600001,
+          "longitude": -109.0511787
+        },
+        "url": "https://az511.gov/map/Cctv/4560--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  171.15 @Farrell",
+          "direction": null,
+          "latitude": 33.0291386000001,
+          "longitude": -112.04797597
+        },
+        "url": "https://az511.gov/map/Cctv/4448--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  172.72 @Altera",
+          "direction": null,
+          "latitude": 33.04774158,
+          "longitude": -112.04779253
+        },
+        "url": "https://az511.gov/map/Cctv/4449--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  173.46 @Maricopa-Casa Grande",
+          "direction": null,
+          "latitude": 33.0568696300001,
+          "longitude": -112.04792516
+        },
+        "url": "https://az511.gov/map/Cctv/4450--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  174.15 @Edison",
+          "direction": null,
+          "latitude": 33.06530859,
+          "longitude": -112.04802341
+        },
+        "url": "https://az511.gov/map/Cctv/4451--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  174.66 @Smith Enke",
+          "direction": null,
+          "latitude": 33.0722313000001,
+          "longitude": -112.0445798
+        },
+        "url": "https://az511.gov/map/Cctv/4452--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  174.81 @Cobblestone North",
+          "direction": null,
+          "latitude": 33.08382863,
+          "longitude": -112.03854456
+        },
+        "url": "https://az511.gov/map/Cctv/4453--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  178.39 @Casablanca",
+          "direction": null,
+          "latitude": 33.1235416700001,
+          "longitude": -112.01726721
+        },
+        "url": "https://az511.gov/map/Cctv/4454--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  182.40 @Gila River-Sand Gravel pit",
+          "direction": null,
+          "latitude": 33.1801408700001,
+          "longitude": -112.00145586
+        },
+        "url": "https://az511.gov/map/Cctv/4455--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  185.30 @Riggs",
+          "direction": null,
+          "latitude": 33.21937316,
+          "longitude": -111.989136778
+        },
+        "url": "https://az511.gov/map/Cctv/4456--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-347  173.17 @Honeycutt",
+          "direction": null,
+          "latitude": 33.05289981,
+          "longitude": -112.04893984
+        },
+        "url": "https://az511.gov/map/Cctv/4517--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-377 EB 0.07",
+          "direction": "Eastbound",
+          "latitude": 34.464866885,
+          "longitude": -110.476140428
+        },
+        "url": "https://az511.gov/map/Cctv/11656.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-377 WB 0.07",
+          "direction": "Westbound",
+          "latitude": 34.464866885,
+          "longitude": -110.476140428
+        },
+        "url": "https://az511.gov/map/Cctv/11656.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 15.76 @SR51/L101 Overpass",
+          "direction": "Northbound",
+          "latitude": 33.668754731,
+          "longitude": -111.999409746
+        },
+        "url": "https://az511.gov/map/Cctv/4115--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 14.66 @Union Hills",
+          "direction": "Northbound",
+          "latitude": 33.6557884110001,
+          "longitude": -111.999603282
+        },
+        "url": "https://az511.gov/map/Cctv/4138--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 14.07 @N of Bell",
+          "direction": "Northbound",
+          "latitude": 33.647308787,
+          "longitude": -112.000508014
+        },
+        "url": "https://az511.gov/map/Cctv/4139--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 13.56 @Bell",
+          "direction": "Northbound",
+          "latitude": 33.6400808000001,
+          "longitude": -112.002648771
+        },
+        "url": "https://az511.gov/map/Cctv/4140--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 1.00 @N of McDowell",
+          "direction": "Northbound",
+          "latitude": 33.4723883520001,
+          "longitude": -112.038313872
+        },
+        "url": "https://az511.gov/map/Cctv/4156--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 2.18 @N of Thomas",
+          "direction": "Northbound",
+          "latitude": 33.4886875730001,
+          "longitude": -112.04244112
+        },
+        "url": "https://az511.gov/map/Cctv/4157--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 3.09 @S of Highland",
+          "direction": "Northbound",
+          "latitude": 33.50163115,
+          "longitude": -112.043372722
+        },
+        "url": "https://az511.gov/map/Cctv/4158--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 SB 3.83 @Colter St",
+          "direction": "Southbound",
+          "latitude": 33.5122921340001,
+          "longitude": -112.044623441
+        },
+        "url": "https://az511.gov/map/Cctv/4159--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 SB 4.48 @Bethany Home",
+          "direction": "Southbound",
+          "latitude": 33.521738192,
+          "longitude": -112.044374341
+        },
+        "url": "https://az511.gov/map/Cctv/4160--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 SB 5.14 @S of Glendale",
+          "direction": "Southbound",
+          "latitude": 33.531375891,
+          "longitude": -112.043425465
+        },
+        "url": "https://az511.gov/map/Cctv/4161--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 SB 5.82 @N of Glendale",
+          "direction": "Southbound",
+          "latitude": 33.541234542,
+          "longitude": -112.041538978
+        },
+        "url": "https://az511.gov/map/Cctv/4162--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 6.71 @S of Northern",
+          "direction": "Northbound",
+          "latitude": 33.553666337,
+          "longitude": -112.037504162
+        },
+        "url": "https://az511.gov/map/Cctv/4195--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 SB 7.41 @N of Northern",
+          "direction": "Southbound",
+          "latitude": 33.5634628830001,
+          "longitude": -112.036725743
+        },
+        "url": "https://az511.gov/map/Cctv/4196--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 SB 8.33 @S of 32nd St",
+          "direction": "Southbound",
+          "latitude": 33.5716815110001,
+          "longitude": -112.024420572
+        },
+        "url": "https://az511.gov/map/Cctv/4197--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 9.13 @S of Shea",
+          "direction": "Northbound",
+          "latitude": 33.576944327,
+          "longitude": -112.01213643
+        },
+        "url": "https://az511.gov/map/Cctv/4198--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 10.09 @S of Cactus",
+          "direction": "Northbound",
+          "latitude": 33.590743633,
+          "longitude": -112.00909094
+        },
+        "url": "https://az511.gov/map/Cctv/4199--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 11.06 @S of Thunderbird",
+          "direction": "Northbound",
+          "latitude": 33.604898828,
+          "longitude": -112.00920457
+        },
+        "url": "https://az511.gov/map/Cctv/4200--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 SB 12.06 @S of Greenway",
+          "direction": "Southbound",
+          "latitude": 33.6195100570001,
+          "longitude": -112.009698282
+        },
+        "url": "https://az511.gov/map/Cctv/4201--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-51 NB 13.06 @S of Bell",
+          "direction": "Northbound",
+          "latitude": 33.6330040020001,
+          "longitude": -112.003856862
+        },
+        "url": "https://az511.gov/map/Cctv/4202--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-64 SB 213.90 @Williams",
+          "direction": "Southbound",
+          "latitude": 35.6578778690001,
+          "longitude": -112.138600125
+        },
+        "url": "https://az511.gov/map/Cctv/4047--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-64 NB 213.90 @Williams",
+          "direction": "Northbound",
+          "latitude": 35.6578832380001,
+          "longitude": -112.13872633
+        },
+        "url": "https://az511.gov/map/Cctv/4048--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-64 NB 213.90 @Williams - DMS364 - Cam01",
+          "direction": "Northbound",
+          "latitude": 35.6580500000001,
+          "longitude": -112.138656
+        },
+        "url": "https://az511.gov/map/Cctv/4549--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-64 WB 213.90 @Williams - DMS364 - Cam02",
+          "direction": "Westbound",
+          "latitude": 35.6580500000001,
+          "longitude": -112.138656
+        },
+        "url": "https://az511.gov/map/Cctv/4550--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-69 EB 282.10 @Dewey",
+          "direction": "Eastbound",
+          "latitude": 34.5421829650001,
+          "longitude": -112.247447901
+        },
+        "url": "https://az511.gov/map/Cctv/4051--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-69 WB 282.10 @Dewey",
+          "direction": "Westbound",
+          "latitude": 34.542107136,
+          "longitude": -112.247617612
+        },
+        "url": "https://az511.gov/map/Cctv/4052--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-77 SB 375.52",
+          "direction": "Southbound",
+          "latitude": 34.7191805630001,
+          "longitude": -110.113856153
+        },
+        "url": "https://az511.gov/map/Cctv/11658.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-77 NB 375.52",
+          "direction": "Northbound",
+          "latitude": 34.7191805630001,
+          "longitude": -110.113856153
+        },
+        "url": "https://az511.gov/map/Cctv/11658.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-77 SB 387.50 @Holbrook",
+          "direction": "Southbound",
+          "latitude": 34.8878060690001,
+          "longitude": -110.162637061
+        },
+        "url": "https://az511.gov/map/Cctv/4049--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-77 SB 387.50 @Holbrook - DMS401 - Cam02",
+          "direction": "Southbound",
+          "latitude": 34.8890910000001,
+          "longitude": -110.162501
+        },
+        "url": "https://az511.gov/map/Cctv/4561--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-87 NB 291.36",
+          "direction": "Northbound",
+          "latitude": 34.5522699690001,
+          "longitude": -111.298989029
+        },
+        "url": "https://az511.gov/map/Cctv/11654.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-87 SB 291.36",
+          "direction": "Southbound",
+          "latitude": 34.5522699690001,
+          "longitude": -111.298989029
+        },
+        "url": "https://az511.gov/map/Cctv/11654.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-87 SB 339.90 @Winslow",
+          "direction": "Southbound",
+          "latitude": 34.9919162310001,
+          "longitude": -110.709181469
+        },
+        "url": "https://az511.gov/map/Cctv/4041--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-87 NB 339.90 @Winslow",
+          "direction": "Northbound",
+          "latitude": 34.9918652120001,
+          "longitude": -110.709092857
+        },
+        "url": "https://az511.gov/map/Cctv/4042--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-88 NB 211.00 @Canyon Lakes - DMS455 - Cam01",
+          "direction": "Northbound",
+          "latitude": 33.5341300000001,
+          "longitude": -111.42291
+        },
+        "url": "https://az511.gov/map/Cctv/4565--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-89A NB 375.00 @Oak Creek",
+          "direction": "Northbound",
+          "latitude": 34.8775224770001,
+          "longitude": -111.75198787
+        },
+        "url": "https://az511.gov/map/Cctv/4039--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-89A SB 398.00 @Oak Creek",
+          "direction": "Southbound",
+          "latitude": 35.1264491970001,
+          "longitude": -111.692624456
+        },
+        "url": "https://az511.gov/map/Cctv/4040--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-89A SB 402.36 @Milton",
+          "direction": "Southbound",
+          "latitude": 35.1820481300001,
+          "longitude": -111.6618433
+        },
+        "url": "https://az511.gov/map/Cctv/4537--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-89A NB 375.00 @Oak Creek - DMS435 - Cam01",
+          "direction": "Northbound",
+          "latitude": 34.87752248,
+          "longitude": -111.7519879
+        },
+        "url": "https://az511.gov/map/Cctv/4551--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-90 SB 306.41 @Whetstone",
+          "direction": "Southbound",
+          "latitude": 31.7116965800001,
+          "longitude": -110.3532416
+        },
+        "url": "https://az511.gov/map/Cctv/4543--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-95 NB 143.00 @Parker",
+          "direction": "Northbound",
+          "latitude": 34.138375721,
+          "longitude": -114.281604333
+        },
+        "url": "https://az511.gov/map/Cctv/4043--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-95 SB 143.00 @Parker",
+          "direction": "Southbound",
+          "latitude": 34.138289795,
+          "longitude": -114.281811095
+        },
+        "url": "https://az511.gov/map/Cctv/4044--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 172.37 @Priest",
+          "direction": "Westbound",
+          "latitude": 33.387955705,
+          "longitude": -111.961766057
+        },
+        "url": "https://az511.gov/map/Cctv/4217--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 173.06 @E of Priest",
+          "direction": "Eastbound",
+          "latitude": 33.3853377500001,
+          "longitude": -111.950132614
+        },
+        "url": "https://az511.gov/map/Cctv/4218--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 174.07 @Mill",
+          "direction": "Westbound",
+          "latitude": 33.386069476,
+          "longitude": -111.932597801
+        },
+        "url": "https://az511.gov/map/Cctv/4219--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 174.61 @Rural",
+          "direction": "Westbound",
+          "latitude": 33.3860703300001,
+          "longitude": -111.923135805
+        },
+        "url": "https://az511.gov/map/Cctv/4220--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 174.94 @E of Rural",
+          "direction": "Westbound",
+          "latitude": 33.3860704960001,
+          "longitude": -111.91740652
+        },
+        "url": "https://az511.gov/map/Cctv/4221--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 175.34 @McClintock",
+          "direction": "Westbound",
+          "latitude": 33.3859975190001,
+          "longitude": -111.910461934
+        },
+        "url": "https://az511.gov/map/Cctv/4222--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 175.92 @E of McClintock",
+          "direction": "Eastbound",
+          "latitude": 33.3851227430001,
+          "longitude": -111.900566061
+        },
+        "url": "https://az511.gov/map/Cctv/4223--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 177.15 @E of L-101",
+          "direction": "Eastbound",
+          "latitude": 33.385118291,
+          "longitude": -111.879732532
+        },
+        "url": "https://az511.gov/map/Cctv/4224--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 178.08 @E of Dobson",
+          "direction": "Eastbound",
+          "latitude": 33.3852579370001,
+          "longitude": -111.863239221
+        },
+        "url": "https://az511.gov/map/Cctv/4225--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 178.95 @E of Alma School",
+          "direction": "Eastbound",
+          "latitude": 33.3853961660001,
+          "longitude": -111.848134784
+        },
+        "url": "https://az511.gov/map/Cctv/4226--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 179.31 @Country Club",
+          "direction": "Westbound",
+          "latitude": 33.386557877,
+          "longitude": -111.842144127
+        },
+        "url": "https://az511.gov/map/Cctv/4227--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 179.91 @W of Mesa",
+          "direction": "Eastbound",
+          "latitude": 33.3854587290001,
+          "longitude": -111.831554652
+        },
+        "url": "https://az511.gov/map/Cctv/4228--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 180.84 @E of Mesa",
+          "direction": "Westbound",
+          "latitude": 33.3867569920001,
+          "longitude": -111.814886251
+        },
+        "url": "https://az511.gov/map/Cctv/4229--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 181.95 @E of Stapley",
+          "direction": "Eastbound",
+          "latitude": 33.3857207610001,
+          "longitude": -111.796223957
+        },
+        "url": "https://az511.gov/map/Cctv/4230--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 182.31 @Gilbert",
+          "direction": "Westbound",
+          "latitude": 33.3867341490001,
+          "longitude": -111.790059199
+        },
+        "url": "https://az511.gov/map/Cctv/4231--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 182.87 @E of Gilbert",
+          "direction": "Eastbound",
+          "latitude": 33.3859002830001,
+          "longitude": -111.780076044
+        },
+        "url": "https://az511.gov/map/Cctv/4232--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 183.88 @W of Val Vista",
+          "direction": "Westbound",
+          "latitude": 33.3867837190001,
+          "longitude": -111.762742912
+        },
+        "url": "https://az511.gov/map/Cctv/4233--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 185.41 @Greenfield",
+          "direction": "Westbound",
+          "latitude": 33.3867969290001,
+          "longitude": -111.736145167
+        },
+        "url": "https://az511.gov/map/Cctv/4263--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 186.40 @Higley",
+          "direction": "Eastbound",
+          "latitude": 33.3860616480001,
+          "longitude": -111.719022026
+        },
+        "url": "https://az511.gov/map/Cctv/4264--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 187.49 @W of Superstition ",
+          "direction": "Westbound",
+          "latitude": 33.386958764,
+          "longitude": -111.700254242
+        },
+        "url": "https://az511.gov/map/Cctv/4265--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 188.40 @Power",
+          "direction": "Westbound",
+          "latitude": 33.3869974130001,
+          "longitude": -111.684454693
+        },
+        "url": "https://az511.gov/map/Cctv/4266--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 190.49 @L-202N Super Red Tan",
+          "direction": "Westbound",
+          "latitude": 33.3879934030001,
+          "longitude": -111.648292314
+        },
+        "url": "https://az511.gov/map/Cctv/4267--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 189.40 @Sossaman",
+          "direction": "Westbound",
+          "latitude": 33.387093325,
+          "longitude": -111.667174701
+        },
+        "url": "https://az511.gov/map/Cctv/4268--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 190.50 @L-202S Super Red Tan",
+          "direction": "Eastbound",
+          "latitude": 33.3857227680001,
+          "longitude": -111.648191571
+        },
+        "url": "https://az511.gov/map/Cctv/4269--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 191.41 @Ellsworth",
+          "direction": "Westbound",
+          "latitude": 33.387161319,
+          "longitude": -111.632488039
+        },
+        "url": "https://az511.gov/map/Cctv/4270--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 184.41 @Val Vista",
+          "direction": "Eastbound",
+          "latitude": 33.386029131,
+          "longitude": -111.753508108
+        },
+        "url": "https://az511.gov/map/Cctv/4271--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 192.44 @Crismon",
+          "direction": "Westbound",
+          "latitude": 33.386931367,
+          "longitude": -111.614925638
+        },
+        "url": "https://az511.gov/map/Cctv/4272--14",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 EB 246.77 @Globe - DMS469 - Cam01",
+          "direction": "Eastbound",
+          "latitude": 33.4146190000001,
+          "longitude": -110.833797
+        },
+        "url": "https://az511.gov/map/Cctv/4553--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 246.77 @Globe - DMS332 - Cam01",
+          "direction": "Westbound",
+          "latitude": 33.4148710000001,
+          "longitude": -110.833799
+        },
+        "url": "https://az511.gov/map/Cctv/4554--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-60 WB 252.60 @Globe - DMS414",
+          "direction": "Westbound",
+          "latitude": 33.3933164100001,
+          "longitude": -110.7625032
+        },
+        "url": "https://az511.gov/map/Cctv/4555--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-89 NB 462.70 @Gray Mtn - DMS360",
+          "direction": "Northbound",
+          "latitude": 35.8213811700001,
+          "longitude": -111.4403868
+        },
+        "url": "https://az511.gov/map/Cctv/4552--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-93 NB 135.00",
+          "direction": "Northbound",
+          "latitude": 34.579783465,
+          "longitude": -113.492670501
+        },
+        "url": "https://az511.gov/map/Cctv/1.C1--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-93 SB 135.00",
+          "direction": "Southbound",
+          "latitude": 34.579783465,
+          "longitude": -113.492670501
+        },
+        "url": "https://az511.gov/map/Cctv/11653.C2--16",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-93 SB 66.40 @Kingman POE - DMS379",
+          "direction": "Southbound",
+          "latitude": 35.22812795,
+          "longitude": -114.1350294
+        },
+        "url": "https://az511.gov/map/Cctv/4564--15",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ]
   }
 }
