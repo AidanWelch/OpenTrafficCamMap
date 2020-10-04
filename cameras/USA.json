@@ -116561,5 +116561,4387 @@
         "marked_for_review": false
       }
     ]
+  },
+  "Idaho": {
+    "other": [
+      {
+        "location": {
+          "description": "Shoshone County Line, 11 miles north of the Bovill area, Pavement",
+          "latitude": 46.97356,
+          "longitude": -116.27587
+        },
+        "url": "https://birice.vaisala.com/photos/03B5969E_06A3B6F4_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Shoshone County Line, 11 miles north of the Bovill area, South",
+          "latitude": 46.97356,
+          "longitude": -116.27587
+        },
+        "url": "https://birice.vaisala.com/photos/03B5969E_06A3B6F4_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Deary, near Deary, West",
+          "latitude": 46.79882,
+          "longitude": -116.55199
+        },
+        "url": "https://birice.vaisala.com/photos/0389319E_065D792F_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Deary, near Deary, East",
+          "latitude": 46.79882,
+          "longitude": -116.55199
+        },
+        "url": "https://birice.vaisala.com/photos/0389319E_065D792F_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Deary, near Deary, Pavement",
+          "latitude": 46.79882,
+          "longitude": -116.55199
+        },
+        "url": "https://birice.vaisala.com/photos/0389319E_065D792F_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Harvard Hill, 17 miles east of the Onaway area, West",
+          "latitude": 47.06665,
+          "longitude": -116.66693
+        },
+        "url": "https://birice.vaisala.com/photos/04BC3928_064040B7_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Harvard Hill, 17 miles east of the Onaway area, Northeast",
+          "latitude": 47.06665,
+          "longitude": -116.66693
+        },
+        "url": "https://birice.vaisala.com/photos/04BC3928_064040B7_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Harvard Hill, 17 miles east of the Onaway area, Pavement",
+          "latitude": 47.06665,
+          "longitude": -116.66693
+        },
+        "url": "https://birice.vaisala.com/photos/04BC3928_064040B7_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Top of Greer Grade, 7 miles south of the Weippe area, Southeast",
+          "latitude": 46.38213,
+          "longitude": -116.12775
+        },
+        "url": "https://birice.vaisala.com/photos/031F2EEE_06C97695_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Top of Greer Grade, 7 miles south of the Weippe area, Northwest",
+          "latitude": 46.38213,
+          "longitude": -116.12775
+        },
+        "url": "https://birice.vaisala.com/photos/031F2EEE_06C97695_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Elk City, undefined, SH-14",
+          "latitude": 45.827329827540986,
+          "longitude": -115.44039
+        },
+        "url": "https://birice.vaisala.com/photos/03814485_066AB299_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Highland Valley Summit, 5 miles north of the Boise area, Southwest View",
+          "latitude": 43.57011,
+          "longitude": -116.03198
+        },
+        "url": "https://birice.vaisala.com/photos/03212210_06E1B86F_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Highland Valley Summit, 5 miles north of the Boise area, Northeast View",
+          "latitude": 43.57011,
+          "longitude": -116.03198
+        },
+        "url": "https://birice.vaisala.com/photos/03212210_06E1B86F_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Gilmore Summit, 16 miles south of the Leadore area, North View",
+          "latitude": 44.45622,
+          "longitude": -113.24143
+        },
+        "url": "https://birice.vaisala.com/photos/0313725F_067EC57D_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Gilmore Summit, 16 miles south of the Leadore area, South View",
+          "latitude": 44.45622,
+          "longitude": -113.24143
+        },
+        "url": "https://birice.vaisala.com/photos/0313725F_067EC57D_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lone Pine, 33 miles north of the Mud Lake area, Northwest View",
+          "latitude": 44.20014,
+          "longitude": -112.95079
+        },
+        "url": "https://birice.vaisala.com/photos/02D24E06_05BB0D52_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lone Pine, 33 miles north of the Mud Lake area, Southwest View",
+          "latitude": 44.20014,
+          "longitude": -112.95079
+        },
+        "url": "https://birice.vaisala.com/photos/02D24E06_05BB0D52_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Botts, near Tetonia, West View",
+          "latitude": 43.8787,
+          "longitude": -111.36294
+        },
+        "url": "https://birice.vaisala.com/photos/036F71CE_0641440C_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Botts, near Tetonia, East View",
+          "latitude": 43.8787,
+          "longitude": -111.36294
+        },
+        "url": "https://birice.vaisala.com/photos/036F71CE_0641440C_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Botts, near Tetonia, Pavement",
+          "latitude": 43.8787,
+          "longitude": -111.36294
+        },
+        "url": "https://birice.vaisala.com/photos/036F71CE_0641440C_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling, 10 miles east of the Aberdeen area, North View",
+          "latitude": 43.08132,
+          "longitude": -112.77848
+        },
+        "url": "https://birice.vaisala.com/photos/0294CEAB_069EF581_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling, 10 miles east of the Aberdeen area, Pavement",
+          "latitude": 43.08132,
+          "longitude": -112.77848
+        },
+        "url": "https://birice.vaisala.com/photos/0294CEAB_069EF581_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sterling, 10 miles east of the Aberdeen area, South",
+          "latitude": 43.08132,
+          "longitude": -112.77848
+        },
+        "url": "https://birice.vaisala.com/photos/0294CEAB_069EF581_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seasons, 1 mile south of the Spirit Lake area, North",
+          "latitude": 47.92613,
+          "longitude": -116.85016
+        },
+        "url": "https://birice.vaisala.com/photos/03b8b650_0611c919_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seasons, 1 mile south of the Spirit Lake area, South",
+          "latitude": 47.92613,
+          "longitude": -116.85016
+        },
+        "url": "https://birice.vaisala.com/photos/03b8b650_0611c919_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Seasons, 1 mile south of the Spirit Lake area, Pavement",
+          "latitude": 47.92613,
+          "longitude": -116.85016
+        },
+        "url": "https://birice.vaisala.com/photos/03b8b650_0611c919_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Gwynn Ranch Hill, 12 miles north of the Gooding area, East View",
+          "latitude": 43.1239841149479,
+          "longitude": -114.66017421385739
+        },
+        "url": "https://birice.vaisala.com/photos/02afc074_062368d1_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Gwynn Ranch Hill, 12 miles north of the Gooding area, South View",
+          "latitude": 43.1239841149479,
+          "longitude": -114.66017421385739
+        },
+        "url": "https://birice.vaisala.com/photos/02afc074_062368d1_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Horseshoe Bend Hill, 5 miles south of the Horseshoe Bend area, Northeast",
+          "latitude": 43.83625,
+          "longitude": -116.24556
+        },
+        "url": "https://birice.vaisala.com/photos/0364D6F6_06AB79B7_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Horseshoe Bend Hill, 5 miles south of the Horseshoe Bend area, Southeast",
+          "latitude": 43.83625,
+          "longitude": -116.24556
+        },
+        "url": "https://birice.vaisala.com/photos/0364D6F6_06AB79B7_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Goose Creek Summit, near McCall, North",
+          "latitude": 44.92948,
+          "longitude": -116.155
+        },
+        "url": "https://birice.vaisala.com/photos/038db8db_06c28994_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Goose Creek Summit, near McCall, South",
+          "latitude": 44.92948,
+          "longitude": -116.155
+        },
+        "url": "https://birice.vaisala.com/photos/038db8db_06c28994_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Little Donner, 3 miles north of the Cascade area, Southeast View",
+          "latitude": 44.58017,
+          "longitude": -116.04
+        },
+        "url": "https://birice.vaisala.com/photos/0332F5DD_06DFDE42_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Little Donner, 3 miles north of the Cascade area, North View",
+          "latitude": 44.58017,
+          "longitude": -116.04
+        },
+        "url": "https://birice.vaisala.com/photos/0332F5DD_06DFDE42_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smiths Ferry, 14 miles south of the Cascade area, North",
+          "latitude": 44.3006,
+          "longitude": -116.08913
+        },
+        "url": "https://birice.vaisala.com/photos/02A771B8_06E40F64_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smiths Ferry, 14 miles south of the Cascade area, South",
+          "latitude": 44.3006,
+          "longitude": -116.08913
+        },
+        "url": "https://birice.vaisala.com/photos/02A771B8_06E40F64_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wood River, 3 miles south of the Sun Valley area, Southwest",
+          "latitude": 43.594569,
+          "longitude": -114.34399
+        },
+        "url": "https://birice.vaisala.com/photos/0328AA3B_06731EA2_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wood River, 3 miles south of the Sun Valley area, West",
+          "latitude": 43.594569,
+          "longitude": -114.34399
+        },
+        "url": "https://birice.vaisala.com/photos/0328AA3B_06731EA2_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wood River, 3 miles south of the Sun Valley area, Pavement",
+          "latitude": 43.594569,
+          "longitude": -114.34399
+        },
+        "url": "https://birice.vaisala.com/photos/0328AA3B_06731EA2_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Timmerman Hill, 8 miles south of the Bellevue area, South View",
+          "latitude": 43.32534,
+          "longitude": -114.28078
+        },
+        "url": "https://birice.vaisala.com/photos/02E2EC7F_0683F6B3_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Timmerman Hill, 8 miles south of the Bellevue area, North View",
+          "latitude": 43.32534,
+          "longitude": -114.28078
+        },
+        "url": "https://birice.vaisala.com/photos/02E2EC7F_0683F6B3_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Timmerman Hill, 8 miles south of the Bellevue area, Pavement",
+          "latitude": 43.32534,
+          "longitude": -114.28078
+        },
+        "url": "https://birice.vaisala.com/photos/02E2EC7F_0683F6B3_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kinsey Butte, 10 miles north of the Shoshone area, Pavement",
+          "latitude": 43.0962,
+          "longitude": -114.372
+        },
+        "url": "https://birice.vaisala.com/photos/02A89B07_066CEA17_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kinsey Butte, 10 miles north of the Shoshone area, South",
+          "latitude": 43.0962,
+          "longitude": -114.372
+        },
+        "url": "https://birice.vaisala.com/photos/02A89B07_066CEA17_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Conner Summit, 6 miles south of the Albion area, Northeast View",
+          "latitude": 42.33099,
+          "longitude": -113.49971
+        },
+        "url": "https://birice.vaisala.com/photos/02D5364C_063D0A3B_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Conner Summit, 6 miles south of the Albion area, Northwest View",
+          "latitude": 42.33099,
+          "longitude": -113.49971
+        },
+        "url": "https://birice.vaisala.com/photos/02D5364C_063D0A3B_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Conner Summit, 6 miles south of the Albion area, Pavement",
+          "latitude": 42.33099,
+          "longitude": -113.49971
+        },
+        "url": "https://birice.vaisala.com/photos/02D5364C_063D0A3B_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fort Hall Hill, 6 miles north of the Council area, View 1",
+          "latitude": 44.82611,
+          "longitude": -116.39712
+        },
+        "url": "https://birice.vaisala.com/photos/02AC1991_F90FDF6A_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fort Hall Hill, 6 miles north of the Council area, View 2",
+          "latitude": 44.82611,
+          "longitude": -116.39712
+        },
+        "url": "https://birice.vaisala.com/photos/02AC1991_F90FDF6A_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Shirrod Hill, 1 mile south of the Genesee area, South View",
+          "latitude": 46.51364241551249,
+          "longitude": -116.9522168599092
+        },
+        "url": "https://birice.vaisala.com/photos/02C5BC62_F9077333_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Shirrod Hill, 1 mile south of the Genesee area, North View",
+          "latitude": 46.51364241551249,
+          "longitude": -116.9522168599092
+        },
+        "url": "https://birice.vaisala.com/photos/02C5BC62_F9077333_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Shirrod Hill, 1 mile south of the Genesee area, Pavement",
+          "latitude": 46.51364241551249,
+          "longitude": -116.9522168599092
+        },
+        "url": "https://birice.vaisala.com/photos/02C5BC62_F9077333_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Marsh Hill, 12 miles south of the Tensed area, Southwest View",
+          "latitude": 47.05482,
+          "longitude": -116.86155
+        },
+        "url": "https://birice.vaisala.com/photos/02CDFFE4_F908D5A6_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Marsh Hill, 12 miles south of the Tensed area, Northwest View",
+          "latitude": 47.05482,
+          "longitude": -116.86155
+        },
+        "url": "https://birice.vaisala.com/photos/02CDFFE4_F908D5A6_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Winchester, 5 miles north of the Craigmont area, Southeast View",
+          "latitude": 46.25521,
+          "longitude": -116.605
+        },
+        "url": "https://birice.vaisala.com/photos/02C1CC4_F90CBF5E_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Winchester, 5 miles north of the Craigmont area, Northwest View",
+          "latitude": 46.25521,
+          "longitude": -116.605
+        },
+        "url": "https://birice.vaisala.com/photos/02C1CC4_F90CBF5E_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lewiston Hill, 4 miles north of the Lewiston area, Northwest",
+          "latitude": 46.46167,
+          "longitude": -117.01458
+        },
+        "url": "https://birice.vaisala.com/photos/03044a2a_06f490a7_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lewiston Hill, 4 miles north of the Lewiston area, East",
+          "latitude": 46.46167,
+          "longitude": -117.01458
+        },
+        "url": "https://birice.vaisala.com/photos/03044a2a_06f490a7_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lewiston Hill, 4 miles north of the Lewiston area, Pavement",
+          "latitude": 46.46167,
+          "longitude": -117.01458
+        },
+        "url": "https://birice.vaisala.com/photos/03044a2a_06f490a7_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smokey Boulder, 9 miles north of the New Meadows area, North",
+          "latitude": 45.11644,
+          "longitude": -116.304
+        },
+        "url": "https://birice.vaisala.com/photos/02CC5114_D69CEE8_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smokey Boulder, 9 miles north of the New Meadows area, South",
+          "latitude": 45.11644,
+          "longitude": -116.304
+        },
+        "url": "https://birice.vaisala.com/photos/02CC5114_D69CEE8_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smokey Boulder, 9 miles north of the New Meadows area, Pavement",
+          "latitude": 45.11644,
+          "longitude": -116.304
+        },
+        "url": "https://birice.vaisala.com/photos/02CC5114_D69CEE8_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Frei Hill, 2 miles north of the Cottonwood area, View 1",
+          "latitude": 46.11296,
+          "longitude": -116.3542
+        },
+        "url": "https://birice.vaisala.com/photos/02DACB55_068FFBF4_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Frei Hill, 2 miles north of the Cottonwood area, View 2",
+          "latitude": 46.11296,
+          "longitude": -116.3542
+        },
+        "url": "https://birice.vaisala.com/photos/02DACB55_068FFBF4_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Frei Hill, 2 miles north of the Cottonwood area, Pavement",
+          "latitude": 46.11296,
+          "longitude": -116.3542
+        },
+        "url": "https://birice.vaisala.com/photos/02DACB55_068FFBF4_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Concrete, 3 miles south of the Cottonwood area, Southeast View",
+          "latitude": 45.99679,
+          "longitude": -116.32507
+        },
+        "url": "https://birice.vaisala.com/photos/03AC46B8_0697568D_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Concrete, 3 miles south of the Cottonwood area, Northwest View",
+          "latitude": 45.99679,
+          "longitude": -116.32507
+        },
+        "url": "https://birice.vaisala.com/photos/03AC46B8_0697568D_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Five Mile Hill, 16 miles north of the Bonners Ferry area, Pavement View",
+          "latitude": 48.93215,
+          "longitude": -116.33071
+        },
+        "url": "https://birice.vaisala.com/photos/03C9815C_0695CB96_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Five Mile Hill, 16 miles north of the Bonners Ferry area, North View",
+          "latitude": 48.93215,
+          "longitude": -116.33071
+        },
+        "url": "https://birice.vaisala.com/photos/03C9815C_0695CB96_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alpowa Summit WA, 1 mile west of Lewiston, US-12",
+          "latitude": 46.43593,
+          "longitude": -117.42393
+        },
+        "url": "https://images.wsdot.wa.gov/rweather/alpowa_medium.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lolo Pass, 98 miles east of the Kooskia area, South View",
+          "latitude": 46.63496,
+          "longitude": -114.57963
+        },
+        "url": "https://birice.vaisala.com/photos/02D0637D_06BCBC1E_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lolo Pass, 98 miles east of the Kooskia area, Roadway",
+          "latitude": 46.63496,
+          "longitude": -114.57963
+        },
+        "url": "https://birice.vaisala.com/photos/02D0637D_06BCBC1E_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cottonwood Creek, 15 miles east of Lewiston, West View",
+          "latitude": 46.49984,
+          "longitude": -116.71357
+        },
+        "url": "https://birice.vaisala.com/photos/033D172E_065D792F_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cottonwood Creek, 15 miles east of Lewiston, East View",
+          "latitude": 46.49984,
+          "longitude": -116.71357
+        },
+        "url": "https://birice.vaisala.com/photos/033D172E_065D792F_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kamiah, near Kamiah, West View",
+          "latitude": 46.2467,
+          "longitude": -116.042
+        },
+        "url": "https://birice.vaisala.com/photos/02FCCBC3_06DF32D1_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kamiah, near Kamiah, East View",
+          "latitude": 46.2467,
+          "longitude": -116.042
+        },
+        "url": "https://birice.vaisala.com/photos/02FCCBC3_06DF32D1_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kamiah, near Kamiah, Pavement",
+          "latitude": 46.2467,
+          "longitude": -116.042
+        },
+        "url": "https://birice.vaisala.com/photos/02FCCBC3_06DF32D1_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pine Turnoff, 24 miles west of the Fairfield area, Northeast",
+          "latitude": 43.31365,
+          "longitude": -115.26654
+        },
+        "url": "https://birice.vaisala.com/photos/02E000E2_0696E273_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pine Turnoff, 24 miles west of the Fairfield area, Southwest",
+          "latitude": 43.31365,
+          "longitude": -115.26654
+        },
+        "url": "https://birice.vaisala.com/photos/02E000E2_0696E273_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pine Turnoff, 24 miles west of the Fairfield area, Pavement",
+          "latitude": 43.31365,
+          "longitude": -115.26654
+        },
+        "url": "https://birice.vaisala.com/photos/02E000E2_0696E273_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Henrys Lake, in Island Park, South",
+          "latitude": 44.61831,
+          "longitude": -111.33548
+        },
+        "url": "https://birice.vaisala.com/photos/033CAF03_066B9677_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Henrys Lake, in Island Park, North",
+          "latitude": 44.61831,
+          "longitude": -111.33548
+        },
+        "url": "https://birice.vaisala.com/photos/033CAF03_066B9677_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tom Cat Summit, 16 miles east of the Carey area, East",
+          "latitude": 43.40557,
+          "longitude": -113.62707
+        },
+        "url": "https://birice.vaisala.com/photos/02F75DC9_061CC258_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tom Cat Summit, 16 miles east of the Carey area, South",
+          "latitude": 43.40557,
+          "longitude": -113.62707
+        },
+        "url": "https://birice.vaisala.com/photos/02F75DC9_061CC258_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thornton, 3 miles west of the Rexburg area, East",
+          "latitude": 43.75538,
+          "longitude": -111.84968
+        },
+        "url": "https://birice.vaisala.com/photos/03507b5f_05c5d8fe_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thornton, 3 miles west of the Rexburg area, West",
+          "latitude": 43.75538,
+          "longitude": -111.84968
+        },
+        "url": "https://birice.vaisala.com/photos/03507b5f_05c5d8fe_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thornton, 3 miles west of the Rexburg area, Pavement",
+          "latitude": 43.75538,
+          "longitude": -111.84968
+        },
+        "url": "https://birice.vaisala.com/photos/03507b5f_05c5d8fe_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kettle Butte, 16 miles west of the Idaho Falls area, East View",
+          "latitude": 43.55415,
+          "longitude": -112.41853
+        },
+        "url": "https://birice.vaisala.com/photos/031D2DB1_F8E88F65_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kettle Butte, 16 miles west of the Idaho Falls area, West View",
+          "latitude": 43.55415,
+          "longitude": -112.41853
+        },
+        "url": "https://birice.vaisala.com/photos/031d2db1_f8e88f65_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kettle Butte, 16 miles west of the Idaho Falls area, Pavement",
+          "latitude": 43.55415,
+          "longitude": -112.41853
+        },
+        "url": "https://birice.vaisala.com/photos/031d2db1_f8e88f65_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ririe, 3 miles east of the Ririe area, West View",
+          "latitude": 43.61078,
+          "longitude": -111.70496
+        },
+        "url": "https://birice.vaisala.com/photos/032B8F55_05EA4B81_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ririe, 3 miles east of the Ririe area, East View",
+          "latitude": 43.61078,
+          "longitude": -111.70496
+        },
+        "url": "https://birice.vaisala.com/photos/032B8F55_05EA4B81_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Border Summit, 16 miles east of the Montpelier area, West View",
+          "latitude": 42.210775,
+          "longitude": -111.106367
+        },
+        "url": "https://birice.vaisala.com/photos/02864822_0699DE56_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Border Summit, 16 miles east of the Montpelier area, East View",
+          "latitude": 42.210775,
+          "longitude": -111.106367
+        },
+        "url": "https://birice.vaisala.com/photos/02864822_0699DE56_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fish Creek Summit, 3 miles east of the Lava Hot Springs area, Pavement",
+          "latitude": 42.6296,
+          "longitude": -111.91755
+        },
+        "url": "https://birice.vaisala.com/photos/0320490C_05B3CDDA_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fish Creek Summit, 3 miles east of the Lava Hot Springs area, South",
+          "latitude": 42.6296,
+          "longitude": -111.91755
+        },
+        "url": "https://birice.vaisala.com/photos/0320490C_05B3CDDA_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Georgetown Summit, 3 miles west of the Georgetown area, East",
+          "latitude": 42.53028,
+          "longitude": -111.40666
+        },
+        "url": "https://birice.vaisala.com/photos/028b9d27_0696ad48_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Georgetown Summit, 3 miles west of the Georgetown area, Pavement",
+          "latitude": 42.53028,
+          "longitude": -111.40666
+        },
+        "url": "https://birice.vaisala.com/photos/028b9d27_0696ad48_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Georgetown Summit, 3 miles west of the Georgetown area, West",
+          "latitude": 42.53028,
+          "longitude": -111.40666
+        },
+        "url": "https://birice.vaisala.com/photos/028b9d27_0696ad48_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lost Trail Pass, 44 miles north of the Salmon area, Pavement",
+          "latitude": 45.69308,
+          "longitude": -113.94849
+        },
+        "url": "https://birice.vaisala.com/photos/035D68D5_05CBA9B5_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lost Trail Pass, 44 miles north of the Salmon area, Southeast View",
+          "latitude": 45.69308,
+          "longitude": -113.94849
+        },
+        "url": "https://birice.vaisala.com/photos/035D68D5_05CBA9B5_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lost Trail Pass, 44 miles north of the Salmon area, Northwest View",
+          "latitude": 45.69308,
+          "longitude": -113.94849
+        },
+        "url": "https://birice.vaisala.com/photos/035D68D5_05CBA9B5_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rogerson, 8 miles south of the Hollister area, South View",
+          "latitude": 42.2148,
+          "longitude": -114.5947
+        },
+        "url": "https://birice.vaisala.com/photos/02B7A3C4_06BA7ADC_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rogerson, 8 miles south of the Hollister area, Pavement View",
+          "latitude": 42.2148,
+          "longitude": -114.5947
+        },
+        "url": "https://birice.vaisala.com/photos/02B7A3C4_06BA7ADC_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rogerson, 8 miles south of the Hollister area, North View",
+          "latitude": 42.2148,
+          "longitude": -114.5947
+        },
+        "url": "https://birice.vaisala.com/photos/02B73C4_06BA7ADC_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Perrine Bridge, near Twin Falls, North View",
+          "latitude": 42.59882,
+          "longitude": -114.45416
+        },
+        "url": "https://birice.vaisala.com/photos/029351CF_06BDFC37_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Perrine Bridge, near Twin Falls, South View",
+          "latitude": 42.59882,
+          "longitude": -114.45416
+        },
+        "url": "https://birice.vaisala.com/photos/029351CF_06BDFC37_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jackpot, 24 miles south of the Hollister area, Northeast View",
+          "latitude": 42.0193,
+          "longitude": -114.67348
+        },
+        "url": "https://birice.vaisala.com/photos/028160b5_06ba7685_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jackpot, 24 miles south of the Hollister area, Southeast View",
+          "latitude": 42.0193,
+          "longitude": -114.67348
+        },
+        "url": "https://birice.vaisala.com/photos/028160b5_06ba7685_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jackpot, 24 miles south of the Hollister area, Pavement",
+          "latitude": 42.0193,
+          "longitude": -114.67348
+        },
+        "url": "https://birice.vaisala.com/photos/028160b5_06ba7685_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jackpot, 24 miles south of the Hollister area, West",
+          "latitude": 42.0193,
+          "longitude": -114.67348
+        },
+        "url": "https://birice.vaisala.com/photos/028160b5_06ba7685_cam4.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Willow Creek Summit, 22 miles south of the Challis area, Southeast View",
+          "latitude": 44.23082,
+          "longitude": -113.97541
+        },
+        "url": "https://birice.vaisala.com/photos/02DA39EF_05C41D33_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Willow Creek Summit, 22 miles south of the Challis area, Northwest View",
+          "latitude": 44.23082,
+          "longitude": -113.97541
+        },
+        "url": "https://birice.vaisala.com/photos/02DA39EF_05C41D33_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osgood, 4 miles south of the Roberts area, Northwest View",
+          "latitude": 43.6538753,
+          "longitude": -112.1016556
+        },
+        "url": "https://birice.vaisala.com/photos/029A1B98_F9512E34_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osgood, 4 miles south of the Roberts area, Southeast View",
+          "latitude": 43.6538753,
+          "longitude": -112.1016556
+        },
+        "url": "https://birice.vaisala.com/photos/029A1B98_F9512E34_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osgood, 4 miles south of the Roberts area, Pavement",
+          "latitude": 43.6538753,
+          "longitude": -112.1016556
+        },
+        "url": "https://birice.vaisala.com/photos/029A1B98_F9512E34_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "China Point, 1 mile south of the Spencer area, North",
+          "latitude": 44.3286,
+          "longitude": -112.17498
+        },
+        "url": "https://birice.vaisala.com/photos/02F2D3AD_0680518A_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "China Point, 1 mile south of the Spencer area, South",
+          "latitude": 44.3286,
+          "longitude": -112.17498
+        },
+        "url": "https://birice.vaisala.com/photos/02F2D3AD_0680518A_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "China Point, 1 mile south of the Spencer area, Pavement",
+          "latitude": 44.3286,
+          "longitude": -112.17498
+        },
+        "url": "https://birice.vaisala.com/photos/02F2D3AD_0680518A_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Creek, near Spencer, Southwest View",
+          "latitude": 44.42526,
+          "longitude": -112.2036
+        },
+        "url": "https://birice.vaisala.com/photos/030B947C_06795558_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camp Creek, near Spencer, Northwest View",
+          "latitude": 44.42526,
+          "longitude": -112.2036
+        },
+        "url": "https://birice.vaisala.com/photos/030B947C_06795558_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osgood/Payne, 2 miles north of the Idaho Falls area, South",
+          "latitude": 43.56979,
+          "longitude": -112.07276
+        },
+        "url": "https://birice.vaisala.com/photos/03212ABE_069A5A09_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osgood/Payne, 2 miles north of the Idaho Falls area, North",
+          "latitude": 43.56979,
+          "longitude": -112.07276
+        },
+        "url": "https://birice.vaisala.com/photos/03212ABE_069A5A09_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Blackfoot Rest Area, 5 miles north of the Blackfoot area, South",
+          "latitude": 43.30001,
+          "longitude": -112.27367
+        },
+        "url": "https://birice.vaisala.com/photos/02DCE69D_0667CC69_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Blackfoot Rest Area, 5 miles north of the Blackfoot area, North",
+          "latitude": 43.30001,
+          "longitude": -112.27367
+        },
+        "url": "https://birice.vaisala.com/photos/02DCE69D_0667CC69_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Malad Summit, 9 miles north of the Malad City area, Southeast",
+          "latitude": 42.34279,
+          "longitude": -112.22735
+        },
+        "url": "https://birice.vaisala.com/photos/02D83004_06732CB0_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Malad Summit, 9 miles north of the Malad City area, Northeast",
+          "latitude": 42.34279,
+          "longitude": -112.22735
+        },
+        "url": "https://birice.vaisala.com/photos/02D83004_06732CB0_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monte Vista, in Pocatello, Northeast View",
+          "latitude": 42.88976,
+          "longitude": -112.43241
+        },
+        "url": "https://birice.vaisala.com/photos/03596204_064371C5_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monte Vista, in Pocatello, North View",
+          "latitude": 42.88976,
+          "longitude": -112.43241
+        },
+        "url": "https://birice.vaisala.com/photos/03596204_064371C5_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idaho Falls, in Idaho Falls, Southbound",
+          "latitude": 43.5044,
+          "longitude": -112.05511
+        },
+        "url": "https://birice.vaisala.com/photos/03106dcd_069eg87c_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idaho Falls, in Idaho Falls, US-20 Eastbound",
+          "latitude": 43.5044,
+          "longitude": -112.05511
+        },
+        "url": "https://birice.vaisala.com/photos/03106dcd_069eg87c_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idaho Falls, in Idaho Falls, Northbound",
+          "latitude": 43.5044,
+          "longitude": -112.05511
+        },
+        "url": "https://birice.vaisala.com/photos/03106dcd_069eg87c_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idaho Falls, in Idaho Falls, Pavement",
+          "latitude": 43.5044,
+          "longitude": -112.05511
+        },
+        "url": "https://birice.vaisala.com/photos/03106dcd_069eg87c_cam4.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Snake River OR, near Fruitland, I-84",
+          "latitude": 44.013065,
+          "longitude": -116.94437
+        },
+        "url": "https://tripcheck.com/RoadCams/cams/Snake%20River_pid654.JPG?rand=1513102858607",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Black Canyon, 12 miles east of the Fruitland area, Southeast View",
+          "latitude": 43.86522,
+          "longitude": -116.77696
+        },
+        "url": "https://birice.vaisala.com/photos/036CB198_0623C0B5_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Black Canyon, 12 miles east of the Fruitland area, North View",
+          "latitude": 43.86522,
+          "longitude": -116.77696
+        },
+        "url": "https://birice.vaisala.com/photos/036CB198_0623C0B5_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Caldwell, in Caldwell, West View",
+          "latitude": 43.670597,
+          "longitude": -116.677737
+        },
+        "url": "https://birice.vaisala.com/photos/0338E1B4_0642075C_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Caldwell, in Caldwell, East View",
+          "latitude": 43.670597,
+          "longitude": -116.677737
+        },
+        "url": "https://birice.vaisala.com/photos/0338E1B4_0642075C_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Eisenman Interchange, near Boise, West View",
+          "latitude": 43.514159,
+          "longitude": -116.146408
+        },
+        "url": "https://birice.vaisala.com/photos/030635B3_06D28CF8_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Eisenman Interchange, near Boise, Northwest View",
+          "latitude": 43.514159,
+          "longitude": -116.146408
+        },
+        "url": "https://birice.vaisala.com/photos/030635B3_06D28CF8_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wye, in Boise, Southwest View",
+          "latitude": 43.597238,
+          "longitude": -116.289082
+        },
+        "url": "https://birice.vaisala.com/photos/0322B49F_06ABF228_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wye, in Boise, Pavement",
+          "latitude": 43.597238,
+          "longitude": -116.289082
+        },
+        "url": "https://birice.vaisala.com/photos/0322b49f_06abf228_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wye, in Boise, Exit 0",
+          "latitude": 43.597238,
+          "longitude": -116.289082
+        },
+        "url": "https://birice.vaisala.com/photos/0322b49f_06abf228_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wye, in Boise, Eastbound",
+          "latitude": 43.597238,
+          "longitude": -116.289082
+        },
+        "url": "https://birice.vaisala.com/photos/0322b49f_06abf228_cam4.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Broadway, in Boise, East View",
+          "latitude": 43.566172,
+          "longitude": -116.196116
+        },
+        "url": "https://birice.vaisala.com/photos/03204B38_06B7E60E_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Broadway, in Boise, Northwest View",
+          "latitude": 43.566172,
+          "longitude": -116.196116
+        },
+        "url": "https://birice.vaisala.com/photos/03204B38_06B7E60E_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Broadway, in Boise, Pavement",
+          "latitude": 43.566172,
+          "longitude": -116.196116
+        },
+        "url": "https://birice.vaisala.com/photos/03204B38_06B7E60E_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Heyburn, near Heyburn, Northwest View",
+          "latitude": 42.56833,
+          "longitude": -113.73033
+        },
+        "url": "https://birice.vaisala.com/photos/03117579_06027467_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Heyburn, near Heyburn, East View",
+          "latitude": 42.56833,
+          "longitude": -113.73033
+        },
+        "url": "https://birice.vaisala.com/photos/03117579_06027467_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idahome, 26 miles east of the Heyburn area, South View",
+          "latitude": 42.4133,
+          "longitude": -113.3179
+        },
+        "url": "https://birice.vaisala.com/photos/02E9E9C7_066B9677_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idahome, 26 miles east of the Heyburn area, North View",
+          "latitude": 42.4133,
+          "longitude": -113.3179
+        },
+        "url": "https://birice.vaisala.com/photos/02E9E9C7_066B9677_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idahome, 26 miles east of the Heyburn area, Pavement View",
+          "latitude": 42.4133,
+          "longitude": -113.3179
+        },
+        "url": "https://birice.vaisala.com/photos/02E9E9C7_066B9677_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Juniper, 52 miles east of the Heyburn area, Pavement View",
+          "latitude": 42.14474,
+          "longitude": -112.98055
+        },
+        "url": "https://birice.vaisala.com/photos/02a5cdcc_05b3863d_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Juniper, 52 miles east of the Heyburn area, North View",
+          "latitude": 42.14474,
+          "longitude": -112.98055
+        },
+        "url": "https://birice.vaisala.com/photos/02a5cdcc_05b3863d_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sweetzer Summit, 46 miles east of the Heyburn area, Northwest View",
+          "latitude": 42.207759,
+          "longitude": -113.045856
+        },
+        "url": "https://birice.vaisala.com/photos/028635B0_06BAF8BB_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sweetzer Summit, 46 miles east of the Heyburn area, West View",
+          "latitude": 42.207759,
+          "longitude": -113.045856
+        },
+        "url": "https://birice.vaisala.com/photos/028635B0_06BAF8BB_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sweetzer Summit, 46 miles east of the Heyburn area, Pavement",
+          "latitude": 42.207759,
+          "longitude": -113.045856
+        },
+        "url": "https://birice.vaisala.com/photos/028635B0_06BAF8BB_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Yale Road, 17 miles east of the Heyburn area, Southeast View",
+          "latitude": 42.517126,
+          "longitude": -113.424532
+        },
+        "url": "https://birice.vaisala.com/photos/0289155D_06B374E7_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Yale Road, 17 miles east of the Heyburn area, Northwest View",
+          "latitude": 42.517126,
+          "longitude": -113.424532
+        },
+        "url": "https://birice.vaisala.com/photos/0289155D_06B374E7_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Yale Road, 17 miles east of the Heyburn area, Pavement",
+          "latitude": 42.517126,
+          "longitude": -113.424532
+        },
+        "url": "https://birice.vaisala.com/photos/0289155D_06B374E7_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hammett Hill, 6 miles east of the Mountain Home area, Pavement",
+          "latitude": 43.0481,
+          "longitude": -115.57996
+        },
+        "url": "https://birice.vaisala.com/photos/029C56D6_06471B45_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hammett Hill, 6 miles east of the Mountain Home area, Northwest View",
+          "latitude": 43.0481,
+          "longitude": -115.57996
+        },
+        "url": "https://birice.vaisala.com/photos/029C56D6_06471B45_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-84/US-95, 2 miles east of the Fruitland area, West View",
+          "latitude": 43.9697183475561,
+          "longitude": -116.91238112540609
+        },
+        "url": "https://birice.vaisala.com/photos/038926C0_05FF1F89_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-84/US-95, 2 miles east of the Fruitland area, Interchange",
+          "latitude": 43.9697183475561,
+          "longitude": -116.91238112540609
+        },
+        "url": "https://birice.vaisala.com/photos/038926C0_05FF1F89_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenns Ferry, near Glenns Ferry, Westbound",
+          "latitude": 42.96124,
+          "longitude": -115.27258
+        },
+        "url": "https://birice.vaisala.com/photos/03754g74_06974646_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenns Ferry, near Glenns Ferry, Eastbound",
+          "latitude": 42.96124,
+          "longitude": -115.27258
+        },
+        "url": "https://birice.vaisala.com/photos/03754g74_06974646_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Glenns Ferry, near Glenns Ferry, Roadway",
+          "latitude": 42.96124,
+          "longitude": -115.27258
+        },
+        "url": "https://birice.vaisala.com/photos/03754g74_06974646_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Coldwater, 18 miles west of the American Falls area, Northeast View",
+          "latitude": 42.61183,
+          "longitude": -113.15378
+        },
+        "url": "https://birice.vaisala.com/photos/028D17D7_06B939AE_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Coldwater, 18 miles west of the American Falls area, West View",
+          "latitude": 42.61183,
+          "longitude": -113.15378
+        },
+        "url": "https://birice.vaisala.com/photos/028D17D7_06B939AE_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Coldwater, 18 miles west of the American Falls area, Pavement View",
+          "latitude": 42.61183,
+          "longitude": -113.15378
+        },
+        "url": "https://birice.vaisala.com/photos/028D17D7_06B939AE_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Arbon Valley, near Arbon Valley, Northwest View",
+          "latitude": 42.87937,
+          "longitude": -112.66341
+        },
+        "url": "https://birice.vaisala.com/photos/03609136_06043373_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Arbon Valley, near Arbon Valley, East View",
+          "latitude": 42.87937,
+          "longitude": -112.66341
+        },
+        "url": "https://birice.vaisala.com/photos/03609136_06043373_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raft River, 33 miles west of the American Falls area, Northwest View",
+          "latitude": 42.578128,
+          "longitude": -113.436696
+        },
+        "url": "https://birice.vaisala.com/photos/028C5371_06B47EBE_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raft River, 33 miles west of the American Falls area, Northeast View",
+          "latitude": 42.578128,
+          "longitude": -113.436696
+        },
+        "url": "https://birice.vaisala.com/photos/028C5371_06B47EBE_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Liberty Lake WA, near Post Falls, I-90",
+          "latitude": 47.67255,
+          "longitude": -117.10866
+        },
+        "url": "https://images.wsdot.wa.gov/rweather/LibertyLake.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Veterans Memorial Bridge, 1 mile east of the Coeur d'Alene area, Southeast",
+          "latitude": 47.6488113,
+          "longitude": -116.714919
+        },
+        "url": "https://birice.vaisala.com/photos/02D714D0_F90B0DB1_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Veterans Memorial Bridge, 1 mile east of the Coeur d'Alene area, Northeast",
+          "latitude": 47.6488113,
+          "longitude": -116.714919
+        },
+        "url": "https://birice.vaisala.com/photos/02D714D0_F90B0DB1_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wallace, in Wallace, West",
+          "latitude": 47.47460611,
+          "longitude": -115.9062144
+        },
+        "url": "https://birice.vaisala.com/photos/02D4670C_F91769C1_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wallace, in Wallace, East",
+          "latitude": 47.47460611,
+          "longitude": -115.9062144
+        },
+        "url": "https://birice.vaisala.com/photos/02D4670C_F91769C1_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "4th of July Summit, 11 miles east of the Coeur d'Alene area, West",
+          "latitude": 47.62237,
+          "longitude": -116.52418
+        },
+        "url": "https://birice.vaisala.com/photos/03DE3928_064040B7_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "4th of July Summit, 11 miles east of the Coeur d'Alene area, East",
+          "latitude": 47.62237,
+          "longitude": -116.52418
+        },
+        "url": "https://birice.vaisala.com/photos/03DE3928_064040B7_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osborne Bridge, 2 miles west of the Island Park area, Bridge",
+          "latitude": 44.324402,
+          "longitude": -111.448684
+        },
+        "url": "https://birice.vaisala.com/photos/02A453BA_F95B69C4_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osborne Bridge, 2 miles west of the Island Park area, Southwest View",
+          "latitude": 44.324402,
+          "longitude": -111.448684
+        },
+        "url": "https://birice.vaisala.com/photos/02A453BA_F95B69C4_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Osborne Bridge, 2 miles west of the Island Park area, Roadway",
+          "latitude": 44.324402,
+          "longitude": -111.448684
+        },
+        "url": "https://birice.vaisala.com/photos/02A453BA_F95B69C4_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smiley Creek Airport, 22 miles south of the Stanley area, Northeast View",
+          "latitude": 43.90958,
+          "longitude": -114.79518
+        },
+        "url": "https://birice.vaisala.com/photos/03778B5F_06013F28_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smiley Creek Airport, 22 miles south of the Stanley area, Southeast View",
+          "latitude": 43.90958,
+          "longitude": -114.79518
+        },
+        "url": "https://birice.vaisala.com/photos/03778B5F_06013F28_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Smiley Creek Airport, 22 miles south of the Stanley area, View 3",
+          "latitude": 43.90958,
+          "longitude": -114.79518
+        },
+        "url": "https://birice.vaisala.com/photos/03778B5F_06013F28_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Johnson Creek Airport, near McCall, Johnson Creek Airport",
+          "latitude": 44.823681,
+          "longitude": -115.48567
+        },
+        "url": "http://www.ruralnetwork.net/~yellowpinecm/airport.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hansen Bridge, 3 miles east of the Kimberly area, South View",
+          "latitude": 42.56852,
+          "longitude": -114.29819
+        },
+        "url": "https://birice.vaisala.com/photos/0292B8D0_06C0A7CF_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hansen Bridge, 3 miles east of the Kimberly area, Roadway",
+          "latitude": 42.56852,
+          "longitude": -114.29819
+        },
+        "url": "https://birice.vaisala.com/photos/0292B8D0_06C0A7CF_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alpine Junction, WY, 20 miles east of Irwin, Alpine Jct Canyon",
+          "latitude": 43.17225,
+          "longitude": -111.01855
+        },
+        "url": "https://wyoroad.info/highway/webcameras/US89AlpineJct/US89AlpineJctCanyon.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alpine Junction, WY, 20 miles east of Irwin, Alpine Jct South",
+          "latitude": 43.17225,
+          "longitude": -111.01855
+        },
+        "url": "https://wyoroad.info/highway/webcameras/US89AlpineJct/US89AlpineJctSouth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Alpine Junction, WY, 20 miles east of Irwin, Alpine Jct North",
+          "latitude": 43.17225,
+          "longitude": -111.01855
+        },
+        "url": "https://wyoroad.info/highway/webcameras/US89AlpineJct/US89AlpineJctNorth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass MT, 4 miles east of the Mullan area, East Corner Elev 4540",
+          "latitude": 47.45446111,
+          "longitude": -115.6949167
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-01-2020-10-04-07-00.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass MT, 4 miles east of the Mullan area, East Elev 4540",
+          "latitude": 47.45446111,
+          "longitude": -115.6949167
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-00-2020-10-04-07-00.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass MT, 4 miles east of the Mullan area, Overpass Deck Elev 4540",
+          "latitude": 47.45446111,
+          "longitude": -115.6949167
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-02-2020-10-04-07-00.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass MT, 4 miles east of the Mullan area, Roadway Elev 4540",
+          "latitude": 47.45446111,
+          "longitude": -115.6949167
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-03-2020-10-04-07-01.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass MT, 4 miles east of the Mullan area, West Elev 4540",
+          "latitude": 47.45446111,
+          "longitude": -115.6949167
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-04-2020-10-04-07-01.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Antelope Flats, 4 miles west of the Swan Valley area, Northwest View",
+          "latitude": 43.527377,
+          "longitude": -111.501617
+        },
+        "url": "https://birice.vaisala.com/photos/02982C36_F95AA40A_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Antelope Flats, 4 miles west of the Swan Valley area, Southeast View",
+          "latitude": 43.527377,
+          "longitude": -111.501617
+        },
+        "url": "https://birice.vaisala.com/photos/02982C36_F95AA40A_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Telegraph Hill, 25 miles west of the Idaho Falls area, West View",
+          "latitude": 43.55396,
+          "longitude": -112.58792
+        },
+        "url": "https://birice.vaisala.com/photos/02989461_F94A0AE8_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Telegraph Hill, 25 miles west of the Idaho Falls area, East View",
+          "latitude": 43.55396,
+          "longitude": -112.58792
+        },
+        "url": "https://birice.vaisala.com/photos/02989461_F94A0AE8_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Telegraph Hill, 25 miles west of the Idaho Falls area, Pavement",
+          "latitude": 43.55396,
+          "longitude": -112.58792
+        },
+        "url": "https://birice.vaisala.com/photos/02989461_F94A0AE8_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "INL Puzzle, 19 miles east of the Butte City area, West View",
+          "latitude": 43.50641,
+          "longitude": -112.88842
+        },
+        "url": "https://birice.vaisala.com/photos/0297dad5_f9457708_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "INL Puzzle, 19 miles east of the Butte City area, South View",
+          "latitude": 43.50641,
+          "longitude": -112.88842
+        },
+        "url": "https://birice.vaisala.com/photos/0297dad5_f9457708_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "INL Puzzle, 19 miles east of the Butte City area, East View",
+          "latitude": 43.50641,
+          "longitude": -112.88842
+        },
+        "url": "https://birice.vaisala.com/photos/0297dad5_f9457708_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sage Junction, 4 miles south of the Hamer area, Southeast",
+          "latitude": 43.828054,
+          "longitude": -112.189636
+        },
+        "url": "https://birice.vaisala.com/photos/029CCE6A_F9500610_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sage Junction, 4 miles south of the Hamer area, Northwest",
+          "latitude": 43.828054,
+          "longitude": -112.189636
+        },
+        "url": "https://birice.vaisala.com/photos/029CCE6A_F9500610_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sage Junction, 4 miles south of the Hamer area, Bridge",
+          "latitude": 43.828054,
+          "longitude": -112.189636
+        },
+        "url": "https://birice.vaisala.com/photos/029CCE6A_F9500610_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Teton Pass, WY, 10 miles east of Victor, Teton Pass West",
+          "latitude": 43.49734,
+          "longitude": -110.95492
+        },
+        "url": "https://wyoroad.info/highway/webcameras/WYO22TetonPass/WYO22TetonPassWest.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Teton Pass, WY, 10 miles east of Victor, Teton Pass East",
+          "latitude": 43.49734,
+          "longitude": -110.95492
+        },
+        "url": "https://wyoroad.info/highway/webcameras/WYO22TetonPass/WYO22TetonPassEast.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Midvale Hill, 2 miles south of the Midvale area, Northeast View",
+          "latitude": 44.444948,
+          "longitude": -116.7990222168675
+        },
+        "url": "https://birice.vaisala.com/photos/02A8F1D5_06DDAD47_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Midvale Hill, 2 miles south of the Midvale area, Southwest View",
+          "latitude": 44.444948,
+          "longitude": -116.7990222168675
+        },
+        "url": "https://birice.vaisala.com/photos/02A8F1D5_06DDAD47_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Midvale Hill, 2 miles south of the Midvale area, Pavement",
+          "latitude": 44.444948,
+          "longitude": -116.7990222168675
+        },
+        "url": "https://birice.vaisala.com/photos/02A8F1D5_06DDAD47_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whitebird Hill, 6 miles north of the White Bird area, North View",
+          "latitude": 45.848281540737354,
+          "longitude": -116.2377197567481
+        },
+        "url": "https://birice.vaisala.com/photos/02BB91A0_F91253AC_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Whitebird Hill, 6 miles north of the White Bird area, South View",
+          "latitude": 45.848281540737354,
+          "longitude": -116.2377197567481
+        },
+        "url": "https://birice.vaisala.com/photos/02BB91A0_F91253AC_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Railroad Bridge, in Post Falls, West",
+          "latitude": 47.712536,
+          "longitude": -116.951769
+        },
+        "url": "https://birice.vaisala.com/photos/02d808f4_f907768d_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Railroad Bridge, in Post Falls, East",
+          "latitude": 47.712536,
+          "longitude": -116.951769
+        },
+        "url": "https://birice.vaisala.com/photos/02d808f4_f907768d_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Railroad Bridge, in Post Falls, Pavement",
+          "latitude": 47.712536,
+          "longitude": -116.951769
+        },
+        "url": "https://birice.vaisala.com/photos/02d808f4_f907768d_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lake Creek, 8 miles north of the Worley area, SB Bridge Deck",
+          "latitude": 47.4875243,
+          "longitude": -116.98894
+        },
+        "url": "https://birice.vaisala.com/photos/02d49a24_f906e3f4_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lake Creek, 8 miles north of the Worley area, NB Bridge Deck",
+          "latitude": 47.4875243,
+          "longitude": -116.98894
+        },
+        "url": "https://birice.vaisala.com/photos/02d49a24_f906e3f4_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lake Creek, 8 miles north of the Worley area, SB Approach",
+          "latitude": 47.4875243,
+          "longitude": -116.98894
+        },
+        "url": "https://birice.vaisala.com/photos/02d49a24_f906e3f4_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lake Creek, 8 miles north of the Worley area, SB Horizon",
+          "latitude": 47.4875243,
+          "longitude": -116.98894
+        },
+        "url": "https://birice.vaisala.com/photos/02d49a24_f906e3f4_cam4.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "McCammon, near McCammon, North View",
+          "latitude": 42.6573,
+          "longitude": -112.2103710110011
+        },
+        "url": "https://birice.vaisala.com/photos/028AE5C6_F94FCC6F_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "McCammon, near McCammon, South View",
+          "latitude": 42.6573,
+          "longitude": -112.2103710110011
+        },
+        "url": "https://birice.vaisala.com/photos/028AE5C6_F94FCC6F_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "McCammon, near McCammon, Pavement",
+          "latitude": 42.6573,
+          "longitude": -112.2103710110011
+        },
+        "url": "https://birice.vaisala.com/photos/028AE5C6_F94FCC6F_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Salt Pass, WY, 30 miles north of Montpelier, Salt Pass South",
+          "latitude": 42.50495771813114,
+          "longitude": -110.90720372912597
+        },
+        "url": "https://wyoroad.info/highway/webcameras/US89SaltPass/US89SaltPassSouth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Salt Pass, WY, 30 miles north of Montpelier, Salt Pass North",
+          "latitude": 42.50495771813114,
+          "longitude": -110.90720372912597
+        },
+        "url": "https://wyoroad.info/highway/webcameras/US89SaltPass/US89SaltPassNorth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Salt Pass, WY, 30 miles north of Montpelier, Salt Pass Roadway",
+          "latitude": 42.50495771813114,
+          "longitude": -110.90720372912597
+        },
+        "url": "https://wyoroad.info/highway/webcameras/US89SaltPass/US89SaltPassRoadSurface.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WY/ID State Line, 18 miles east of the Victor area, ID/WY State Line West",
+          "latitude": 43.543308,
+          "longitude": -111.045301
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/WYO22IDStateLine/WYO22IDStateLineWest.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WY/ID State Line, 18 miles east of the Victor area, ID/WY State Line East",
+          "latitude": 43.543308,
+          "longitude": -111.045301
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/WYO22IDStateLine/WYO22IDStateLineEast.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WY/ID State Line, 18 miles east of the Victor area, ID/WY State Line Roadway",
+          "latitude": 43.543308,
+          "longitude": -111.045301
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/WYO22IDStateLine/WYO22IDStateLineRoadSurface.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bear Lake UT, 6 miles south of the St. Charles area, South",
+          "latitude": 42.0008,
+          "longitude": -111.408714
+        },
+        "url": "https://udottraffic.utah.gov/1_devices/us-89-mp-502.gif",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "UT/ID State Line UT, 13 miles south of the Malad City area, Northbound",
+          "latitude": 41.99084894453556,
+          "longitude": -112.1980130112305
+        },
+        "url": "https://udottraffic.utah.gov/1_devices/I-15_MP400.gif",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jordan Valley OR, 34 miles south of the Homedale area, Jordan Valley North",
+          "latitude": 43.0062144144112,
+          "longitude": -117.06513614843749
+        },
+        "url": "https://tripcheck.com/RoadCams/cams/JordanValley_pid1598.jpg?rand=1513103128515",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tuttle, 5 miles west of the Wendell area, East View",
+          "latitude": 42.83699373556365,
+          "longitude": -114.8173683873788
+        },
+        "url": "https://birice.vaisala.com/photos/028D879A_F9280624_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tuttle, 5 miles west of the Wendell area, Northwest View",
+          "latitude": 42.83699373556365,
+          "longitude": -114.8173683873788
+        },
+        "url": "https://birice.vaisala.com/photos/028D879A_F9280624_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tuttle, 5 miles west of the Wendell area, Pavement",
+          "latitude": 42.83699373556365,
+          "longitude": -114.8173683873788
+        },
+        "url": "https://birice.vaisala.com/photos/028D879A_F9280624_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Valley Interchange, 1 mile west of the Hazelton area, Southwest View",
+          "latitude": 42.57437102160659,
+          "longitude": -114.14833
+        },
+        "url": "https://birice.vaisala.com/photos/0289A382_F9323D28_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Valley Interchange, 1 mile west of the Hazelton area, Southeast View",
+          "latitude": 42.57437102160659,
+          "longitude": -114.14833
+        },
+        "url": "https://birice.vaisala.com/photos/0289A382_F9323D28_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jerome Butte, 8 miles north of the Twin Falls area, North View",
+          "latitude": 42.73127744776119,
+          "longitude": -114.4406
+        },
+        "url": "https://birice.vaisala.com/photos/028C09A8_F92DC694_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jerome Butte, 8 miles north of the Twin Falls area, South View",
+          "latitude": 42.73127744776119,
+          "longitude": -114.4406
+        },
+        "url": "https://birice.vaisala.com/photos/028C09A8_F92DC694_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jerome Butte, 8 miles north of the Twin Falls area, Roadway",
+          "latitude": 42.73127744776119,
+          "longitude": -114.4406
+        },
+        "url": "https://birice.vaisala.com/photos/028C09A8_F92DC694_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Topaz, 3 miles west of the Lava Hot Springs area, Northwest View",
+          "latitude": 42.618529688761626,
+          "longitude": -112.09077042425037
+        },
+        "url": "https://birice.vaisala.com/photos/028A4CC8_F951A12F_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Topaz, 3 miles west of the Lava Hot Springs area, Northeast View",
+          "latitude": 42.618529688761626,
+          "longitude": -112.09077042425037
+        },
+        "url": "https://birice.vaisala.com/photos/028A4CC8_F951A12F_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fort Hall, in Fort Hall, Northeast",
+          "latitude": 43.025589,
+          "longitude": -112.407976
+        },
+        "url": "https://birice.vaisala.com/photos/0290837E_F94CC8F3_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fort Hall, in Fort Hall, Southeast View",
+          "latitude": 43.025589,
+          "longitude": -112.407976
+        },
+        "url": "https://birice.vaisala.com/photos/0290837E_F94CC8F3_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Franklin, in Franklin, Southeast",
+          "latitude": 42.01175,
+          "longitude": -111.80593179223072
+        },
+        "url": "https://birice.vaisala.com/photos/02810C13_F955F961_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Franklin, in Franklin, Southwest",
+          "latitude": 42.01175,
+          "longitude": -111.80593179223072
+        },
+        "url": "https://birice.vaisala.com/photos/02810C13_F955F961_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Franklin, in Franklin, Pavement",
+          "latitude": 42.01175,
+          "longitude": -111.80593179223072
+        },
+        "url": "https://birice.vaisala.com/photos/02810C13_F955F961_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rocky Point, 9 miles east of the Montpelier area, Southeast",
+          "latitude": 42.19636239264576,
+          "longitude": -111.19710066360871
+        },
+        "url": "https://birice.vaisala.com/photos/0283D3E1_F95BA98B_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rocky Point, 9 miles east of the Montpelier area, Northwest",
+          "latitude": 42.19636239264576,
+          "longitude": -111.19710066360871
+        },
+        "url": "https://birice.vaisala.com/photos/0283D3E1_F95BA98B_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Clayton, 4 miles south of the Clayton area, Pavement",
+          "latitude": 44.25527723231525,
+          "longitude": -114.47784945515468
+        },
+        "url": "https://birice.vaisala.com/photos/02A34944_F92D2FC1_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Clayton, 4 miles south of the Clayton area, East",
+          "latitude": 44.25527723231525,
+          "longitude": -114.47784945515468
+        },
+        "url": "https://birice.vaisala.com/photos/02A34944_F92D2FC1_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Stanley, in Stanley, Highway",
+          "latitude": 44.2167870457243,
+          "longitude": -114.93291023983019
+        },
+        "url": "https://mountainvillage.com/webcam/MTVwebcam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Swan Lake, 7 miles south of the Downey area, Southeast",
+          "latitude": 42.336008104084755,
+          "longitude": -112.03030732284046
+        },
+        "url": "https://birice.vaisala.com/photos/0285FE59_F9528CA4_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Swan Lake, 7 miles south of the Downey area, Northwest",
+          "latitude": 42.336008104084755,
+          "longitude": -112.03030732284046
+        },
+        "url": "https://birice.vaisala.com/photos/0285FE59_F9528CA4_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sheep Falls, 8 miles east of the Ashton area, North",
+          "latitude": 44.19232800000002,
+          "longitude": -111.44530507180852
+        },
+        "url": "https://birice.vaisala.com/photos/02A2574B_F95B77A1_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sheep Falls, 8 miles east of the Ashton area, South",
+          "latitude": 44.19232800000002,
+          "longitude": -111.44530507180852
+        },
+        "url": "https://birice.vaisala.com/photos/02A2574B_F95B77A1_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "River Rim, near Driggs, East View",
+          "latitude": 43.85683648043902,
+          "longitude": -111.28046253972688
+        },
+        "url": "https://birice.vaisala.com/photos/029D3546_F95DFC29_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "River Rim, near Driggs, West View",
+          "latitude": 43.85683648043902,
+          "longitude": -111.28046253972688
+        },
+        "url": "https://birice.vaisala.com/photos/029D3546_F95DFC29_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "River Rim, near Driggs, Pavement",
+          "latitude": 43.85683648043902,
+          "longitude": -111.28046253972688
+        },
+        "url": "https://birice.vaisala.com/photos/029D3546_F95DFC29_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parker Pass, near Parkline, East",
+          "latitude": 47.33734041948339,
+          "longitude": -116.67044436957208
+        },
+        "url": "https://birice.vaisala.com/photos/02D231BA_F90BC1D0_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parker Pass, near Parkline, Southwest",
+          "latitude": 47.33734041948339,
+          "longitude": -116.67044436957208
+        },
+        "url": "https://birice.vaisala.com/photos/02D231BA_F90BC1D0_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Parker Pass, near Parkline, Pavement",
+          "latitude": 47.33734041948339,
+          "longitude": -116.67044436957208
+        },
+        "url": "https://birice.vaisala.com/photos/02D231BA_F90BC1D0_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sandpoint, in Ponderay, North",
+          "latitude": 48.28097432405238,
+          "longitude": -116.54762899742087
+        },
+        "url": "https://birice.vaisala.com/photos/02E0B1C0_F90DBDA0_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sandpoint, in Ponderay, South",
+          "latitude": 48.28097432405238,
+          "longitude": -116.54762899742087
+        },
+        "url": "https://birice.vaisala.com/photos/02E0B1C0_F90DBDA0_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sandpoint, in Ponderay, Pavement",
+          "latitude": 48.28097432405238,
+          "longitude": -116.54762899742087
+        },
+        "url": "https://birice.vaisala.com/photos/02E0B1C0_F90DBDA0_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Black Lake, 8 miles north of the Parkline area, Northwest",
+          "latitude": 47.429,
+          "longitude": -116.62808638959875
+        },
+        "url": "https://birice.vaisala.com/photos/02D3B519_F90C66BE_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Black Lake, 8 miles north of the Parkline area, Southeast",
+          "latitude": 47.429,
+          "longitude": -116.62808638959875
+        },
+        "url": "https://birice.vaisala.com/photos/02D3B519_F90C66BE_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Black Lake, 8 miles north of the Parkline area, Pavement",
+          "latitude": 47.429,
+          "longitude": -116.62808638959875
+        },
+        "url": "https://birice.vaisala.com/photos/02D3B519_F90C66BE_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Old Town, near Oldtown, North",
+          "latitude": 48.171435,
+          "longitude": -117.02248016187806
+        },
+        "url": "https://birice.vaisala.com/photos/02DF097D_F90661F2_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Old Town, near Oldtown, Southeast",
+          "latitude": 48.171435,
+          "longitude": -117.02248016187806
+        },
+        "url": "https://birice.vaisala.com/photos/02DF097D_F90661F2_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Old Town, near Oldtown, Pavement",
+          "latitude": 48.171435,
+          "longitude": -117.02248016187806
+        },
+        "url": "https://birice.vaisala.com/photos/02DF097D_F90661F2_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Granite Hill, 2 miles north of the Athol area, Northeast",
+          "latitude": 47.992272137350824,
+          "longitude": -116.68318810333885
+        },
+        "url": "https://birice.vaisala.com/photos/02DBF5BA_F90B74C6_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Granite Hill, 2 miles north of the Athol area, Southwest",
+          "latitude": 47.992272137350824,
+          "longitude": -116.68318810333885
+        },
+        "url": "https://birice.vaisala.com/photos/02DBF5BA_F90B74C6_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass, 4 miles east of the Mullan area, Eastbound",
+          "latitude": 47.46111820461625,
+          "longitude": -115.69426194708855
+        },
+        "url": "https://birice.vaisala.com/photos/02d431e1_f9aa7d5_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass, 4 miles east of the Mullan area, Westbound",
+          "latitude": 47.46111820461625,
+          "longitude": -115.69426194708855
+        },
+        "url": "https://birice.vaisala.com/photos/02d431e1_f9aa7d5_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Lookout Pass, 4 miles east of the Mullan area, Pavement",
+          "latitude": 47.46111820461625,
+          "longitude": -115.69426194708855
+        },
+        "url": "https://birice.vaisala.com/photos/02d431e1_f9aa7d5_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cataldo, 3 miles west of the Pinehurst area, West",
+          "latitude": 47.546777776344086,
+          "longitude": -116.331312
+        },
+        "url": "https://birice.vaisala.com/photos/02D58015_F910ED99_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cataldo, 3 miles west of the Pinehurst area, East",
+          "latitude": 47.546777776344086,
+          "longitude": -116.331312
+        },
+        "url": "https://birice.vaisala.com/photos/02D58015_F910ED99_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cataldo, 3 miles west of the Pinehurst area, Pavement",
+          "latitude": 47.546777776344086,
+          "longitude": -116.331312
+        },
+        "url": "https://birice.vaisala.com/photos/02D58015_F910ED99_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Marsh Valley, near Arimo, North",
+          "latitude": 42.583471,
+          "longitude": -112.185766
+        },
+        "url": "https://birice.vaisala.com/photos/02B78CFB_F9503042_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Marsh Valley, near Arimo, South",
+          "latitude": 42.583471,
+          "longitude": -112.185766
+        },
+        "url": "https://birice.vaisala.com/photos/02B78CFB_F9503042_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Big Canyon, 6 miles south of the Rockland area, Northwest",
+          "latitude": 42.474306,
+          "longitude": -112.83644832442423
+        },
+        "url": "https://birice.vaisala.com/photos/02881AB7_F94640DB_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Big Canyon, 6 miles south of the Rockland area, Southeast",
+          "latitude": 42.474306,
+          "longitude": -112.83644832442423
+        },
+        "url": "https://birice.vaisala.com/photos/02881AB7_F94640DB_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Holbrook, 21 miles west of the Malad City area, East",
+          "latitude": 42.16818528670659,
+          "longitude": -112.655
+        },
+        "url": "https://birice.vaisala.com/photos/0283698B_F9490568_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Holbrook, 21 miles west of the Malad City area, North",
+          "latitude": 42.16818528670659,
+          "longitude": -112.655
+        },
+        "url": "https://birice.vaisala.com/photos/0283698B_F9490568_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Blackfoot River Bridge, 9 miles east of the Soda Springs area, Southwest",
+          "latitude": 42.826417,
+          "longitude": -111.55418419976905
+        },
+        "url": "https://birice.vaisala.com/photos/028D7A95_F959D29F_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Blackfoot River Bridge, 9 miles east of the Soda Springs area, North",
+          "latitude": 42.826417,
+          "longitude": -111.55418419976905
+        },
+        "url": "https://birice.vaisala.com/photos/028D7A95_F959D29F_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Samaria, 9 miles south of the Malad City area, West",
+          "latitude": 42.036389,
+          "longitude": -112.21084588311689
+        },
+        "url": "https://birice.vaisala.com/photos/02816CA5_F94FC702_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Samaria, 9 miles south of the Malad City area, Southeast",
+          "latitude": 42.036389,
+          "longitude": -112.21084588311689
+        },
+        "url": "https://birice.vaisala.com/photos/02816CA5_F94FC702_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bloomington, in Bloomington, North View",
+          "latitude": 42.183694,
+          "longitude": -111.40127203225806
+        },
+        "url": "https://birice.vaisala.com/photos/0283abbb_f95c287f_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bloomington, in Bloomington, Pavement",
+          "latitude": 42.183694,
+          "longitude": -111.40127203225806
+        },
+        "url": "https://birice.vaisala.com/photos/0283abbb_f95c287f_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bloomington, in Bloomington, South View",
+          "latitude": 42.183694,
+          "longitude": -111.40127203225806
+        },
+        "url": "https://birice.vaisala.com/photos/0283abbb_f95c287f_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tilden Flats, 11 miles east of the Atomic City area, West",
+          "latitude": 43.360710162545985,
+          "longitude": -112.641583
+        },
+        "url": "https://birice.vaisala.com/photos/02959F00_F9491C31_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Tilden Flats, 11 miles east of the Atomic City area, Southwest",
+          "latitude": 43.360710162545985,
+          "longitude": -112.641583
+        },
+        "url": "https://birice.vaisala.com/photos/02959F00_F9491C31_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monida, 8 miles north of the Spencer area, Northwest",
+          "latitude": 44.5325,
+          "longitude": -112.27117787105651
+        },
+        "url": "https://birice.vaisala.com/photos/02A7B955_F94E8292_Cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monida, 8 miles north of the Spencer area, Southeast",
+          "latitude": 44.5325,
+          "longitude": -112.27117787105651
+        },
+        "url": "https://birice.vaisala.com/photos/02A7B955_F94E8292_Cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monida, 8 miles north of the Spencer area, Pavement",
+          "latitude": 44.5325,
+          "longitude": -112.27117787105651
+        },
+        "url": "https://birice.vaisala.com/photos/02A7B955_F94E8292_Cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ucon, near Ucon, North",
+          "latitude": 43.58287637187788,
+          "longitude": -111.97402220407533
+        },
+        "url": "https://birice.vaisala.com/photos/02994996_F953967C_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ucon, near Ucon, South",
+          "latitude": 43.58287637187788,
+          "longitude": -111.97402220407533
+        },
+        "url": "https://birice.vaisala.com/photos/02994996_F953967C_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ucon, near Ucon, Pavement",
+          "latitude": 43.58287637187788,
+          "longitude": -111.97402220407533
+        },
+        "url": "https://birice.vaisala.com/photos/02994996_F953967C_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Geneva Summit, 7 miles north of the Montpelier area, East View",
+          "latitude": 42.33168172180952,
+          "longitude": -111.14057865732806
+        },
+        "url": "https://birice.vaisala.com/photos/0285F495_F9602360_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Geneva Summit, 7 miles north of the Montpelier area, West View",
+          "latitude": 42.33168172180952,
+          "longitude": -111.14057865732806
+        },
+        "url": "https://birice.vaisala.com/photos/0285F495_F9602360_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Emigration Canyon, 33 miles east of Preston, Northwest",
+          "latitude": 42.36082265776173,
+          "longitude": -111.497389
+        },
+        "url": "https://birice.vaisala.com/photos/02866343_F95AAFFA_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Emigration Canyon, 33 miles east of Preston, Southeast",
+          "latitude": 42.36082265776173,
+          "longitude": -111.497389
+        },
+        "url": "https://birice.vaisala.com/photos/02866343_F95AAFFA_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Treasureton Summit, 14 miles east of the Preston area, South",
+          "latitude": 42.29919183130702,
+          "longitude": -111.79533552367967
+        },
+        "url": "https://birice.vaisala.com/photos/02857034_F95626F4_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Treasureton Summit, 14 miles east of the Preston area, Northeast",
+          "latitude": 42.29919183130702,
+          "longitude": -111.79533552367967
+        },
+        "url": "https://birice.vaisala.com/photos/02857034_F95626F4_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Junction 33/22 Summit, 19 miles west of the Mud Lake area, Northeast",
+          "latitude": 43.80680882703146,
+          "longitude": -112.83565357244929
+        },
+        "url": "https://birice.vaisala.com/photos/028D2C75_F9464532_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Junction 33/22 Summit, 19 miles west of the Mud Lake area, North",
+          "latitude": 43.80680882703146,
+          "longitude": -112.83565357244929
+        },
+        "url": "https://birice.vaisala.com/photos/028D2C75_F9464532_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Grangemont, 4 miles north of the Pierce area, Northeast",
+          "latitude": 46.557306,
+          "longitude": -115.83491864029851
+        },
+        "url": "https://birice.vaisala.com/photos/02C6687A_F9187E56_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Grangemont, 4 miles north of the Pierce area, South",
+          "latitude": 46.557306,
+          "longitude": -115.83491864029851
+        },
+        "url": "https://birice.vaisala.com/photos/02C6687A_F9187E56_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idaho County Line, 8 miles south of the Riggins area, Southwest",
+          "latitude": 45.29481548961634,
+          "longitude": -116.35821637909385
+        },
+        "url": "https://birice.vaisala.com/photos/02C6F64B_F9194DB2_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Idaho County Line, 8 miles south of the Riggins area, North",
+          "latitude": 45.29481548961634,
+          "longitude": -116.35821637909385
+        },
+        "url": "https://birice.vaisala.com/photos/02C6F64B_F9194DB2_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ion Summit, 29 miles south of the Homedale area, South",
+          "latitude": 43.294472,
+          "longitude": -116.98611512255081
+        },
+        "url": "http://birice.vaisala.com/photos/0294abf2_f906f7af_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ion Summit, 29 miles south of the Homedale area, Pavement",
+          "latitude": 43.294472,
+          "longitude": -116.98611512255081
+        },
+        "url": "http://birice.vaisala.com/photos/0294abf2_f906f7af_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ion Summit, 29 miles south of the Homedale area, Northwest",
+          "latitude": 43.294472,
+          "longitude": -116.98611512255081
+        },
+        "url": "http://birice.vaisala.com/photos/0294abf2_f906f7af_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Simco Road, 14 miles east of the Boise area, East",
+          "latitude": 43.34447499598492,
+          "longitude": -115.95318783110675
+        },
+        "url": "https://exportdb.vaisala.io/export/image.jpg?username=idt&password=Data4Idaho&station=10688&cam=3",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Simco Road, 14 miles east of the Boise area, West",
+          "latitude": 43.34447499598492,
+          "longitude": -115.95318783110675
+        },
+        "url": "https://exportdb.vaisala.io/export/image.jpg?username=idt&password=Data4Idaho&station=10688&cam=2",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Simco Road, 14 miles east of the Boise area, Pavement",
+          "latitude": 43.34447499598492,
+          "longitude": -115.95318783110675
+        },
+        "url": "https://exportdb.vaisala.io/export/image.jpg?username=idt&password=Data4Idaho&station=10688&cam=1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mt. Margaret, 7 miles east of the Onaway area, Northeast",
+          "latitude": 46.932161126401496,
+          "longitude": -116.69955760649827
+        },
+        "url": "https://birice.vaisala.com/photos/02CC1966_F90B495F_Cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mt. Margaret, 7 miles east of the Onaway area, Southeast",
+          "latitude": 46.932161126401496,
+          "longitude": -116.69955760649827
+        },
+        "url": "https://birice.vaisala.com/photos/02CC1966_F90B495F_Cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Mt. Margaret, 7 miles east of the Onaway area, Pavement",
+          "latitude": 46.932161126401496,
+          "longitude": -116.69955760649827
+        },
+        "url": "https://birice.vaisala.com/photos/02CC1966_F90B495F_Cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Gem Valley, 9 miles east of the Lava Hot Springs area, East",
+          "latitude": 42.64943151465582,
+          "longitude": -111.82603210250194
+        },
+        "url": "https://birice.vaisala.com/photos/028AC539_F955AF98_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Gem Valley, 9 miles east of the Lava Hot Springs area, West",
+          "latitude": 42.64943151465582,
+          "longitude": -111.82603210250194
+        },
+        "url": "https://birice.vaisala.com/photos/028AC539_F955AF98_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fall River, 5 miles west of the Ashton area, Southwest",
+          "latitude": 44.00929854115451,
+          "longitude": -111.53971565175321
+        },
+        "url": "https://birice.vaisala.com/photos/029F85B9_F95A0E77_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Fall River, 5 miles west of the Ashton area, Northeast",
+          "latitude": 44.00929854115451,
+          "longitude": -111.53971565175321
+        },
+        "url": "https://birice.vaisala.com/photos/029F85B9_F95A0E77_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camas, 5 miles north of the Hamer area, Northwest",
+          "latitude": 44.007028615901746,
+          "longitude": -112.23282431149717
+        },
+        "url": "https://birice.vaisala.com/photos/029F831B_F94F7723_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Camas, 5 miles north of the Hamer area, Southwest",
+          "latitude": 44.007028615901746,
+          "longitude": -112.23282431149717
+        },
+        "url": "https://birice.vaisala.com/photos/029F831B_F94F7723_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Upper Lochsa, 97 miles east of the Kooskia area, North View",
+          "latitude": 46.615594,
+          "longitude": -114.58999036501902
+        },
+        "url": "https://birice.vaisala.com/photos/upper_lochsa_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Upper Lochsa, 97 miles east of the Kooskia area, Pavement",
+          "latitude": 46.615594,
+          "longitude": -114.58999036501902
+        },
+        "url": "https://birice.vaisala.com/photos/upper_lochsa_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Upper Lochsa, 97 miles east of the Kooskia area, South View",
+          "latitude": 46.615594,
+          "longitude": -114.58999036501902
+        },
+        "url": "https://birice.vaisala.com/photos/upper_lochsa_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Upper Lochsa, 97 miles east of the Kooskia area, West View",
+          "latitude": 46.615594,
+          "longitude": -114.58999036501902
+        },
+        "url": "https://birice.vaisala.com/photos/upper_lochsa_cam4.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kuna/Meridian, in Meridian, Westbound",
+          "latitude": 43.59330803539823,
+          "longitude": -116.39372238938022
+        },
+        "url": "https://birice.vaisala.com/photos/032731B6_0685A00C_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kuna/Meridian, in Meridian, Eastbound",
+          "latitude": 43.59330803539823,
+          "longitude": -116.39372238938022
+        },
+        "url": "https://birice.vaisala.com/photos/032731B6_0685A00C_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kuna/Meridian, in Meridian, Pavement",
+          "latitude": 43.59330803539823,
+          "longitude": -116.39372238938022
+        },
+        "url": "https://birice.vaisala.com/photos/032731B6_0685A00C_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Halfway Summit, OR, 55 miles west of Cambridge, East",
+          "latitude": 44.828482523939755,
+          "longitude": -117.12236881256104
+        },
+        "url": "https://tripcheck.com/RoadCams/cams/ORE86%20at%20Halfway%20Summit_pid3165.JPG?rand=1469555717220",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ID/UT State Line UT, near Franklin, View",
+          "latitude": 41.998902,
+          "longitude": -111.812832
+        },
+        "url": "https://udottraffic.utah.gov/1_devices/US-91-mile45-all.gif?rand=0.6079736247712729",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SR-42, UT, 25 miles south of Malta, View",
+          "latitude": 41.99637039845389,
+          "longitude": -113.19119453430176
+        },
+        "url": "https://udottraffic.utah.gov/1_devices/sr-42-mp-0.gif",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thayne, WY, 90 miles east of Idaho Falls, South",
+          "latitude": 42.906588393434966,
+          "longitude": -110.99697589874268
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/US89Thayne/US89ThayneSouth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thayne, WY, 90 miles east of Idaho Falls, North",
+          "latitude": 42.906588393434966,
+          "longitude": -110.99697589874268
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/US89Thayne/US89ThayneNorth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Thayne, WY, 90 miles east of Idaho Falls, Surface",
+          "latitude": 42.906588393434966,
+          "longitude": -110.99697589874268
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/US89Thayne/US89ThayneRoadSurface.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "East Sunnyside, 4 miles east of the Kootenai area, Northeast",
+          "latitude": 48.3262183975289,
+          "longitude": -116.41582953033215
+        },
+        "url": "https://birice.vaisala.com/photos/02E03C90_F9114010_CAM1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "East Sunnyside, 4 miles east of the Kootenai area, Northwest",
+          "latitude": 48.3262183975289,
+          "longitude": -116.41582953033215
+        },
+        "url": "https://birice.vaisala.com/photos/02E03C90_F9114010_CAM2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "East Sunnyside, 4 miles east of the Kootenai area, Pavement",
+          "latitude": 48.3262183975289,
+          "longitude": -116.41582953033215
+        },
+        "url": "https://birice.vaisala.com/photos/02E03C90_F9114010_CAM3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wrenco Loop, 4 miles west of the Dover area, East",
+          "latitude": 48.22813369383676,
+          "longitude": -116.70384901342717
+        },
+        "url": "https://birice.vaisala.com/photos/034F7B4C_0602FAF3_cam1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wrenco Loop, 4 miles west of the Dover area, West",
+          "latitude": 48.22813369383676,
+          "longitude": -116.70384901342717
+        },
+        "url": "https://birice.vaisala.com/photos/034F7B4C_0602FAF3_cam2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wrenco Loop, 4 miles west of the Dover area, Pavement",
+          "latitude": 48.22813369383676,
+          "longitude": -116.70384901342717
+        },
+        "url": "https://birice.vaisala.com/photos/034F7B4C_0602FAF3_cam3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Palisades, 2 miles east of the Irwin area, Southeast view",
+          "latitude": 43.332552,
+          "longitude": -111.198053
+        },
+        "url": "https://birice.vaisala.com/photos/palisades_image1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Palisades, 2 miles east of the Irwin area, Northwest view",
+          "latitude": 43.332552,
+          "longitude": -111.198053
+        },
+        "url": "https://birice.vaisala.com/photos/palisades_image2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pine Creek, 4 miles west of the Victor area, West View",
+          "latitude": 43.57144022905711,
+          "longitude": -111.21540559785277
+        },
+        "url": "https://birice.vaisala.com/photos/pinecreek1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pine Creek, 4 miles west of the Victor area, East View",
+          "latitude": 43.57144022905711,
+          "longitude": -111.21540559785277
+        },
+        "url": "https://birice.vaisala.com/photos/pinecreek2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Northwest Blvd, in Coeur d'Alene, View 1",
+          "latitude": 47.69973453865692,
+          "longitude": -116.80751091654197
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20NW%20Blvd%20430.7%20I-90%201-13.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ironwood, in Coeur d'Alene, Ironwood Dr",
+          "latitude": 47.69433237846719,
+          "longitude": -116.79171717245667
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20430.3%20Ironwood%20Dr%201-1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Junction I-90, in Coeur d'Alene, Junction I-90",
+          "latitude": 47.69863500038926,
+          "longitude": -116.79160319462825
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20430.6%20I-90%20WB%20Onrmp%201-2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Appleway, in Coeur d'Alene, Appleway",
+          "latitude": 47.70052176817558,
+          "longitude": -116.79157257289185
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20430.7%20Appleway%201-3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kathleen Ave, in Coeur d'Alene, Kathleen",
+          "latitude": 47.71510480893331,
+          "longitude": -116.79172814143921
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20431.7%20Kathleen%20Av%201-4.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hanley, in Coeur d'Alene, Hanley Ave",
+          "latitude": 47.72954932433558,
+          "longitude": -116.79241736788553
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20432.7%20Hanley%20Av%201-5.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Prairie, near Hayden, Prairie Ave",
+          "latitude": 47.74393664362139,
+          "longitude": -116.79204157062894
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20433.7%20Prairie%20Av%201-6.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Hayden, in Hayden, Hayden",
+          "latitude": 47.758529360029456,
+          "longitude": -116.79097548539428
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20434.7%20Hayden%20Av%201-7.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Wyoming, in Hayden, Wyoming Ave",
+          "latitude": 47.77337744313836,
+          "longitude": -116.79004215129982
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-95%20435.7%20Wyoming%20Av%201-8.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Farm, in Moscow, Farm Rd",
+          "latitude": 46.73260396916559,
+          "longitude": -117.02449629750295
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20SH-8%200.7%20Farm%20Rd%202-1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Line, in Moscow, Line St",
+          "latitude": 46.73334781315844,
+          "longitude": -117.01229781240994
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20SH-8%201.3%20Line%20Street%202-2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-95 Jct, in Moscow, US-95 Jct",
+          "latitude": 46.726120991488244,
+          "longitude": -117.0000915052604
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20US-95%20344.8N%20SH-8%2002.35%202-3.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Palouse River, in Moscow, Palouse River Dr",
+          "latitude": 46.71573862356776,
+          "longitude": -117.00333862979788
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20US-95%20344.1%20Palouse%20River%202-4.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "SH-8 Junction, in Moscow, SH-8 Junction",
+          "latitude": 46.732395,
+          "longitude": -117.000026
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20US-95%20345.3N%20Third%20Wash%202-5.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "D Street, near Moscow, D St",
+          "latitude": 46.737496775515275,
+          "longitude": -117.00146537720387
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20US-95%20345.6%20D%20Street%202-6.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sun Valley Road, in Ketchum, Sun Valley Rd",
+          "latitude": 43.680652,
+          "longitude": -114.364273
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D4%20SH-75%20128.3%20Sun%20Valley%20Rd%204-2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "5th Street, in Ketchum, 5th St",
+          "latitude": 43.68169937883402,
+          "longitude": -114.36569737614636
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D4%20SH-75%20128.4%205th%20Street%204-1.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Priest Lake, 30 miles north of the Priest River area, View Varies",
+          "latitude": 48.57607997279305,
+          "longitude": -116.95850859621362
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20SH-57%2032.2%20Priest%20Lake%201-17.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raymond, WY, undefined, South",
+          "latitude": 42.27455544725572,
+          "longitude": -111.04337987489998
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/WYO89Raymond/WYO89RaymondSouth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raymond, WY, undefined, North",
+          "latitude": 42.27455544725572,
+          "longitude": -111.04337987489998
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/WYO89Raymond/WYO89RaymondNorth.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raymond, WY, undefined, Roadway",
+          "latitude": 42.27455544725572,
+          "longitude": -111.04337987489998
+        },
+        "url": "https://webcams.wyoroad.info/Highway/webcameras/WYO89Raymond/WYO89RaymondRoadSurface.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Yahk, BC, 35 miles north of Bonners Ferry, ",
+          "latitude": 49.07521482467809,
+          "longitude": -116.14068883264156
+        },
+        "url": "https://images.drivebc.ca/bchighwaycam/pub/cameras/129.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Creston, BC, 35 miles north of Bonners Ferry, ",
+          "latitude": 49.1184728843107,
+          "longitude": -116.52394574621582
+        },
+        "url": "https://images.drivebc.ca/bchighwaycam/pub/cameras/306.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Kootenay Pass, BC, 60 miles north of Bonners Ferry, ",
+          "latitude": 49.05889064475094,
+          "longitude": -117.039616522583
+        },
+        "url": "https://images.drivebc.ca/bchighwaycam/pub/cameras/5.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pete King, 23 miles east of the Kooskia area, North",
+          "latitude": 46.162159076404535,
+          "longitude": -115.5914800694409
+        },
+        "url": "https://birice.vaisala.com/photos/id244_image001.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pete King, 23 miles east of the Kooskia area, Pavement",
+          "latitude": 46.162159076404535,
+          "longitude": -115.5914800694409
+        },
+        "url": "https://birice.vaisala.com/photos/id244_image002.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Pete King, 23 miles east of the Kooskia area, South",
+          "latitude": 46.162159076404535,
+          "longitude": -115.5914800694409
+        },
+        "url": "https://birice.vaisala.com/photos/id244_image003.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Weiser, 3 miles south of Weiser, West",
+          "latitude": 44.21624107221823,
+          "longitude": -116.9870871925558
+        },
+        "url": "https://tripcheck.com/RoadCams/cams/ORE201%20at%20Weiser_pid3682.JPG?rand=1579120155193",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raynolds Pass, MT, undefined, NW Elev 6778",
+          "latitude": 44.728577545591705,
+          "longitude": -111.47043280929006
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000564000-00-03-2020-10-04-07-11.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raynolds Pass, MT, undefined, Roadway Elev 6778",
+          "latitude": 44.728577545591705,
+          "longitude": -111.47043280929006
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000564000-00-02-2020-10-04-07-11.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raynolds Pass, MT, undefined, South Elev 6778",
+          "latitude": 44.728577545591705,
+          "longitude": -111.47043280929006
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000564000-00-00-2020-10-04-07-10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Raynolds Pass, MT, undefined, SW Elev 6778",
+          "latitude": 44.728577545591705,
+          "longitude": -111.47043280929006
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000564000-00-01-2020-10-04-07-10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monida Pass, MT, undefined, Interchange Elev 6824",
+          "latitude": 44.55702162240959,
+          "longitude": -112.31237119533648
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000267001-00-02-2020-10-04-07-10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monida Pass, MT, undefined, North Elev 6824",
+          "latitude": 44.55702162240959,
+          "longitude": -112.31237119533648
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000267001-00-03-2020-10-04-07-11.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monida Pass, MT, undefined, Roadway Elev 6824",
+          "latitude": 44.55702162240959,
+          "longitude": -112.31237119533648
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000267001-00-01-2020-10-04-07-10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Monida Pass, MT, undefined, South Elev 6824",
+          "latitude": 44.55702162240959,
+          "longitude": -112.31237119533648
+        },
+        "url": "https://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000267001-00-00-2020-10-04-07-10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Jackpot, NV, 29 miles south of Hollister, West",
+          "latitude": 41.97428940052183,
+          "longitude": -114.67444105786308
+        },
+        "url": "https://imageserver.511nv.com/SnapShot/320x240/TL-300116.jpg?d=1579215229677",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Boyer Ave, in Sandpoint, Boyer Ave",
+          "latitude": 48.27261045956835,
+          "longitude": -116.55696307222198
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-2%2028.35%20Boyer%20Ave%201-18.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Church St, in Sandpoint, Church St",
+          "latitude": 48.27403000867966,
+          "longitude": -116.55339403620701
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-2%2028.58%20Church%20St%201-19.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Cedar St, in Sandpoint, Cedar St",
+          "latitude": 48.27611927568285,
+          "longitude": -116.553488
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-2%2028.72%20Cedar%20St%201-20.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Larch St, in Sandpoint, Larch St",
+          "latitude": 48.28033808902044,
+          "longitude": -116.55333519538408
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D1%20US-2%20474.99%20Larch%20St%201-21.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Warbonnet Dr, near Moscow, Warbonnet Dr",
+          "latitude": 46.73245617864374,
+          "longitude": -117.03730908628468
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20SH-8%200.1%20Warbonnet%20Dr%202-8.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Laster Lane, near Caldwell, Laster Lane",
+          "latitude": 43.62582212413933,
+          "longitude": -116.61930237985173
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D3%20I-84%20032.0%20Laster%20Lane%20C3-201.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Butte City, near Butte City, Butte City",
+          "latitude": 43.609919,
+          "longitude": -113.24798074817534
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D6%20US-20%20251.86%20Arco%206-2.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Grangeville, in Grangeville, Grangeville",
+          "latitude": 45.92667975381366,
+          "longitude": -116.12398990974621
+        },
+        "url": "https://apps.itd.idaho.gov/apps/Inet_CARsCameraSnapshots/D2%20SH-13%20.323%20Idaho%202-10.jpg",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "marked_for_review": false
+      }
+    ]
   }
 }
