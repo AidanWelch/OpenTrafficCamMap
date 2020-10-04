@@ -1,14 +1,14 @@
 {
-  "name": "calt",
+  "name": "hawaiitc",
   "version": "1.0.0",
   "description": "",
-  "main": "calt.js",
+  "main": "HawaiiTC.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aidan Welch",
   "license": "ISC",
   "dependencies": {
-    "node-html-parser": "^1.2.21"
+    "xml2json": "^0.12.0"
   }
 }
