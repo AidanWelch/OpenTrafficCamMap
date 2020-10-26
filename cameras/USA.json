@@ -120943,5 +120943,5345 @@
         "marked_for_review": false
       }
     ]
+  },
+  "Maryland": {
+    "Wash. DC": [
+      {
+        "location": {
+          "description": "I-270 & Old Hundred Rd (MD 109)(CAM 165)",
+          "latitude": 39.2773,
+          "longitude": -77.3236
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7a00a1dc01250075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB, DECKOVER INTERIOR, MM 4.5 (C-206)",
+          "latitude": 39.13806,
+          "longitude": -77.13517
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a70150c00554004e004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB, DECKOVER APPROACH, MM 4.7 (C-208)",
+          "latitude": 39.137234,
+          "longitude": -77.13176
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7f014af00502004e004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT MD 4",
+          "latitude": 38.84008,
+          "longitude": -76.86648
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6a01d75801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-270 & W Diamond Ave (MD 117)(CAM 86)",
+          "latitude": 39.14018,
+          "longitude": -77.213234
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9201113c036b0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rockville Pk (MD 355) & Cedar La (CAM 36)",
+          "latitude": 39.006138,
+          "longitude": -77.0978
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ca014d5302510075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & Old Georgetown Rd (MD 187)(CAM 4)",
+          "latitude": 39.03092,
+          "longitude": -77.12762
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a900598700f30074004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-270 AT MD 109",
+          "latitude": 39.277,
+          "longitude": -77.323326
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2100d19c00cc00180053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB W OF I-95 MM 18.1 (C-224)",
+          "latitude": 39.074863,
+          "longitude": -76.91397
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c8008761001f00bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT EXIT 13 (Ritchie Marlboro Rd)",
+          "latitude": 38.869816,
+          "longitude": -76.843704
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6501d25801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 S. OF RIVER RD",
+          "latitude": 38.98167,
+          "longitude": -77.172615
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d401425800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 AT MD 212",
+          "latitude": 39.05101,
+          "longitude": -76.93024
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f701655800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Garrett A. Morgan Blvd at Ridgefield Blvd",
+          "latitude": 38.897903,
+          "longitude": -76.86534
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/ef00c25800a7005c0055fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 on W.W. Brg MD",
+          "latitude": 38.792786,
+          "longitude": -77.03535
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e700100700340088004502366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Connecticut Ave (MD 185) at East West Hwy (MD 410)(CAM 15)",
+          "latitude": 38.987637,
+          "longitude": -77.077736
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0b01b57900060075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB E OF MUNCASTER, MM 6.5 (C-211)",
+          "latitude": 39.12645,
+          "longitude": -77.10358
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/800026950585004b004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB, REDLAND RD, MM 3.9 (C203)",
+          "latitude": 39.134834,
+          "longitude": -77.14553
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7b011318000d0053004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rockville Pk (MD 355) & Congressional La (CAM 3)",
+          "latitude": 39.063976,
+          "longitude": -77.12631
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5601494900ee0074004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 AT CHERRY HILL RD",
+          "latitude": 39.033737,
+          "longitude": -76.9433
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3101095601e90035005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB LONGMEAD CROSSING DR MM 9.6 (C-214)",
+          "latitude": 39.107445,
+          "longitude": -77.05379
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/75003cc500a600ca004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT MD 202",
+          "latitude": 38.91714,
+          "longitude": -76.85159
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5101be5801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "National Harbor at American Way",
+          "latitude": 38.782288,
+          "longitude": -77.01063
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/a70010ea00ea00af004502366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 NB AT MD 32",
+          "latitude": 39.157803,
+          "longitude": -76.82421
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f201605800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "Rockville Pk (MD 355) & South Dr (CAM 35)",
+          "latitude": 38.999233,
+          "longitude": -77.09733
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f400498202500075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 & University Blvd (MD 193)(CAM 110)",
+          "latitude": 39.01509,
+          "longitude": -77.00511
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e4ff858700010075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Georgia Ave (MD 97) at University Blvd (MD 193)(CAM 55)",
+          "latitude": 39.04136,
+          "longitude": -77.052315
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e000990f025f0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 N of MD 210",
+          "latitude": 38.805,
+          "longitude": -76.99657
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c0000328018c0055005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT GOOD LUCK ROAD",
+          "latitude": 38.978516,
+          "longitude": -76.87354
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/260016bb004200f0004ae33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT MD 214",
+          "latitude": 38.892426,
+          "longitude": -76.847595
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4701b45801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 AT MD-198",
+          "latitude": 39.10004,
+          "longitude": -76.88963
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/63ff12a0008d00030048e33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB E OF 182 LAYHILL RD MM 11.1 (C-216)",
+          "latitude": 39.096058,
+          "longitude": -77.031815
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f2009c74002100bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT MD-193",
+          "latitude": 38.9955,
+          "longitude": -76.88932
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/63016dde026300e50051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 AT MD 216",
+          "latitude": 39.129265,
+          "longitude": -76.862526
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1a0142cf013f0016005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB E OF MD 97 MM 8.7 (C-213)",
+          "latitude": 39.116802,
+          "longitude": -77.06574
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d2005d9a001a00bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 AT AMER LEG BR",
+          "latitude": 38.9727,
+          "longitude": -77.17862
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8b00ad8b0064001f0053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD-295 AT MD-193",
+          "latitude": 38.99482,
+          "longitude": -76.88091
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/aa01d4760070001b0058fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 202 AT MD 704",
+          "latitude": 38.926334,
+          "longitude": -76.87425
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5b01c85801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 N. OF AMER LEG",
+          "latitude": 38.97483,
+          "longitude": -77.17878
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/680130ec01500048005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 AT US-29",
+          "latitude": 39.01564,
+          "longitude": -77.017
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/470011e600ef003a004ee33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB  W OF MD 650 NEW HAMPSHIRE AVE MM 12.9 (C-218)",
+          "latitude": 39.088337,
+          "longitude": -77.0059
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2e00aaa1002200bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 S OF SPLIT",
+          "latitude": 39.033573,
+          "longitude": -77.14185
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1501835800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Muncaster Mill Rd (MD 115) & Norbeck Rd (MD 28)(CAM 141)",
+          "latitude": 39.109024,
+          "longitude": -77.080345
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8401296e01150075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB W OF US 29 MM 14.9 (C-220)",
+          "latitude": 39.083138,
+          "longitude": -76.969536
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7d01722d001d00bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB AT BONIFANT MM 11.8 (C-217)",
+          "latitude": 39.094364,
+          "longitude": -77.030464
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9f00a319002200bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 295 AT POWDER MILL RD",
+          "latitude": 39.032658,
+          "longitude": -76.85286
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/d6001e05013b00c4005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rockville Pk (MD 355) & Tuckerman La (North) (CAM 37)",
+          "latitude": 39.031452,
+          "longitude": -77.105965
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1701519c02510075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB E OF I-95 MM 19.1 (C-226)",
+          "latitude": 39.067554,
+          "longitude": -76.899445
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/86008e17002000bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & Germantown Rd (MD 118)(CAM 7)",
+          "latitude": 39.184135,
+          "longitude": -77.25554
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8601655500f60074004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 W OF MD 97",
+          "latitude": 39.013775,
+          "longitude": -77.05382
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0b02795800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "Frederick Rd (MD 355) at Germantown Rd (MD 118)(CAM 118)",
+          "latitude": 39.19205,
+          "longitude": -77.24327
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0601b17800060075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 N OF DEMOCRACY",
+          "latitude": 39.026596,
+          "longitude": -77.141365
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/10027e5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Columbia Pk (US 29) at Lockwood Dr (CAM 31)",
+          "latitude": 39.032867,
+          "longitude": -77.002975
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1d01d54801280075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Clarksburg Rd (MD 121) at I-270 (CAM 122)",
+          "latitude": 39.231495,
+          "longitude": -77.28498
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2d00cd8100080075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 295 NB AT MD 175",
+          "latitude": 39.140244,
+          "longitude": -76.75554
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ed002d0f006200f20047833633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB E OF I-95 MM 18.6 (C-225)",
+          "latitude": 39.07317,
+          "longitude": -76.90467
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7f00d20700f400ae004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB, Deckover Interior, MM 4.7 (C207)",
+          "latitude": 39.13764,
+          "longitude": -77.13306
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/b000389a059e004b004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT US 1",
+          "latitude": 39.01912,
+          "longitude": -76.923035
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/440020db006e00800045833633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB W OF 182 LAYHILL RD MM 10.4 (C-215)",
+          "latitude": 39.099857,
+          "longitude": -77.04359
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d7006b8f001c00bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 AT MD 97",
+          "latitude": 39.013603,
+          "longitude": -77.04067
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/4e00dc82005e00bd0058fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Frederick Rd (MD 355) at Shady Grove Rd (CAM 57)",
+          "latitude": 39.122543,
+          "longitude": -77.17872
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9c00a1c202600075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 AT BRADLEY BLVD",
+          "latitude": 39.009304,
+          "longitude": -77.151794
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1f018d5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB AT CRABBS BRANCH WAY, MM 2.2 (C-201)",
+          "latitude": 39.130302,
+          "longitude": -77.17176
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c50024ab00ad0059004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & W Montgomery Ave (MD 28)(CAM 90)",
+          "latitude": 39.085808,
+          "longitude": -77.174126
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/df012178036c0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT MD-5",
+          "latitude": 38.820328,
+          "longitude": -76.9213
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/76001126000a000e004ee33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "MD 214 AT RITCHIE RD",
+          "latitude": 38.889507,
+          "longitude": -76.86239
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4201af5801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 29 AT MD 198",
+          "latitude": 39.11162,
+          "longitude": -76.92926
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/33000ab5004b0005004be33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB N/METRO ACCESS RD, MM 2.9 (C-202)",
+          "latitude": 39.13717,
+          "longitude": -77.16274
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2a012b0800ae0059004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB W OF MUNCASTER, MM 5.6 (C-210)",
+          "latitude": 39.12775,
+          "longitude": -77.121
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/da0039a900af0059004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT FORESTVILLE RD",
+          "latitude": 38.82717,
+          "longitude": -76.87848
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e5016766026300e50051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "Frederick Rd (MD 355) at Ridge Rd (MD 27)(CAM 120)",
+          "latitude": 39.20456,
+          "longitude": -77.245834
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d400c13500070075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 410 | US 50 AT MD 410 East/West Highway",
+          "latitude": 38.943626,
+          "longitude": -76.880486
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5eff09b3009600e9004ae33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Paint Branch Pkwy at MFRI",
+          "latitude": 38.98286,
+          "longitude": -76.928925
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/c5ff65d2008900a1004f823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & I-370(CAM 84)",
+          "latitude": 39.11885,
+          "longitude": -77.19585
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f50009a903690075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Colesville Rd (US 29) at Fenton St (CAM 24)",
+          "latitude": 38.99754,
+          "longitude": -77.027275
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/13015dbd01210075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ardwick Ardmore Rd at Pennsy Dr",
+          "latitude": 38.943768,
+          "longitude": -76.87118
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/bd000b0500ea00af004502366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB AT Olde Mill Run, MM 4.3 (C-204)",
+          "latitude": 39.139145,
+          "longitude": -77.13947
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d60032ad00ae0059004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 E. OF I-95/495",
+          "latitude": 38.945778,
+          "longitude": -76.85414
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3801a55801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 & Old Georgetown Rd (MD 187)(CAM 38)",
+          "latitude": 39.01569,
+          "longitude": -77.11975
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7a0155fb02510075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "University Blvd (MD 193) & Veirs Mill Rd (MD 586)(CAM 150)",
+          "latitude": 39.04001,
+          "longitude": -77.05507
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0c0159ba01210075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "East West Hwy (MD 410) at Wisconsin Ave (MD 355)(CAM 12)",
+          "latitude": 38.98458,
+          "longitude": -77.09482
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/efff918500020075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Sheriff Rd at William Paca Elem. School",
+          "latitude": 38.912617,
+          "longitude": -76.87267
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/fb00078a0045000c004a02366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 202",
+          "latitude": 38.930313,
+          "longitude": -76.89772
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6001cd5801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "East West Hwy (MD 410) at Georgia Ave (US 29)(CAM 26)",
+          "latitude": 38.98729,
+          "longitude": -77.02688
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ae01694b01220075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT MD 414",
+          "latitude": 38.808247,
+          "longitude": -76.97134
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9d00119e00770051004de33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 & River Rd (MD 190)(CAM 16)",
+          "latitude": 38.990845,
+          "longitude": -77.15865
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c600bd2b00070075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & Middlebrook Rd(CAM 88)",
+          "latitude": 39.17515,
+          "longitude": -77.24724
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/520119f4036b0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bradley Blvd (MD 191) at River Road (MD 190)(CAM 10)",
+          "latitude": 39.001873,
+          "longitude": -77.18082
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3101502603df0077004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 295 AT MD 202",
+          "latitude": 38.933407,
+          "longitude": -76.91906
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/a800e67c000b0089005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT MD 210",
+          "latitude": 38.801464,
+          "longitude": -77.00128
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6900ed9d0021000a005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB N OF NEEDWOOD RD, MM 5.1 (C-209)",
+          "latitude": 39.13391,
+          "longitude": -77.1264
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/bc001dc100950059004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT I-295",
+          "latitude": 38.79567,
+          "longitude": -77.01584
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3301a05801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB E OF US 29 MM 16.2 (C-222)",
+          "latitude": 39.075653,
+          "longitude": -76.94834
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f6ff8097001e00bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bradley Blvd (MD 191) at Wisconsin Ave (MD 355)(CAM 11)",
+          "latitude": 38.97679,
+          "longitude": -77.09127
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f70054e703e00077004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 202 AT BRIGHTSEAT RD",
+          "latitude": 38.91775,
+          "longitude": -76.859886
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5601c35801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB W OF US 1, MM 20.1 (C228)",
+          "latitude": 39.06661,
+          "longitude": -76.881584
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ce0018ce01bd00590054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT D'ARCY ROAD",
+          "latitude": 38.856487,
+          "longitude": -76.85293
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d8000e99005e00ba004a02366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT NATL HARBOR",
+          "latitude": 38.79399,
+          "longitude": -77.01598
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3e0012c100f6004f004de33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Connecticut Ave (MD 185) at I-495 (CAM 13)",
+          "latitude": 39.00511,
+          "longitude": -77.07722
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ac00a13000040075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 AT MD 175",
+          "latitude": 39.178417,
+          "longitude": -76.788864
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/bcff34a000aa00dd004c823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & Tuckerman La (CAM 33)",
+          "latitude": 39.037537,
+          "longitude": -77.14625
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/bf014156024f0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 & Seven Locks Rd (CAM 93)",
+          "latitude": 38.98351,
+          "longitude": -77.160995
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a1011d3e036c0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & Shady Grove Rd (CAM 43)",
+          "latitude": 39.110207,
+          "longitude": -77.18838
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/490169b102560075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT TEMPLE HILLS RD",
+          "latitude": 38.81732,
+          "longitude": -76.94918
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/bd00080800ec00a8004a02366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 & New Hampshire Ave (MD 650)(CAM 67)",
+          "latitude": 39.01941,
+          "longitude": -76.97631
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4b01c94502640075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 N OF MD 201",
+          "latitude": 39.010033,
+          "longitude": -76.9016
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2401925800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Georgia Ave (MD 97) at Veirs Mill Rd (MD 586)(CAM 59)",
+          "latitude": 39.03595,
+          "longitude": -77.05034
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/910095c5025e0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Rockville Pk (MD 355) & Twinbrook Pkwy (CAM 194)",
+          "latitude": 39.058544,
+          "longitude": -77.12138
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/47012916022f0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 E. OF MD 650",
+          "latitude": 39.018936,
+          "longitude": -76.964195
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9700f0af000a003b005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 AT I-495",
+          "latitude": 39.023365,
+          "longitude": -76.94472
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8b010ae2017f00490059fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-270 & Montgomery Village Ave (MD 124)(CAM 85)",
+          "latitude": 39.148937,
+          "longitude": -77.21702
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3d010dec036a0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Colesville Rd (US 29) at University Blvd (MD 193)(CAM 71)",
+          "latitude": 39.01948,
+          "longitude": -77.01352
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a000d98902650075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bradley Blvd (MD 191) at Connecticut Ave (MD 185)(CAM 112)",
+          "latitude": 38.97668,
+          "longitude": -77.077034
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a1008d3b00020075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT LOTTSFORD VISTA RD",
+          "latitude": 38.94722,
+          "longitude": -76.82585
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d2ff0e21009700e9004ae33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 E OF US 301/MD 3",
+          "latitude": 38.95528,
+          "longitude": -76.71453
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/7401e15801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bonifant Rd/Good Hope Rd at New Hampshire Ave (MD 650)(CAM 52)",
+          "latitude": 39.095657,
+          "longitude": -77.002365
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c7008d04025d0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Connecticut Ave (MD 185) at Georgia Ave (MD 97)(CAM 63)",
+          "latitude": 39.08349,
+          "longitude": -77.07806
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9500b9a102620075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 NORTH OF I-270 SPUR",
+          "latitude": 39.013126,
+          "longitude": -77.14453
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4800e8aa00ab0059005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 W. OF CONN AVE",
+          "latitude": 39.007416,
+          "longitude": -77.08681
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e301515800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Connecticut Ave (MD 185) at University Blvd (MD 193)(CAM 80)",
+          "latitude": 39.031647,
+          "longitude": -77.07529
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/be00f98402680075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 295 SB AT MD 175",
+          "latitude": 39.140335,
+          "longitude": -76.75567
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3c013258006300f20047833633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 S. OF US 50",
+          "latitude": 38.939472,
+          "longitude": -76.85559
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3d01aa5801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 & Montrose Rd (CAM 70)",
+          "latitude": 39.056267,
+          "longitude": -77.155106
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4e01d53b02650075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB AT KONTERRA DRIVE, MM 19.6 (C-227)",
+          "latitude": 39.067078,
+          "longitude": -76.889595
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2f01de5c00e300410054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 W.W. Brg VA",
+          "latitude": 38.792416,
+          "longitude": -77.04075
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3501154f00350088004502366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "New Hampshire Ave (MD 650) & Piney Branch Rd (MD 320)(CAM 116)",
+          "latitude": 39.001503,
+          "longitude": -76.98191
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4e00a5cd00050075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB E OF BRIGGS CHANEY RD MM 17.1 (C-223)",
+          "latitude": 39.073776,
+          "longitude": -76.93228
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/aa00cb3a00f300ae004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Georgia Ave (US 29) at Sligo Ave (CAM 181)",
+          "latitude": 38.9902,
+          "longitude": -77.0268
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0601f50e012b0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Forest Glen Rd (MD 192) at Georgia Ave (MD 97)(CAM 27)",
+          "latitude": 39.01569,
+          "longitude": -77.04273
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/410175d201220075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 210 S of I-95/495",
+          "latitude": 38.79646,
+          "longitude": -76.99837
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/58002a1301e70080005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-95 AT PATUXENT RIVER",
+          "latitude": 39.115414,
+          "longitude": -76.873055
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0301bd3e006700d40050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 29 at MD 216",
+          "latitude": 39.145008,
+          "longitude": -76.901115
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/53000a2a002d00cf004ae33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 AT ARENA DR",
+          "latitude": 38.90696,
+          "longitude": -76.85035
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4c01b95801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95/495 W. OF US 1",
+          "latitude": 39.021988,
+          "longitude": -76.93973
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/01026f5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 SB AT MD 32",
+          "latitude": 39.15887,
+          "longitude": -76.82976
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ed015b5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT CHURCH RD",
+          "latitude": 38.945263,
+          "longitude": -76.77053
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ac016133026300e50051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-495 E. OF I-270",
+          "latitude": 39.01543,
+          "longitude": -77.09561
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/b3011c5701440048005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB W OF MD 97, MM 8.0 (C-212)",
+          "latitude": 39.1194,
+          "longitude": -77.07901
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8201404900b00059004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RUBY LOCKHART AT ST. JOSEPH'S DR",
+          "latitude": 38.91809,
+          "longitude": -76.84265
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/b300be2300a4005c0055fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Columbia Pk (US 29) at Randolph Rd (CAM 46)",
+          "latitude": 39.06251,
+          "longitude": -76.96277
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/790175d402570075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "National Harbor at Waterfront",
+          "latitude": 38.786407,
+          "longitude": -77.01428
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/a70006f700e700af004502366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 WB E OF 650 NEW HAMPSHIRE AVE MM 13.9 (C-219)",
+          "latitude": 39.08987,
+          "longitude": -76.98768
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a800b113002300bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ritchie at Walker Mill Rd",
+          "latitude": 38.872536,
+          "longitude": -76.85636
+        },
+        "url": "https://strmr10.sha.maryland.gov/rtplive/7e01eb5801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB W OF US 29 MM 15.8 (C-221)",
+          "latitude": 39.079296,
+          "longitude": -76.955826
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6c017914001e00bd004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-270 AT Father Hurley Blvd (CAM 134)",
+          "latitude": 39.197594,
+          "longitude": -77.26338
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/47010d4f01130075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-370 / Shady Grove Metro & Shady Grove Rd (CAM 61)",
+          "latitude": 39.130154,
+          "longitude": -77.1626
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e900b1fe02610075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Ashton Rd (MD 108) at New Hampshire Ave (MD 650)(CAM 147)",
+          "latitude": 39.14924,
+          "longitude": -77.01252
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/27014de201200075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "New Hampshire Ave (MD 650) & Randolph Rd (CAM 51)",
+          "latitude": 39.07556,
+          "longitude": -77.002205
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5e0089a0025c0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 295 SOUTH AT MD 197",
+          "latitude": 39.05668,
+          "longitude": -76.83975
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f1ff17ec018300940059fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Western MD": [
+      {
+        "location": {
+          "description": "I-70 EAST OF I-270",
+          "latitude": 39.39761,
+          "longitude": -77.42188
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9201ff5801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 West at St Paul Rd",
+          "latitude": 39.6518,
+          "longitude": -77.88799
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1b00d699004a008e0057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 at Mount Phillip Rd",
+          "latitude": 39.41592,
+          "longitude": -77.47652
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/30001ac501a600d60057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 15 AT ST ANTHONY RD",
+          "latitude": 39.665695,
+          "longitude": -77.36801
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/61000ccc01a9000b0057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD 135 AT MEADOW OAKS DR",
+          "latitude": 39.487007,
+          "longitude": -79.106895
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/cc00bf4800bb00370056fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Savage Mountain Tower",
+          "latitude": 39.674232,
+          "longitude": -78.96225
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8b00feac006f00c0005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 AT EXIT 62 US 40 FIFTEEN MILE CREEK RD (EB)",
+          "latitude": 39.67767,
+          "longitude": -78.46374
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/97000de4013600bc005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 AT BLOOMING ROSE RD",
+          "latitude": 39.652786,
+          "longitude": -79.439224
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/89006627008a00be005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 22 US 219 (Grantsville Tower)",
+          "latitude": 39.68832,
+          "longitude": -79.09214
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/be0017de00e800dd00451536ea235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-70 East at I-81",
+          "latitude": 39.61655,
+          "longitude": -77.7853
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1b01e0330015001c005afa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 at MD 68 Clearspring Rd",
+          "latitude": 39.651592,
+          "longitude": -77.92324
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6e00fd5800ad00b9005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 East at South Mountain",
+          "latitude": 39.526527,
+          "longitude": -77.60347
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0200f4dc00c300a00052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-70 at I-68",
+          "latitude": 39.70911,
+          "longitude": -78.18272
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/950008fc01cf000f005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at US 219 Keysers Ridge Tower",
+          "latitude": 39.692944,
+          "longitude": -79.251785
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0e0109d100f1003d00471536ea235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-68 at US 219",
+          "latitude": 39.68929,
+          "longitude": -79.24981
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1800a05f00a100ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 74 Mountain Rd",
+          "latitude": 39.71189,
+          "longitude": -78.30311
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/b1ff05ba019e00a0005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 47 US 220",
+          "latitude": 39.67372,
+          "longitude": -78.71543
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/44013f49015800b0005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-70 W OF I-270",
+          "latitude": 39.399185,
+          "longitude": -77.427704
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0800f82400b50086005bd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 at Exit 35 MD 66 Mapleville Rd",
+          "latitude": 39.58584,
+          "longitude": -77.6393
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/4600070f01c300b9005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-68/SIDELING HILL",
+          "latitude": 39.70993,
+          "longitude": -78.275734
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/c1ff9c0c00a100ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 340 at MD 180",
+          "latitude": 39.356236,
+          "longitude": -77.582054
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3200a76b008000d30050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 40 AT FRED/WASH CO. LINE",
+          "latitude": 39.5373,
+          "longitude": -77.60681
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/7f01ae3d006200620053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-70 at MD 27",
+          "latitude": 39.359795,
+          "longitude": -77.16743
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e0ffa81e00a200ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-68 EB AT MD-55",
+          "latitude": 39.639397,
+          "longitude": -78.89244
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0001ba0e00fa006d0054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 15 AT MD 26",
+          "latitude": 39.442024,
+          "longitude": -77.404106
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ccffd39d00a000e90056fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-68 AT WV LINE",
+          "latitude": 39.660336,
+          "longitude": -79.46252
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/da0072eb01fc00b10052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 West past Exit 29 MD 65 (Hagerstown Tower)",
+          "latitude": 39.604496,
+          "longitude": -77.73668
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/10010d3a00e800dd00451536ea235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at MD 639 (Allegany 911 TWR)",
+          "latitude": 39.64817,
+          "longitude": -78.74731
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7300129800e800dd00451536ea235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US-15 AT US-40",
+          "latitude": 39.415264,
+          "longitude": -77.43522
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8cffcf8b00c500980058fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "RWIS MD-51 AT OLDTOWN SALT DOME",
+          "latitude": 39.541943,
+          "longitude": -78.59309
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/b200c8ac005700170053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-81 at Exit 10 Showalter Rd",
+          "latitude": 39.70051,
+          "longitude": -77.73936
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/9a00c9410091002b0057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 EAST PRIOR TO WINCHESTER RD",
+          "latitude": 39.634598,
+          "longitude": -78.8447
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1d0031cf01c000a9005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 West past Bartholows Rd",
+          "latitude": 39.37497,
+          "longitude": -77.228615
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1101dd5c00fa0006005bfa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 24 Lower New Germany Rd",
+          "latitude": 39.683426,
+          "longitude": -79.07151
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/61fffc8f008300a0005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 33 MD 736 Midlothian Rd",
+          "latitude": 39.641003,
+          "longitude": -78.95072
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/7200276f018000a8005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 East past Exit 56 MD 144",
+          "latitude": 39.4067,
+          "longitude": -77.37482
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8701c10d073d000800447a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 64 AT MD 418",
+          "latitude": 39.707848,
+          "longitude": -77.572975
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/c000e031002400b90055fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 at Exit 68 MD 27 Ridge Rd",
+          "latitude": 39.35953,
+          "longitude": -77.166115
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/d101293e01510065005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 219 S AT DEEP CREEK LAKE",
+          "latitude": 39.528404,
+          "longitude": -79.3448
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/60ffe582008000c8005bd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 East at St Paul Rd",
+          "latitude": 39.651318,
+          "longitude": -77.88855
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/4300ceca0049008e0057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 32 AT LINDEN CHURCH RD",
+          "latitude": 39.229336,
+          "longitude": -76.97352
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3101ea46001a0033005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Old Morgantown Rd",
+          "latitude": 39.69442,
+          "longitude": -79.34087
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/28011e3f016f00a8005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 100 AT US 1",
+          "latitude": 39.189137,
+          "longitude": -76.75653
+        },
+        "url": "https:///rtplive/640169bc0030005a005fd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 42 US 220",
+          "latitude": 39.64543,
+          "longitude": -78.7838
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/c600395c01d400a9005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 50 AT TABLE ROCK",
+          "latitude": 39.296913,
+          "longitude": -79.3648
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/be00a3fe007d00d30050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD 135 at Salt Dome",
+          "latitude": 39.45382,
+          "longitude": -79.208206
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/9c00ad6c00a300100053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 15 AT MD 140",
+          "latitude": 39.70184,
+          "longitude": -77.31379
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e7008978002900f00050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 AT MARTIN'S MOUNTAIN",
+          "latitude": 39.701084,
+          "longitude": -78.63267
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/bc006c52008c00be005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at WV Line (611004)",
+          "latitude": 39.660336,
+          "longitude": -79.46252
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/27012035019f007f005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 West at South Mountain",
+          "latitude": 39.51191,
+          "longitude": -77.59342
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e2ffcef400b100a00052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 4 MD 42 Friendsville Rd",
+          "latitude": 39.66237,
+          "longitude": -79.4144
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1d01f5fa004e002e005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 340 AT MD 17",
+          "latitude": 39.33974,
+          "longitude": -77.64032
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1b00c8e9008000160057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 AT STREET RD",
+          "latitude": 39.71418,
+          "longitude": -78.611595
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f300e11b007e00c8005bd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 AT MONTGOMERY RD",
+          "latitude": 39.211872,
+          "longitude": -76.73845
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6300b79e00f10068005fd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 AT SYKESVILLE RD",
+          "latitude": 39.30864,
+          "longitude": -76.95254
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3f00aa8100ff0060005fd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 32 AT CLARKSVILLE PIKE",
+          "latitude": 39.20795,
+          "longitude": -76.941795
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/5401f061001c0033005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 at Exit 56 Black Valley Rd",
+          "latitude": 39.70553,
+          "longitude": -78.567955
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2b015c7201f700b2005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 West at I-81",
+          "latitude": 39.61655,
+          "longitude": -77.7853
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f100e6020016001c005afa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-70 at I-81",
+          "latitude": 39.616608,
+          "longitude": -77.78569
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/90ffa4d300a100ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 Prior to Exit 5",
+          "latitude": 39.68777,
+          "longitude": -78.118675
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1501f440007600b8005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-68 AT SAVAGE MT",
+          "latitude": 39.656704,
+          "longitude": -78.954475
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/faff984a00a000ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Annapolis": [
+      {
+        "location": {
+          "description": "US 50 AT EX 16 MD 424 DAVIDSONVILLE ROAD",
+          "latitude": 38.96139,
+          "longitude": -76.65312
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/000109f6004b00a6004af03676235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C510 at Gantry S-15 MP 35.0",
+          "latitude": 38.988728,
+          "longitude": -76.362816
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/a800e0862df8001700503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C512 at Gantry S-19 MP 35.7",
+          "latitude": 38.985863,
+          "longitude": -76.35065
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6400d5b92e86001c00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT Ex 24 MD 70 Rowe Blvd",
+          "latitude": 38.993816,
+          "longitude": -76.515625
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/fa0017fb008d004b004af03676235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 E OF ST MARGARETS",
+          "latitude": 39.02504,
+          "longitude": -76.4332
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7e01ec5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 E. OF SEVERN RIV",
+          "latitude": 39.011177,
+          "longitude": -76.49947
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a3000f3401a1000b005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT SANDY POINT",
+          "latitude": 39.017776,
+          "longitude": -76.409546
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3200f6fe0080000b005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 2 - Ex 23 (Parole Twr)",
+          "latitude": 38.985447,
+          "longitude": -76.53211
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8801f65800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 AT US 301/MD 3",
+          "latitude": 38.953808,
+          "longitude": -76.71747
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/60003223018200d5005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C507 at Gantry N-12 MP 2.7",
+          "latitude": 38.99289,
+          "longitude": -76.37495
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e30088da2e32001b00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C511 at Gantry N-19 MP 3.9",
+          "latitude": 38.987865,
+          "longitude": -76.35367
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1a0172df2d83001300503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT I-97 | 502017",
+          "latitude": 38.984783,
+          "longitude": -76.576256
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8301f15800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C503 at Gantry N-3 MP 0.9",
+          "latitude": 39.00616,
+          "longitude": -76.40214
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/b1019e712e53001b00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C509 at Gantry N-16 MP 3.4",
+          "latitude": 38.989902,
+          "longitude": -76.36235
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/080169d92d80001300503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 665 AT RIVA ROAD",
+          "latitude": 38.979233,
+          "longitude": -76.54941
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9600f63a001d0096005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT Ex. 27 MD 2",
+          "latitude": 39.014675,
+          "longitude": -76.490585
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6f01dd5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "WPL C504 at Gantry S-4 MP 32.7",
+          "latitude": 39.003075,
+          "longitude": -76.40084
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ed01636a2ed2001a00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-97 AT MD-178\rCROWNSVILLE",
+          "latitude": 39.010143,
+          "longitude": -76.60891
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2a0016ad00c900410047833633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 E. OF RUTLAND RD",
+          "latitude": 38.967297,
+          "longitude": -76.629265
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2a0155be026200e50051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C506 at Gantry S-9 MP 33.6",
+          "latitude": 38.9948,
+          "longitude": -76.38889
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/dd0157c42d7c001300503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C502 at Gantry S-1 MP 32.0",
+          "latitude": 39.00945,
+          "longitude": -76.40481
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/4900c5b02e84001c00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C501 at Gantry N-1 MP 0.7",
+          "latitude": 39.00957,
+          "longitude": -76.40449
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6100bdd12e83001c00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C513 at Gantry N-26 MP 5.0",
+          "latitude": 38.981956,
+          "longitude": -76.33305
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/9800cdf62e85001c00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C508 at Gantry S-12 MP 34.3",
+          "latitude": 38.991684,
+          "longitude": -76.3754
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6202603d2d7f001300503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C505 at Gantry N-9 MP 2.0",
+          "latitude": 38.995987,
+          "longitude": -76.38843
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/eb0095b72e50001b00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WPL C514 at Gantry S-24 MP 36.6",
+          "latitude": 38.982216,
+          "longitude": -76.335106
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/a500ddf12e87001c00503336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Baltimore": [
+      {
+        "location": {
+          "description": "I-695 I/L Pier #16",
+          "latitude": 39.215054,
+          "longitude": -76.532
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/4e022563017c00790053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-695 Median at MM32.3 (C027)",
+          "latitude": 39.358448,
+          "longitude": -76.50345
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3801d561005e00d00057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 E OF PATAPSCO RIV BR",
+          "latitude": 39.30705,
+          "longitude": -76.78823
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e7015d5b0020005a005fd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-97 AT NEW CUT ROAD",
+          "latitude": 39.128517,
+          "longitude": -76.641594
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/00012848007300bc004c823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 NB, N of Chesaco Ave MM 62.0 (C027B)",
+          "latitude": 39.332695,
+          "longitude": -76.519226
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5e0044bd00b400a5004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 272 (C004) MP 99.4",
+          "latitude": 39.629566,
+          "longitude": -75.96052
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d501656c00e20039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 North past Padonia Rd",
+          "latitude": 39.45688,
+          "longitude": -76.65023
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0a004caa01af00b1005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N Past Cowenton Ave, MM 67.9 (C021B)",
+          "latitude": 39.388836,
+          "longitude": -76.438065
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3401cf1d00fc007b0054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-100 WEST OF BALTIMORE WASHINGTON PKWY",
+          "latitude": 39.17358,
+          "longitude": -76.73654
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/df0171e70067006b005fd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 S OF OLD PIMLICO RD (403044)",
+          "latitude": 39.38406,
+          "longitude": -76.66207
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/63001ed500b100ba004e3436c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S OF I-195 (403028)",
+          "latitude": 39.235092,
+          "longitude": -76.7109
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9d010b5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N at Moravia Rd. (C042C)",
+          "latitude": 39.30565,
+          "longitude": -76.53074
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8e00f497007a00d8005bd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 N of Md 279 Ex 109 (C001) MP 108.4",
+          "latitude": 39.640556,
+          "longitude": -75.80155
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0f019fd7443a0032004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 222 (C008) MP 93.2",
+          "latitude": 39.593437,
+          "longitude": -76.06675
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/df00815800e40039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 N OF EX 16, TIMONIUM ROAD (403043)",
+          "latitude": 39.44473,
+          "longitude": -76.635284
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9400051b01db00e6005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 at Shawan Rd",
+          "latitude": 39.497402,
+          "longitude": -76.66796
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/74000dda01980041005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95N ML @ I-695, MP 63.7(C024C)",
+          "latitude": 39.350266,
+          "longitude": -76.49814
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/de00376802d0009e0052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of MD 152 (C020) MP 74.2",
+          "latitude": 39.441772,
+          "longitude": -76.34796
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0901cb3400e80039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-97 AT MD-32",
+          "latitude": 39.063766,
+          "longitude": -76.64365
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/dd00bf3a00ea002a0053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 543 Ex 80 (C017) MP 80.0",
+          "latitude": 39.48325,
+          "longitude": -76.25565
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ef013c29023c0160004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 543 AT MD 136",
+          "latitude": 39.5075,
+          "longitude": -76.26972
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/40001fe400c000580045e2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 I/L AT EX 20 MD 140",
+          "latitude": 39.384308,
+          "longitude": -76.73388
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8c0032ca00e100aa004e3436c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 22 AT SHUCKS RD",
+          "latitude": 39.554974,
+          "longitude": -76.28639
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e8ff1a9100c000580045e2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 N OF EX 27 MD 137, HEREFORD TWR",
+          "latitude": 39.59347,
+          "longitude": -76.67026
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/b0001b4e006c00800045833633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT COVE RD",
+          "latitude": 39.27813,
+          "longitude": -76.472374
+        },
+        "url": "https:///rtplive/2301638a0027005a005fd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 40 S Pier #35 Hatem Br (C064)",
+          "latitude": 39.563393,
+          "longitude": -76.084175
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a50136f124680007004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of Rossville Blvd  (C024) MP 64.4",
+          "latitude": 39.35603,
+          "longitude": -76.485886
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/36008da300e40039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 40 AT MD 755",
+          "latitude": 39.436573,
+          "longitude": -76.30727
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c300873b00c10058004506363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 1 AT CONOWINGO",
+          "latitude": 39.664913,
+          "longitude": -76.17158
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/d4ffb40500a300ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95N GP AT I-695, MP 63.9 (C024B)",
+          "latitude": 39.350952,
+          "longitude": -76.494606
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0000309302ce009e0052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 at Moravia Rd (C029) MP14.1",
+          "latitude": 39.312534,
+          "longitude": -76.540276
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7f01597a018d00e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S NORTH OF JOPPA RD MM 68.6 (C021A)",
+          "latitude": 39.39696,
+          "longitude": -76.43159
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5601403c00860064004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N Prior to Exit 67 MD 43, MM 66.8 (C022C)",
+          "latitude": 39.376728,
+          "longitude": -76.45072
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6401c95400fb007b0054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 AT I-95 INTERCHANGE MP 0.3",
+          "latitude": 39.22272,
+          "longitude": -76.71955
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c200dc0dc37401b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 O/L Pier #17",
+          "latitude": 39.21567,
+          "longitude": -76.527054
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0d009bac017000850053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 at FMT, Top of South Portal (C040) MM 54.5",
+          "latitude": 39.264416,
+          "longitude": -76.58967
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a9008078019200e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD 24 AT ROCKS ST. PARK",
+          "latitude": 39.63708,
+          "longitude": -76.411255
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2e00ac6800a200ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Chesapeake H. (C006) MP 96.1",
+          "latitude": 39.608932,
+          "longitude": -76.01492
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c201714c00e30039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 AT MD 295 (C046) MM 4.5",
+          "latitude": 39.231964,
+          "longitude": -76.649956
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7d000a98c47501b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Eastern Ave (C042) MP 58.5",
+          "latitude": 39.286137,
+          "longitude": -76.53347
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e1000d84021a004b004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 S of O'Donnell St (C035) MP 11.8",
+          "latitude": 39.280655,
+          "longitude": -76.55353
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/b8007791019100e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-97 N OF MD-648 (502024)",
+          "latitude": 39.181168,
+          "longitude": -76.63278
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0900adbd00ee00e30051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-83 AT MD-137",
+          "latitude": 39.59246,
+          "longitude": -76.673584
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f500c12a006900d40050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N. OF I-695 SW",
+          "latitude": 39.261997,
+          "longitude": -76.67316
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1a01fd6300950072005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-83 at North Ave",
+          "latitude": 39.31087,
+          "longitude": -76.623055
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/88005dc600990068004f823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 155  (C013) MP 88.6",
+          "latitude": 39.567726,
+          "longitude": -76.140366
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6a0091d300e40039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 N of Childs St (C037) MM 8.4",
+          "latitude": 39.24094,
+          "longitude": -76.58356
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/eb0165ea044c0160004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT WILKENS AVE",
+          "latitude": 39.258034,
+          "longitude": -76.698425
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c501325801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-695 I/L Pier #18",
+          "latitude": 39.220383,
+          "longitude": -76.524895
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ecffa184017100850053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 N of Md 43 Whitemarsh Blvd (C022) MP 67.5",
+          "latitude": 39.38493,
+          "longitude": -76.44355
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f101757700e30039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT LIBERTY RD",
+          "latitude": 39.34777,
+          "longitude": -76.74579
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3d01ab5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of Chesapeake H. (C005) MP 97.1",
+          "latitude": 39.616207,
+          "longitude": -75.99986
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/480169db00e20039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of MD 543  (C016) MP 80.4",
+          "latitude": 39.48529,
+          "longitude": -76.24728
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/cf00b70f00e70039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT BALT NATL PK",
+          "latitude": 39.285336,
+          "longitude": -76.73768
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1701ea3700f9004a005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 1 AT CONOWINGO TWR",
+          "latitude": 39.655174,
+          "longitude": -76.1813
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2201f01800f8006f005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of Md 222 (C007) MP 93.4",
+          "latitude": 39.59521,
+          "longitude": -76.06257
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/400179c200e30039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 152  (C021) MP 74.1",
+          "latitude": 39.442345,
+          "longitude": -76.35057
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4c01cf7300e80039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 PRIOR TO CHESACO AVE",
+          "latitude": 39.312195,
+          "longitude": -76.50262
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/b700e75ce1df03c4004a06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 O/L AT EX 20 MD 140",
+          "latitude": 39.38477,
+          "longitude": -76.73447
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0f012c5400e000aa004e3436c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 I/L, N of FSK Bridge (C053) MP47.1",
+          "latitude": 39.229874,
+          "longitude": -76.51007
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4a014528c47701b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 24 AT MD 165",
+          "latitude": 39.672184,
+          "longitude": -76.40898
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/08010a4401e30024005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Tydings Br. (C011) MP 90.0",
+          "latitude": 39.576416,
+          "longitude": -76.11875
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9d016d2b00e30039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 at Exit 18 Warren Rd",
+          "latitude": 39.4721,
+          "longitude": -76.66201
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/57010d62007a0043004be2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 at Ritchie Spur (C047) MM 5.9",
+          "latitude": 39.229332,
+          "longitude": -76.624245
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/db01192600680049004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS I-95 AT TYDINGS BRIDGE",
+          "latitude": 39.58471,
+          "longitude": -76.09813
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8800c7b6006a00d40050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD-295 AT Brock Bridge",
+          "latitude": 39.077114,
+          "longitude": -76.82464
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/dfffda900085001b0058fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-695 E of Quarantine Rd (C051) MP 49.8",
+          "latitude": 39.20409,
+          "longitude": -76.55472
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e40037d1c47601b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 W of East Ordnance Rd (C049) MP 0.6",
+          "latitude": 39.205883,
+          "longitude": -76.59067
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7101276ec47601b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 29 AT MD 108",
+          "latitude": 39.239655,
+          "longitude": -76.83728
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6b002d0800d40002004b823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N PAST EXIT 61 MM 60.0 (C042A on TRS 8082)",
+          "latitude": 39.308456,
+          "longitude": -76.53131
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1601e0b4007c00340055fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 40 S Pier #18 Hatem Br (C063)",
+          "latitude": 39.55971,
+          "longitude": -76.092224
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5e012cb424680007004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD 30 AT PA LINE",
+          "latitude": 39.71775,
+          "longitude": -76.91666
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/a5ffabd8008200d30050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-97 N. of  EX 10 BENFIELD BLVD",
+          "latitude": 39.102287,
+          "longitude": -76.629074
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1e010edb006a00bb004af03676235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 N of Lapidum Rd (C012) MP 89.4",
+          "latitude": 39.575752,
+          "longitude": -76.13094
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f000856500e40039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 W of Quarantine Rd (C050) MP 50.4",
+          "latitude": 39.205063,
+          "longitude": -76.56518
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/aa002ea0c47601b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD 43 AT MD 150",
+          "latitude": 39.337215,
+          "longitude": -76.418495
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/85ffb0bb00a200ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 1B AT MD 24",
+          "latitude": 39.52655,
+          "longitude": -76.35445
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/030006cc00b400580045e2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 at Shell Rd (C038)  MM 7.9",
+          "latitude": 39.24085,
+          "longitude": -76.593994
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a9014bc3044b0160004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 I/L East of I-95 (C025)",
+          "latitude": 39.346127,
+          "longitude": -76.49526
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4300479301dd00d9005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 N of I-895 Split (C028) MP 14.7",
+          "latitude": 39.31936,
+          "longitude": -76.533966
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5f00c39300e70039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of Md 24 Ex 77 (C018) MM 76.7",
+          "latitude": 39.458298,
+          "longitude": -76.30644
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d801490d01350160004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD-24 at Jarrettsville Road",
+          "latitude": 39.58444,
+          "longitude": -76.38481
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e1ffe19600f100a2005afa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT PULASKI HWY",
+          "latitude": 39.33218,
+          "longitude": -76.48729
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/cf013c5801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-695 AT EXIT 32 US 1 BELAIR RD",
+          "latitude": 39.369488,
+          "longitude": -76.513985
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e1ffe9c300a600dd005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-795 AT OWINGS MILLS BLVD",
+          "latitude": 39.412758,
+          "longitude": -76.79301
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c400ed1700f60018005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of Md 272 (C003) MP 99.9",
+          "latitude": 39.632072,
+          "longitude": -75.95665
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5c0161f800e10039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 O/L Pier #19",
+          "latitude": 39.220802,
+          "longitude": -76.52205
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1d00a7ae017200850053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "MD-140 AT BALT CO LINE",
+          "latitude": 39.4894,
+          "longitude": -76.87221
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6700b9e700f300040053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-795 AT COCKEYS MILL RD",
+          "latitude": 39.46438,
+          "longitude": -76.8376
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/60000d3b003300ba004be2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-97 S OF I-695",
+          "latitude": 39.19401,
+          "longitude": -76.63291
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/b1011f5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of Md 22 (C014) MP 84.8",
+          "latitude": 39.52745,
+          "longitude": -76.18863
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4d00a5a100e50039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N, North of King Ave (C023A), MP 65.1",
+          "latitude": 39.361526,
+          "longitude": -76.47608
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f80049ce008d0064004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N of O'Donnell St, S Turn (C041)  MP 57.7",
+          "latitude": 39.28448,
+          "longitude": -76.54653
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8301fd37011a004b004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 AT EXIT 24 BELFAST RD (SB)",
+          "latitude": 39.54949,
+          "longitude": -76.66698
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/35025f6a00710046005fd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 29 AT MD 32",
+          "latitude": 39.181293,
+          "longitude": -76.87471
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a100285e00ba0001004b823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 AT I-395",
+          "latitude": 39.268005,
+          "longitude": -76.62457
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/bb01285801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 N of US 40 Ex 13 Pulaski Hwy (C033) MP 13.4",
+          "latitude": 39.303722,
+          "longitude": -76.54541
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2e01710d019100e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 at I-695 Interchange MP 3.50 (C045)",
+          "latitude": 39.232983,
+          "longitude": -76.66767
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9000f4c3c37401b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT I-83 JFX",
+          "latitude": 39.411568,
+          "longitude": -76.66374
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5101bf5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 152 E. of I-95 JOPPA TWR",
+          "latitude": 39.43928,
+          "longitude": -76.3465
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1b0011cc006300800045833633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 FMT East Vent Bldg Roof Top (C039) MP 55.9",
+          "latitude": 39.263535,
+          "longitude": -76.56703
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/47017d19019200e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 South at Ex 55 Key Hwy, MM 54.1 (C040A On Top DMS 8839)",
+          "latitude": 39.266327,
+          "longitude": -76.59765
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e700b9fe004e00100055fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 SB N of Eastern Ave. (C042B)",
+          "latitude": 39.294613,
+          "longitude": -76.53229
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2401ee34007900d8005bd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT PARK HGTS",
+          "latitude": 39.390312,
+          "longitude": -76.71429
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f7ff419f01d7008c005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 40 S of Hatem Br (C062) MP 1.8",
+          "latitude": 39.557,
+          "longitude": -76.09802
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/760110e924670007004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 N. OF HARBOR TUNNEL (C036) MM 10.6",
+          "latitude": 39.266064,
+          "longitude": -76.56119
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8800eb8800010060005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95SB, MP 62.7 (C027A)",
+          "latitude": 39.342056,
+          "longitude": -76.513885
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e9003d5100b200a5004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 43 AT US 40",
+          "latitude": 39.374214,
+          "longitude": -76.43308
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9400173a00a8006e004de2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 29 AT BROKENLAND PKWY",
+          "latitude": 39.201912,
+          "longitude": -76.85964
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/95ff27b100a900b4004b823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-83 N OF I-695 EX 24",
+          "latitude": 39.422203,
+          "longitude": -76.63904
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4701b55800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-695 N OF Ex 17 at Dogwood Rd",
+          "latitude": 39.321938,
+          "longitude": -76.74469
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3b00149c00e000a6004e3436c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD-295 AT MD-197",
+          "latitude": 39.05107,
+          "longitude": -76.84137
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/d200eb57008f002c0058fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 EX 24 AT I-83",
+          "latitude": 39.419853,
+          "longitude": -76.63856
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4c01ba5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD 140 AT MD 97",
+          "latitude": 39.591087,
+          "longitude": -76.99887
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/45009b93007700d30050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 W OF MD 41",
+          "latitude": 39.399834,
+          "longitude": -76.55346
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0f000df40056008d004be2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 N of Eastern Ave (C034) MM 12.2",
+          "latitude": 39.287464,
+          "longitude": -76.5539
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/67017443019100e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of I-695 (C026) I-95 N of Kenwood Ave (MP 63.1)",
+          "latitude": 39.34586,
+          "longitude": -76.50647
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2f009e8a00e50039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 24 AT MD 924",
+          "latitude": 39.464443,
+          "longitude": -76.31417
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/480010fc00bf00580045e2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 SOUTH OF I-695",
+          "latitude": 39.407818,
+          "longitude": -76.66179
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5200c288003d00fc0052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-695 AT PROVIDENCE RD",
+          "latitude": 39.409225,
+          "longitude": -76.57959
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/52ff0db500bd00a8004be2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 S of Peninsula Expwy (C055) MP 44.7",
+          "latitude": 39.237286,
+          "longitude": -76.47396
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/bc00548bc47701b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT GREENSPRING",
+          "latitude": 39.395866,
+          "longitude": -76.68713
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/32011cc401660038005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-795 AT MCDONOGH RD (403046)",
+          "latitude": 39.390915,
+          "longitude": -76.76318
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c701321a0027004e004f3436c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 at Ruxton Rd",
+          "latitude": 39.400852,
+          "longitude": -76.662605
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f70020c2006800a8004e3436c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 43 (C023) MP 66.1",
+          "latitude": 39.36997,
+          "longitude": -76.461716
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/94017d1100e40039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 S of Boston St (C036C) MM 11.3",
+          "latitude": 39.2762,
+          "longitude": -76.55344
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/7a00f61e0084002f005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 NB, S of Chesaco Ave MM 61.4 (C027C)",
+          "latitude": 39.32586,
+          "longitude": -76.52608
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7d004bd400b500a5004e3336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Caton Ave Ex 50 (C032) - MP 49.9",
+          "latitude": 39.262863,
+          "longitude": -76.6716
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/cc006eaf019000e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N OF I-195",
+          "latitude": 39.237045,
+          "longitude": -76.70853
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9801065800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "MD 295 AT HANOVER RD",
+          "latitude": 39.187195,
+          "longitude": -76.71526
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3800e39d0055008c005afa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 1 MI. W. of I-695",
+          "latitude": 39.307056,
+          "longitude": -76.76819
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6501ea2e00730027005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 NORTH OF HARBOR TUNNEL, C036A MM 10.6",
+          "latitude": 39.265923,
+          "longitude": -76.560936
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/a200f19b00020060005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-795 S OF FRANKLIN BLVD",
+          "latitude": 39.433968,
+          "longitude": -76.815674
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/58001a9400fe00a7004e3436c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 FMT TOLL PLAZA (C039A)",
+          "latitude": 39.266342,
+          "longitude": -76.56251
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0e015e1d002b00b4005ed336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 43 E, West of I-95 (C022A) MM 67.0",
+          "latitude": 39.379272,
+          "longitude": -76.45199
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/d200cf40000100f20053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 295 AT MD 32",
+          "latitude": 39.11384,
+          "longitude": -76.7779
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/440012ae001b00480048e33696235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 100 AT MD 170 (502020)",
+          "latitude": 39.148796,
+          "longitude": -76.68806
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1701273b0015003f004c823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 N of MD 151 North Point Blvd (C056) MP 43.4",
+          "latitude": 39.246933,
+          "longitude": -76.45539
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f0005bb8c47701b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-695 AT DULANEY VALLEY RD",
+          "latitude": 39.41278,
+          "longitude": -76.600746
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3b0121f4017600da0058fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-70 at US 29",
+          "latitude": 39.29645,
+          "longitude": -76.825874
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/4b002ac3002700d7004b823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 40 N TJH Bridge Top of Toll Plaza (C065)",
+          "latitude": 39.568283,
+          "longitude": -76.07329
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/f601423524690007004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 S of FSK Bridge (C052) MP 49.1",
+          "latitude": 39.20833,
+          "longitude": -76.54324
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/15013dfcc47601b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 213 Singerly Rd (C002) MP 105.9",
+          "latitude": 39.64619,
+          "longitude": -75.8473
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7d015d1d00e10039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT OLD COURT RD",
+          "latitude": 39.36958,
+          "longitude": -76.74864
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1bff1ca000a6008e004be2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-97 AT MD 100 | 502018",
+          "latitude": 39.152622,
+          "longitude": -76.645966
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/bb01295800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "MD 23 AT MEADOW TREE DR",
+          "latitude": 39.69096,
+          "longitude": -76.52976
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/deffdbfb008f00a2005afa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 N OF CHESACO AVE",
+          "latitude": 39.314762,
+          "longitude": -76.49157
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/92005bf8019100de0052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT PUTTY HILL AVE",
+          "latitude": 39.379154,
+          "longitude": -76.51972
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/dbff12ba0057008d004be2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 1 AT MD 152",
+          "latitude": 39.49218,
+          "longitude": -76.39404
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/dbff0b9400bf00580045e2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 I/L S of Broening Hgwy (C054) MP 46.4",
+          "latitude": 39.233345,
+          "longitude": -76.50495
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/83014c5ac47701b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT I-97",
+          "latitude": 39.202267,
+          "longitude": -76.63245
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a4000d3801b500f7005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 AT I-695 SW",
+          "latitude": 39.250237,
+          "longitude": -76.6787
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ca01375801f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 40 AT MD 132",
+          "latitude": 39.509468,
+          "longitude": -76.16369
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/20008c9300c10058004506363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Md 22 (C015) MP 84.4",
+          "latitude": 39.52459,
+          "longitude": -76.19398
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d100b31600e60039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 N AT EXIT 53 (C030) MM 52.3",
+          "latitude": 39.268795,
+          "longitude": -76.6312
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3e016827019000e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 at York Rd",
+          "latitude": 39.657272,
+          "longitude": -76.65225
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d30012d701bb007b005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT US 40 WEST TWR",
+          "latitude": 39.285515,
+          "longitude": -76.7392
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0101a8c7007a00490052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT BALTIMORE WASHINGTON PKWY",
+          "latitude": 39.218857,
+          "longitude": -76.658485
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ac00e19000770012005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-83 at 41st St",
+          "latitude": 39.334778,
+          "longitude": -76.644585
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2601615f009a0068004f823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 W. OF YORK RD",
+          "latitude": 39.41379,
+          "longitude": -76.612114
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9cff12c400ef00ac004be2369e235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 E of Wash Blvd (C044) MP 1.4",
+          "latitude": 39.21821,
+          "longitude": -76.701096
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/5800ec93c37401b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 N of Tydings Br (C010) MP 91.3",
+          "latitude": 39.58487,
+          "longitude": -76.09715
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/7d0095e200e40039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT I-70",
+          "latitude": 39.305725,
+          "longitude": -76.74389
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/3801a65800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT MD 144 FREDERICK RD",
+          "latitude": 39.27207,
+          "longitude": -76.72354
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/300027c9002700ba004a823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 AT HARFORD RD",
+          "latitude": 39.388477,
+          "longitude": -76.53048
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6001ce5800f700d700437a45351f0214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Exit 77A MD 24 (C019) MM 76.3",
+          "latitude": 39.45957,
+          "longitude": -76.30458
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/aa00c7da00e70039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 1 AT BALTIMORE/HARFORD COUNTY LINE",
+          "latitude": 39.47516,
+          "longitude": -76.408195
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6300e3d800cf000b0051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895 at Potee Street (C048) MM 6.7",
+          "latitude": 39.23916,
+          "longitude": -76.6148
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/fa011d4100680049004806363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Eastern Shore": [
+      {
+        "location": {
+          "description": "US 50 AT MD 16",
+          "latitude": 38.554455,
+          "longitude": -76.05063
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/38011b2d014900d10058fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 AT MD 304 QUEEN ANNE SAFETY DR TWR",
+          "latitude": 39.03072,
+          "longitude": -76.01932
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e30009710093007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 90 AT MD 589",
+          "latitude": 38.380375,
+          "longitude": -75.170685
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/c1000a2d004700e700498436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT RACETRACK RD",
+          "latitude": 38.346462,
+          "longitude": -75.16795
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/db00fc6700950030005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 AT HOPE RD",
+          "latitude": 39.046833,
+          "longitude": -76.00824
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8800ee33009000070053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 50 AT KENT NARROWS BRG",
+          "latitude": 38.971066,
+          "longitude": -76.24922
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3c0090ba006f00b60050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 528 AT 65TH ST TWR",
+          "latitude": 38.388435,
+          "longitude": -75.068146
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e0002c470097007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "MD 33 AT KNAPPS NARROWS BRIDGE",
+          "latitude": 38.7189,
+          "longitude": -76.33297
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/cf00ee7505b600e20052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 13 AT MD 12",
+          "latitude": 38.33332,
+          "longitude": -75.56906
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/7000ead800c20039005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT SIXTY FOOT RD",
+          "latitude": 38.385033,
+          "longitude": -75.42151
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/94ffeaa500b6009c005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 E AT MD 90",
+          "latitude": 38.36851,
+          "longitude": -75.2704
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/58004a9f0099007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 404 WEST OF CONNELLY ROAD",
+          "latitude": 38.927876,
+          "longitude": -75.999535
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/8800f815000a00bf005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT US 301 SPLIT",
+          "latitude": 38.981365,
+          "longitude": -76.16857
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/cb000f1800330014004a8436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 611",
+          "latitude": 38.338017,
+          "longitude": -75.11164
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a6004fe80099007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 AT US 13 SALISBURY BYPASS",
+          "latitude": 38.36996,
+          "longitude": -75.53788
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/d7000a1f00200031004a8436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT KENT NARROWS BRIDGE",
+          "latitude": 38.96975,
+          "longitude": -76.24174
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/37003b8e0098007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 731 VIENNA TWR",
+          "latitude": 38.49882,
+          "longitude": -75.84787
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/0901227b0096007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD 213 AT SASSAFRAS RIVER",
+          "latitude": 39.3635,
+          "longitude": -75.88154
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0601b947006500d40050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 404 EAST OF MD 312",
+          "latitude": 38.91392,
+          "longitude": -75.89134
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f3ff10ed018300c0005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 13 AT US 113 (South)",
+          "latitude": 38.064312,
+          "longitude": -75.54783
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f1003d4002aa00fa0051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 AT MD 213",
+          "latitude": 39.014744,
+          "longitude": -76.07665
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/b9003a12012f008a005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 W OF SALISBURY",
+          "latitude": 38.40178,
+          "longitude": -75.63184
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2700e18300fd00f30056fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT US 113",
+          "latitude": 38.343163,
+          "longitude": -75.21379
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/a00040f20098007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 50 AT OC DRAWBRIDGE",
+          "latitude": 38.334236,
+          "longitude": -75.09835
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ca00391d02aa00fa0051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 404 AT CHOPTANK RIVER",
+          "latitude": 38.8966,
+          "longitude": -75.83442
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/9900ea4405b500e20052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 13 AT US 113 (North)",
+          "latitude": 38.064312,
+          "longitude": -75.54783
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1e01f2f2004d001e0052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 13 AT PERRY RD",
+          "latitude": 38.16028,
+          "longitude": -75.69208
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/6e00180101fc00a5005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT BLOOMINGDALE RD",
+          "latitude": 38.972073,
+          "longitude": -76.122795
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/e900fc1700fe00040057fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 W OF US 301 SPLIT",
+          "latitude": 38.97951,
+          "longitude": -76.170456
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/40000a9300320014004a8436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 8 E OF BAY",
+          "latitude": 38.97898,
+          "longitude": -76.32148
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ac0036080098007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 E OF MD 565 TRAPPE TWR",
+          "latitude": 38.63879,
+          "longitude": -76.05864
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/97001d0e0096007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "US 50 AT OC DRAWBRIDGE",
+          "latitude": 38.33219,
+          "longitude": -75.09034
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ca0022f7010500f9005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 13 AT SALISBURY MSP TWR",
+          "latitude": 38.42015,
+          "longitude": -75.56383
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/1001f0c505380031004a06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "RWIS US 50 AT MD 331",
+          "latitude": 38.494957,
+          "longitude": -75.82841
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2c0085cd001d00f00050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US 50 at CHOPTANK RIVER",
+          "latitude": 38.591557,
+          "longitude": -76.04734
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1400b84100a300ab0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 322 EASTON TWR",
+          "latitude": 38.742626,
+          "longitude": -76.06605
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/a80028d901e30010005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 W AT MD 90",
+          "latitude": 38.3687,
+          "longitude": -75.26963
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f100453d0099007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 331",
+          "latitude": 38.772156,
+          "longitude": -76.06053
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6d0027da0096007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 50 AT MD 404 WYE MILLS TWR",
+          "latitude": 38.935642,
+          "longitude": -76.063286
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2f0013b20094007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "other": [
+      {
+        "location": {
+          "description": "I-97 S OF MD-32",
+          "latitude": 39.055584,
+          "longitude": -76.631485
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3b009d0700e600e30051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Columbia Pk (US 29) at Fairland Rd (CAM 130)",
+          "latitude": 39.073334,
+          "longitude": -76.95575
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/0701fd2100120075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-695 O/L, East of I-95, West of MD 7 (C025A) | MP32.8",
+          "latitude": 39.342945,
+          "longitude": -76.493706
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/23011ea3006a0009004c06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "ICC MD 200 EB, DECKOVER APPROACH, MM 4.4 (C-205)",
+          "latitude": 39.138603,
+          "longitude": -77.13676
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/550255680555004e004d06363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 SOUTH AT MD 100",
+          "latitude": 39.19715,
+          "longitude": -76.76658
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/5c010a65017a00c0005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 43 E, East of I-95 (C022B) MM 67.0",
+          "latitude": 39.377453,
+          "longitude": -76.44128
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/6e01c36600f9007b0054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Columbia Pk (US 29) at Stewart La (CAM 45)",
+          "latitude": 39.046844,
+          "longitude": -76.98648
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1102717002570075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-68 West of 15 Mile Creek Rd",
+          "latitude": 39.682415,
+          "longitude": -78.49391
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/960017d3013c00bc005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95S GP @ I-695, MP 64.0 (C024A)",
+          "latitude": 39.353382,
+          "longitude": -76.49429
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/65002ee001eb009c0052fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-895/N BHT at G-4 (C037A) MP 8.7",
+          "latitude": 39.242504,
+          "longitude": -76.579094
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/e6ff91b9000500ca0050fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Colesville Rd (US 29) at Dale Dr (MD 391)(CAM 65)",
+          "latitude": 39.005165,
+          "longitude": -77.02323
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/7b01c17e02630075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 S of Frenchtown Rd (C009) MP 92.2",
+          "latitude": 39.58592,
+          "longitude": -76.08087
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/2300899400e40039004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "WW BRIDGE MD PEDESTRIAN",
+          "latitude": 38.79309,
+          "longitude": -77.03523
+        },
+        "url": "https:///rtplive/7e0106cf00240070004602366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Bradley Blvd (MD 191) at Seven Locks Rd (CAM 20)",
+          "latitude": 39.01187,
+          "longitude": -77.16054
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/3f01f568000b0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD-20 AT MD-21",
+          "latitude": 39.198303,
+          "longitude": -76.18985
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/85000982013700f20053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Arlington Rd at Bradley Blvd (MD 191) (CAM 99)",
+          "latitude": 38.977753,
+          "longitude": -77.09902
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ae014520036f0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-95 NORTH AT MD 100",
+          "latitude": 39.19715,
+          "longitude": -76.76658
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/c70004d8017800c0005cd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-97 N OF MD 32",
+          "latitude": 39.074432,
+          "longitude": -76.63037
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/1b0001f0019700c40051fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Clopper Rd (MD 117) at Great Seneca Hwy (MD 119)(CAM 128)",
+          "latitude": 39.158783,
+          "longitude": -77.275604
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/9d00e9d3000a0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 404 AT MD 313 DENTON TWR",
+          "latitude": 38.88894,
+          "longitude": -75.82497
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/87000e0f0094007b00488436cf235d0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "I-95 N of Desoto Rd (C031) MP 50.7",
+          "latitude": 39.26886,
+          "longitude": -76.659615
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/94016b7a019000e300441a366e230214/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Clopper Rd (MD 117) at Quince Orchard Rd (MD 124)(CAM 129)",
+          "latitude": 39.142384,
+          "longitude": -77.221405
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/ea00f117000b0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Clopper Rd (MD 117) at Germantown Rd (MD 118)(CAM 156)",
+          "latitude": 39.163,
+          "longitude": -77.283
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/d0017d5801230075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Colesville Rd (US 29) at Franklin Ave (CAM 72)",
+          "latitude": 39.008595,
+          "longitude": -77.01859
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/fb00dde002650075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "Briggs Chaney Rd at Columbia Pk (US 29)(CAM 189)",
+          "latitude": 39.0828,
+          "longitude": -76.9481
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/53011538022d0075004d823633235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "I-295 N. OF I-495",
+          "latitude": 38.802456,
+          "longitude": -77.02202
+        },
+        "url": "https://strmr5.sha.maryland.gov/rtplive/8c00118a004b00a0004e3536c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ],
+    "Southern MD": [
+      {
+        "location": {
+          "description": "MD 235 AT ST ANDREWS CHURCH RD",
+          "latitude": 38.30365,
+          "longitude": -76.52007
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/fdffe2b9008b00070053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD-344 AT MD-224",
+          "latitude": 38.520126,
+          "longitude": -77.23311
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2900b9a9008d00680055fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS MD-260 AT Cox Road",
+          "latitude": 38.696384,
+          "longitude": -76.54041
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/dcffb99000fa00c80054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 N HWN Br Pier #20 (C059) MP 1.4",
+          "latitude": 38.36258,
+          "longitude": -76.98947
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/9e01734dc47801b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "RWIS MD-231 AT PATUXENT RIVER",
+          "latitude": 38.51074,
+          "longitude": -76.66426
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2c01b630005100240054fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "RWIS US-301 AT MD-5",
+          "latitude": 38.6974,
+          "longitude": -76.870605
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ce00c32600eb002a0053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 at MD 5",
+          "latitude": 38.69497,
+          "longitude": -76.8719
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ed001490006500cb004a02366d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": true
+      },
+      {
+        "location": {
+          "description": "MD 5 AT NEWTOWNE NECK RD",
+          "latitude": 38.305393,
+          "longitude": -76.65851
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/4400e8f9008c00070053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 N of Nice Br Pier #7 (C058) MP 1.3",
+          "latitude": 38.36225,
+          "longitude": -76.99175
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/75016d2ac47801b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 4 AT THOMAS JOHNSON BRIDGE",
+          "latitude": 38.318428,
+          "longitude": -76.48547
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/ff001e1901b6005e005dd336c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 S of Nice Br VA Side (C057) MP 0.0",
+          "latitude": 38.359203,
+          "longitude": -77.01536
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/420166ffc47701b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 5 AT GREAT MILLS RD",
+          "latitude": 38.236732,
+          "longitude": -76.496
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2c00d6f6008900070053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 N of Toll Plaza (C061) 1/2 Mile North of Toll Plaza MP 2.5",
+          "latitude": 38.365456,
+          "longitude": -76.968414
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/f7ff8198c47801b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "US 301 N on top of Toll Plaza (C060) MP 2.1",
+          "latitude": 38.364376,
+          "longitude": -76.97594
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/cb017974c47801b8004606363d235daa/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 4 AT THREE NOTCH RD",
+          "latitude": 38.303745,
+          "longitude": -76.52
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/2300b7fb0096000b0053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      },
+      {
+        "location": {
+          "description": "MD 235 AT CHANCELLORS RUN RD",
+          "latitude": 38.291393,
+          "longitude": -76.49342
+        },
+        "url": "https://strmr3.sha.maryland.gov/rtplive/4c00dc0e008b00070053fa36c4235c0a/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "marked_for_review": false
+      }
+    ]
   }
 }
