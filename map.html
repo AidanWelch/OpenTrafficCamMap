@@ -15,6 +15,14 @@
                 height: 100%;
                 width: 100%;
             }
+            .leaflet-tooltip-pane .text {
+                color: black; 
+                font-weight: bold;
+                background: transparent;
+                border:0;
+                box-shadow: none;
+                font-size:2em;
+                }
         </style>
         <script>
             if(location.protocol !== 'http:') {
@@ -91,13 +99,41 @@
                 }
 
                 var camera_layer;
+                var tooltips = new Map();
                 function onClick(e) {
                     (camera_layer) ? map.removeLayer(camera_layer) : null;
+                    var tooltip = tooltips.get(e.target.feature.properties.name);
+                    if(tooltip){
+                        map.removeLayer(tooltip);
+                    } else {
+                        tooltip = L.tooltip({
+                            permanent: true,
+                            direction: 'center',
+                            className: 'text',
+                            interactive: true
+                        });
+                        tooltip.setContent((counts.get(e.target.feature.properties.name)) ? counts.get(e.target.feature.properties.name) + '' : '');
+                        tooltip.setLatLng(e.target.layer.getBounds().getCenter());
+                        tooltip.addTo(map);
+                        tooltips.set(e.target.feature.properties.name, tooltip);
+                    }
+                    tooltip.toggleTooltip();
                     camera_layer = L.layerGroup(DrawCams(e.target.feature.properties.name));
                     map.addLayer(camera_layer);
                 }
+
                 
                 function listener(feature, layer) {
+                    var tooltip = L.tooltip({
+                        permanent: true,
+                        direction: 'center',
+                        className: 'text',
+                        interactive: true
+                    });
+                    tooltip.setContent((counts.get(feature.properties.name)) ? counts.get(feature.properties.name) + '' : '');
+                    tooltip.setLatLng(layer.getBounds().getCenter());
+                    tooltip.addTo(map);
+                    tooltips.set(feature.properties.name, tooltip);
                     layer.on({
                         mouseover: highlightFeature,
                         mouseout: resetHighlight,
