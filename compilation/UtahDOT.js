@@ -28,20 +28,15 @@ class Camera {
             longitude: coords[0],
             latitude: coords[1]
         }
-        if(extended_data.has('MotionUrl')){
-            this.url = extended_data.get('MotionUrl');
-            this.encoding = 'H.264';
-            this.format = 'M3U8';
-        } else {
-            this.url = extended_data.get('ImageUrl');
-            this.encoding = (extended_data.get('ImageUrl')[extended_data.get('ImageUrl').length - 1] === 'g') ? "JPEG" : "GIF";
-            this.format = "IMAGE_STREAM";
-        }
+        this.url = extended_data.get('ImageUrl');
+        this.encoding = (extended_data.get('ImageUrl')[extended_data.get('ImageUrl').length - 1] === 'g') ? "JPEG" : "GIF";
+        this.format = "IMAGE_STREAM";
         this.marked_for_review = false;
     }
 }
 
 function Compile(data){
+    cameras.Utah = {};
     if(!cameras.Utah){
         cameras.Utah = {};
     }
