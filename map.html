@@ -99,7 +99,9 @@
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                 }).addTo(map);
-                var markers = L.markerClusterGroup();
+                var markers = L.markerClusterGroup({
+                    maxClusterRadius: 40
+                });
                 for(var state in cameras){
                     let count = 0;
                     for(var county in cameras[state]){
@@ -115,6 +117,23 @@
             }
 
             function DrawHeatMap(){
+                function DrawCams(state){
+                    var layer = [];
+                    for(var county in cameras[state]){
+                        for(var i in cameras[state][county]){
+                            let cam = cameras[state][county][i];
+                            if(cam.location.latitude && cam.location.longitude){
+                                let m = GetMarker(cam)
+                                    .openPopup();
+                                if(cam.format === "M3U8"){
+                                    m._url = cam.url
+                                }
+                                layer.push(m);
+                            }
+                        }
+                    }
+                    return layer;
+                }
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                 }).addTo(map);
@@ -230,25 +249,6 @@
                     video.remove();
                 }
             });
-
-
-            function DrawCams(state){
-                var layer = [];
-                for(var county in cameras[state]){
-                    for(var i in cameras[state][county]){
-                        let cam = cameras[state][county][i];
-                        if(cam.location.latitude && cam.location.longitude){
-                            let m = GetMarker(cam)
-                                .openPopup();
-                            if(cam.format === "M3U8"){
-                                m._url = cam.url
-                            }
-                            layer.push(m);
-                        }
-                    }
-                }
-                return layer;
-            }
 
         </script>
     </body>
