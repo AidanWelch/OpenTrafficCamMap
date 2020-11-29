@@ -30,7 +30,6 @@ class Camera {
 }
 
 function Compile(data){
-    cameras.Illinois = {};
     if(!cameras.Illinois){
         cameras.Illinois = {};
     }
