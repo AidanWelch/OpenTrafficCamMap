@@ -92,6 +92,9 @@
                     }
                 })();
                 m = m.bindPopup(cam.location.description + '\n' + cam_view);
+                if(cam.format === "M3U8"){
+                    m._url = cam.url
+                }
                 return m;
             }
 
@@ -125,9 +128,6 @@
                             if(cam.location.latitude && cam.location.longitude){
                                 let m = GetMarker(cam)
                                     .openPopup();
-                                if(cam.format === "M3U8"){
-                                    m._url = cam.url
-                                }
                                 layer.push(m);
                             }
                         }
