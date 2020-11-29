@@ -9,6 +9,9 @@
         <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
+        <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <style>
             body {
                 padding: 0;
@@ -25,7 +28,7 @@
                 border:0;
                 box-shadow: none;
                 font-size:2em;
-                }
+            }
         </style>
         <script>
             if(location.protocol !== 'http:') {
@@ -38,20 +41,83 @@
         <div id="map"></div>
         <script>
             var map = L.map('map').setView([39, -100], 4);
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+
+            L.easyButton({
+                states: [{
+                    stateName: 'cluster-map',
+                    icon: '<i class="material-icons" style="font-size:18px; padding-bottom: 3px; display: inline-flex; vertical-align: middle;">border_all</i>',
+                    title: 'Change to Classic Heat Map Mode',
+                    onClick: function(control) {
+                        map.eachLayer(function (layer) {
+                            map.removeLayer(layer);
+                        });
+                        DrawHeatMap();
+                        control.state('heat-map');
+                    }
+                }, {
+                    stateName: 'heat-map',
+                    icon: '<i class="material-icons" style="font-size:18px; padding-bottom: 3px; display: inline-flex; vertical-align: middle;">bubble_chart</i>',
+                    title: 'Change to Cluster Map Mode',
+                    onClick: function(control) {
+                        map.eachLayer(function (layer) {
+                            map.removeLayer(layer);
+                        });
+                        DrawClusterMap();
+                        control.state('cluster-map');
+                    }
+                }]
             }).addTo(map);
 
             var cameras;
 
             fetch('https://raw.githubusercontent.com/AidanWelch/OpenTrafficCam/master/cameras/USA.json').then((response) => {return response.json();}).then((data) => {
                 cameras = data;
-                DrawHeatMap();
+                DrawClusterMap();
             });
 
             var hls;
+            function GetMarker(cam){
+                let m = L.marker([cam.location.latitude, cam.location.longitude]);
+                var cam_view = (() => {
+                    if(cam.url){
+                        if(cam.format === "IMAGE_STREAM"){
+                            return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
+                        } else if (cam.format === "M3U8"){
+                            return '<video id="video" width="320" height="240" autoplay muted></video>';
+                        } else {
+                            return "An error has occurred";
+                        }
+                    } else {
+                        return "No Image";
+                    }
+                })();
+                m = m.bindPopup(cam.location.description + '\n' + cam_view);
+                return m;
+            }
+
+            function DrawClusterMap(){
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
+                var markers = L.markerClusterGroup();
+                for(var state in cameras){
+                    let count = 0;
+                    for(var county in cameras[state]){
+                        for(var camera in cameras[state][county]){
+                            var cam = cameras[state][county][camera];
+                            if(cam.location.latitude !== undefined && cam.location.longitude !== undefined){
+                                markers.addLayer(GetMarker(cam));
+                            }    
+                        }
+                    }
+                }
+                map.addLayer(markers);
+            }
 
             function DrawHeatMap(){
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
                 var counts = new Map();
                 var highest_count = 0;
                 for(var state in cameras){
@@ -172,20 +238,7 @@
                     for(var i in cameras[state][county]){
                         let cam = cameras[state][county][i];
                         if(cam.location.latitude && cam.location.longitude){
-                            let m = L.marker([cam.location.latitude, cam.location.longitude])
-                                .bindPopup(cam.location.description + '\n' + (() => {
-                                    if(cam.url){
-                                        if(cam.format === "IMAGE_STREAM"){
-                                            return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
-                                        } else if (cam.format === "M3U8"){
-                                            return '<video id="video" width="320" height="240" autoplay muted></video>';
-                                        } else {
-                                            return "An error has occurred";
-                                        }
-                                    } else {
-                                        return "No Image";
-                                    }
-                                })())
+                            let m = GetMarker(cam)
                                 .openPopup();
                             if(cam.format === "M3U8"){
                                 m._url = cam.url
