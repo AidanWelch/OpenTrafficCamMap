@@ -18,8 +18,8 @@ class Camera {
     constructor (cam) {
         this.location = {
             description: cam.properties.description,
-            longitude: cam.geometry[1],
-            latitude: cam.geometry[0]
+            longitude: cam.geometry.coordinates[0],
+            latitude: cam.geometry.coordinates[1]
         }
         this.url = `http://pws.trafficwise.org${cam.properties.image}`;
         this.encoding = "JPEG";
