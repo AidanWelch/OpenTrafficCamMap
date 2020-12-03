@@ -49,6 +49,14 @@ M3U8 | A format which points to a chunklist which points to chunks.
 ## Compilation
 The compilation folder contains scripts for compiling from sources listed in the file name.
 
+## FAQ
+
+### Why are there traffic cameras in the Gulf of Guinea?
+Because for various reasons transportation or other authorities of traffic cameras mistakenly or intentionally put a camera in their database at (0,0); any camera there should be assumed to be innaccurate. 
+
+### Will any of the fields change?
+"https://raw.githubusercontent.com/AidanWelch/OpenTrafficCamMap/master/cameras/[country].json" will not lose any fields, however it may gain some.
+
 ## Contribution Tips
 
 [This FHWA site has helpful streaming information.](https://ops.fhwa.dot.gov/publications/fhwahop19037/appb.htm)
