@@ -84,6 +84,20 @@
                             return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
                         } else if (cam.format === "M3U8"){
                             return '<video id="video" width="320" height="240" autoplay muted></video>';
+                        } else if (cam.format === "UNIQUE_TEXASDOT"){
+                            var postData = `{"arguments": "${cam.url},thisisdumb"}`;
+                            var xhttp = new XMLHttpRequest();
+                            xhttp.onreadystatechange = function() {
+                                if (this.readyState == 4 && this.status == 200) {
+                                    var image = this.responseText.slice(this.responseTexta.indexOf('data'), -1);
+                                    image = image.replace(/\\/g, '');
+                                    return `<img src="${image}" width="320" height="240" alt="Camera Stream">`;
+                                }
+                            };
+                            xhttp.open('POST', 'https://its.txdot.gov/ITS_WEB/FrontEnd/svc/DataRequestWebService.svc/GetCctvContent', true);
+                            xhttp.setRequestHeader('Content-Type', 'application/json');
+                            xhttp.setRequestHeader('Content-Type', postData.length);
+                            xhttp.send(postData);
                         } else {
                             return "An error has occurred";
                         }
