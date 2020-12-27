@@ -76,7 +76,7 @@
             });
 
             var hls;
-            function GetMarker(cam){
+            function GetMarker(cam, county){
                 let m = L.marker([cam.location.latitude, cam.location.longitude]);
                 var cam_view = (() => {
                     if(cam.url){
@@ -85,19 +85,8 @@
                         } else if (cam.format === "M3U8"){
                             return '<video id="video" width="320" height="240" autoplay muted></video>';
                         } else if (cam.format === "UNIQUE_TEXASDOT"){
-                            var postData = `{"arguments": "${cam.url},thisisdumb"}`;
-                            var xhttp = new XMLHttpRequest();
-                            xhttp.onreadystatechange = function() {
-                                if (this.readyState == 4 && this.status == 200) {
-                                    var image = this.responseText.slice(this.responseTexta.indexOf('data'), -1);
-                                    image = image.replace(/\\/g, '');
-                                    return `<img src="${image}" width="320" height="240" alt="Camera Stream">`;
-                                }
-                            };
-                            xhttp.open('POST', 'https://its.txdot.gov/ITS_WEB/FrontEnd/svc/DataRequestWebService.svc/GetCctvContent', true);
-                            xhttp.setRequestHeader('Content-Type', 'application/json');
-                            xhttp.setRequestHeader('Content-Type', postData.length);
-                            xhttp.send(postData);
+                            return `The Texas DOT has a bizarre system making implementation of the camera on this site very difficult.
+                            So, this should redirect you to a map of Texas by the state DOT that does work: <a href="https://its.txdot.gov/ITS_WEB/FrontEnd/default.html?r=TYL&p=Tyler&t=map">Link</a>`;
                         } else {
                             return "An error has occurred";
                         }
@@ -125,7 +114,7 @@
                         for(var camera in cameras[state][county]){
                             var cam = cameras[state][county][camera];
                             if(cam.location.latitude !== undefined && cam.location.longitude !== undefined){
-                                markers.addLayer(GetMarker(cam));
+                                markers.addLayer(GetMarker(cam, county));
                             }    
                         }
                     }
@@ -140,7 +129,7 @@
                         for(var i in cameras[state][county]){
                             let cam = cameras[state][county][i];
                             if(cam.location.latitude && cam.location.longitude){
-                                let m = GetMarker(cam)
+                                let m = GetMarker(cam, county)
                                     .openPopup();
                                 layer.push(m);
                             }
