@@ -1,5 +1,5 @@
 # OpenTrafficCam
-A crowdsourced database of 13282 traffic cameras.
+A crowdsourced database of 14576 traffic cameras.
 
 [Checkout the interactive map!](http://otc.armchairresearch.org/map)
 
@@ -45,6 +45,7 @@ Format | Description
 IMAGE_STREAM | A format for a stream of images where the most recent one is sent on each request.
 IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS | A format for a stream of images requested by epoch time in milliseconds.
 M3U8 | A format which points to a chunklist which points to chunks.
+UNIQUE_TEXASDOT | They just had to be special, didn't they?  Well, you have to post the following object: ```{"arguments": "[the cameras URL],[literally anything or nothing, only the comma was needed]"}``` to `https://its.txdot.gov/ITS_WEB/FrontEnd/svc/DataRequestWebService.svc/GetCctvContent`.  A list seperated by commas that can't be split by commas will be returned.  The 4th element and everything that follows is the Base64 image, I recommend just slicing from the index of the start of the word "data".  You also have to remove all forward slashes(`\`).  All this should be shown in `examples/streaming/UNIQUE_TEXASDOT.js`
 
 ## Compilation
 The compilation folder contains scripts for compiling from sources listed in the file name.
@@ -52,7 +53,7 @@ The compilation folder contains scripts for compiling from sources listed in the
 ## FAQ
 
 ### Why are there traffic cameras in the Gulf of Guinea?
-Because for various reasons transportation or other authorities of traffic cameras mistakenly or intentionally put a camera in their database at (0,0); any camera there should be assumed to be innaccurate. 
+Because for various reasons transportation, or other, authorities of traffic cameras mistakenly or intentionally put a camera in their database at (0, 0); any camera there should be assumed to be innaccurate. 
 
 ### Will any of the fields change?
 "https://raw.githubusercontent.com/AidanWelch/OpenTrafficCamMap/master/cameras/[country].json" will not lose any fields, however it may gain some.
