@@ -45,12 +45,6 @@ class Camera {
     }
 }
 
-function PushCam(cam, county){
-    for(var i = 0; i < cam.groupedIds.length; i++){
-        cameras.Texas[county].push(new Camera(cam, `https://az511.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i]));
-    }
-}
-
 async function compile(data){
     var regions = new Map();
     for(var i = 0; i < data.length; i++){
