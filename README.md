@@ -20,7 +20,7 @@ The list can be compiled to from transport authority provided lists or it can ad
                 "url": "[url of stream]",
                 "encoding": "[encoding used]",
                 "format": "[the format of the given stream]",
-                "update_rate": "[only relevant on image stream formats, and even then is optional, but provides the rate at which the image provided can be pinged for an update]",
+                "update_rate": "[only relevant on image stream formats, and even then is optional, but provides the rate at which the image provided can be pinged for an update, measured in milliseconds]",
                 "marked_for_review": bool
             }
         ]
