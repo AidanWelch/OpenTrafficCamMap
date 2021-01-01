@@ -2,6 +2,8 @@ const fs = require('fs');
 const https = require('https');
 const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
 
+var requests = [];
+
 https.request("https://fl511.com/map/mapIcons/Cameras", (res) => {
     var data = '';
 
@@ -49,7 +51,7 @@ function getDescription(cam, queue) {
         });
         req.setTimeout(5000, () => {
             console.error('========Timeout ' + cam.itemId);
-            getDescription(cam, queue); //This is horribly broken but it doesn't exactly have to be well made. I understand if there is a timeout on the last few cams they wont be awaited.
+            request.push(getDescription(cam, queue));
             resolve();
         });
         req.end();
@@ -57,7 +59,6 @@ function getDescription(cam, queue) {
 }
 
 async function Compile(data){
-    var requests = [];
     //Max of 100 requests per minute, 20 per second.  Yes, that means it takes half an hour
     var total_this_minute = 0;
     var total_this_second = 0;
