@@ -28,10 +28,8 @@ class Camera {
         }
         this.url = parsedObj.imageOnly ? parsedObj.imageSrc : parsedObj.streamSrc;
         this.encoding = parsedObj.imageOnly ? "JPEG" : "H.264";
-        this.format = parsedObj.imageOnly ? "IMAGE_STREAM" : "M3U8";
+        this.format = parsedObj.imageOnly ? "IMAGE_STREAM" : "M3U8_AUTH_PA";
         this.marked_for_review = parsedObj.review && !parsedObj.imageOnly;
-
-        console.log(this)
     }
 }
 
