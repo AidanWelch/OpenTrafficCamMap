@@ -47,20 +47,20 @@ class Camera {
 }
 
 function Compile(data){
-    if(!cameras.SouthCarolina){
-        cameras.SouthCarolina = {};
+    if(!cameras['South Carolina']){
+        cameras['South Carolina'] = {};
     }
     for(cam of data.features){
         if(cam.county !== null){
-            if(!cameras.SouthCarolina[cam.properties.region]){
-                cameras.SouthCarolina[cam.properties.region] = [];
+            if(!cameras['South Carolina'][cam.properties.region]){
+                cameras['South Carolina'][cam.properties.region] = [];
             }
-            cameras.SouthCarolina[cam.properties.region].push(new Camera(cam));
+            cameras['South Carolina'][cam.properties.region].push(new Camera(cam));
         } else {
-            if(!cameras.SouthCarolina.other){
-                cameras.SouthCarolina.other = [];
+            if(!cameras['South Carolina'].other){
+                cameras['South Carolina'].other = [];
             }
-            cameras.SouthCarolina.other.push(new Camera(cam));
+            cameras['South Carolina'].other.push(new Camera(cam));
         }
     }
     fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));

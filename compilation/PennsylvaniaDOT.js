@@ -23,8 +23,8 @@ class Camera {
 
         this.location = {
             decsription: parsedObj.description,
-            latitude: cam.start_lat,
-            longitude: cam.start_lng
+            latitude: Number(cam.start_lat),
+            longitude: Number(cam.start_lng)
         }
         this.url = parsedObj.imageOnly ? parsedObj.imageSrc : parsedObj.streamSrc;
         this.encoding = parsedObj.imageOnly ? "JPEG" : "H.264";

@@ -1,5 +1,5 @@
 # OpenTrafficCam
-A crowdsourced database of 18273 traffic cameras.
+A crowdsourced database of 20488 traffic cameras.
 
 [Checkout the interactive map!](http://otc.armchairresearch.org/map)
 
@@ -21,7 +21,7 @@ The list can be compiled to from transport authority provided lists or it can ad
                 "encoding": "[encoding used]",
                 "format": "[the format of the given stream]",
                 "update_rate": "[only relevant on image stream formats, and even then is optional, but provides the rate at which the image provided can be pinged for an update, measured in milliseconds]",
-                "marked_for_review": bool
+                "marked_for_review": "[bool, should only be included if true]"
             }
         ]
     }
