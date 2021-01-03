@@ -59,14 +59,14 @@ function videoOrImage(cam) {
 
 
 function Compile(data){
-    if(!cameras.NewJesey){
-        cameras.NewJesey = {};
+    if(!cameras['New Jersey']){
+        cameras['New Jersey'] = {};
     }
     for(cam of data.Data.CameraData){  
-        if(!cameras.NewJesey.other){
-            cameras.NewJesey.other = [];
+        if(!cameras['New Jersey'].other){
+            cameras['New Jersey'].other = [];
         }
-        cameras.NewJesey.other.push(new Camera(cam));     
+        cameras['New Jersey'].other.push(new Camera(cam));     
     }
     fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
 }

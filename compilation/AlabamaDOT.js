@@ -52,6 +52,7 @@ function Compile(data){
         var camArr = data[j].entries;
         
         for(cam of camArr){
+            cam.organizationId = cam.organizationId.charAt(0).toUpperCase() + cam.organizationId.slice(1); //made first letter uppercase of consistency
             console.log(cam.organizationId)
             if(cam.organizationId !== null){
                 if(!cameras.Alabama[cam.organizationId]){
