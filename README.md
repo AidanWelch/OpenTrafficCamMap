@@ -1,5 +1,5 @@
 # OpenTrafficCam
-A crowdsourced database of 20488 traffic cameras.
+A crowdsourced database of 21585 traffic cameras.
 
 [Checkout the interactive map!](http://otc.armchairresearch.org/map)
 
