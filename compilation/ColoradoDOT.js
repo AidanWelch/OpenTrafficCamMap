@@ -32,14 +32,15 @@ class Camera {
             longitude: parseFloat(cam.Location.Longitude),
             direction: view.Direction
         }
-        this.url = (cam.CameraType === 'Still') ? "https://www.cotrip.org/" + view.ImageLocation : "https://www.cotrip.org/auth/getStreamingCameraAccessToken.do?streamApplication=liveStreams&streamName=" + view.StreamName,
-        this.encoding = (cam.CameraType === 'Still') ? "JPEG" : "H.264";
-        this.format = (cam.CameraType === 'Still') ? "IMAGE_STREAM" : "UNIQUE_COLORADODOT";
+        this.url = (view.CameraType === 'Still') ? "https://www.cotrip.org/" + view.ImageLocation : "https://www.cotrip.org/auth/getStreamingCameraAccessToken.do?streamApplication=liveStreams&streamName=" + view.StreamName,
+        this.encoding = (view.CameraType === 'Still') ? "JPEG" : "H.264";
+        this.format = (view.CameraType === 'Still') ? "IMAGE_STREAM" : "UNIQUE_COLORADODOT";
         this.marked_for_review = !(cam.Status === 'enabled');
     }
 }
 
 function Compile(still_data, streaming_data){
+    cameras.Colorado = {};
     if(!cameras.Colorado){
         cameras.Colorado = {};
     }
