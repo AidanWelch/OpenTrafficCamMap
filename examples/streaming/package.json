@@ -1,0 +1,18 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidanWelch/OpenTrafficCamMap.git"
+  },
+  "author": "Aidan Welch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AidanWelch/OpenTrafficCamMap/issues"
+  },
+  "homepage": "https://github.com/AidanWelch/OpenTrafficCamMap#readme",
+  "devDependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}

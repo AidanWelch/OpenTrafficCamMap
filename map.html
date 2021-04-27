@@ -98,6 +98,9 @@
                         } else if (cam.format === "UNIQUE_TEXASDOT"){
                             return `The Texas DOT has a bizarre system making implementation of the camera on this site very difficult.
                             So, this should redirect you to a map of Texas by the state DOT that does work: <a href="https://its.txdot.gov/ITS_WEB/FrontEnd/default.html?r=TYL&p=Tyler&t=map">Link</a>`;
+                        } else if (cam.format === "UNIQUE_COLORADODOT"){
+                            return `The Colorado DOT for an unknowable reason implements <a href="https://en.wikipedia.org/wiki/Digital_rights_management">DRM</a> making streaming on this site very difficult.
+                            So, this should redirect you to a map of Colorado by the state DOT that does work: <a href="https://www.cotrip.org/map.htm#/default">Link</a>`;
                         } else {
                             return "An error has occurred";
                         }
