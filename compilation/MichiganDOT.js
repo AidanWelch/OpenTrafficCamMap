@@ -37,9 +37,8 @@ async function Compile(data){
         cameras.Michigan.other = [];
     }
     for(var i = 0; i < data.length; ++i){
-        var cam = data[i]
-        console.log(cam.id)
         requests.push(new Promise((resolve, reject) => {
+            var cam = data[i]
             https.request("https://mdotjboss.state.mi.us/MiDrive/camera/getCameraInformation/" + cam.id, (res) => {
                 var info = '';
 
@@ -52,14 +51,7 @@ async function Compile(data){
                     resolve();
                 });
             }).end();
-            setTimeout(() => {
-                console.error('Timeout ' + cam.id);
-                reject();
-            }, 100);
         }));
-        if(i % 10 === 0){
-            await new Promise((r, _) => {setTimeout(() => {r();}, 15000)});
-        }
     }
     await Promise.all(requests);
     fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
