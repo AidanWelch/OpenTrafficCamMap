@@ -19,8 +19,8 @@ class Camera {
         this.location = {
             description: cam.properties.location_description,
             direction: cam.properties.dir,
-            latitude: cam.geometry[1],
-            longitude: cam.geometry[0]
+            latitude: cam.geometry.coordinates[1],
+            longitude: cam.geometry.coordinates[0]
         }
         this.url = cam.properties.url;
         this.encoding = "JPEG";
@@ -29,6 +29,7 @@ class Camera {
 }
 
 function Compile(data){
+    cameras.Georgia = {};
     if(!cameras.Georgia){
         cameras.Georgia = {};
     }
