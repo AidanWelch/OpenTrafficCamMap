@@ -59,6 +59,10 @@ Because for various reasons transportation, or other, authorities of traffic cam
 ### Will any of the fields change?
 "https://raw.githubusercontent.com/AidanWelch/OpenTrafficCamMap/master/cameras/[country].json" will not lose any fields, however it may gain some.
 
+### What about when multiple sources for a camera are avaiable?
+
+Sources that are simple to pull data from, are of the highest quality, and video should be preferred.  If those conflict video should be the highest priority, but beyond that it is up to the disgression of contributors and maintainers.
+
 ## Contribution Tips
 
 [This FHWA site has helpful streaming information.](https://ops.fhwa.dot.gov/publications/fhwahop19037/appb.htm)
