@@ -1,5 +1,5 @@
 # OpenTrafficCamMap
-A crowdsourced database of 25694 traffic cameras.
+A crowdsourced database of 26126 traffic cameras.
 
 [Checkout the interactive map!](http://otc.armchairresearch.org/map)
 
@@ -47,6 +47,7 @@ IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS | A format for a stream of images requeste
 M3U8 | A format which points to a chunklist which points to chunks.
 UNIQUE_TEXASDOT | They just had to be special, didn't they?  Well, you have to post the following object: ```{"arguments": "[the cameras URL],[literally anything or nothing, only the comma was needed]"}``` to `https://its.txdot.gov/ITS_WEB/FrontEnd/svc/DataRequestWebService.svc/GetCctvContent`.  A list seperated by commas that can't be split by commas will be returned.  The 4th element and everything that follows is the Base64 image, I recommend just slicing from the index of the start of the word "data".  You also have to remove all forward slashes(`\`).  All this should be shown in `examples/streaming/UNIQUE_TEXASDOT.js`
 UNIQUE_COLORADODOT | Not exactly worth it to try to stream.  The DRM implemented is a significant hassle for only a few cameras.  The example for streaming is not a high priority issue.
+UNIQUE_NEWJERSEYDOT | An example for this is yet to be implemented but it is described [here.](./compilation/NewJerseyDot.js)  It requires WOWZA keys and is M3U8.
 
 ## Compilation
 The compilation folder contains scripts for compiling from sources listed in the file name.

@@ -25,7 +25,7 @@ class Camera {
         }
         this.url = parsedObj.imageOnly ? parsedObj.imageSrc : parsedObj.streamSrc;
         this.encoding = parsedObj.imageOnly ? "JPEG" : "H.264";
-        this.format = parsedObj.imageOnly ? "IMAGE_STREAM" : "M3U8";
+        this.format = parsedObj.imageOnly ? "IMAGE_STREAM" : "UNIQUE_NEWJERSEYDOT";
         this.marked_for_review = cam.StopCameraFlag;
     }
 }
