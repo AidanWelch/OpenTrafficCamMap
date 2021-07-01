@@ -22,7 +22,7 @@ class Camera {
         var parsedObj = parseHTML(cam, decodedHTMLDescription)
 
         this.location = {
-            decsription: parsedObj.description,
+            description: parsedObj.description,
             latitude: Number(cam.start_lat),
             longitude: Number(cam.start_lng)
         }
