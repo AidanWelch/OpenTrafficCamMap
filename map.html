@@ -117,7 +117,8 @@
 
             function DrawClusterMap(){
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                    noWrap: true
                 }).addTo(map);
                 var markers = L.markerClusterGroup({
                     maxClusterRadius: 40,
@@ -153,7 +154,8 @@
                     return layer;
                 }
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                    noWrap: true
                 }).addTo(map);
                 var counts = new Map();
                 var highest_count = 0;
