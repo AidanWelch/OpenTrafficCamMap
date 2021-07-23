@@ -32,7 +32,7 @@ function Compile(data){
     if(!cameras.Tennessee){
         cameras.Tennessee = {};
     }
-    for(cam of data.actions){
+    for(var cam of data.actions){
         if(cam.dataItem.jurisdiction !== null){
             if(!cameras.Tennessee[cam.dataItem.jurisdiction]){
                 cameras.Tennessee[cam.dataItem.jurisdiction] = [];
