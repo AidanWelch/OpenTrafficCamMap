@@ -10,7 +10,7 @@ https.request("https://data.wsdot.wa.gov/travelcenter/Cameras.json", (res) => {
     });
     
     res.on('end', () => {
-        Compile(JSON.parse(data));
+        compile(JSON.parse(data));
     });
 }).end();
 
@@ -31,7 +31,7 @@ class Camera {
     }
 }
 
-function Compile(data){
+function compile(data){
     if(!cameras.Washington){
         cameras.Washington = {};
     }
