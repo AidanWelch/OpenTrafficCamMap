@@ -25,7 +25,7 @@ axios.post('https://new.511.nebraska.gov/api/graphql',
         }
     ]
 ).then((response) => {
-    Compile(response.data[0].data.mapFeaturesQuery);
+    compile(response.data[0].data.mapFeaturesQuery);
 }, (error) => {
     console.log(error);
 });
@@ -44,7 +44,7 @@ class Camera {
     }
 }
 
-function Compile(data){
+function compile(data){
     
     if(!cameras.Nebraska){
         cameras.Nebraska = {};
