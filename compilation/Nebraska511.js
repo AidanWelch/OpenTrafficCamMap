@@ -44,7 +44,6 @@ class Camera {
         this.encoding = "JPEG";
         this.format = "IMAGE_STREAM";
         this.marked_for_review = false;
-        //console.log(this)
     }
 }
 
@@ -59,9 +58,10 @@ function compile(data){
             const tooltip = cam.tooltip;
             cam.imageUrl = camView.url;
             cam.title = camView.title;
-
+            cam.direction = null;
+            
             let direction = cam.title.substring(cam.title.lastIndexOf(":"), cam.title.length);
-            if (direction.includes("North") || direction.includes("north") || direction.includes("NB" ))
+            if (direction.includes("North") || direction.includes("north") || direction.includes("NB"))
                 cam.direction = 'N';
             else if (direction.includes("East") || direction.includes("east") || direction.includes("EB"))
                 cam.direction = 'E';
