@@ -52,7 +52,8 @@ function compile(data){
         //The reverse look up could be done here since the cameras on the pole will have the same lat/lng
         for(mapCam of pole.mapCameras){
             let tmpCam = {...mapCam};
-            promises.push(new Promise((resolve) => setTimeout(resolve, delay)).then(() => getLocationData({reverseUrl:'https://nominatim.openstreetmap.org/reverse?format=json&lat=' + tmpCam.latitude + '&lon=' + tmpCam.longitude + '&email=jimspeers.speers@gmail.com', ...tmpCam})));            
+            //Email address is required parameter
+            promises.push(new Promise((resolve) => setTimeout(resolve, delay)).then(() => getLocationData({reverseUrl:'https://nominatim.openstreetmap.org/reverse?format=json&lat=' + tmpCam.latitude + '&lon=' + tmpCam.longitude + '&email=opentrafficcameras@gmail.com', ...tmpCam})));            
             delay += delayIncrement;
         }        
     }
