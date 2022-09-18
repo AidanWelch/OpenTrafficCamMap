@@ -35,7 +35,6 @@ class Camera {
         this.url = cam.streamDictionary.streamSrc;
         this.encoding = "H.264";
         this.format = "M3U8";
-        this.marked_for_review = false;
     }
 }
 
@@ -53,7 +52,7 @@ function compile(data){
         for(mapCam of pole.mapCameras){
             let tmpCam = {...mapCam};
             //Email address is required parameter
-            promises.push(new Promise((resolve) => setTimeout(resolve, delay)).then(() => getLocationData({reverseUrl:'https://nominatim.openstreetmap.org/reverse?format=json&lat=' + tmpCam.latitude + '&lon=' + tmpCam.longitude + '&email=opentrafficcameras@gmail.com', ...tmpCam})));            
+            promises.push(new Promise((resolve) => setTimeout(resolve, delay)).then(() => getLocationData({reverseUrl:'https://nominatim.openstreetmap.org/reverse?format=json&lat=' + tmpCam.latitude + '&lon=' + tmpCam.longitude + '&email=otc@armchairresearch.org', ...tmpCam})));            
             delay += delayIncrement;
         }        
     }
