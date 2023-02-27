@@ -1,8 +1,9 @@
 const fs = require('fs');
-const http = require('http');
+const https = require('https');
+const parseHTML = require('node-html-parser').parse;
 const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
 
-http.request("http://www.newengland511.org/Traffic/GetCameras", (res) => {
+https.request("https://newengland511.org/map/mapIcons/Cameras", (res) => {
     var data = '';
 
     res.on('data', (chunk) =>{
@@ -10,24 +11,27 @@ http.request("http://www.newengland511.org/Traffic/GetCameras", (res) => {
     });
 
     res.on('end', () => {
-        Compile(data);
+        compile(JSON.parse(data));
     });
 }).end();
 
 class Camera {
     constructor (cam) {
         this.location = {
-            description: cam.Name,
-            longitude: cam.Longitude,
-            latitude: cam.Latitude
+            longitude: cam.location[0],
+            latitude: cam.location[1]
         }
-        this.url = cam.StreamingURL;
+        this.url = "http://newengland511.org/map/Cctv/" + cam.itemId;
         this.encoding = "JPG";
         this.format = "IMAGE_STREAM";
     }
 }
 
-function Compile(data){
+function compile(data){
+    let promises = [];
+    const delayIncrement = 1000;
+    let delay = 0;
+
     if(!cameras['New Hampshire']){
         cameras['New Hampshire'] = {};
     }
@@ -37,8 +41,72 @@ function Compile(data){
     if(!cameras.Vermont){
         cameras.Vermont = {};
     }
-    for(var cam of data){
 
+    data = data.item2;
+    for(var mapCam of data){
+        let tmpCam = {...mapCam};
+        //Email address is required parameter
+        promises.push(new Promise((resolve) => setTimeout(resolve, delay)).then(() => getLocationData({reverseUrl:'https://nominatim.openstreetmap.org/reverse?format=json&lat=' + tmpCam.location[0] + '&lon=' + tmpCam.location[1] + '&email=otc@armchairresearch.org', ...tmpCam})));            
+        delay += delayIncrement;
     }
-    fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+    console.log("This will take about " + Math.ceil(delay/1000/60) + " minutes.");
+
+    Promise.all(promises).then(() => {
+        fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+    })
+}
+
+const getLocationData = (cam) => {
+    https.request(cam.reverseUrl, (res) => {
+        var data = '';
+    
+        res.on('data', (chunk) =>{
+            data += chunk;
+        });
+        
+        res.on('end', () => {
+            var location = JSON.parse(data);
+            var newCamera = {};
+            if(!!location.address && !!location.address.state && !!location.address.county){
+                if(!cameras[location.address.state][location.address.county]){
+                    cameras[location.address.state][location.address.county] = [];
+                }
+                cameras[location.address.state][location.address.county].push(new Camera(cam));
+                newCamera = cameras[location.address.state][location.address.county][cameras[location.address.state][location.address.county].length - 1]
+            } else {
+                if(!cameras[location.address.state].other){
+                    cameras[location.address.state].other = [];
+                }
+                cameras[location.address.state].other.push(new Camera(cam));
+                newCamera = cameras[location.address.state].other[cameras[location.address.state].other.length - 1]
+            }
+            https.request('https://newengland511.org/tooltip/Cameras/' + cam.itemId, (res) => {
+                var data = '';
+            
+                res.on('data', (chunk) =>{
+                    data += chunk;
+                });
+                
+                res.on('end', () => {
+                    data = parseHTML(data);
+
+                    var description = data.querySelector('#CameraTooltipDescriptionColumn b').childNodes[0].rawText;
+
+                    let direction = "";
+                    if (description.includes("North") || description.includes("north") || description.includes("NB"))
+                        direction = 'N';
+                    else if (description.includes("East") || description.includes("east") || description.includes("EB"))
+                        direction = 'E';
+                    else if (description.includes("South") || description.includes("south") || description.includes("SB"))
+                        direction = 'S';
+                    else if (description.includes("West") || description.includes("west") || description.includes("WB"))
+                        direction = 'W';
+
+                    newCamera.description = description;
+                    newCamera.location.direction = direction;
+                });
+            }).end();
+        });
+    }).end();  
 }
