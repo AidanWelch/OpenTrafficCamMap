@@ -1,0 +1,26 @@
+{
+  "name": "opentrafficcammap",
+  "version": "0.5.0",
+  "description": "An open-source list of traffic cameras with live view and geodata",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidanWelch/OpenTrafficCamMap.git"
+  },
+  "keywords": [
+    "traffic",
+    "camera"
+  ],
+  "author": "Aidan Welch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AidanWelch/OpenTrafficCamMap/issues"
+  },
+  "homepage": "https://github.com/AidanWelch/OpenTrafficCamMap#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
