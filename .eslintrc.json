@@ -1,0 +1,25 @@
+{
+	"root": true,
+	"extends": [
+		"plugin:mocha/recommended"
+	],
+	"env": {
+		"node": true,
+		"es2020": true,
+		"mocha": true
+	},
+	"plugins": [
+		"mocha"
+	],
+	"parserOptions": {
+		"ecmaVersion": "latest"
+	},
+	"rules": {
+		"no-console": "warn",
+		"semi": ["error", "always"],
+		"quotes": ["error", "single"],
+		"indent": ["error", "tab"],
+		"linebreak-style": ["error", "unix"],
+		"strict": "error"
+	}
+}
