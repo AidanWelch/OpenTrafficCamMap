@@ -1,3 +1,4 @@
+'use strict';
 const fs = require('fs');
 const https = require('https');
 const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
@@ -79,68 +80,68 @@ var postData = `
  `;
 
 var options = {
-    host: 'az511.gov', //Ironically Arizona and Alaska are very similar
-    path: '/List/GetData/Cameras',
-    port: 443,
-    method: 'POST',
-    headers: {
-        'Content-Type': 'application/json',
-        'Content-Length': postData.length
-    }
-}
+	host: 'az511.gov', //Ironically Arizona and Alaska are very similar
+	path: '/List/GetData/Cameras',
+	port: 443,
+	method: 'POST',
+	headers: {
+		'Content-Type': 'application/json',
+		'Content-Length': postData.length
+	}
+};
 
 var req = https.request(options, (res) => {
-    var data = '';
+	var data = '';
 
-    res.on('data', (chunk) =>{
-        data += chunk;
-    });
+	res.on('data', (chunk) =>{
+		data += chunk;
+	});
     
-    res.on('end', () => {
-        Compile(JSON.parse(data));
-    });
+	res.on('end', () => {
+		Compile(JSON.parse(data));
+	});
 });
 
 req.write(postData);
 req.end();
 
 class Camera {
-    constructor (cam, url, direction, description) {
-        this.location = {
-            description: description,
-            direction: direction,
-            latitude: cam.latitude,
-            longitude: cam.longitude
-        }
-        this.url = url;
-        this.encoding = "JPEG";
-        this.format = "IMAGE_STREAM";
-        this.marked_for_review = false;
-    }
+	constructor (cam, url, direction, description) {
+		this.location = {
+			description: description,
+			direction: direction,
+			latitude: cam.latitude,
+			longitude: cam.longitude
+		};
+		this.url = url;
+		this.encoding = 'JPEG';
+		this.format = 'IMAGE_STREAM';
+		this.marked_for_review = false;
+	}
 }
 
 function PushCam(cam, county){
-    for(var i = 0; i < cam.groupedIds.length; i++){
-        cameras.Arizona[county].push(new Camera(cam, `https://az511.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i]));
-    }
+	for(var i = 0; i < cam.groupedIds.length; i++){
+		cameras.Arizona[county].push(new Camera(cam, `https://az511.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i]));
+	}
 }
 
 function Compile(data){
-    if(!cameras.Arizona){
-        cameras.Arizona = {};
-    }
-    for(cam of data.data){
-        if(cam.county !== null){
-            if(!cameras.Arizona[cam.county]){
-                cameras.Arizona[cam.county] = [];
-            }
-            PushCam(cam, cam.county);
-        } else {
-            if(!cameras.Arizona.other){
-                cameras.Arizona.other = [];
-            }
-            PushCam(cam, 'other');
-        }
-    }
-    fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+	if(!cameras.Arizona){
+		cameras.Arizona = {};
+	}
+	for(const cam of data.data){
+		if(cam.county !== null){
+			if(!cameras.Arizona[cam.county]){
+				cameras.Arizona[cam.county] = [];
+			}
+			PushCam(cam, cam.county);
+		} else {
+			if(!cameras.Arizona.other){
+				cameras.Arizona.other = [];
+			}
+			PushCam(cam, 'other');
+		}
+	}
+	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
 }

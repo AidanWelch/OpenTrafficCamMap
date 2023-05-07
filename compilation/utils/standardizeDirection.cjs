@@ -1,3 +1,4 @@
+'use strict';
 function standardizeDirection (direction) {
 	let res = direction.replaceAll(/NORTH|N|SOUTH|S|EAST|E|WEST|W/gi, 
 		(string) => (string.length === 1) ? 
