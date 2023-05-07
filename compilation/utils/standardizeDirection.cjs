@@ -1,6 +1,12 @@
 'use strict';
+const NORTH = [ 'NORTH', 'NB', 'N' ];
+const SOUTH = [ 'SOUTH', 'SB', 'S' ];
+const EAST = [ 'EAST', 'EB', 'E' ];
+const WEST = [ 'WEST', 'WB', 'W' ];
+const directionRegex = new RegExp([...NORTH, ...SOUTH, ...EAST, ...WEST].join('|'), 'gi');
+
 function standardizeDirection (direction) {
-	let res = direction.replaceAll(/NORTH|N|SOUTH|S|EAST|E|WEST|W/gi, 
+	let res = direction.replaceAll(directionRegex, 
 		(string) => (string.length === 1) ? 
 			string.toUpperCase() : string[0].toUpperCase())
 		.match(/[a-zA-Z\d]/g);

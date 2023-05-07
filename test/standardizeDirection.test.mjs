@@ -11,17 +11,21 @@ describe('standardizeDirection()', function () {
 		assert.equal(standardizeDirection('S'), 'S');
 		assert.equal(standardizeDirection('e'), 'E');
 		assert.equal(standardizeDirection('W'), 'W');
+		assert.equal(standardizeDirection('nB'), 'N');
+		assert.equal(standardizeDirection('Sb'), 'S');
+		assert.equal(standardizeDirection('eb'), 'E');
+		assert.equal(standardizeDirection('WB'), 'W');
 	});
 
 	it('should properly standardize combined direction', () => {
 		assert.equal(standardizeDirection('norTh-EAST'), 'NE');
 		assert.equal(standardizeDirection('SOUth              west'), 'SW');
-		assert.equal(standardizeDirection('EASTsouth'), 'SE');
-		assert.equal(standardizeDirection('west:north'), 'NW');
+		assert.equal(standardizeDirection('EBsouth'), 'SE');
+		assert.equal(standardizeDirection('west:nB'), 'NW');
 		assert.equal(standardizeDirection('nW'), 'NW');
 		assert.equal(standardizeDirection('S-e'), 'SE');
 		assert.equal(standardizeDirection('eN'), 'NE');
-		assert.equal(standardizeDirection('W|s'), 'SW');
+		assert.equal(standardizeDirection('W|south'), 'SW');
 	});
 
 	it('should return input on invalid direction', () => {
