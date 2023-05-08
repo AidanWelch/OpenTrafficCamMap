@@ -1,22 +1,23 @@
 'use strict';
-const fs = require('fs');
-const http = require('http');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const http = require( 'http' );
 
-http.request('http://traveler.modot.org/timconfig/feed/desktop/StreamingCams2.json', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+http.request( 'http://traveler.modot.org/timconfig/feed/desktop/StreamingCams2.json', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam) {
+	constructor ( cam ) {
 		this.location = {
 			description: cam.location,
 			longitude: cam.x,
@@ -29,15 +30,18 @@ class Camera {
 	}
 }
 
-function Compile(data){
-	if(!cameras.Missouri){
+function Compile ( data ){
+	if ( !cameras.Missouri ){
 		cameras.Missouri = {};
 	}
-	for(var cam of data){
-		if(!cameras.Missouri.other){
+
+	for ( const cam of data ){
+		if ( !cameras.Missouri.other ){
 			cameras.Missouri.other = [];
 		}
-		cameras.Missouri.other.push(new Camera(cam));
+
+		cameras.Missouri.other.push( new Camera( cam ) );
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

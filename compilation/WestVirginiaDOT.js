@@ -1,23 +1,24 @@
 'use strict';
-const fs = require('fs');
-const http = require('http');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const http = require( 'http' );
 
-http.request('http://wv511.org/rest/unifiedEntityService/ids', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+http.request( 'http://wv511.org/rest/unifiedEntityService/ids', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		RequestById(JSON.parse(data));
+
+	res.on( 'end', () => {
+		RequestById( JSON.parse( data ) );
 	});
 }).end();
 //Someone please explain to me why WV did it this way...
-function RequestById(ids){
-	var postData = `{"com.orci.opentms.web.public511.components.camera.shared.data.CameraBean":${JSON.stringify(ids.result[5].ids)}}`;
-	var options = {
+function RequestById ( ids ){
+	const postData = `{"com.orci.opentms.web.public511.components.camera.shared.data.CameraBean":${JSON.stringify( ids.result[5].ids )}}`;
+	const options = {
 		host: 'wv511.org',
 		path: '/rest/unifiedEntityService/byId',
 		port: 80,
@@ -28,27 +29,27 @@ function RequestById(ids){
 		}
 	};
 
-	var req = http.request(options, (res) => {
-		var data = '';
+	const req = http.request( options, ( res ) => {
+		let data = '';
 
-		res.on('data', (chunk) =>{
+		res.on( 'data', ( chunk ) => {
 			data += chunk;
 		});
-        
-		res.on('end', () => {
-			Compile(JSON.parse(data));
+
+		res.on( 'end', () => {
+			Compile( JSON.parse( data ) );
 		});
 	});
 
-	req.write(postData);
+	req.write( postData );
 	req.end();
 }
 
 class Camera {
-	constructor (cam) {
+	constructor ( cam ) {
 		this.location = {
 			description: cam.entity.description,
-			direction: (cam.entity.direction === '') ? null : cam.entity.direction,
+			direction: ( cam.entity.direction === '' ) ? null : cam.entity.direction,
 			latitude: cam.entity.y,
 			longitude: cam.entity.x
 		};
@@ -60,29 +61,32 @@ class Camera {
 }
 
 
-
-function Compile(data){
-	if(!cameras['West Virginia']){
+function Compile ( data ){
+	if ( !cameras['West Virginia'] ){
 		cameras['West Virginia'] = {};
 	}
-	for(const cam of data.changes['com.orci.opentms.web.public511.components.camera.shared.data.CameraBean'].changes){
-		var region = (() => {
-			var possible_region = 'Entire State';
-			for(var region_object of cam.entity.regions){
-				if(possible_region === 'Entire State'){
+
+	for ( const cam of data.changes['com.orci.opentms.web.public511.components.camera.shared.data.CameraBean'].changes ){
+		const region = ( () => {
+			let possible_region = 'Entire State';
+			for ( const region_object of cam.entity.regions ){
+				if ( possible_region === 'Entire State' ){
 					possible_region = region_object.name;
 				}
 			}
-			if (possible_region === 'Entire State'){
+
+			if ( possible_region === 'Entire State' ){
 				return 'other';
-			} else {
-				return possible_region;
 			}
+
+			return possible_region;
 		})();
-		if(!cameras['West Virginia'][region]){
+		if ( !cameras['West Virginia'][region] ){
 			cameras['West Virginia'][region] = [];
 		}
-		cameras['West Virginia'][region].push(new Camera(cam));
+
+		cameras['West Virginia'][region].push( new Camera( cam ) );
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

@@ -1,22 +1,23 @@
 'use strict';
-const fs = require('fs');
-const http = require('http');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const http = require( 'http' );
 
-http.request('http://pws.trafficwise.org/aries/cctv.json', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+http.request( 'http://pws.trafficwise.org/aries/cctv.json', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam) {
+	constructor ( cam ) {
 		this.location = {
 			description: cam.properties.description,
 			longitude: cam.geometry.coordinates[0],
@@ -29,15 +30,18 @@ class Camera {
 	}
 }
 
-function Compile(data){
-	if(!cameras.Indiana){
+function Compile ( data ){
+	if ( !cameras.Indiana ){
 		cameras.Indiana = {};
 	}
-	for(const cam of data.features){
-		if(!cameras.Indiana.other){
+
+	for ( const cam of data.features ){
+		if ( !cameras.Indiana.other ){
 			cameras.Indiana.other = [];
 		}
-		cameras.Indiana.other.push(new Camera(cam));
+
+		cameras.Indiana.other.push( new Camera( cam ) );
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

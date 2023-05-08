@@ -1,22 +1,23 @@
 'use strict';
-const fs = require('fs');
-const https = require('https');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const https = require( 'https' );
 
-https.request('https://tmc.deldot.gov/json/videocamera.json', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+https.request( 'https://tmc.deldot.gov/json/videocamera.json', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam) {
+	constructor ( cam ) {
 		this.location = {
 			description: cam.title,
 			latitude: cam.lat,
@@ -29,22 +30,26 @@ class Camera {
 	}
 }
 
-function Compile(data){
-	if(!cameras.Delaware){
+function Compile ( data ){
+	if ( !cameras.Delaware ){
 		cameras.Delaware = {};
 	}
-	for(const cam of data.videoCameras){
-		if(cam.county !== null){
-			if(!cameras.Delaware[cam.county]){
+
+	for ( const cam of data.videoCameras ){
+		if ( cam.county !== null ){
+			if ( !cameras.Delaware[cam.county] ){
 				cameras.Delaware[cam.county] = [];
 			}
-			cameras.Delaware[cam.county].push(new Camera(cam));
+
+			cameras.Delaware[cam.county].push( new Camera( cam ) );
 		} else {
-			if(!cameras.Delaware.other){
+			if ( !cameras.Delaware.other ){
 				cameras.Delaware.other = [];
 			}
-			cameras.Delaware.other.push(new Camera(cam));
+
+			cameras.Delaware.other.push( new Camera( cam ) );
 		}
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

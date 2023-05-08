@@ -1,22 +1,23 @@
 'use strict';
-const fs = require('fs');
-const https = require('https');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const https = require( 'https' );
 
-https.request('https://api.ohgo.com/roadmarkers/cameras?pointData={"lowLongitude":-88.312451171875,"highLongitude":-77.787548828125,"lowLatitude":36.2910363107023,"highLatitude":43.423237328106715,"routeDirection":"","routeName":""}', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+https.request( 'https://api.ohgo.com/roadmarkers/cameras?pointData={"lowLongitude":-88.312451171875,"highLongitude":-77.787548828125,"lowLatitude":36.2910363107023,"highLatitude":43.423237328106715,"routeDirection":"","routeName":""}', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam, url, direction) {
+	constructor ( cam, url, direction ) {
 		this.location = {
 			description: cam.Location,
 			direction: direction,
@@ -30,17 +31,20 @@ class Camera {
 	}
 }
 
-function Compile(data){
-	if(!cameras.Ohio){
+function Compile ( data ){
+	if ( !cameras.Ohio ){
 		cameras.Ohio = {};
 	}
-	for(const cam of data){
-		if(!cameras.Ohio.other){
+
+	for ( const cam of data ){
+		if ( !cameras.Ohio.other ){
 			cameras.Ohio.other = [];
 		}
-		for(var i = 0; i < cam.Cameras.length; i++){
-			cameras.Ohio.other.push(new Camera(cam, cam.Cameras[i].LargeURL, (cam.Cameras[i].Direction === 'PTZ') ? null : cam.Cameras[i].Direction));
-		}   
+
+		for ( let i = 0; i < cam.Cameras.length; i++ ){
+			cameras.Ohio.other.push( new Camera( cam, cam.Cameras[i].LargeURL, ( cam.Cameras[i].Direction === 'PTZ' ) ? null : cam.Cameras[i].Direction ) );
+		}
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

@@ -1,22 +1,23 @@
 'use strict';
-const fs = require('fs');
-const https = require('https');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const https = require( 'https' );
 
-https.request('https://dotfiles.azureedge.net/geojson/cameras/cameras.json', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+https.request( 'https://dotfiles.azureedge.net/geojson/cameras/cameras.json', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam, icam) {
+	constructor ( cam, icam ) {
 		this.location = {
 			description: icam.Description,
 			direction: icam.Direction,
@@ -30,28 +31,32 @@ class Camera {
 	}
 }
 
-function PushCams(cam, region){
-	for(var icam of cam.properties.Cameras){
-		cameras['North Dakota'][region].push(new Camera(cam, icam));
+function PushCams ( cam, region ){
+	for ( const icam of cam.properties.Cameras ){
+		cameras['North Dakota'][region].push( new Camera( cam, icam ) );
 	}
 }
 
-function Compile(data){
-	if(!cameras['North Dakota']){
+function Compile ( data ){
+	if ( !cameras['North Dakota'] ){
 		cameras['North Dakota'] = {};
 	}
-	for(var cam of data.features){
-		if(cam.properties.Region !== null){
-			if(!cameras['North Dakota'][cam.properties.Region]){
+
+	for ( const cam of data.features ){
+		if ( cam.properties.Region !== null ){
+			if ( !cameras['North Dakota'][cam.properties.Region] ){
 				cameras['North Dakota'][cam.properties.Region] = [];
 			}
-			PushCams(cam, cam.properties.Region);
+
+			PushCams( cam, cam.properties.Region );
 		} else {
-			if(!cameras['North Dakota'].other){
+			if ( !cameras['North Dakota'].other ){
 				cameras['North Dakota'].other = [];
 			}
-			PushCams(cam, 'other');
+
+			PushCams( cam, 'other' );
 		}
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

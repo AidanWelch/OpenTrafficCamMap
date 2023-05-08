@@ -1,24 +1,25 @@
 'use strict';
-const fs = require('fs');
-const https = require('https');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const https = require( 'https' );
 
-var requests = [];
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-https.request('https://fl511.com/map/mapIcons/Cameras', (res) => {
-	var data = '';
+const requests = [];
 
-	res.on('data', (chunk) =>{
+https.request( 'https://fl511.com/map/mapIcons/Cameras', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam, description) {
+	constructor ( cam, description ) {
 		this.location = {
 			description: description,
 			latitude: cam.location[0],
@@ -32,55 +33,59 @@ class Camera {
 	}
 }
 
-function getDescription(cam, queue) {
-	return new Promise((resolve, reject) => {
-		var req = https.request(`https://fl511.com/tooltip/Cameras/${cam.itemId}?lang=en-US`, (res) => {
-			var data = '';
-        
-			res.on('data', (chunk) =>{
+function getDescription ( cam, queue ) {
+	return new Promise( ( resolve, reject ) => {
+		const req = https.request( `https://fl511.com/tooltip/Cameras/${cam.itemId}?lang=en-US`, ( res ) => {
+			let data = '';
+
+			res.on( 'data', ( chunk ) => {
 				data += chunk;
 			});
-            
-			res.on('end', () => {
-				console.log(queue + ' : ' + cam.itemId);
-				data = data.replace(/\r/g, '');
-				data = data.split('\n');
-				var description = data[25].trim();
-				cameras.Florida.other.push(new Camera(cam, description));
+
+			res.on( 'end', () => {
+				console.log( queue + ' : ' + cam.itemId );
+				data = data.replace( /\r/g, '' );
+				data = data.split( '\n' );
+				const description = data[25].trim();
+				cameras.Florida.other.push( new Camera( cam, description ) );
 				resolve();
 			});
 		});
-		req.setTimeout(5000, () => {
-			console.error('========Timeout ' + cam.itemId);
-			request.push(getDescription(cam, queue));
+		req.setTimeout( 5000, () => {
+			console.error( '========Timeout ' + cam.itemId );
+			request.push( getDescription( cam, queue ) );
 			resolve();
 		});
 		req.end();
 	});
 }
 
-async function Compile(data){
+async function Compile ( data ){
 	//Max of 100 requests per minute, 20 per second.  Yes, that means it takes half an hour
-	var total_this_minute = 0;
-	var total_this_second = 0;
-	var minutes = 0;
-	setInterval(() => {total_this_second = 0;}, 1000);
-	setInterval(() => {total_this_minute = 0; minutes++; console.log(minutes + ' minutes');}, 60000);
-	if(!cameras.Florida){
+	let total_this_minute = 0;
+	let total_this_second = 0;
+	let minutes = 0;
+	setInterval( () => { total_this_second = 0; }, 1000 );
+	setInterval( () => { total_this_minute = 0; minutes++; console.log( minutes + ' minutes' ); }, 60000 );
+	if ( !cameras.Florida ){
 		cameras.Florida = {};
 	}
-	for(const [i, cam] of data.item2.entries()){
-		if(!cameras.Florida.other){
+
+	for ( const [ i, cam ] of data.item2.entries() ){
+		if ( !cameras.Florida.other ){
 			cameras.Florida.other = [];
 		}
-		while(total_this_second > 3 || total_this_minute > 90){
-			await new Promise((res) => {setTimeout(res, 5);});
+
+		while ( total_this_second > 3 || total_this_minute > 90 ){
+			await new Promise( ( res ) => { setTimeout( res, 5 ); });
 		}
+
 		total_this_minute++;
 		total_this_second++;
-		requests.push(getDescription(cam, Math.round((i/data.item2.length)*100) + '%'));
+		requests.push( getDescription( cam, Math.round( ( i/data.item2.length )*100 ) + '%' ) );
 	}
-	await Promise.all(requests);
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	await Promise.all( requests );
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 	process.exit();
 }

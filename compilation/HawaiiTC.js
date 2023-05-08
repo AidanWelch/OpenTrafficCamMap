@@ -1,23 +1,24 @@
 'use strict';
-const xml2json = require('xml2json');
-const fs = require('fs');
-const http = require('http');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const xml2json = require( 'xml2json' );
+const fs = require( 'fs' );
+const http = require( 'http' );
 
-http.request('http://goakamai.org/services/CameraProxy.svc/cameras/tours/H-1%20And%20H-201%20All/xml', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+http.request( 'http://goakamai.org/services/CameraProxy.svc/cameras/tours/H-1%20And%20H-201%20All/xml', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
 
-	res.on('end', () => {
-		Compile(JSON.parse(xml2json.toJson(data)));
+	res.on( 'end', () => {
+		Compile( JSON.parse( xml2json.toJson( data ) ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam) {
+	constructor ( cam ) {
 		this.location = {
 			description: cam.Name,
 			longitude: cam.Location.Lon,
@@ -30,15 +31,18 @@ class Camera {
 	}
 }
 
-function Compile(data){
-	if(!cameras.Hawaii){
+function Compile ( data ){
+	if ( !cameras.Hawaii ){
 		cameras.Hawaii = {};
 	}
-	for(var cam of data.CameraList.Camera){
-		if(!cameras.Hawaii.other){
+
+	for ( const cam of data.CameraList.Camera ){
+		if ( !cameras.Hawaii.other ){
 			cameras.Hawaii.other = [];
 		}
-		cameras.Hawaii.other.push(new Camera(cam));
+
+		cameras.Hawaii.other.push( new Camera( cam ) );
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

@@ -1,22 +1,23 @@
 'use strict';
-const fs = require('fs');
-const https = require('https');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const https = require( 'https' );
 
-https.request('https://ga.cdn.iteris-atis.com/geojson/icons/metadata/icons.cctv.geojson', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+https.request( 'https://ga.cdn.iteris-atis.com/geojson/icons/metadata/icons.cctv.geojson', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam) {
+	constructor ( cam ) {
 		this.location = {
 			description: cam.properties.location_description,
 			direction: cam.properties.dir,
@@ -29,22 +30,26 @@ class Camera {
 	}
 }
 
-function Compile(data){
-	if(!cameras.Georgia){
+function Compile ( data ){
+	if ( !cameras.Georgia ){
 		cameras.Georgia = {};
 	}
-	for(const cam of data.features){
-		if(cam.properties.county !== null){
-			if(!cameras.Georgia[cam.properties.county]){
+
+	for ( const cam of data.features ){
+		if ( cam.properties.county !== null ){
+			if ( !cameras.Georgia[cam.properties.county] ){
 				cameras.Georgia[cam.properties.county] = [];
 			}
-			cameras.Georgia[cam.properties.county].push(new Camera(cam));
+
+			cameras.Georgia[cam.properties.county].push( new Camera( cam ) );
 		} else {
-			if(!cameras.Georgia.other){
+			if ( !cameras.Georgia.other ){
 				cameras.Georgia.other = [];
 			}
-			cameras.Georgia.other.push(new Camera(cam));
+
+			cameras.Georgia.other.push( new Camera( cam ) );
 		}
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

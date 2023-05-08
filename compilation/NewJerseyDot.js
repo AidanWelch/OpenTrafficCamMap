@@ -1,23 +1,24 @@
 'use strict';
-const fs = require('fs');
-const https = require('https');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const https = require( 'https' );
 
-https.request('https://511nj.org/api/client/camera/GetCameraDataByTourId?tourid=3', (res) => {
-	var data = '';
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
-	res.on('data', (chunk) =>{
+https.request( 'https://511nj.org/api/client/camera/GetCameraDataByTourId?tourid=3', ( res ) => {
+	let data = '';
+
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 }).end();
 
 class Camera {
-	constructor (cam) {
-		var parsedObj = videoOrImage(cam);
+	constructor ( cam ) {
+		const parsedObj = videoOrImage( cam );
 
 		this.location = {
 			decsription: cam.name + ' ' + cam.devicedescription,
@@ -31,21 +32,18 @@ class Camera {
 	}
 }
 
-function videoOrImage(cam) {
-	var imageOnly = true;
-	var streamSrc, imageSrc;
-	for (const camType of cam.CameraMainDetail) {
-		if (camType.cameratype === 'Video' && !camType.URL.includes('Camera-Unavailable.png'))
-		{
+function videoOrImage ( cam ) {
+	let imageOnly = true;
+	let streamSrc, imageSrc;
+	for ( const camType of cam.CameraMainDetail ) {
+		if ( camType.cameratype === 'Video' && !camType.URL.includes( 'Camera-Unavailable.png' ) ) {
 			imageOnly = false;
-			streamSrc = camType.URL.replace('https://', 'http://') + '?otp=';
+			streamSrc = camType.URL.replace( 'https://', 'http://' ) + '?otp=';
 			//http for cross domain streaming
 			//Wowza otp key can be obtained by making requests to "https://511nj.org/api/client/camera/getHlsToken?Id=2"
 			//Required for streaming
 			//I have not found a way to get the turnkpike streams to work cross domain https://njtpk-wink.xcmdata.org/turnpike/hls/....
-		}
-		else
-		{
+		} else {
 			imageSrc = camType.URL; // These all appear to be "image unavailable" images
 		}
 	}
@@ -53,20 +51,23 @@ function videoOrImage(cam) {
 	return {
 		imageOnly: imageOnly,
 		imageSrc: imageSrc,
-		streamSrc:  streamSrc
+		streamSrc: streamSrc
 	};
 }
 
 
-function Compile(data){
-	if(!cameras['New Jersey']){
+function Compile ( data ){
+	if ( !cameras['New Jersey'] ){
 		cameras['New Jersey'] = {};
 	}
-	for(const cam of data.Data.CameraData){  
-		if(!cameras['New Jersey'].other){
+
+	for ( const cam of data.Data.CameraData ){
+		if ( !cameras['New Jersey'].other ){
 			cameras['New Jersey'].other = [];
 		}
-		cameras['New Jersey'].other.push(new Camera(cam));     
+
+		cameras['New Jersey'].other.push( new Camera( cam ) );
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }

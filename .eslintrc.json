@@ -30,7 +30,7 @@
 		"comma-spacing": "error",
 		"comma-dangle": ["error", "never"],
 		"comma-style": "error",
-		"space-in-parens": ["error", "always"],
+		"space-in-parens": ["error", "always", {"exceptions": ["{}"]}],
 		"no-else-return": "error",
 		"prefer-object-spread": "error",
 		"arrow-spacing": "error",

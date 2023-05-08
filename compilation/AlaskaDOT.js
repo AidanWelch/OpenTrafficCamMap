@@ -1,10 +1,11 @@
 'use strict';
-const fs = require('fs');
-const https = require('https');
-const cameras = JSON.parse(fs.readFileSync('../cameras/USA.json'));
+const fs = require( 'fs' );
+const https = require( 'https' );
+
+const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
 
-var postData = `
+const postData = `
 {
     "draw":1,
     "columns":[
@@ -66,7 +67,7 @@ var postData = `
  }
  `;
 
-var options = {
+const options = {
 	host: '511.alaska.gov',
 	path: '/List/GetData/Cameras',
 	port: 443,
@@ -77,23 +78,23 @@ var options = {
 	}
 };
 
-var req = https.request(options, (res) => {
-	var data = '';
+const req = https.request( options, ( res ) => {
+	let data = '';
 
-	res.on('data', (chunk) =>{
+	res.on( 'data', ( chunk ) => {
 		data += chunk;
 	});
-    
-	res.on('end', () => {
-		Compile(JSON.parse(data));
+
+	res.on( 'end', () => {
+		Compile( JSON.parse( data ) );
 	});
 });
 
-req.write(postData);
+req.write( postData );
 req.end();
 
 class Camera {
-	constructor (cam, url, direction, description) {
+	constructor ( cam, url, direction, description ) {
 		this.location = {
 			description: description,
 			direction: direction,
@@ -107,28 +108,32 @@ class Camera {
 	}
 }
 
-function PushCam(cam, county){
-	for(var i = 0; i < cam.groupedIds.length; i++){
-		cameras.Alaska[county].push(new Camera(cam, `https://511.alaska.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i]));
+function PushCam ( cam, county ){
+	for ( let i = 0; i < cam.groupedIds.length; i++ ){
+		cameras.Alaska[county].push( new Camera( cam, `https://511.alaska.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i] ) );
 	}
 }
 
-function Compile(data){
-	if(!cameras.Alaska){
+function Compile ( data ){
+	if ( !cameras.Alaska ){
 		cameras.Alaska = {};
 	}
-	for(const cam of data.data){
-		if(cam.county !== null){
-			if(!cameras.Alaska[cam.county]){
+
+	for ( const cam of data.data ){
+		if ( cam.county !== null ){
+			if ( !cameras.Alaska[cam.county] ){
 				cameras.Alaska[cam.county] = [];
 			}
-			PushCam(cam, cam.county);
+
+			PushCam( cam, cam.county );
 		} else {
-			if(!cameras.Alaska.other){
+			if ( !cameras.Alaska.other ){
 				cameras.Alaska.other = [];
 			}
-			PushCam(cam, 'other');
+
+			PushCam( cam, 'other' );
 		}
 	}
-	fs.writeFileSync('../cameras/USA.json', JSON.stringify(cameras, null, 2));
+
+	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }
