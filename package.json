@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
 	"lint": "eslint \"**/*{.js,.cjs,.mjs}\"",
-	"fix-lint": "eslint \"**{.js,.cjs,.mjs}\" --fix"
+	"fix-lint": "eslint \"**/*{.js,.cjs,.mjs}\" --fix"
   },
   "repository": {
     "type": "git",
