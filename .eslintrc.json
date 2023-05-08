@@ -1,17 +1,12 @@
 {
 	"root": true,
 	"extends": [
-		"eslint:recommended",
-		"plugin:mocha/recommended"
+		"eslint:recommended"
 	],
 	"env": {
 		"node": true,
-		"es2020": true,
-		"mocha": true
+		"es2022": true
 	},
-	"plugins": [
-		"mocha"
-	],
 	"parserOptions": {
 		"ecmaVersion": "latest"
 	},
@@ -22,6 +17,72 @@
 		"indent": ["error", "tab"],
 		"linebreak-style": ["error", "unix"],
 		"strict": "error",
-		"eqeqeq": ["error", "always"]
-	}
+		"eqeqeq": ["error", "always"],
+		"array-bracket-spacing": ["error", "always"],
+		"object-curly-spacing": ["error", "always"],
+		"camelcase": "error",
+		"new-cap": "error",
+		"consistent-return": "error",
+		"consistent-this": "error",
+		"curly": "error",
+		"no-var": "error",
+		"prefer-const": "error",
+		"comma-spacing": "error",
+		"comma-dangle": ["error", "never"],
+		"comma-style": "error",
+		"space-in-parens": ["error", "always"],
+		"no-else-return": "error",
+		"prefer-object-spread": "error",
+		"arrow-spacing": "error",
+		"block-spacing": "error",
+		"brace-style": ["error", "1tbs", { "allowSingleLine": true }],
+		"dot-location": ["error", "property"],
+		"eol-last": ["error", "never"],
+		"func-call-spacing": "error",
+		"key-spacing": ["error", {"mode": "strict"}],
+		"keyword-spacing": "error",
+		"newline-per-chained-call": "error",
+		"no-multi-spaces": "error",
+		"no-multiple-empty-lines": "error",
+		"no-trailing-spaces": "error",
+		"no-whitespace-before-property": "error",
+		"object-curly-newline": ["error", { "multiline": true }],
+		"padded-blocks": ["error", "never"],
+		"padding-line-between-statements": ["error",
+			{"prev": "multiline-block-like", "next": "*", "blankLine": "always"},
+			{"prev": "import", "next": "*", "blankLine": "always"},
+			{"prev": "import", "next": "import", "blankLine": "never"},
+			{"prev": "export", "next": "*", "blankLine": "always"},
+			{"prev": "*", "next": "export", "blankLine": "always"},
+			{"prev": "export", "next": "export", "blankLine": "never"},
+			{"prev": "cjs-import", "next": "*", "blankLine": "always"},
+			{"prev": "cjs-import", "next": "cjs-import", "blankLine" : "never"},
+			{"prev": "cjs-export", "next": "*", "blankLine": "always"},
+			{"prev": "*", "next": "cjs-export", "blankLine": "always"},
+			{"prev": "cjs-export", "next": "cjs-export", "blankLine": "never"}
+		],
+		"rest-spread-spacing": "error",
+		"space-before-function-paren": "error",
+		"sort-imports": "error"
+	},
+	"overrides": [
+		{
+			"files": ["**.mjs"],
+			"parserOptions": {
+				"sourceType": "module"
+			}
+		},
+		{
+			"files": ["./test/**"],
+			"plugins": [
+				"mocha"
+			],
+			"env": {
+				"mocha": true
+			},
+			"extends": [
+				"plugin:mocha/recommended"
+			]
+		}
+	]
 }
