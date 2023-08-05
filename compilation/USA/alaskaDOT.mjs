@@ -1,10 +1,3 @@
-'use strict';
-const fs = require( 'fs' );
-const https = require( 'https' );
-
-const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
-
-
 const postData = `
 {
     "draw":1,
@@ -114,11 +107,8 @@ function PushCam ( cam, county ){
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Alaska ){
-		cameras.Alaska = {};
-	}
-
+async function Compile ( data ){
+	const data = JSON.parse( await fetch( ))
 	for ( const cam of data.data ){
 		if ( cam.county !== null ){
 			if ( !cameras.Alaska[cam.county] ){
@@ -137,3 +127,5 @@ function Compile ( data ){
 
 	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }
+
+export default [ 'Alaska', compile ];

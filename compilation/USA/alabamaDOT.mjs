@@ -15,8 +15,8 @@ class Camera {
 	}
 }
 
-async function compile (){
-	const data = JSON.parse( await fetch( 'https://algotraffic.com/api/v1/layers/cameras?null' ) );
+async function compile ( fetchinit ){
+	const data = JSON.parse( await fetch( 'https://algotraffic.com/api/v1/layers/cameras?null', fetchinit ) );
 	const res = {};
 	for ( let j = 0; j < data.length; j++ ) {
 		const camArr = data[j].entries;
