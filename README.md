@@ -3,6 +3,8 @@ A crowdsourced database of 32221 traffic cameras.
 
 [Checkout the interactive map!](http://otc.armchairresearch.org/map)
 
+⚠️ USA.json and this whole project will soon having breaking format changes. ⚠️
+
 ## Camera list
 Cameras will be stored in cameras/[Alpha-3 Country Code].json with the following schema.  All information in brackets should be the relevant input.
 The list can be compiled to from transport authority provided lists or it can added to manually.
