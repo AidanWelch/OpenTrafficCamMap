@@ -63,7 +63,8 @@
 		],
 		"rest-spread-spacing": "error",
 		"space-before-function-paren": "error",
-		"sort-imports": "error"
+		"sort-imports": "error",
+		"no-fallthrough": ["error", { "commentPattern": "falls?\\s?through", "allowEmptyCase": true}]
 	},
 	"overrides": [
 		{

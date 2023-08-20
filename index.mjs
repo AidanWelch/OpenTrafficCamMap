@@ -5,7 +5,7 @@ import { writeFile } from 'fs/promises';
 
 const dir = path.dirname( fileURLToPath( import.meta.url ) );
 
-compileUSA().then(res => {
-	console.log(res)
+compileUSA().then( res => {
+	console.log( res );
 	//writeFile(path.join())
 });
