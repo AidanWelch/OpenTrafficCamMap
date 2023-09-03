@@ -1,9 +1,4 @@
-'use strict';
-const fs = require( 'fs' );
-const https = require( 'https' );
-
-const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
-
+import standardizeDirection from '../utils/standardizeDirection.cjs';
 
 const postData = `
 {
@@ -81,72 +76,44 @@ const postData = `
  `;
 
 const options = {
-	host: 'az511.gov', //Ironically Arizona and Alaska are very similar
-	path: '/List/GetData/Cameras',
-	port: 443,
 	method: 'POST',
 	headers: {
 		'Content-Type': 'application/json',
 		'Content-Length': postData.length
-	}
+	},
+	body: postData
 };
-
-const req = https.request( options, ( res ) => {
-	let data = '';
-
-	res.on( 'data', ( chunk ) => {
-		data += chunk;
-	});
-
-	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
-	});
-});
-
-req.write( postData );
-req.end();
 
 class Camera {
 	constructor ( cam, url, direction, description ) {
-		this.location = {
-			description: description,
-			direction: direction,
-			latitude: cam.latitude,
-			longitude: cam.longitude
-		};
+		this.description = description;
+		if ( direction.length !== 0 ){
+			this.direction = standardizeDirection( direction );
+		}
+
+		this.latitude = cam.latitude;
+		this.longitude = cam.longitude;
 		this.url = url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
 	}
 }
 
-function PushCam ( cam, county ){
-	for ( let i = 0; i < cam.groupedIds.length; i++ ){
-		cameras.Arizona[county].push( new Camera( cam, `https://az511.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i] ) );
-	}
-}
-
-function Compile ( data ){
-	if ( !cameras.Arizona ){
-		cameras.Arizona = {};
-	}
-
+async function compile (){
+	const data = await ( await fetch( 'https://az511.gov/List/GetData/Cameras', options ) ).json();
+	const cameras = {};
 	for ( const cam of data.data ){
-		if ( cam.county !== null ){
-			if ( !cameras.Arizona[cam.county] ){
-				cameras.Arizona[cam.county] = [];
-			}
+		const county = cam.county ?? 'other';
+		if ( county in cameras === false ) {
+			cameras[county] = [];
+		}
 
-			PushCam( cam, cam.county );
-		} else {
-			if ( !cameras.Arizona.other ){
-				cameras.Arizona.other = [];
-			}
-
-			PushCam( cam, 'other' );
+		for ( let i = 0; i < cam.groupedIds.length; i++ ){
+			cameras[county].push( new Camera( cam, `https://az511.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i] ) );
 		}
 	}
 
-	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
+	return cameras;
 }
+
+export default [ 'Arizona', compile ];

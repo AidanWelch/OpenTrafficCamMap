@@ -73,12 +73,13 @@ const options = {
 
 class Camera {
 	constructor ( cam, url, direction, description ) {
-		this.location = {
-			description: description,
-			direction: standardizeDirection( direction ),
-			latitude: cam.latitude,
-			longitude: cam.longitude
-		};
+		this.description = description;
+		if ( direction.length !== 0 ){
+			this.direction = standardizeDirection( direction );
+		}
+
+		this.latitude = cam.latitude;
+		this.longitude = cam.longitude;
 		this.url = url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';

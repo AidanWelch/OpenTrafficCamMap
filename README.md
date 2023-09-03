@@ -13,17 +13,15 @@ The list can be compiled to from transport authority provided lists or it can ad
     "[state or standardized administrative region]": {
         "[county or standardized regional breakdown, this should not be skipped but if not applicable or unknown use 'other']": [
             {
-                "location": {
-                    "description": "[address of camera or best description of location]",
-                    "direction": "[the cardinal direction the camera is facing, optional]",
-                    "latitude": "[the latitude of the camera, optional]",
-                    "longitude": "[the longitude of the camera, optional]"
-                },
+				"description": "[address of camera or best description of location]",
+				"direction": "[the cardinal direction the camera is facing, optional and can be unexpected string]",
+				"latitude": "[the latitude of the camera]",
+				"longitude": "[the longitude of the camera]",
                 "url": "[url of stream]",
                 "encoding": "[encoding used]",
                 "format": "[the format of the given stream]",
-                "update_rate": "[only relevant on image stream formats, and even then is optional, but provides the rate at which the image provided can be pinged for an update, measured in milliseconds]",
-                "marked_for_review": "[bool, should(not is) only be included if true]"
+                "updateRate": "[only relevant on image stream formats, and even then is optional, but provides the rate at which the image provided can be pinged for an update, measured in milliseconds]",
+                "markedForReview": "[bool, should(not is) only be included if true]"
             }
         ]
     }

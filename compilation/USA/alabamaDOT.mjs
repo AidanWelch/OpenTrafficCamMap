@@ -2,12 +2,13 @@ import standardizeDirection from '../utils/standardizeDirection.cjs';
 
 class Camera {
 	constructor ( cam ) {
-		this.location = {
-			description: cam.primaryRoad + ' ' + cam.crossStreet,
-			latitude: cam.latitude,
-			longitude: cam.longitude,
-			direction: standardizeDirection( cam.direction )
-		};
+		this.description = cam.primaryRoad + ' ' + cam.crossStreet;
+		this.latitude = cam.latitude;
+		this.longitude = cam.longitude;
+		if ( cam.direction.length !== 0 ){
+			this.direction = standardizeDirection( cam.direction );
+		}
+
 		this.url = cam.streamUrl,
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
