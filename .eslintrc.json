@@ -11,7 +11,7 @@
 		"ecmaVersion": "latest"
 	},
 	"rules": {
-		"no-console": "warn",
+		"no-console": ["error", { "allow": ["info", "warn", "error"] }],
 		"semi": ["error", "always"],
 		"quotes": ["error", "single"],
 		"indent": ["error", "tab"],
