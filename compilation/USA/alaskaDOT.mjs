@@ -1,3 +1,5 @@
+import standardizeDirection from '../utils/standardizeDirection.cjs';
+
 const postData = `
 {
     "draw":1,
@@ -61,71 +63,43 @@ const postData = `
  `;
 
 const options = {
-	host: '511.alaska.gov',
-	path: '/List/GetData/Cameras',
-	port: 443,
 	method: 'POST',
 	headers: {
 		'Content-Type': 'application/json',
 		'Content-Length': postData.length
-	}
+	},
+	body: postData
 };
-
-const req = https.request( options, ( res ) => {
-	let data = '';
-
-	res.on( 'data', ( chunk ) => {
-		data += chunk;
-	});
-
-	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
-	});
-});
-
-req.write( postData );
-req.end();
 
 class Camera {
 	constructor ( cam, url, direction, description ) {
 		this.location = {
 			description: description,
-			direction: direction,
+			direction: standardizeDirection( direction ),
 			latitude: cam.latitude,
 			longitude: cam.longitude
 		};
 		this.url = url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
 	}
 }
 
-function PushCam ( cam, county ){
-	for ( let i = 0; i < cam.groupedIds.length; i++ ){
-		cameras.Alaska[county].push( new Camera( cam, `https://511.alaska.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i] ) );
-	}
-}
-
-async function Compile ( data ){
-	const data = JSON.parse( await fetch( ))
+async function compile () {
+	const data = await ( await fetch( 'https://511.alaska.gov/List/GetData/Cameras', options ) ).json();
+	const cameras = {};
 	for ( const cam of data.data ){
-		if ( cam.county !== null ){
-			if ( !cameras.Alaska[cam.county] ){
-				cameras.Alaska[cam.county] = [];
-			}
+		const county = cam.county ?? 'other';
+		if ( county in cameras === false ) {
+			cameras[county] = [];
+		}
 
-			PushCam( cam, cam.county );
-		} else {
-			if ( !cameras.Alaska.other ){
-				cameras.Alaska.other = [];
-			}
-
-			PushCam( cam, 'other' );
+		for ( let i = 0; i < cam.groupedIds.length; i++ ){
+			cameras[county].push( new Camera( cam, `https://511.alaska.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i] ) );
 		}
 	}
 
-	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
+	return cameras;
 }
 
 export default [ 'Alaska', compile ];

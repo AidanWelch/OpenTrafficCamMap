@@ -1,8 +1,7 @@
-import { fileURLToPath } from 'url';
 import path from 'path';
 import { readdir } from 'fs/promises';
 
-const dir = path.dirname( fileURLToPath( import.meta.url ) );
+const dir = new URL( path.dirname( import.meta.url ) );
 
 export default async function () {
 	const cameras = {};
@@ -12,12 +11,13 @@ export default async function () {
 			continue;
 		}
 
-		const [ state, compile ] = ( await import( path.join( dir, f ) ) ).default;
+		const [ state, compile ] = ( await import( path.join( dir.href, f ) ) ).default;
 		const fetchinit = {};
 		cameras[state] = compile( fetchinit );
 	}
 
-	await Promise.all( Object.values( cameras ) );
+	await Promise.all( Object.keys( cameras ).map( async state => cameras[state] = await cameras[state] ) );
+
 	return cameras;
 }
 

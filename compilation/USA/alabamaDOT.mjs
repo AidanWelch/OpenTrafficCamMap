@@ -11,34 +11,29 @@ class Camera {
 		this.url = cam.streamUrl,
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.markedForReview = cam.disabled;
+		if ( cam.disabled ) {
+			this.markedForReview = true;
+		}
 	}
 }
 
 async function compile ( fetchinit ){
-	const data = JSON.parse( await fetch( 'https://algotraffic.com/api/v1/layers/cameras?null', fetchinit ) );
-	const res = {};
+	const data = await ( await fetch( 'https://algotraffic.com/api/v1/layers/cameras?null=', fetchinit ) ).json();
+	const cameras = {};
 	for ( let j = 0; j < data.length; j++ ) {
 		const camArr = data[j].entries;
 
 		for ( const cam of camArr ){
-			if ( cam.organizationId !== null ){
-				if ( cam.organizationId in res === false ){
-					res[cam.organizationId] = [];
-				}
-
-				res[cam.organizationId].push( new Camera( cam ) );
-			} else {
-				if ( 'other' in res === false ){
-					res.other = [];
-				}
-
-				res.other.push( new Camera( cam ) );
+			const county = cam.organizationId ?? 'other';
+			if ( county in cameras === false ) {
+				cameras[county] = [];
 			}
+
+			cameras[county].push( new Camera( cam ) );
 		}
 	}
 
-	return res;
+	return cameras;
 }
 
 export default [ 'Alabama', compile ];
