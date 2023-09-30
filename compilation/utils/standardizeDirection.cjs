@@ -7,8 +7,7 @@ const directionRegex = new RegExp( [ ...NORTH, ...SOUTH, ...EAST, ...WEST ].join
 
 function standardizeDirection ( direction ) {
 	let res = direction.replaceAll( directionRegex,
-		( string ) => ( string.length === 1 ) ?
-			string.toUpperCase() : string[0].toUpperCase() )
+		( string ) => string[0].toUpperCase() )
 		.match( /[a-zA-Z\d]/g );
 	if ( res === null ) {
 		return direction;
