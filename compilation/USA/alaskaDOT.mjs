@@ -73,7 +73,7 @@ const options = {
 
 class Camera {
 	constructor ( cam, url, direction, description ) {
-		this.description = description;
+		this.description = description.trim();
 		if ( direction.length !== 0 ){
 			this.direction = standardizeDirection( direction );
 		}

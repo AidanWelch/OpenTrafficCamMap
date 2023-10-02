@@ -1,6 +1,6 @@
 class Camera {
 	constructor ( cam ) {
-		this.description = cam.title;
+		this.description = cam.title.trim();
 		this.latitude = cam.lat;
 		this.longitude = cam.lon;
 		this.url = cam.urls.m3u8;

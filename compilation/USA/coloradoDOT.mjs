@@ -1,6 +1,6 @@
 class Camera {
 	constructor ( view, coordinates ) {
-		this.description = view.title;
+		this.description = view.title.trim();
 		this.longitude = coordinates[0];
 		this.latitude = coordinates[1];
 		if ( view.category === 'IMAGE' ) {

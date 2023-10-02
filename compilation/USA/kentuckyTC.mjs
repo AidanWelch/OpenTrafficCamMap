@@ -2,7 +2,7 @@ import standardizeDirection from '../utils/standardizeDirection.cjs';
 
 class Camera {
 	constructor ( cam ) {
-		this.description = cam.attributes.description;
+		this.description = cam.attributes.description.trim();
 		if ( cam.attributes.direction !== null ){
 			this.direction = standardizeDirection( cam.attributes.direction );
 		}
