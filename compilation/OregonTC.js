@@ -30,20 +30,20 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Oregon ){
+function Compile ( data ) {
+	if ( !cameras.Oregon ) {
 		cameras.Oregon = {};
 	}
 
-	for ( const cam of data.features ){
-		if ( cam.attributes.route !== null ){
-			if ( !cameras.Oregon[cam.attributes.route] ){
+	for ( const cam of data.features ) {
+		if ( cam.attributes.route !== null ) {
+			if ( !cameras.Oregon[cam.attributes.route] ) {
 				cameras.Oregon[cam.attributes.route] = [];
 			}
 
 			cameras.Oregon[cam.attributes.route].push( new Camera( cam ) );
 		} else {
-			if ( !cameras.Oregon.other ){
+			if ( !cameras.Oregon.other ) {
 				cameras.Oregon.other = [];
 			}
 

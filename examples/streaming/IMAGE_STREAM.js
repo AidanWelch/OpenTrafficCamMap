@@ -6,9 +6,9 @@ const cameras = JSON.parse( fs.readFileSync( '../../cameras/USA.json' ) );
 
 const test_cam = cameras.Kentucky.Jefferson.find( cam => cam.format === 'IMAGE_STREAM' );
 
-( async function (){
+( async function () {
 	let last_pic;
-	for ( var i = 0; i < 50; i++ ){
+	for ( var i = 0; i < 50; i++ ) {
 		http.request( test_cam.url, ( res ) => {
 			let data = '';
 			res.setEncoding( 'binary' );
@@ -18,7 +18,7 @@ const test_cam = cameras.Kentucky.Jefferson.find( cam => cam.format === 'IMAGE_S
 			});
 
 			res.on( 'end', () => {
-				if ( data !== last_pic ){
+				if ( data !== last_pic ) {
 					fs.writeFileSync( `${i}.jpg`, data, 'binary' );
 					last_pic = data;
 				}

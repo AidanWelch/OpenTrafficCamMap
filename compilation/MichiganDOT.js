@@ -30,17 +30,17 @@ class Camera {
 	}
 }
 
-async function Compile ( data ){
-	if ( !cameras.Michigan ){
+async function Compile ( data ) {
+	if ( !cameras.Michigan ) {
 		cameras.Michigan = {};
 	}
 
 	const requests = [];
-	if ( !cameras.Michigan.other ){
+	if ( !cameras.Michigan.other ) {
 		cameras.Michigan.other = [];
 	}
 
-	for ( var i = 0; i < data.length; ++i ){
+	for ( var i = 0; i < data.length; ++i ) {
 		requests.push( new Promise( ( resolve, reject ) => {
 			const cam = data[i];
 			https.request( 'https://mdotjboss.state.mi.us/MiDrive/camera/getCameraInformation/' + cam.id, ( res ) => {

@@ -29,20 +29,20 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Wisconsin ){
+function Compile ( data ) {
+	if ( !cameras.Wisconsin ) {
 		cameras.Wisconsin = {};
 	}
 
-	for ( const cam of data.data ){
-		if ( cam.county !== null ){
-			if ( !cameras.Wisconsin[cam.county] ){
+	for ( const cam of data.data ) {
+		if ( cam.county !== null ) {
+			if ( !cameras.Wisconsin[cam.county] ) {
 				cameras.Wisconsin[cam.county] = [];
 			}
 
 			cameras.Wisconsin[cam.county].push( new Camera( cam ) );
 		} else {
-			if ( !cameras.Wisconsin.other ){
+			if ( !cameras.Wisconsin.other ) {
 				cameras.Wisconsin.other = [];
 			}
 

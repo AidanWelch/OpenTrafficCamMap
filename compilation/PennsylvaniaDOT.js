@@ -86,13 +86,13 @@ function decodeEntities ( encodedString ) {
 	});
 }
 
-function Compile ( data ){
-	if ( !cameras.Pennsylvania ){
+function Compile ( data ) {
+	if ( !cameras.Pennsylvania ) {
 		cameras.Pennsylvania = {};
 	}
 
-	for ( const cam of data.cams ){
-		if ( !cameras.Pennsylvania.other ){
+	for ( const cam of data.cams ) {
+		if ( !cameras.Pennsylvania.other ) {
 			cameras.Pennsylvania.other = [];
 		}
 

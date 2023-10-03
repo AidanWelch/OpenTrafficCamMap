@@ -31,13 +31,13 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Illinois ){
+function Compile ( data ) {
+	if ( !cameras.Illinois ) {
 		cameras.Illinois = {};
 	}
 
-	for ( const cam of data.features ){
-		if ( !cameras.Illinois.other ){
+	for ( const cam of data.features ) {
+		if ( !cameras.Illinois.other ) {
 			cameras.Illinois.other = [];
 		}
 

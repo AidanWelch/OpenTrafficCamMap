@@ -20,7 +20,7 @@ https.request( 'https://udottraffic.utah.gov/KmlFile.aspx?kmlFileType=Camera', (
 class Camera {
 	constructor ( cam ) {
 		const extended_data = new Map();
-		for ( let i = 0; i < cam.ExtendedData.SchemaData.SimpleData.length; i++ ){
+		for ( let i = 0; i < cam.ExtendedData.SchemaData.SimpleData.length; i++ ) {
 			extended_data.set( cam.ExtendedData.SchemaData.SimpleData[i].name, cam.ExtendedData.SchemaData.SimpleData[i].$t );
 		}
 
@@ -38,13 +38,13 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Utah ){
+function Compile ( data ) {
+	if ( !cameras.Utah ) {
 		cameras.Utah = {};
 	}
 
-	for ( const cam of data.kml.Document.Placemark ){
-		if ( !cameras.Utah.other ){
+	for ( const cam of data.kml.Document.Placemark ) {
+		if ( !cameras.Utah.other ) {
 			cameras.Utah.other = [];
 		}
 

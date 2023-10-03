@@ -45,20 +45,20 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Virginia ){
+function Compile ( data ) {
+	if ( !cameras.Virginia ) {
 		cameras.Virginia = {};
 	}
 
-	for ( cam of data.features ){
-		if ( cam.properties.jurisdiction !== null ){
-			if ( !cameras.Virginia[cam.properties.jurisdiction] ){
+	for ( cam of data.features ) {
+		if ( cam.properties.jurisdiction !== null ) {
+			if ( !cameras.Virginia[cam.properties.jurisdiction] ) {
 				cameras.Virginia[cam.properties.jurisdiction] = [];
 			}
 
 			cameras.Virginia[cam.properties.jurisdiction].push( new Camera( cam ) );
 		} else {
-			if ( !cameras.Virginia.other ){
+			if ( !cameras.Virginia.other ) {
 				cameras.Virginia.other = [];
 			}
 

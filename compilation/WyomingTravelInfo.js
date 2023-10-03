@@ -25,7 +25,7 @@ class Camera {
 		};
 		this.url = cam.imageUrl;
 		this.encoding = 'JPEG';
-		if ( cam.direction !== null ){
+		if ( cam.direction !== null ) {
 			this.direction = cam.direction;
 		}
 
@@ -34,18 +34,18 @@ class Camera {
 	}
 }
 
-function compile ( data ){
-	if ( !cameras.Wyoming ){
+function compile ( data ) {
+	if ( !cameras.Wyoming ) {
 		cameras.Wyoming = {};
 	}
 
-	for ( const cam of data.features ){
-		if ( cam.attributes.IMAGEMARKUP !== null ){
+	for ( const cam of data.features ) {
+		if ( cam.attributes.IMAGEMARKUP !== null ) {
 			const markup = cam.attributes.IMAGEMARKUP;
 			cam.imageUrl = markup.substring( markup.indexOf( 'src="' ) + 5, markup.indexOf( ' class=' ) - 1 );
 			const details = markup.substring( markup.indexOf( '<i>' ) + 3, markup.indexOf( '</i>' ) );
 			cam.title = details;
-			if ( details.includes( ' - ' ) ){
+			if ( details.includes( ' - ' ) ) {
 				cam.direction = details.substring( details.lastIndexOf( '-' ) + 2, details.lastIndexOf( '-' ) + 3 );
 			}
 
@@ -55,13 +55,13 @@ function compile ( data ){
 
 			if ( region === 'I-25 Divide' ) { region = 'I 25'; }
 
-			if ( !cameras.Wyoming[region] ){
+			if ( !cameras.Wyoming[region] ) {
 				cameras.Wyoming[region] = [];
 			}
 
 			cameras.Wyoming[region].push( new Camera( cam ) );
 		} else {
-			if ( !cameras.Wyoming.other ){
+			if ( !cameras.Wyoming.other ) {
 				cameras.Wyoming.other = [];
 			}
 

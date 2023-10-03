@@ -56,13 +56,13 @@ function videoOrImage ( cam ) {
 }
 
 
-function Compile ( data ){
-	if ( !cameras['New Jersey'] ){
+function Compile ( data ) {
+	if ( !cameras['New Jersey'] ) {
 		cameras['New Jersey'] = {};
 	}
 
-	for ( const cam of data.Data.CameraData ){
-		if ( !cameras['New Jersey'].other ){
+	for ( const cam of data.Data.CameraData ) {
+		if ( !cameras['New Jersey'].other ) {
 			cameras['New Jersey'].other = [];
 		}
 

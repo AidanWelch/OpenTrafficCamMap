@@ -30,10 +30,10 @@ class Camera {
 	}
 }
 
-function PushCams ( cam, region ){
+function PushCams ( cam, region ) {
 	return new Promise( ( resolve, reject ) => {
-		for ( var icam of cam.views ){
-			if ( icam.type === 'EXTERNAL_PAGE' ){
+		for ( var icam of cam.views ) {
+			if ( icam.type === 'EXTERNAL_PAGE' ) {
 				var request_hostname = icam.url.slice( 0, icam.url.indexOf( '/', 9 ) );
 				https.request( icam.url, ( res ) => {
 					let data = '';
@@ -43,7 +43,7 @@ function PushCams ( cam, region ){
 					});
 
 					res.on( 'end', () => {
-						if ( res.statusCode === 200 ){
+						if ( res.statusCode === 200 ) {
 							data = data.split( '\n' );
 							let new_url = data.filter( line => ( line.indexOf( 'SRC="/scanweb/Camera.asp' ) !== -1 ) )[0];
 							new_url = new_url.slice( new_url.indexOf( 'SRC="' )+5 );
@@ -56,11 +56,11 @@ function PushCams ( cam, region ){
 								});
 
 								res.on( 'end', () => {
-									if ( res.statusCode === 200 ){
+									if ( res.statusCode === 200 ) {
 										data = data.split( '\n' );
 										const headers = data.filter( line => ( line.indexOf( 'class="SectionHeader"' ) !== -1 ) );
 										const links = data.filter( line => ( line.indexOf( 'class="Phantom"' ) !== -1 ) );
-										for ( let i = 0; i < headers.length; i++ ){
+										for ( let i = 0; i < headers.length; i++ ) {
 											headers[i] = headers[i].slice( headers[i].indexOf( '>' ) + 1 );
 											headers[i] = headers[i].slice( 0, headers[i].indexOf( '<' ) );
 											icam.name = headers[i];
@@ -85,13 +85,13 @@ function PushCams ( cam, region ){
 	});
 }
 
-async function Compile ( data ){
-	if ( !cameras.Idaho ){
+async function Compile ( data ) {
+	if ( !cameras.Idaho ) {
 		cameras.Idaho = {};
 	}
 
-	for ( const cam of data ){
-		if ( !cameras.Idaho.other ){
+	for ( const cam of data ) {
+		if ( !cameras.Idaho.other ) {
 			cameras.Idaho.other = [];
 		}
 

@@ -60,23 +60,23 @@ function getDescription ( cam, queue ) {
 	});
 }
 
-async function Compile ( data ){
+async function Compile ( data ) {
 	//Max of 100 requests per minute, 20 per second.  Yes, that means it takes half an hour
 	let total_this_minute = 0;
 	let total_this_second = 0;
 	let minutes = 0;
 	setInterval( () => { total_this_second = 0; }, 1000 );
 	setInterval( () => { total_this_minute = 0; minutes++; console.log( minutes + ' minutes' ); }, 60000 );
-	if ( !cameras.Florida ){
+	if ( !cameras.Florida ) {
 		cameras.Florida = {};
 	}
 
-	for ( const [ i, cam ] of data.item2.entries() ){
-		if ( !cameras.Florida.other ){
+	for ( const [ i, cam ] of data.item2.entries() ) {
+		if ( !cameras.Florida.other ) {
 			cameras.Florida.other = [];
 		}
 
-		while ( total_this_second > 3 || total_this_minute > 90 ){
+		while ( total_this_second > 3 || total_this_minute > 90 ) {
 			await new Promise( ( res ) => { setTimeout( res, 5 ); });
 		}
 

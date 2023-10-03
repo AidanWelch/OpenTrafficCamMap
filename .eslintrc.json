@@ -31,6 +31,7 @@
 		"comma-dangle": ["error", "never"],
 		"comma-style": "error",
 		"space-in-parens": ["error", "always", {"exceptions": ["{}"]}],
+		"space-before-blocks": "error",
 		"no-else-return": "error",
 		"prefer-object-spread": "error",
 		"arrow-spacing": "error",

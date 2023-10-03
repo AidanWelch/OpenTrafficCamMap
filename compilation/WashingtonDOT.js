@@ -25,7 +25,7 @@ class Camera {
 		};
 		this.url = cam.attributes.ImageURL;
 		this.encoding = 'JPEG';
-		if ( cam.attributes.CompassDirection !== null && cam.attributes.CompassDirection !== 'B' ){
+		if ( cam.attributes.CompassDirection !== null && cam.attributes.CompassDirection !== 'B' ) {
 			this.direction = cam.attributes.CompassDirection;
 		}
 
@@ -34,22 +34,22 @@ class Camera {
 	}
 }
 
-function compile ( data ){
-	if ( !cameras.Washington ){
+function compile ( data ) {
+	if ( !cameras.Washington ) {
 		cameras.Washington = {};
 	}
 
-	for ( const cam of data.features ){
-		if ( cam.attributes.ImageURL !== null && cam.attributes.ImageURL.includes( 'images.wsdot.wa.gov' ) ){
+	for ( const cam of data.features ) {
+		if ( cam.attributes.ImageURL !== null && cam.attributes.ImageURL.includes( 'images.wsdot.wa.gov' ) ) {
 			const urlArr = cam.attributes.ImageURL.split( '/' );
 			const region = urlArr[3].toLowerCase();
-			if ( !cameras.Washington[region] ){
+			if ( !cameras.Washington[region] ) {
 				cameras.Washington[region] = [];
 			}
 
 			cameras.Washington[region].push( new Camera( cam ) );
 		} else {
-			if ( !cameras.Washington.other ){
+			if ( !cameras.Washington.other ) {
 				cameras.Washington.other = [];
 			}
 

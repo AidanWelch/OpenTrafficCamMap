@@ -31,26 +31,26 @@ class Camera {
 	}
 }
 
-function PushCams ( cam, region ){
-	for ( const icam of cam.properties.Cameras ){
+function PushCams ( cam, region ) {
+	for ( const icam of cam.properties.Cameras ) {
 		cameras['North Dakota'][region].push( new Camera( cam, icam ) );
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras['North Dakota'] ){
+function Compile ( data ) {
+	if ( !cameras['North Dakota'] ) {
 		cameras['North Dakota'] = {};
 	}
 
-	for ( const cam of data.features ){
-		if ( cam.properties.Region !== null ){
-			if ( !cameras['North Dakota'][cam.properties.Region] ){
+	for ( const cam of data.features ) {
+		if ( cam.properties.Region !== null ) {
+			if ( !cameras['North Dakota'][cam.properties.Region] ) {
 				cameras['North Dakota'][cam.properties.Region] = [];
 			}
 
 			PushCams( cam, cam.properties.Region );
 		} else {
-			if ( !cameras['North Dakota'].other ){
+			if ( !cameras['North Dakota'].other ) {
 				cameras['North Dakota'].other = [];
 			}
 

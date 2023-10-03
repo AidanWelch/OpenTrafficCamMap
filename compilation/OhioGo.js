@@ -31,17 +31,17 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Ohio ){
+function Compile ( data ) {
+	if ( !cameras.Ohio ) {
 		cameras.Ohio = {};
 	}
 
-	for ( const cam of data ){
-		if ( !cameras.Ohio.other ){
+	for ( const cam of data ) {
+		if ( !cameras.Ohio.other ) {
 			cameras.Ohio.other = [];
 		}
 
-		for ( let i = 0; i < cam.Cameras.length; i++ ){
+		for ( let i = 0; i < cam.Cameras.length; i++ ) {
 			cameras.Ohio.other.push( new Camera( cam, cam.Cameras[i].LargeURL, ( cam.Cameras[i].Direction === 'PTZ' ) ? null : cam.Cameras[i].Direction ) );
 		}
 	}

@@ -11,8 +11,8 @@ const test_cam = cameras.Tennessee.Nashville.find( cam => cam.format === 'M3U8' 
 const video_file = fs.createWriteStream( `${test_cam.location.description.replace( / /g, '_' ).replace( /\//g, ']' )
 	.replace( /\./g, '' )}.mp4` );
 
-( async function (){
-	for ( let i = 0; i < 5; i++ ){
+( async function () {
+	for ( let i = 0; i < 5; i++ ) {
 		await GetPlaylist( test_cam.url );
 		await new Promise( ( resolve, _ ) => setTimeout( () => { resolve(); }, 14000 ) );
 	}
@@ -20,7 +20,7 @@ const video_file = fs.createWriteStream( `${test_cam.location.description.replac
 	video_file.end();
 })();
 
-function GetPlaylist ( url ){
+function GetPlaylist ( url ) {
 	return new Promise( ( resolve, reject ) => {
 		http.request( url, ( res ) => {
 			let data = '';
@@ -40,7 +40,7 @@ function GetPlaylist ( url ){
 	});
 }
 
-function GetChunklist ( data ){
+function GetChunklist ( data ) {
 	return new Promise( ( resolve, reject ) => {
 		http.request( test_cam.url.slice( 0, -13 ) + data.slice( data.indexOf( 'chunklist' ), -1 ), ( res ) => {
 			let data = '';
@@ -52,12 +52,12 @@ function GetChunklist ( data ){
 			res.on( 'end', () => {
 				const lines = data.split( '\n' );
 				let unloaded_chunks = 0;
-				for ( const line of lines ){
-					if ( line[0] !== '#' ){
+				for ( const line of lines ) {
+					if ( line[0] !== '#' ) {
 						unloaded_chunks++;
 						GetChunk( line ).then( () => {
 							unloaded_chunks--;
-							if ( !unloaded_chunks ){
+							if ( !unloaded_chunks ) {
 								resolve();
 							}
 						});
@@ -72,7 +72,7 @@ function GetChunklist ( data ){
 	});
 }
 
-function GetChunk ( chunk_name ){
+function GetChunk ( chunk_name ) {
 	return new Promise( ( resolve, reject ) => {
 		http.request( test_cam.url.slice( 0, -13 ) + chunk_name, ( res ) => {
 			res.setEncoding( 'binary' );

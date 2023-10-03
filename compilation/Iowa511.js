@@ -42,12 +42,12 @@ class Camera {
 	}
 }
 
-function compile ( data ){
-	if ( !cameras.Iowa ){
+function compile ( data ) {
+	if ( !cameras.Iowa ) {
 		cameras.Iowa = {};
 	}
 
-	for ( const cam of data.mapFeatures ){
+	for ( const cam of data.mapFeatures ) {
 		const tooltip = cam.tooltip;
 		for ( const camView of cam.views ) {
 			cam.imageUrl = camView.category === 'VIDEO' ? buildCamUrl( camView.url ) : camView.url;
@@ -55,17 +55,17 @@ function compile ( data ){
 			cam.encoding = camView.category === 'VIDEO' ? 'H.264' : 'JPEG';
 			cam.format = camView.category === 'VIDEO' ? 'M3U8' : 'IMAGE_STREAM';
 
-			if ( tooltip !== null && ( tooltip.startsWith( 'I-' ) || tooltip.startsWith( 'I ' ) || tooltip.startsWith( 'US ' ) || tooltip.startsWith( 'IA ' ) ) ){
+			if ( tooltip !== null && ( tooltip.startsWith( 'I-' ) || tooltip.startsWith( 'I ' ) || tooltip.startsWith( 'US ' ) || tooltip.startsWith( 'IA ' ) ) ) {
 				const urlArr = tooltip.split( ':' );
 				let region = urlArr[0];
 				region = region.replace( ' ', '-' );
-				if ( !cameras.Iowa[region] ){
+				if ( !cameras.Iowa[region] ) {
 					cameras.Iowa[region] = [];
 				}
 
 				cameras.Iowa[region].push( new Camera( cam ) );
 			} else {
-				if ( !cameras.Iowa.other ){
+				if ( !cameras.Iowa.other ) {
 					cameras.Iowa.other = [];
 				}
 
@@ -77,7 +77,7 @@ function compile ( data ){
 	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }
 
-function buildCamUrl ( url ){
+function buildCamUrl ( url ) {
 	const camId = url.substring( url.lastIndexOf( '/thumbs/' ) + 8, url.lastIndexOf( '.flv.jpg' ) );
 	return 'https://iowadotsfs1.us-east-1.skyvdn.com/rtplive/' + camId + '/playlist.m3u8';
 }

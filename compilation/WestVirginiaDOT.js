@@ -16,7 +16,7 @@ http.request( 'http://wv511.org/rest/unifiedEntityService/ids', ( res ) => {
 	});
 }).end();
 //Someone please explain to me why WV did it this way...
-function RequestById ( ids ){
+function RequestById ( ids ) {
 	const postData = `{"com.orci.opentms.web.public511.components.camera.shared.data.CameraBean":${JSON.stringify( ids.result[5].ids )}}`;
 	const options = {
 		host: 'wv511.org',
@@ -61,27 +61,27 @@ class Camera {
 }
 
 
-function Compile ( data ){
-	if ( !cameras['West Virginia'] ){
+function Compile ( data ) {
+	if ( !cameras['West Virginia'] ) {
 		cameras['West Virginia'] = {};
 	}
 
-	for ( const cam of data.changes['com.orci.opentms.web.public511.components.camera.shared.data.CameraBean'].changes ){
+	for ( const cam of data.changes['com.orci.opentms.web.public511.components.camera.shared.data.CameraBean'].changes ) {
 		const region = ( () => {
 			let possible_region = 'Entire State';
-			for ( const region_object of cam.entity.regions ){
-				if ( possible_region === 'Entire State' ){
+			for ( const region_object of cam.entity.regions ) {
+				if ( possible_region === 'Entire State' ) {
 					possible_region = region_object.name;
 				}
 			}
 
-			if ( possible_region === 'Entire State' ){
+			if ( possible_region === 'Entire State' ) {
 				return 'other';
 			}
 
 			return possible_region;
 		})();
-		if ( !cameras['West Virginia'][region] ){
+		if ( !cameras['West Virginia'][region] ) {
 			cameras['West Virginia'][region] = [];
 		}
 

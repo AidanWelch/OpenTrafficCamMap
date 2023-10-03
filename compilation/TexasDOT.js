@@ -47,23 +47,23 @@ class Camera {
 	}
 }
 
-async function compile ( data ){
+async function compile ( data ) {
 	const regions = new Map();
-	for ( let i = 0; i < data.length; i++ ){
-		if ( /^[A-Z][A-Z][A-Z]$/.test( data[i] ) ){
+	for ( let i = 0; i < data.length; i++ ) {
+		if ( /^[A-Z][A-Z][A-Z]$/.test( data[i] ) ) {
 			regions.set( data[i], data[i+1] );
 		}
 	}
 
 	const requests = [];
 
-	if ( !cameras.Texas ){
+	if ( !cameras.Texas ) {
 		cameras.Texas = {};
 	}
 
 	regions.forEach( ( name, key, _ ) => {
 		requests.push( new Promise( ( resolve, reject ) => {
-			if ( !cameras.Texas[name] ){
+			if ( !cameras.Texas[name] ) {
 				cameras.Texas[name] = [];
 			}
 
@@ -94,11 +94,11 @@ async function compile ( data ){
 	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }
 
-function compileRegion ( data ){
+function compileRegion ( data ) {
 	const cams = [];
-	for ( let i = 0; i < data.length; i++ ){
-		if ( /__/.test( data[i] ) ){ //This is possibly the dumbest thing I've ever written
-			if ( data[i + 1] === 'Device Online' ){
+	for ( let i = 0; i < data.length; i++ ) {
+		if ( /__/.test( data[i] ) ) { //This is possibly the dumbest thing I've ever written
+			if ( data[i + 1] === 'Device Online' ) {
 				cams.push( new Camera( data[i], data[i+9], data[i-1], parseInt( data[i+3] )/1000000, parseInt( data[i+4] )/1000000 ) );
 			}
 		}

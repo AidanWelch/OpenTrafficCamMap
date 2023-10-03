@@ -33,13 +33,13 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Nevada ){
+function Compile ( data ) {
+	if ( !cameras.Nevada ) {
 		cameras.Nevada = {};
 	}
 
-	for ( const cam of data.cameras.camera ){
-		if ( !cameras.Nevada.other ){
+	for ( const cam of data.cameras.camera ) {
+		if ( !cameras.Nevada.other ) {
 			cameras.Nevada.other = [];
 		}
 

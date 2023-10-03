@@ -30,20 +30,20 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Tennessee ){
+function Compile ( data ) {
+	if ( !cameras.Tennessee ) {
 		cameras.Tennessee = {};
 	}
 
-	for ( const cam of data.actions ){
-		if ( cam.dataItem.jurisdiction !== null ){
-			if ( !cameras.Tennessee[cam.dataItem.jurisdiction] ){
+	for ( const cam of data.actions ) {
+		if ( cam.dataItem.jurisdiction !== null ) {
+			if ( !cameras.Tennessee[cam.dataItem.jurisdiction] ) {
 				cameras.Tennessee[cam.dataItem.jurisdiction] = [];
 			}
 
 			cameras.Tennessee[cam.dataItem.jurisdiction].push( new Camera( cam ) );
 		} else {
-			if ( !cameras.Tennessee.other ){
+			if ( !cameras.Tennessee.other ) {
 				cameras.Tennessee.other = [];
 			}
 

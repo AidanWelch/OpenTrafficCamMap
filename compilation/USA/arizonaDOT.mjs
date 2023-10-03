@@ -87,7 +87,7 @@ const options = {
 class Camera {
 	constructor ( cam, url, direction, description ) {
 		this.description = description.trim();
-		if ( direction.length !== 0 ){
+		if ( direction.length !== 0 ) {
 			this.direction = standardizeDirection( direction );
 		}
 
@@ -99,16 +99,16 @@ class Camera {
 	}
 }
 
-async function compile (){
+async function compile () {
 	const data = await ( await fetch( 'https://az511.gov/List/GetData/Cameras', options ) ).json();
 	const cameras = {};
-	for ( const cam of data.data ){
+	for ( const cam of data.data ) {
 		const county = cam.county ?? 'other';
 		if ( county in cameras === false ) {
 			cameras[county] = [];
 		}
 
-		for ( let i = 0; i < cam.groupedIds.length; i++ ){
+		for ( let i = 0; i < cam.groupedIds.length; i++ ) {
 			cameras[county].push( new Camera( cam, `https://az511.gov/map/Cctv/${cam.groupedIds[i]}`, cam.directionDescriptions[i], cam.description1[i] ) );
 		}
 	}

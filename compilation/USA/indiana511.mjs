@@ -38,7 +38,7 @@ async function compile () {
 	// cameras seem to start at 400 and end somewhere around 100000, requests too large are rejected
 	const promises = [];
 	const step = 6000; // 6000 is roughly the max before being rejected
-	for ( let start = 0; start < 100000 ; start += step ){
+	for ( let start = 0; start < 100000 ; start += step ) {
 		promises.push( ( async () => {
 			query[0].variables.input.nonClusterableUris = [];
 			for ( let i = start; i < start + step; i++ ) {
@@ -58,12 +58,12 @@ async function compile () {
 				body: JSON.stringify( query )
 			};
 			const [ { data } ] = await ( await fetch( 'https://511in.org/api/graphql', options ) ).json();
-			for ( const camGroup of data.mapFeaturesQuery.mapFeatures ){
+			for ( const camGroup of data.mapFeaturesQuery.mapFeatures ) {
 				if ( camGroup.uri.includes( 'cluster' ) ) {
 					continue;
 				}
 
-				for ( const view of camGroup.views ){
+				for ( const view of camGroup.views ) {
 					if ( view.url === undefined || view.url === null ) {
 						continue;
 					}

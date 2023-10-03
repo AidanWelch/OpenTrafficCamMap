@@ -46,23 +46,23 @@ class Camera {
 	}
 }
 
-function compile ( data ){
-	if ( !cameras.Kansas ){
+function compile ( data ) {
+	if ( !cameras.Kansas ) {
 		cameras.Kansas = {};
 	}
 
-	for ( const cam of data.mapFeatures ){
+	for ( const cam of data.mapFeatures ) {
 		const tooltip = cam.tooltip.replace( 'DMS_', '' );
-		if ( tooltip !== null && ( tooltip.startsWith( 'I-' ) || tooltip.startsWith( 'US-' ) || tooltip.startsWith( 'M-' ) || tooltip.startsWith( 'K-' ) ) ){
+		if ( tooltip !== null && ( tooltip.startsWith( 'I-' ) || tooltip.startsWith( 'US-' ) || tooltip.startsWith( 'M-' ) || tooltip.startsWith( 'K-' ) ) ) {
 			const urlArr = tooltip.split( ' ' );
 			const region = urlArr[0];
-			if ( !cameras.Kansas[region] ){
+			if ( !cameras.Kansas[region] ) {
 				cameras.Kansas[region] = [];
 			}
 
 			cameras.Kansas[region].push( new Camera( cam ) );
 		} else {
-			if ( !cameras.Kansas.other ){
+			if ( !cameras.Kansas.other ) {
 				cameras.Kansas.other = [];
 			}
 

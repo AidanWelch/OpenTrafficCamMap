@@ -45,7 +45,7 @@ class Camera {
 	}
 }
 
-function getURLandPush ( cam ){
+function getURLandPush ( cam ) {
 	return new Promise( ( resolve, reject ) => {
 		const info_url = cam.framehtml.slice( cam.framehtml.indexOf( 'src="' ) + 5, cam.framehtml.indexOf( '" >' ) );
 		https.request( 'https://www.mdottraffic.com/' + info_url, ( res ) => {
@@ -71,14 +71,14 @@ function getURLandPush ( cam ){
 	});
 }
 
-async function Compile ( data ){
+async function Compile ( data ) {
 	const requests = [];
-	if ( !cameras.Mississippi ){
+	if ( !cameras.Mississippi ) {
 		cameras.Mississippi = {};
 	}
 
-	for ( const cam of data.d ){
-		if ( !cameras.Mississippi.other ){
+	for ( const cam of data.d ) {
+		if ( !cameras.Mississippi.other ) {
 			cameras.Mississippi.other = [];
 		}
 

@@ -58,23 +58,23 @@ function getDescription ( cam, queue ) {
 	});
 }
 
-async function Compile ( data ){
+async function Compile ( data ) {
 	//Max of 100 requests per minute, 20 per second.  This system is essentially the same as Florida's probably the same company
 	let total_this_minute = 0;
 	let total_this_second = 0;
 	let minutes = 0;
 	setInterval( () => { total_this_second = 0; }, 1000 );
 	setInterval( () => { total_this_minute = 0; minutes++; console.log( minutes + ' minutes' ); }, 60000 );
-	if ( !cameras.Louisiana ){
+	if ( !cameras.Louisiana ) {
 		cameras.Louisiana = {};
 	}
 
-	for ( const [ i, cam ] of data.item2.entries() ){
-		if ( !cameras.Louisiana.other ){
+	for ( const [ i, cam ] of data.item2.entries() ) {
+		if ( !cameras.Louisiana.other ) {
 			cameras.Louisiana.other = [];
 		}
 
-		while ( total_this_second > 15 || total_this_minute > 90 ){
+		while ( total_this_second > 15 || total_this_minute > 90 ) {
 			await new Promise( ( res ) => { setTimeout( res, 5 ); });
 		}
 

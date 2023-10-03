@@ -31,26 +31,26 @@ class Camera {
 	}
 }
 
-async function Compile ( data ){
-	if ( !cameras.Maryland ){
+async function Compile ( data ) {
+	if ( !cameras.Maryland ) {
 		cameras.Maryland = {};
 	}
 
 	let requests = [];
-	for ( const cam of data ){
-		if ( requests.length > 25 ){ // This had to be done because these requests take a long time, about a second each
+	for ( const cam of data ) {
+		if ( requests.length > 25 ) { // This had to be done because these requests take a long time, about a second each
 			await Promise.all( requests );
 			requests = [];
 		}
 
-		if ( cam.cameraCategories[0] ){
-			if ( !cameras.Maryland[cam.cameraCategories[0]] ){
+		if ( cam.cameraCategories[0] ) {
+			if ( !cameras.Maryland[cam.cameraCategories[0]] ) {
 				cameras.Maryland[cam.cameraCategories[0]] = [];
 			}
 
 			requests.push( GetURLAndPush( cam, cam.cameraCategories[0] ) );
 		} else {
-			if ( !cameras.Maryland.other ){
+			if ( !cameras.Maryland.other ) {
 				cameras.Maryland.other = [];
 			}
 
@@ -62,7 +62,7 @@ async function Compile ( data ){
 	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );
 }
 
-function GetURLAndPush ( cam, county ){
+function GetURLAndPush ( cam, county ) {
 	return new Promise( ( resolve, reject ) => {
 		const req = https.request( cam.publicVideoURL, ( res ) => {
 			let data = '';

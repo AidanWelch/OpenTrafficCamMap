@@ -31,7 +31,7 @@ class Camera {
 	}
 }
 
-function compileCamera ( div ){
+function compileCamera ( div ) {
 	return new Promise( ( resolve, reject ) => {
 		const cam = {};
 		const a = div.firstChild;
@@ -56,10 +56,10 @@ function compileCamera ( div ){
 
 				let cams_matched = true;
 				let i = 0;
-				while ( cams_matched ){
+				while ( cams_matched ) {
 					const cam_img = data.querySelector( `#cam-${i}-img` );
 					i++;
-					if ( cam_img ){
+					if ( cam_img ) {
 						cameras.Minnesota.other.push( new Camera( cam, cam_img.getAttribute( 'src' ) ) );
 					} else {
 						cams_matched = false;
@@ -76,15 +76,15 @@ function compileCamera ( div ){
 	});
 }
 
-async function Compile ( data ){
-	if ( !cameras.Minnesota ){
+async function Compile ( data ) {
+	if ( !cameras.Minnesota ) {
 		cameras.Minnesota = {};
 	}
 
 	const divs = data.querySelectorAll( '#j_idt115' );
 	const promises = [];
-	for ( const div of divs ){
-		if ( !cameras.Minnesota.other ){
+	for ( const div of divs ) {
+		if ( !cameras.Minnesota.other ) {
 			cameras.Minnesota.other = [];
 		}
 

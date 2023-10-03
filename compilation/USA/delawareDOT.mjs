@@ -12,12 +12,12 @@ class Camera {
 	}
 }
 
-async function compile (){
+async function compile () {
 	const cameras = {};
 	const data = await ( await fetch( 'https://tmc.deldot.gov/json/videocamera.json' ) ).json();
-	for ( const cam of data.videoCameras ){
+	for ( const cam of data.videoCameras ) {
 		const county = cam.county || 'other';
-		if ( county in cameras === false ){
+		if ( county in cameras === false ) {
 			cameras[county] = [];
 		}
 

@@ -3,9 +3,9 @@ const fs = require( 'fs' );
 
 const cameras = JSON.parse( fs.readFileSync( '../../cameras/USA.json' ) );
 let count = 0;
-for ( const state in cameras ){
-	for ( const county in cameras[state] ){
-		for ( const camera in cameras[state][county] ){
+for ( const state in cameras ) {
+	for ( const county in cameras[state] ) {
+		for ( const camera in cameras[state][county] ) {
 			count++;
 		}
 	}

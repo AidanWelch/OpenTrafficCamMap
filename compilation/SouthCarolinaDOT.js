@@ -48,20 +48,20 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras['South Carolina'] ){
+function Compile ( data ) {
+	if ( !cameras['South Carolina'] ) {
 		cameras['South Carolina'] = {};
 	}
 
-	for ( const cam of data.features ){
-		if ( cam.county !== null ){
-			if ( !cameras['South Carolina'][cam.properties.region] ){
+	for ( const cam of data.features ) {
+		if ( cam.county !== null ) {
+			if ( !cameras['South Carolina'][cam.properties.region] ) {
 				cameras['South Carolina'][cam.properties.region] = [];
 			}
 
 			cameras['South Carolina'][cam.properties.region].push( new Camera( cam ) );
 		} else {
-			if ( !cameras['South Carolina'].other ){
+			if ( !cameras['South Carolina'].other ) {
 				cameras['South Carolina'].other = [];
 			}
 

@@ -3,7 +3,7 @@ import standardizeDirection from '../utils/standardizeDirection.cjs';
 class Camera {
 	constructor ( cam ) {
 		this.description = cam.location.locationName.trim();
-		if ( cam.location.direction.length !== 0 ){
+		if ( cam.location.direction.length !== 0 ) {
 			this.direction = standardizeDirection( cam.location.direction );
 		}
 
@@ -28,7 +28,7 @@ class Camera {
 	}
 }
 
-async function compile (){
+async function compile () {
 	const cameras = {};
 	const promises = [];
 	for ( let i = 1; i <= 12; i++ ) {

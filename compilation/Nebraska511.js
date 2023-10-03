@@ -39,7 +39,7 @@ class Camera {
 			latitude: cam.bbox[1],
 			longitude: cam.bbox[0]
 		};
-		if ( cam.direction !== null ){
+		if ( cam.direction !== null ) {
 			this.direction = cam.direction;
 		}
 
@@ -50,12 +50,12 @@ class Camera {
 	}
 }
 
-function compile ( data ){
-	if ( !cameras.Nebraska ){
+function compile ( data ) {
+	if ( !cameras.Nebraska ) {
 		cameras.Nebraska = {};
 	}
 
-	for ( const cam of data.mapFeatures ){
+	for ( const cam of data.mapFeatures ) {
 		for ( const camView of cam.views ) {
 			const tooltip = cam.tooltip;
 			cam.imageUrl = camView.url;
@@ -65,17 +65,17 @@ function compile ( data ){
 			const direction = cam.title.substring( cam.title.lastIndexOf( ':' ), cam.title.length );
 			if ( direction.includes( 'North' ) || direction.includes( 'north' ) || direction.includes( 'NB' ) ) { cam.direction = 'N'; } else if ( direction.includes( 'East' ) || direction.includes( 'east' ) || direction.includes( 'EB' ) ) { cam.direction = 'E'; } else if ( direction.includes( 'South' ) || direction.includes( 'south' ) || direction.includes( 'SB' ) ) { cam.direction = 'S'; } else if ( direction.includes( 'West' ) || direction.includes( 'west' ) || direction.includes( 'WB' ) ) { cam.direction = 'W'; }
 
-			if ( tooltip !== null && ( tooltip.startsWith( 'I-' ) || tooltip.startsWith( 'I ' ) || tooltip.startsWith( 'US ' ) || tooltip.startsWith( 'NE ' ) ) ){
+			if ( tooltip !== null && ( tooltip.startsWith( 'I-' ) || tooltip.startsWith( 'I ' ) || tooltip.startsWith( 'US ' ) || tooltip.startsWith( 'NE ' ) ) ) {
 				const urlArr = tooltip.split( ':' );
 				let region = urlArr[0];
 				region = region.replace( ' ', '-' );
-				if ( !cameras.Nebraska[region] ){
+				if ( !cameras.Nebraska[region] ) {
 					cameras.Nebraska[region] = [];
 				}
 
 				cameras.Nebraska[region].push( new Camera( cam ) );
 			} else {
-				if ( !cameras.Nebraska.other ){
+				if ( !cameras.Nebraska.other ) {
 					cameras.Nebraska.other = [];
 				}
 

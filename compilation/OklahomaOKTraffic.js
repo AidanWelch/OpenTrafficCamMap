@@ -38,8 +38,8 @@ class Camera {
 	}
 }
 
-function compile ( data ){
-	if ( !cameras['Oklahoma'] ){
+function compile ( data ) {
+	if ( !cameras['Oklahoma'] ) {
 		cameras['Oklahoma'] = {};
 	}
 
@@ -47,9 +47,9 @@ function compile ( data ){
 	const delayIncrement = 1000;
 	let delay = 0;
 
-	for ( const pole of data ){
+	for ( const pole of data ) {
 		//The reverse look up could be done here since the cameras on the pole will have the same lat/lng
-		for ( const mapCam of pole.mapCameras ){
+		for ( const mapCam of pole.mapCameras ) {
 			const tmpCam = { ...mapCam };
 			//Email address is required parameter
 			promises.push( new Promise( ( resolve ) => setTimeout( resolve, delay ) ).then( () => getLocationData({ reverseUrl: 'https://nominatim.openstreetmap.org/reverse?format=json&lat=' + tmpCam.latitude + '&lon=' + tmpCam.longitude + '&email=otc@armchairresearch.org', ...tmpCam }) ) );
@@ -74,14 +74,14 @@ const getLocationData = ( cam ) => {
 
 		res.on( 'end', () => {
 			const location = JSON.parse( data );
-			if ( !!location.address && !!location.address.county ){
-				if ( !cameras['Oklahoma'][location.address.county] ){
+			if ( !!location.address && !!location.address.county ) {
+				if ( !cameras['Oklahoma'][location.address.county] ) {
 					cameras['Oklahoma'][location.address.county] = [];
 				}
 
 				cameras.Oklahoma[location.address.county].push( new Camera( cam ) );
 			} else {
-				if ( !cameras['Oklahoma'].other ){
+				if ( !cameras['Oklahoma'].other ) {
 					cameras['Oklahoma'].other = [];
 				}
 

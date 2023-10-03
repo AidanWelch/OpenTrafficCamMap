@@ -30,20 +30,20 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras['New Mexico'] ){
+function Compile ( data ) {
+	if ( !cameras['New Mexico'] ) {
 		cameras['New Mexico'] = {};
 	}
 
-	for ( const cam of data.cameraInfo ){
-		if ( cam.grouping !== null ){
-			if ( !cameras['New Mexico'][cam.grouping] ){
+	for ( const cam of data.cameraInfo ) {
+		if ( cam.grouping !== null ) {
+			if ( !cameras['New Mexico'][cam.grouping] ) {
 				cameras['New Mexico'][cam.grouping] = [];
 			}
 
 			cameras['New Mexico'][cam.grouping].push( new Camera( cam ) );
 		} else {
-			if ( !cameras['New Mexico'].other ){
+			if ( !cameras['New Mexico'].other ) {
 				cameras['New Mexico'].other = [];
 			}
 

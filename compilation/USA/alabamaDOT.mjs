@@ -5,7 +5,7 @@ class Camera {
 		this.description = cam.primaryRoad.trim() + ' ' + cam.crossStreet.trim();
 		this.latitude = cam.latitude;
 		this.longitude = cam.longitude;
-		if ( cam.direction.length !== 0 ){
+		if ( cam.direction.length !== 0 ) {
 			this.direction = standardizeDirection( cam.direction );
 		}
 
@@ -18,13 +18,13 @@ class Camera {
 	}
 }
 
-async function compile ( fetchinit ){
+async function compile ( fetchinit ) {
 	const data = await ( await fetch( 'https://algotraffic.com/api/v1/layers/cameras?null=', fetchinit ) ).json();
 	const cameras = {};
 	for ( let j = 0; j < data.length; j++ ) {
 		const camArr = data[j].entries;
 
-		for ( const cam of camArr ){
+		for ( const cam of camArr ) {
 			const county = cam.organizationId ?? 'other';
 			if ( county in cameras === false ) {
 				cameras[county] = [];

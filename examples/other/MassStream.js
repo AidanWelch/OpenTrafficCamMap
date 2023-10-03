@@ -4,18 +4,18 @@ const http = require( 'http' );
 
 const cameras = JSON.parse( fs.readFileSync( '../../cameras/USA.json' ) );
 
-if ( !fs.existsSync( './shots' ) ){
+if ( !fs.existsSync( './shots' ) ) {
 	fs.mkdirSync( './shots' );
 }
 
 for ( const county in cameras.Kentucky ) {
-	if ( !fs.existsSync( `./shots/${county}` ) ){
+	if ( !fs.existsSync( `./shots/${county}` ) ) {
 		fs.mkdirSync( `./shots/${county}` );
 	}
 
-	( async function ( county ){
+	( async function ( county ) {
 		for ( var cam of cameras.Kentucky[county] ) {
-			if ( cam.url ){
+			if ( cam.url ) {
 				http.request( cam.url, ( res ) => {
 					let data = '';
 					res.setEncoding( 'binary' );

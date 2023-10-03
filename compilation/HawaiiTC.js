@@ -31,13 +31,13 @@ class Camera {
 	}
 }
 
-function Compile ( data ){
-	if ( !cameras.Hawaii ){
+function Compile ( data ) {
+	if ( !cameras.Hawaii ) {
 		cameras.Hawaii = {};
 	}
 
-	for ( const cam of data.CameraList.Camera ){
-		if ( !cameras.Hawaii.other ){
+	for ( const cam of data.CameraList.Camera ) {
+		if ( !cameras.Hawaii.other ) {
 			cameras.Hawaii.other = [];
 		}
 
