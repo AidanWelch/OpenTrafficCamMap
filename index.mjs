@@ -8,11 +8,13 @@ const dir = path.dirname( fileURLToPath( import.meta.url ) );
 compileUSA().then( res => {
 	const camPath = path.join( dir, 'cameras', 'USA.json' );
 	const oldCameras = JSON.parse( readFileSync( camPath ) );
+	let camTotal = 0;
 	for ( const state in { ...oldCameras, ...res }) {
 		let difference = 0;
 		if ( state in res ) {
 			for ( const county in res[state] ) {
 				difference += res[state][county].length;
+				camTotal += res[state][county].length;
 			}
 		}
 
@@ -28,4 +30,13 @@ compileUSA().then( res => {
 	}
 
 	writeFileSync( camPath, JSON.stringify( res ) );
+
+	const readmePath = path.join( dir, 'README.md' );
+	let readme = readFileSync( readmePath, 'utf8' );
+
+	readme = readme.split( '\n' );
+	readme[1] = `A crowdsourced database of ${camTotal} traffic cameras.`;
+	readme = readme.join( '\n' );
+
+	writeFileSync( readmePath, readme );
 });
