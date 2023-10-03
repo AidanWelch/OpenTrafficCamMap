@@ -3,7 +3,8 @@ A crowdsourced database of 32221 traffic cameras.
 
 [Checkout the interactive map!](http://otc.armchairresearch.org/map)
 
-⚠️ USA.json and this whole project will soon having breaking format changes. ⚠️
+⚠️ USA.json has had a breaking change as this project is being modernized. ⚠️
+[You can find the previous data in the v1 branch](https://github.com/AidanWelch/OpenTrafficCamMap/tree/v1)
 
 ## Camera list
 Cameras will be stored in cameras/[Alpha-3 Country Code].json with the following schema.  All information in brackets should be the relevant input.
@@ -14,7 +15,7 @@ The list can be compiled to from transport authority provided lists or it can ad
         "[county or standardized regional breakdown, this should not be skipped but if not applicable or unknown use 'other']": [
             {
 				"description": "[address of camera or best description of location]",
-				"direction": "[the cardinal direction the camera is facing, optional and can be unexpected string]",
+				"direction": "[the cardinal direction the camera is facing, optional, is in the format of 'N', 'NE', 'SW', etc]",
 				"latitude": "[the latitude of the camera]",
 				"longitude": "[the longitude of the camera]",
                 "url": "[url of stream]",
@@ -56,10 +57,11 @@ The compilation folder contains scripts for compiling from sources listed in the
 ## FAQ
 
 ### Why are there traffic cameras in the Gulf of Guinea?
-Because for various reasons transportation, or other, authorities of traffic cameras mistakenly or intentionally put a camera in their database at (0, 0); any camera there should be assumed to be innaccurate. 
+Because for various reasons transportation, or other, authorities of traffic cameras mistakenly or intentionally put a camera in their database at (0, 0); any camera there should be assumed to be innaccurate.
 
 ### Will any of the fields change?
-"https://raw.githubusercontent.com/AidanWelch/OpenTrafficCamMap/master/cameras/[country].json" will not lose any fields, however it may gain some.
+"https://raw.githubusercontent.com/AidanWelch/OpenTrafficCamMap/master/cameras/[country].json" yes probably!  This project
+is still in development so please clone it if you want unchanging data.
 
 ### What about when multiple sources for a camera are avaiable?
 

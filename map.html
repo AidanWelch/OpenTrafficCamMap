@@ -90,28 +90,30 @@
 
             var hls;
             function GetMarker(cam, county){
-                let m = L.marker([cam.location.latitude, cam.location.longitude]);
+                let m = L.marker([cam.latitude, cam.longitude]);
                 var cam_view = (() => {
                     if(cam.url){
-                        if(cam.format === "IMAGE_STREAM"){
-                            return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
-                        } else if (cam.format === "M3U8"){
-                            return '<video id="video" width="320" height="240" autoplay muted></video>';
-                        } else if (cam.format === "UNIQUE_TEXASDOT"){
-                            return `The Texas DOT has a bizarre system making implementation of the camera on this site very difficult.
-                            So, this should redirect you to a map of Texas by the state DOT that does work: <a href="https://its.txdot.gov/ITS_WEB/FrontEnd/default.html?r=TYL&p=Tyler&t=map">Link</a>`;
-                        } else if (cam.format === "UNIQUE_COLORADODOT"){
-                            return `The Colorado DOT for an unknowable reason implements <a href="https://en.wikipedia.org/wiki/Digital_rights_management">DRM</a> making streaming on this site very difficult.
-                            So, this should redirect you to a map of Colorado by the state DOT that does work: <a href="https://www.cotrip.org/map.htm#/default">Link</a>`;
-                        } else {
-                            return "An error has occurred";
-                        }
+						switch( cam.format ) {
+							case "IMAGE_STREAM":
+								return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
+							case "M3U8":
+							case "M3U9":
+								return '<video id="video" width="320" height="240" autoplay muted></video>';
+							case "UNIQUE_TEXASDOT":
+								return `The Texas DOT has a bizarre system making implementation of the camera on this site very difficult.
+									So, this should redirect you to a map of Texas by the state DOT that does work: <a href="https://its.txdot.gov/ITS_WEB/FrontEnd/default.html?r=TYL&p=Tyler&t=map">Link</a>`;
+							case "UNIQUE_COLORADODOT":
+								return `The Colorado DOT for an unknowable reason implements <a href="https://en.wikipedia.org/wiki/Digital_rights_management">DRM</a> making streaming on this site very difficult.
+									So, this should redirect you to a map of Colorado by the state DOT that does work: <a href="https://www.cotrip.org/map.htm#/default">Link</a>`;
+							default:
+								return "An error has occurred";
+						}
                     } else {
                         return "No Image";
                     }
                 })();
-                m = m.bindPopup(cam.location.description + '\n' + cam_view);
-                if(cam.format === "M3U8"){
+                m = m.bindPopup(cam.description + '\n' + cam_view);
+                if(cam.format === "M3U8" || cam.format === "M3U9"){
                     m._url = cam.url
                 }
                 return m;
@@ -130,7 +132,7 @@
                     for(var county in cameras[state]){
                         for(var camera in cameras[state][county]){
                             var cam = cameras[state][county][camera];
-                            if(cam.location.latitude !== undefined && cam.location.longitude !== undefined){
+                            if(cam.latitude !== undefined && cam.longitude !== undefined){
                                 markers.addLayer(GetMarker(cam, county));
                             }    
                         }
@@ -145,7 +147,7 @@
                     for(var county in cameras[state]){
                         for(var i in cameras[state][county]){
                             let cam = cameras[state][county][i];
-                            if(cam.location.latitude && cam.location.longitude){
+                            if(cam.latitude && cam.longitude){
                                 let m = GetMarker(cam, county)
                                     .openPopup();
                                 layer.push(m);
