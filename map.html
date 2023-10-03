@@ -83,7 +83,7 @@
 
             var cameras;
 
-            fetch('https://raw.githubusercontent.com/AidanWelch/OpenTrafficCam/master/cameras/USA.json').then((response) => {return response.json();}).then((data) => {
+            fetch('./cameras/USA.json').then((response) => {return response.json();}).then((data) => {
                 cameras = data;
                 DrawClusterMap();
             });
