@@ -5,7 +5,7 @@
   "main": "index.mjs",
   "scripts": {
 	"start": "node index.mjs",
-    "test": "mocha",
+  "test": "mocha",
 	"lint": "eslint \"**/*{.js,.cjs,.mjs}\"",
 	"fix-lint": "eslint \"**/*{.js,.cjs,.mjs}\" --fix"
   },
