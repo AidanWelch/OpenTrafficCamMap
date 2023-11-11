@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/AidanWelch/OpenTrafficCamMap#readme",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "node-html-parser": "^2.2.1",
     "xml2json": "^0.12.0"
   }
