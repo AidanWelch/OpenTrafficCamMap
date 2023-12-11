@@ -44,7 +44,7 @@ class Camera {
 		this.url = cam.properties.http_url,
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = !cam.properties.active;
+		this.markedForReview = !cam.properties.active;
 	}
 }
 

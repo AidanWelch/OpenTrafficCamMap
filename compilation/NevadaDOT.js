@@ -29,7 +29,7 @@ class Camera {
 		this.url = cam.StreamingURL;
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

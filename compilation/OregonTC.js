@@ -26,7 +26,7 @@ class Camera {
 		this.url = `https://tripcheck.com/RoadCams/cams/${cam.attributes.filename}`;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

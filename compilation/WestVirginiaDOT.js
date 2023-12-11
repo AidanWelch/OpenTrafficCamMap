@@ -56,7 +56,7 @@ class Camera {
 		this.url = cam.entity.iosUrl;
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
@@ -68,18 +68,18 @@ function Compile ( data ) {
 
 	for ( const cam of data.changes['com.orci.opentms.web.public511.components.camera.shared.data.CameraBean'].changes ) {
 		const region = ( () => {
-			let possible_region = 'Entire State';
-			for ( const region_object of cam.entity.regions ) {
-				if ( possible_region === 'Entire State' ) {
-					possible_region = region_object.name;
+			let possibleRegion = 'Entire State';
+			for ( const regionObject of cam.entity.regions ) {
+				if ( possibleRegion === 'Entire State' ) {
+					possibleRegion = regionObject.name;
 				}
 			}
 
-			if ( possible_region === 'Entire State' ) {
+			if ( possibleRegion === 'Entire State' ) {
 				return 'other';
 			}
 
-			return possible_region;
+			return possibleRegion;
 		})();
 		if ( !cameras['West Virginia'][region] ) {
 			cameras['West Virginia'][region] = [];

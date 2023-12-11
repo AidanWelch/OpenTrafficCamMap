@@ -27,7 +27,7 @@ class Camera {
 		this.url = url;
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = !( cam.opStatus === 'OK' );
+		this.markedForReview = !( cam.opStatus === 'OK' );
 	}
 }
 

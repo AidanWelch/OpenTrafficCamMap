@@ -1,6 +1,7 @@
 'use strict';
 const fs = require( 'fs' );
 const https = require( 'https' );
+const request = require( 'request' );
 
 const cameras = JSON.parse( fs.readFileSync( '../cameras/USA.json' ) );
 
@@ -28,8 +29,8 @@ class Camera {
 		this.url = 'https://fl511.com/map/Cctv/' + cam.itemId;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.update_rate = 360000; //I found this after checking one camera its possible it could be different across cameras
-		this.marked_for_review = false;
+		this.updateRate = 360000; //I found this after checking one camera its possible it could be different across cameras
+		this.markedForReview = false;
 	}
 }
 
@@ -62,11 +63,11 @@ function getDescription ( cam, queue ) {
 
 async function Compile ( data ) {
 	//Max of 100 requests per minute, 20 per second.  Yes, that means it takes half an hour
-	let total_this_minute = 0;
-	let total_this_second = 0;
+	let totalThisMinute = 0;
+	let totalThisSecond = 0;
 	let minutes = 0;
-	setInterval( () => { total_this_second = 0; }, 1000 );
-	setInterval( () => { total_this_minute = 0; minutes++; console.log( minutes + ' minutes' ); }, 60000 );
+	setInterval( () => { totalThisSecond = 0; }, 1000 );
+	setInterval( () => { totalThisMinute = 0; minutes++; console.log( minutes + ' minutes' ); }, 60000 );
 	if ( !cameras.Florida ) {
 		cameras.Florida = {};
 	}
@@ -76,12 +77,12 @@ async function Compile ( data ) {
 			cameras.Florida.other = [];
 		}
 
-		while ( total_this_second > 3 || total_this_minute > 90 ) {
+		while ( totalThisSecond > 3 || totalThisMinute > 90 ) {
 			await new Promise( ( res ) => { setTimeout( res, 5 ); });
 		}
 
-		total_this_minute++;
-		total_this_second++;
+		totalThisMinute++;
+		totalThisSecond++;
 		requests.push( getDescription( cam, Math.round( ( i/data.item2.length )*100 ) + '%' ) );
 	}
 

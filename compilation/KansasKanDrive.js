@@ -42,7 +42,7 @@ class Camera {
 		this.url = cam.views[0].url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

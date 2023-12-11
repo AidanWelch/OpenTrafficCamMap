@@ -46,7 +46,7 @@ class Camera {
 		this.url = cam.imageUrl;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

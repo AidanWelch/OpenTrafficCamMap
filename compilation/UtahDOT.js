@@ -19,22 +19,22 @@ https.request( 'https://udottraffic.utah.gov/KmlFile.aspx?kmlFileType=Camera', (
 
 class Camera {
 	constructor ( cam ) {
-		const extended_data = new Map();
+		const extendedData = new Map();
 		for ( let i = 0; i < cam.ExtendedData.SchemaData.SimpleData.length; i++ ) {
-			extended_data.set( cam.ExtendedData.SchemaData.SimpleData[i].name, cam.ExtendedData.SchemaData.SimpleData[i].$t );
+			extendedData.set( cam.ExtendedData.SchemaData.SimpleData[i].name, cam.ExtendedData.SchemaData.SimpleData[i].$t );
 		}
 
 		const coords = cam.Point.coordinates.split( ',' );
 		this.location = {
 			description: cam.name,
-			direction: extended_data.get( 'TrafficDirection' ),
+			direction: extendedData.get( 'TrafficDirection' ),
 			longitude: coords[0],
 			latitude: coords[1]
 		};
-		this.url = extended_data.get( 'ImageUrl' );
-		this.encoding = ( extended_data.get( 'ImageUrl' )[extended_data.get( 'ImageUrl' ).length - 1] === 'g' ) ? 'JPEG' : 'GIF';
+		this.url = extendedData.get( 'ImageUrl' );
+		this.encoding = ( extendedData.get( 'ImageUrl' )[extendedData.get( 'ImageUrl' ).length - 1] === 'g' ) ? 'JPEG' : 'GIF';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

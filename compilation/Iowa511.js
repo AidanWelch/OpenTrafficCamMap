@@ -38,7 +38,7 @@ class Camera {
 		this.url = cam.imageUrl;
 		this.encoding = cam.encoding;
 		this.format = cam.format;
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

@@ -14,6 +14,7 @@ export default async function () {
 		const [ state, compile ] = ( await import( path.join( dir.href, f ) ) ).default;
 		const fetchinit = {};
 		cameras[state] = compile( fetchinit );
+		console.log( `Fetching ${state}` );
 	}
 
 	await Promise.all( Object.keys( cameras ).map( async state => cameras[state] = await cameras[state] ) );

@@ -28,7 +28,7 @@ class Camera {
 		this.url = url;
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
@@ -60,11 +60,11 @@ function getDescription ( cam, queue ) {
 
 async function Compile ( data ) {
 	//Max of 100 requests per minute, 20 per second.  This system is essentially the same as Florida's probably the same company
-	let total_this_minute = 0;
-	let total_this_second = 0;
+	let totalThisMinute = 0;
+	let totalThisSecond = 0;
 	let minutes = 0;
-	setInterval( () => { total_this_second = 0; }, 1000 );
-	setInterval( () => { total_this_minute = 0; minutes++; console.log( minutes + ' minutes' ); }, 60000 );
+	setInterval( () => { totalThisSecond = 0; }, 1000 );
+	setInterval( () => { totalThisMinute = 0; minutes++; console.log( minutes + ' minutes' ); }, 60000 );
 	if ( !cameras.Louisiana ) {
 		cameras.Louisiana = {};
 	}
@@ -74,12 +74,12 @@ async function Compile ( data ) {
 			cameras.Louisiana.other = [];
 		}
 
-		while ( total_this_second > 15 || total_this_minute > 90 ) {
+		while ( totalThisSecond > 15 || totalThisMinute > 90 ) {
 			await new Promise( ( res ) => { setTimeout( res, 5 ); });
 		}
 
-		total_this_minute++;
-		total_this_second++;
+		totalThisMinute++;
+		totalThisSecond++;
 		requests.push( getDescription( cam, Math.round( ( i/data.item2.length )*100 ) + '%' ) );
 	}
 

@@ -6,18 +6,18 @@ const http = require( 'http' );
 
 const cameras = JSON.parse( fs.readFileSync( '../../cameras/USA.json' ) );
 
-const test_cam = cameras.Tennessee.Nashville.find( cam => cam.format === 'M3U8' );
+const testCam = cameras.Tennessee.Nashville.find( cam => cam.format === 'M3U8' );
 
-const video_file = fs.createWriteStream( `${test_cam.location.description.replace( / /g, '_' ).replace( /\//g, ']' )
+const videoFile = fs.createWriteStream( `${testCam.location.description.replace( / /g, '_' ).replace( /\//g, ']' )
 	.replace( /\./g, '' )}.mp4` );
 
 ( async function () {
 	for ( let i = 0; i < 5; i++ ) {
-		await GetPlaylist( test_cam.url );
+		await GetPlaylist( testCam.url );
 		await new Promise( ( resolve, _ ) => setTimeout( () => { resolve(); }, 14000 ) );
 	}
 
-	video_file.end();
+	videoFile.end();
 })();
 
 function GetPlaylist ( url ) {
@@ -42,7 +42,7 @@ function GetPlaylist ( url ) {
 
 function GetChunklist ( data ) {
 	return new Promise( ( resolve, reject ) => {
-		http.request( test_cam.url.slice( 0, -13 ) + data.slice( data.indexOf( 'chunklist' ), -1 ), ( res ) => {
+		http.request( testCam.url.slice( 0, -13 ) + data.slice( data.indexOf( 'chunklist' ), -1 ), ( res ) => {
 			let data = '';
 
 			res.on( 'data', ( chunk ) => {
@@ -51,13 +51,13 @@ function GetChunklist ( data ) {
 
 			res.on( 'end', () => {
 				const lines = data.split( '\n' );
-				let unloaded_chunks = 0;
+				let unloadedChunks = 0;
 				for ( const line of lines ) {
 					if ( line[0] !== '#' ) {
-						unloaded_chunks++;
+						unloadedChunks++;
 						GetChunk( line ).then( () => {
-							unloaded_chunks--;
-							if ( !unloaded_chunks ) {
+							unloadedChunks--;
+							if ( !unloadedChunks ) {
 								resolve();
 							}
 						});
@@ -72,13 +72,13 @@ function GetChunklist ( data ) {
 	});
 }
 
-function GetChunk ( chunk_name ) {
+function GetChunk ( chunkName ) {
 	return new Promise( ( resolve, reject ) => {
-		http.request( test_cam.url.slice( 0, -13 ) + chunk_name, ( res ) => {
+		http.request( testCam.url.slice( 0, -13 ) + chunkName, ( res ) => {
 			res.setEncoding( 'binary' );
 
 			res.on( 'data', ( chunk ) => {
-				video_file.write( chunk, 'binary' );
+				videoFile.write( chunk, 'binary' );
 			});
 
 			res.on( 'end', () => {
