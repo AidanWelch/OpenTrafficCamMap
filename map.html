@@ -91,7 +91,7 @@
             var hls;
             function GetMarker(cam, county){
                 let m = L.marker([cam.latitude, cam.longitude]);
-                var cam_view = (() => {
+                var camView = (() => {
                     if(cam.url){
 						switch( cam.format ) {
 							case "IMAGE_STREAM":
@@ -112,7 +112,7 @@
                         return "No Image";
                     }
                 })();
-                m = m.bindPopup(cam.description + '\n' + cam_view);
+                m = m.bindPopup(cam.description + '\n' + camView);
                 if(cam.format === "M3U8" || cam.format === "M3U9"){
                     m._url = cam.url
                 }
@@ -160,7 +160,7 @@
                     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                 }).addTo(map);
                 var counts = new Map();
-                var highest_count = 0;
+                var highestCount = 0;
                 for(var state in cameras){
                     let count = 0;
                     for(var county in cameras[state]){
@@ -168,13 +168,13 @@
                             count++;
                         }
                     }
-                    highest_count = (count > highest_count) ? count : highest_count;
+                    highestCount = (count > highestCount) ? count : highestCount;
                     counts.set(state, count);
                 }
                 function getColor(state){
                     var color = 0
                     if(counts.has(state)){
-                        color = Math.floor((counts.get(state)/highest_count)*155) + 100;
+                        color = Math.floor((counts.get(state)/highestCount)*155) + 100;
                     }
                     return `#${color.toString(16)}0000`;
                 }
@@ -208,10 +208,10 @@
                     geojson.resetStyle(e.target);
                 }
 
-                var camera_layer;
+                var cameraLayer;
                 var tooltips = new Map();
                 function onClick(e) {
-                    (camera_layer) ? map.removeLayer(camera_layer) : null;
+                    (cameraLayer) ? map.removeLayer(cameraLayer) : null;
                     var tooltip = tooltips.get(e.target.feature.properties.name);
                     if(tooltip){
                         map.removeLayer(tooltip);
@@ -228,8 +228,8 @@
                         tooltips.set(e.target.feature.properties.name, tooltip);
                     }
                     tooltip.toggleTooltip();
-                    camera_layer = L.layerGroup(DrawCams(e.target.feature.properties.name));
-                    map.addLayer(camera_layer);
+                    cameraLayer = L.layerGroup(DrawCams(e.target.feature.properties.name));
+                    map.addLayer(cameraLayer);
                 }
 
                 
