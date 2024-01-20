@@ -4,10 +4,10 @@
   "description": "An open-source list of traffic cameras with live view and geodata",
   "main": "index.mjs",
   "scripts": {
-	"start": "node index.mjs",
-  "test": "mocha",
-	"lint": "eslint \"**/*{.js,.cjs,.mjs}\"",
-	"fix-lint": "eslint \"**/*{.js,.cjs,.mjs}\" --fix"
+    "start": "node index.mjs",
+    "test": "mocha",
+    "lint": "eslint \"**/*{.js,.cjs,.mjs}\"",
+    "fix-lint": "eslint \"**/*{.js,.cjs,.mjs}\" --fix"
   },
   "repository": {
     "type": "git",
@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/AidanWelch/OpenTrafficCamMap#readme",
   "devDependencies": {
-    "eslint": "^8.40.0",
-    "eslint-plugin-mocha": "^10.1.0",
+    "eslint": "^8.55.0",
+    "eslint-plugin-mocha": "^10.2.0",
     "mocha": "^10.2.0"
   }
 }

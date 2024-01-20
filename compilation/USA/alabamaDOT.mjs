@@ -2,16 +2,23 @@ import standardizeDirection from '../utils/standardizeDirection.cjs';
 
 class Camera {
 	constructor ( cam ) {
-		this.description = cam.primaryRoad.trim() + ' ' + cam.crossStreet.trim();
-		this.latitude = cam.latitude;
-		this.longitude = cam.longitude;
-		if ( cam.direction.length !== 0 ) {
-			this.direction = standardizeDirection( cam.direction );
+		this.description = cam.location.displayRouteDesignator.trim() + ' ' + cam.location.crossStreet.trim();
+		this.latitude = cam.location.latitude;
+		this.longitude = cam.location.longitude;
+		if ( cam.location.direction.length !== 0 ) {
+			this.direction = standardizeDirection( cam.location.direction );
 		}
 
-		this.url = cam.streamUrl,
-		this.encoding = 'H.264';
-		this.format = 'M3U8';
+		if ( cam.hlsUrl ) {
+			this.url = cam.hlsUrl,
+			this.encoding = 'H.264';
+			this.format = 'M3U8';
+		} else {
+			this.url = cam.imageUrl;
+			this.encoding = 'JPEG';
+			this.format = 'IMAGE_STREAM';
+		}
+
 		if ( cam.disabled ) {
 			this.markedForReview = true;
 		}
@@ -19,19 +26,18 @@ class Camera {
 }
 
 async function compile ( fetchinit ) {
-	const data = await ( await fetch( 'https://algotraffic.com/api/v1/layers/cameras?null=', fetchinit ) ).json();
+	// OLD: https://algotraffic.com/api/v1/layers/cameras?null=
+	const data = await ( await fetch( 'https://api.algotraffic.com/v3.0/Cameras', fetchinit ) ).json();
 	const cameras = {};
 	for ( let j = 0; j < data.length; j++ ) {
-		const camArr = data[j].entries;
+		const cam = data[j];
 
-		for ( const cam of camArr ) {
-			const county = cam.organizationId ?? 'other';
-			if ( county in cameras === false ) {
-				cameras[county] = [];
-			}
-
-			cameras[county].push( new Camera( cam ) );
+		const county = cam.location.county ?? 'other';
+		if ( county in cameras === false ) {
+			cameras[county] = [];
 		}
+
+		cameras[county].push( new Camera( cam ) );
 	}
 
 	return cameras;

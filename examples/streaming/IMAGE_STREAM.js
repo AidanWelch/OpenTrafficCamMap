@@ -4,12 +4,12 @@ const http = require( 'http' );
 
 const cameras = JSON.parse( fs.readFileSync( '../../cameras/USA.json' ) );
 
-const test_cam = cameras.Kentucky.Jefferson.find( cam => cam.format === 'IMAGE_STREAM' );
+const testCam = cameras.Kentucky.Jefferson.find( cam => cam.format === 'IMAGE_STREAM' );
 
 ( async function () {
-	let last_pic;
+	let lastPic;
 	for ( var i = 0; i < 50; i++ ) {
-		http.request( test_cam.url, ( res ) => {
+		http.request( testCam.url, ( res ) => {
 			let data = '';
 			res.setEncoding( 'binary' );
 
@@ -18,12 +18,12 @@ const test_cam = cameras.Kentucky.Jefferson.find( cam => cam.format === 'IMAGE_S
 			});
 
 			res.on( 'end', () => {
-				if ( data !== last_pic ) {
+				if ( data !== lastPic ) {
 					fs.writeFileSync( `${i}.jpg`, data, 'binary' );
-					last_pic = data;
+					lastPic = data;
 				}
 			});
 		}).end();
-		await new Promise( r => setTimeout( r, test_cam.update_rate || 1000 ) );
+		await new Promise( r => setTimeout( r, testCam.updateRate || 1000 ) );
 	}
 })();
