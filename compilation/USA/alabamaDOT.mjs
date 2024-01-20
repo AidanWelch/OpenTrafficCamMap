@@ -5,13 +5,20 @@ class Camera {
 		this.description = cam.location.displayRouteDesignator.trim() + ' ' + cam.location.crossStreet.trim();
 		this.latitude = cam.location.latitude;
 		this.longitude = cam.location.longitude;
-		if ( cam.location.length !== 0 ) {
+		if ( cam.location.direction.length !== 0 ) {
 			this.direction = standardizeDirection( cam.location.direction );
 		}
 
-		this.url = ( cam.hlsUrl ) ? cam.hlsUrl : null,
-		this.encoding = 'H.264';
-		this.format = 'M3U8';
+		if ( cam.hlsUrl ) {
+			this.url = cam.hlsUrl,
+			this.encoding = 'H.264';
+			this.format = 'M3U8';
+		} else {
+			this.url = cam.imageUrl;
+			this.encoding = 'JPEG';
+			this.format = 'IMAGE_STREAM';
+		}
+
 		if ( cam.disabled ) {
 			this.markedForReview = true;
 		}
@@ -25,7 +32,7 @@ async function compile ( fetchinit ) {
 	for ( let j = 0; j < data.length; j++ ) {
 		const cam = data[j];
 
-		const county = ( cam.location.city !== null ) ? cam.location.county : cam.location.city ?? 'other';
+		const county = cam.location.county ?? 'other';
 		if ( county in cameras === false ) {
 			cameras[county] = [];
 		}
