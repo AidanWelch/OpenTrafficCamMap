@@ -13,7 +13,7 @@ http.request( 'http://goakamai.org/services/CameraProxy.svc/cameras/tours/H-1%20
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( xml2json.toJson( data ) ) );
+		compile( JSON.parse( xml2json.toJson( data ) ) );
 	});
 }).end();
 
@@ -27,11 +27,11 @@ class Camera {
 		this.url = cam.FullImageURL;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Hawaii ) {
 		cameras.Hawaii = {};
 	}

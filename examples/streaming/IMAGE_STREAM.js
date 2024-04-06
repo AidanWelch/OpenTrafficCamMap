@@ -8,7 +8,7 @@ const testCam = cameras.Kentucky.Jefferson.find( cam => cam.format === 'IMAGE_ST
 
 ( async function () {
 	let lastPic;
-	for ( var i = 0; i < 50; i++ ) {
+	for ( let i = 0; i < 50; i++ ) {
 		http.request( testCam.url, ( res ) => {
 			let data = '';
 			res.setEncoding( 'binary' );

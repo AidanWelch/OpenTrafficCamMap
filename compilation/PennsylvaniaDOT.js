@@ -14,7 +14,7 @@ https.request( 'https://www.511pa.com/wsvc/gmap.asmx/buildCamerasJSONjs', ( res 
 
 	res.on( 'end', () => {
 		data = data.split( 'var camera_data = ' )[1];
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -31,9 +31,9 @@ class Camera {
 		this.url = parsedObj.imageOnly ? parsedObj.imageSrc : parsedObj.streamSrc;
 		this.encoding = parsedObj.imageOnly ? 'JPEG' : 'H.264';
 		this.format = parsedObj.imageOnly ? 'IMAGE_STREAM' : 'M3U8';
-		this.marked_for_review = parsedObj.review && !parsedObj.imageOnly;
+		this.markedForReview = parsedObj.review && !parsedObj.imageOnly;
 
-		console.log( this );
+		console.info( this );
 	}
 }
 
@@ -86,7 +86,7 @@ function decodeEntities ( encodedString ) {
 	});
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Pennsylvania ) {
 		cameras.Pennsylvania = {};
 	}

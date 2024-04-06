@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 'use strict';
 const fs = require( 'fs' );
 const https = require( 'https' );
@@ -13,7 +14,7 @@ https.request( 'https://lb.511mn.org/mnlb/cameras/routeselect.jsf', ( res ) => {
 	});
 
 	res.on( 'end', () => {
-		Compile( parseHTML( data ) );
+		compile( parseHTML( data ) );
 	});
 }).end();
 
@@ -27,7 +28,7 @@ class Camera {
 		this.url = url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		console.log( this );
+		console.info( this );
 	}
 }
 
@@ -37,9 +38,9 @@ function compileCamera ( div ) {
 		const a = div.firstChild;
 		const img = a.firstChild;
 		cam.description = img.getAttribute( 'title' );
-		let req_link = a.getAttribute( 'href' );
-		req_link = 'https://lb.511mn.org' + req_link.slice( 0, req_link.indexOf( ';' ) ) + req_link.slice( req_link.indexOf( '?' ) );
-		https.request( req_link, ( res ) => {
+		let reqLink = a.getAttribute( 'href' );
+		reqLink = 'https://lb.511mn.org' + reqLink.slice( 0, reqLink.indexOf( ';' ) ) + reqLink.slice( reqLink.indexOf( '?' ) );
+		https.request( reqLink, ( res ) => {
 			let data = '';
 
 			res.on( 'data', ( chunk ) => {
@@ -49,20 +50,20 @@ function compileCamera ( div ) {
 			res.on( 'end', () => {
 				data = parseHTML( data );
 
-				let center_string = data.querySelector( '#j_idt170' ).nextSibling.getAttribute( 'src' );
-				center_string = center_string.slice( center_string.indexOf( 'center=' ) + 7, center_string.indexOf( '&' ) );
-				cam.latitude = center_string.slice( 0, center_string.indexOf( '%2C' ) );
-				cam.longitude = center_string.slice( center_string.indexOf( '%2C' ) + 3 );
+				let centerString = data.querySelector( '#j_idt170' ).nextSibling.getAttribute( 'src' );
+				centerString = centerString.slice( centerString.indexOf( 'center=' ) + 7, centerString.indexOf( '&' ) );
+				cam.latitude = centerString.slice( 0, centerString.indexOf( '%2C' ) );
+				cam.longitude = centerString.slice( centerString.indexOf( '%2C' ) + 3 );
 
-				let cams_matched = true;
+				let camsMatched = true;
 				let i = 0;
-				while ( cams_matched ) {
-					const cam_img = data.querySelector( `#cam-${i}-img` );
+				while ( camsMatched ) {
+					const camImg = data.querySelector( `#cam-${i}-img` );
 					i++;
-					if ( cam_img ) {
-						cameras.Minnesota.other.push( new Camera( cam, cam_img.getAttribute( 'src' ) ) );
+					if ( camImg ) {
+						cameras.Minnesota.other.push( new Camera( cam, camImg.getAttribute( 'src' ) ) );
 					} else {
-						cams_matched = false;
+						camsMatched = false;
 					}
 				}
 
@@ -76,7 +77,7 @@ function compileCamera ( div ) {
 	});
 }
 
-async function Compile ( data ) {
+async function compile ( data ) {
 	if ( !cameras.Minnesota ) {
 		cameras.Minnesota = {};
 	}

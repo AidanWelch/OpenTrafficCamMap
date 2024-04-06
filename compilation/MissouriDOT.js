@@ -12,7 +12,7 @@ http.request( 'http://traveler.modot.org/timconfig/feed/desktop/StreamingCams2.j
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -26,11 +26,11 @@ class Camera {
 		this.url = cam.html;
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Missouri ) {
 		cameras.Missouri = {};
 	}

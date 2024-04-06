@@ -14,7 +14,7 @@ https.request( 'https://files0.iteriscdn.com/WebApps/SC/SafeTravel4/data/geojson
 	res.on( 'end', () => {
 		data = data.replace( 'OpenLayers.Protocol.ScriptLite.registry.load_cameras(', '' );
 		data = data.substring( 0, data.length - 3 );
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -44,11 +44,11 @@ class Camera {
 		this.url = cam.properties.http_url,
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = !cam.properties.active;
+		this.markedForReview = !cam.properties.active;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras['South Carolina'] ) {
 		cameras['South Carolina'] = {};
 	}

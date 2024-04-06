@@ -12,7 +12,7 @@ https.request( 'https://511nj.org/api/client/camera/GetCameraDataByTourId?tourid
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -28,7 +28,7 @@ class Camera {
 		this.url = parsedObj.imageOnly ? parsedObj.imageSrc : parsedObj.streamSrc;
 		this.encoding = parsedObj.imageOnly ? 'JPEG' : 'H.264';
 		this.format = parsedObj.imageOnly ? 'IMAGE_STREAM' : 'UNIQUE_NEWJERSEYDOT';
-		this.marked_for_review = cam.StopCameraFlag;
+		this.markedForReview = cam.StopCameraFlag;
 	}
 }
 
@@ -56,7 +56,7 @@ function videoOrImage ( cam ) {
 }
 
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras['New Jersey'] ) {
 		cameras['New Jersey'] = {};
 	}

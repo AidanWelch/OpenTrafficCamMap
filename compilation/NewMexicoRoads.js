@@ -12,7 +12,7 @@ https.request( 'https://servicev4.nmroads.com/RealMapWAR//GetCameraInfo?callback
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data.slice( 'jQuery112003441981128111502_1603805538231('.length, -3 ) ) );
+		compile( JSON.parse( data.slice( 'jQuery112003441981128111502_1603805538231('.length, -3 ) ) );
 	});
 }).end();
 
@@ -26,11 +26,11 @@ class Camera {
 		this.url = cam.snapshotFile;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras['New Mexico'] ) {
 		cameras['New Mexico'] = {};
 	}
