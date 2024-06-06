@@ -29,7 +29,7 @@ axios.post( 'https://new.511.nebraska.gov/api/graphql',
 ).then( ( response ) => {
 	compile( response.data[0].data.mapFeaturesQuery );
 }, ( error ) => {
-	console.log( error );
+	console.error( error );
 });
 
 class Camera {
@@ -46,7 +46,7 @@ class Camera {
 		this.url = cam.imageUrl;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

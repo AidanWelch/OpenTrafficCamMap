@@ -12,7 +12,7 @@ https.request( 'https://api.ohgo.com/roadmarkers/cameras?pointData={"lowLongitud
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -27,11 +27,11 @@ class Camera {
 		this.url = url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Ohio ) {
 		cameras.Ohio = {};
 	}

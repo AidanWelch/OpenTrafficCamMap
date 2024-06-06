@@ -12,7 +12,7 @@ https.request( 'https://511wi.gov/List/GetData/Cameras?query={%22columns%22:[{%2
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -29,7 +29,7 @@ class Camera {
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Wisconsin ) {
 		cameras.Wisconsin = {};
 	}

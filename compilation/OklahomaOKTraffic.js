@@ -57,7 +57,7 @@ function compile ( data ) {
 		}
 	}
 
-	console.log( 'This will take about ' + Math.ceil( delay/1000/60 ) + ' minutes.' );
+	console.info( 'This will take about ' + Math.ceil( delay/1000/60 ) + ' minutes.' );
 
 	Promise.all( promises ).then( () => {
 		fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );

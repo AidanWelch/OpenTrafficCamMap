@@ -14,14 +14,14 @@ for ( const county in cameras.Kentucky ) {
 	}
 
 	( async function ( county ) {
-		for ( var cam of cameras.Kentucky[county] ) {
+		for ( const cam of cameras.Kentucky[county] ) {
 			if ( cam.url ) {
 				http.request( cam.url, ( res ) => {
 					let data = '';
 					res.setEncoding( 'binary' );
 
 					res.on( 'error', ( err ) => {
-						console.log( cam.url );
+						console.error( cam.url, err );
 					});
 
 					res.on( 'data', ( chunk ) => {

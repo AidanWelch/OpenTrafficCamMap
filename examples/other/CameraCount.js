@@ -5,13 +5,14 @@ const cameras = JSON.parse( fs.readFileSync( '../../cameras/USA.json' ) );
 let count = 0;
 for ( const state in cameras ) {
 	for ( const county in cameras[state] ) {
+		// eslint-disable-next-line no-unused-vars
 		for ( const camera in cameras[state][county] ) {
 			count++;
 		}
 	}
 }
 
-console.log( count );
+console.info( count );
 
 let readme = fs.readFileSync( '../../README.md', 'utf8' );
 

@@ -12,7 +12,7 @@ https.request( 'https://www.511virginia.org/data/geojson/icons.cameras.geojson',
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -26,13 +26,10 @@ class Camera {
 					return 'North';
 				case 'SB':
 					return 'South';
-					break;
 				case 'EB':
 					return 'East';
-					break;
 				case 'WB':
 					return 'West';
-					break;
 				}
 			})(),
 			latitude: parseFloat( cam.geometry.coordinates[1] ),
@@ -41,16 +38,16 @@ class Camera {
 		this.url = cam.properties.ios_url;
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Virginia ) {
 		cameras.Virginia = {};
 	}
 
-	for ( cam of data.features ) {
+	for ( const cam of data.features ) {
 		if ( cam.properties.jurisdiction !== null ) {
 			if ( !cameras.Virginia[cam.properties.jurisdiction] ) {
 				cameras.Virginia[cam.properties.jurisdiction] = [];

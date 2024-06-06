@@ -29,7 +29,7 @@ axios.post( 'https://kandrive.org/api/graphql',
 ).then( ( response ) => {
 	compile( response.data[0].data.mapFeaturesQuery );
 }, ( error ) => {
-	console.log( error );
+	console.error( error );
 });
 
 class Camera {
@@ -42,7 +42,7 @@ class Camera {
 		this.url = cam.views[0].url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

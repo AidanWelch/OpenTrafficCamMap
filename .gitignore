@@ -1,3 +1,4 @@
 examples/streaming/*.jpg
 examples/other/shots
 node_modules/
+pnpm-lock.yaml

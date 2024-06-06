@@ -13,14 +13,15 @@ const videoFile = fs.createWriteStream( `${testCam.location.description.replace(
 
 ( async function () {
 	for ( let i = 0; i < 5; i++ ) {
-		await GetPlaylist( testCam.url );
+		await getPlaylist( testCam.url );
+		// eslint-disable-next-line no-unused-vars
 		await new Promise( ( resolve, _ ) => setTimeout( () => { resolve(); }, 14000 ) );
 	}
 
 	videoFile.end();
 })();
 
-function GetPlaylist ( url ) {
+function getPlaylist ( url ) {
 	return new Promise( ( resolve, reject ) => {
 		http.request( url, ( res ) => {
 			let data = '';
@@ -30,7 +31,7 @@ function GetPlaylist ( url ) {
 			});
 
 			res.on( 'end', () => {
-				GetChunklist( data ).then( resolve() );
+				getChunklist( data ).then( resolve() );
 			});
 
 			res.on( 'timeout', () => {
@@ -40,7 +41,7 @@ function GetPlaylist ( url ) {
 	});
 }
 
-function GetChunklist ( data ) {
+function getChunklist ( data ) {
 	return new Promise( ( resolve, reject ) => {
 		http.request( testCam.url.slice( 0, -13 ) + data.slice( data.indexOf( 'chunklist' ), -1 ), ( res ) => {
 			let data = '';
@@ -55,7 +56,7 @@ function GetChunklist ( data ) {
 				for ( const line of lines ) {
 					if ( line[0] !== '#' ) {
 						unloadedChunks++;
-						GetChunk( line ).then( () => {
+						getChunk( line ).then( () => {
 							unloadedChunks--;
 							if ( !unloadedChunks ) {
 								resolve();
@@ -72,7 +73,7 @@ function GetChunklist ( data ) {
 	});
 }
 
-function GetChunk ( chunkName ) {
+function getChunk ( chunkName ) {
 	return new Promise( ( resolve, reject ) => {
 		http.request( testCam.url.slice( 0, -13 ) + chunkName, ( res ) => {
 			res.setEncoding( 'binary' );

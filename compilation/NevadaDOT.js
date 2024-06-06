@@ -15,7 +15,7 @@ https.request( 'https://www.nvroads.com/services/MapServiceProxy.asmx/GetFullCam
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( xml2json.toJson( JSON.parse( xml2json.toJson( data ) ).string['$t'] ) ) );
+		compile( JSON.parse( xml2json.toJson( JSON.parse( xml2json.toJson( data ) ).string['$t'] ) ) );
 	});
 }).end();
 
@@ -29,11 +29,11 @@ class Camera {
 		this.url = cam.StreamingURL;
 		this.encoding = 'H.264';
 		this.format = 'M3U8';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Nevada ) {
 		cameras.Nevada = {};
 	}

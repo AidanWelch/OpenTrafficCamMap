@@ -1,3 +1,4 @@
+/* eslint-disable no-var */
 'use strict';
 const fs = require( 'fs' );
 const https = require( 'https' );
@@ -13,7 +14,7 @@ https.request( 'https://mdotjboss.state.mi.us/MiDrive/camera/AllForMap/', ( res 
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -30,7 +31,7 @@ class Camera {
 	}
 }
 
-async function Compile ( data ) {
+async function compile ( data ) {
 	if ( !cameras.Michigan ) {
 		cameras.Michigan = {};
 	}

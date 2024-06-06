@@ -1,3 +1,4 @@
+/* eslint-disable no-var */
 'use strict';
 const fs = require( 'fs' );
 const https = require( 'https' );
@@ -12,7 +13,7 @@ https.request( 'https://hb.511.idaho.gov/tgcameras/api/cameras', ( res ) => {
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -26,15 +27,15 @@ class Camera {
 		this.url = icam.url;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function PushCams ( cam, region ) {
+function pushCams ( cam, region ) {
 	return new Promise( ( resolve, reject ) => {
-		for ( var icam of cam.views ) {
+		for ( const icam of cam.views ) {
 			if ( icam.type === 'EXTERNAL_PAGE' ) {
-				var request_hostname = icam.url.slice( 0, icam.url.indexOf( '/', 9 ) );
+				var requestHostname = icam?.url.slice( 0, icam?.url.indexOf( '/', 9 ) );
 				https.request( icam.url, ( res ) => {
 					let data = '';
 
@@ -45,10 +46,10 @@ function PushCams ( cam, region ) {
 					res.on( 'end', () => {
 						if ( res.statusCode === 200 ) {
 							data = data.split( '\n' );
-							let new_url = data.filter( line => ( line.indexOf( 'SRC="/scanweb/Camera.asp' ) !== -1 ) )[0];
-							new_url = new_url.slice( new_url.indexOf( 'SRC="' )+5 );
-							new_url = new_url.slice( 0, new_url.indexOf( '" ' ) );
-							https.request( request_hostname + new_url, ( res ) => {
+							let newUrl = data.filter( line => ( line.indexOf( 'SRC="/scanweb/Camera.asp' ) !== -1 ) )[0];
+							newUrl = newUrl.slice( newUrl.indexOf( 'SRC="' )+5 );
+							newUrl = newUrl.slice( 0, newUrl.indexOf( '" ' ) );
+							https.request( requestHostname + newUrl, ( res ) => {
 								let data = '';
 
 								res.on( 'data', ( chunk ) => {
@@ -66,7 +67,7 @@ function PushCams ( cam, region ) {
 											icam.name = headers[i];
 											links[i] = links[i].slice( links[i].indexOf( 'SRC=' ) + 4 );
 											links[i] = links[i].slice( 0, links[i].indexOf( '></a></TD>' ) );
-											icam.url = request_hostname + links[i]; //the 9 magic number is so it only searches after the https://
+											icam.url = requestHostname + links[i]; //the 9 magic number is so it only searches after the https://
 											cameras.Idaho[region].push( new Camera( cam, icam ) );
 										}
 									}
@@ -85,7 +86,7 @@ function PushCams ( cam, region ) {
 	});
 }
 
-async function Compile ( data ) {
+async function compile ( data ) {
 	if ( !cameras.Idaho ) {
 		cameras.Idaho = {};
 	}
@@ -95,7 +96,7 @@ async function Compile ( data ) {
 			cameras.Idaho.other = [];
 		}
 
-		await PushCams( cam, 'other' );
+		await pushCams( cam, 'other' );
 	}
 
 	fs.writeFileSync( '../cameras/USA.json', JSON.stringify( cameras, null, 2 ) );

@@ -12,7 +12,7 @@ https.request( 'https://dotfiles.azureedge.net/geojson/cameras/cameras.json', ( 
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -27,17 +27,17 @@ class Camera {
 		this.url = icam.FullPath;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function PushCams ( cam, region ) {
+function pushCams ( cam, region ) {
 	for ( const icam of cam.properties.Cameras ) {
 		cameras['North Dakota'][region].push( new Camera( cam, icam ) );
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras['North Dakota'] ) {
 		cameras['North Dakota'] = {};
 	}
@@ -48,13 +48,13 @@ function Compile ( data ) {
 				cameras['North Dakota'][cam.properties.Region] = [];
 			}
 
-			PushCams( cam, cam.properties.Region );
+			pushCams( cam, cam.properties.Region );
 		} else {
 			if ( !cameras['North Dakota'].other ) {
 				cameras['North Dakota'].other = [];
 			}
 
-			PushCams( cam, 'other' );
+			pushCams( cam, 'other' );
 		}
 	}
 

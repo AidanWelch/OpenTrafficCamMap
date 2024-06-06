@@ -43,7 +43,7 @@ class Camera {
 		this.url = url;
 		this.encoding = 'JPEG';
 		this.format = 'UNIQUE_TEXASDOT';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
