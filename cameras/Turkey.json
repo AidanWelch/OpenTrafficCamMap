@@ -107,8 +107,8 @@
       },
       {
         "description": "Altınoluk Kordon 2",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 39.566041,
+        "longitude": 26.747277,
         "url": "https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"

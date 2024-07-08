@@ -31,10 +31,10 @@ async function getDetail ( url ) {
     const $ = cheerio.load( data );
 
     const haritaLink = $('a[href*="maps.google"]').attr('href');
-    if ( !haritaLink ) return null;
+    if ( !haritaLink ) return '';
     
     const enlemBoylam = haritaLink.split( 'loc:@' )[1].split(',');
-    if ( !enlemBoylam ) return null;
+    if ( !enlemBoylam ) return '';
 
     let latitude = enlemBoylam[0];
     // Check 2 . in latitude
@@ -54,14 +54,21 @@ async function getDetail ( url ) {
     }
     longitude = parseFloat( longitude );
 
+    if(url === 'https://sehirkamera.balikesir.bel.tr/Kamera?KameraID=23'){ // Altınoluk Kordon 2
+        if(!latitude || !longitude){
+            latitude = 39.566041;
+            longitude = 26.747277;
+        }
+    }
+
     const iframe = $('iframe').attr('src');
-    if ( !iframe ) return null;
+    if ( !iframe ) return '';
 
     /*
     <iframe id="frameDemo" style="border: 4px solid #ffffff; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; border-radius: 1em !important;" frameborder="0" scrolling="no" width="100%" src="https://player.tvkur.com/l/cisjnt1aojt2lfp2k5q0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     */
     const hlsId = data.match( /https:\/\/player.tvkur.com\/l\/(.*?)"/ );
-    if ( !hlsId ) return null;
+    if ( !hlsId ) return '';
 
     const hls = `https://content.tvkur.com/l/${hlsId[1]}/master.m3u8`;
 
@@ -97,8 +104,8 @@ async function compile () {
         const camera = {};
         camera.id = cam.id;
         camera.description = cam.description;
-        camera.latitude = data.latitude;
-        camera.longitude = data.longitude;
+        camera.latitude = data.latitude || '';
+        camera.longitude = data.longitude || '';
         camera.direction = '';
         camera.url = data.hls;
 
