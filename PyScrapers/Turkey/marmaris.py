@@ -1,8 +1,7 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from Kekik.cli import konsol, cikis_yap, hata_yakala
+from Kekik.cli import konsol
 from httpx     import AsyncClient, Timeout
-from asyncio   import run
 from json      import load, dumps
 
 class Marmaris:
@@ -46,16 +45,16 @@ async def basla():
     gelen_veriler = await belediye.getir()
 
     konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][+] {len(gelen_veriler['WowzaYayin'])} Adet Kamera Bulundu")
+    konsol.log(f"[yellow][Marmaris] [+] {len(gelen_veriler['WowzaYayin'])} Adet Kamera Bulundu")
 
-    turkey_json = "../../cameras/Turkey.json"
+    turkey_json = "../cameras/Turkey.json"
 
     with open(turkey_json, "r", encoding="utf-8") as dosya:
         mevcut_veriler = load(dosya)
 
 
     if gelen_veriler == mevcut_veriler.get("Marmaris"):
-        konsol.log("[red][!] Yeni Veri Yok")
+        konsol.log("[red][Marmaris] [!] Yeni Veri Yok")
         return
 
     del mevcut_veriler["Marmaris"]
@@ -64,12 +63,4 @@ async def basla():
     with open(turkey_json, "w", encoding="utf-8") as dosya:
         dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][+] {len(gelen_veriler['WowzaYayin'])} Adet Kamera Eklendi")
-
-
-if __name__ == "__main__":
-    try:
-        run(basla())
-        cikis_yap(False)
-    except Exception as hata:
-        hata_yakala(hata)
+    konsol.log(f"[green][Marmaris] [+] {len(gelen_veriler['WowzaYayin'])} Adet Kamera Eklendi")
