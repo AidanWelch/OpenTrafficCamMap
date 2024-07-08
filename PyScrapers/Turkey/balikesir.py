@@ -70,21 +70,38 @@ class Balikesir:
         
 
 async def basla():
-    
-    belediye = Balikesir()
+    belediye      = Balikesir()
+    gelen_veriler = await belediye.getir()
 
-    veriler = await belediye.getir()
-    konsol.print(veriler)
-    konsol.log(f"[yellow][+] {len(veriler['SehirKamera'])} Adet Kamera Bulundu.")
+    konsol.print(gelen_veriler)
+    konsol.log(f"[yellow][+] {len(gelen_veriler['SehirKamera'])} Adet Kamera Bulundu")
 
     turkey_json = "../../cameras/Turkey.json"
 
     with open(turkey_json, "r", encoding="utf-8") as dosya:
         mevcut_veriler = load(dosya)
 
+
+    if gelen_veriler == mevcut_veriler.get("Balikesir"):
+        konsol.log("[red][!] Yeni Veri Yok")
+        return
+
+
+    eklenen_say = 0
+    for veri in gelen_veriler["SehirKamera"]:
+        if veri in mevcut_veriler.get("Balikesir", {}).get("SehirKamera", []):
+            continue
+
+        mevcut_veriler.get("Balikesir", {}).setdefault("SehirKamera", []).append(veri)
+        eklenen_say += 1
+
+
     with open(turkey_json, "w", encoding="utf-8") as dosya:
-        mevcut_veriler["Balikesir"] = veriler
-        dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False))
+        mevcut_veriler["Balikesir"] = gelen_veriler
+        dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
+
+    konsol.log(f"[green][+] {eklenen_say} Adet Kamera Eklendi")
+
 
 if __name__ == "__main__":
     try:
