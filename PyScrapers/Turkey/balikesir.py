@@ -5,6 +5,7 @@ from httpx     import AsyncClient, Timeout
 from parsel    import Selector
 from re        import search
 from json      import load, dumps
+from helpers   import str2latlng
 
 class Balikesir:
     def __init__(self):
@@ -24,23 +25,23 @@ class Balikesir:
         istek  = await self.oturum.get(kamera_url)
         secici = Selector(istek.text)
 
-        harita_link      = secici.css("a[href*='maps.google']::attr(href)").get()
-        enlem_boylam     = search(r"loc:@(.*?)&z", harita_link).group(1)
-        lat_str, lon_str = enlem_boylam.split(",")
-        if not lat_str or not lon_str:
-            return None
+        # harita_link      = secici.css("a[href*='maps.google']::attr(href)").get()
+        # enlem_boylam     = search(r"loc:@(.*?)&z", harita_link).group(1)
+        # lat_str, lon_str = enlem_boylam.split(",")
+        # if not lat_str or not lon_str:
+        #     return None
 
-        latitude_parts = lat_str.split(".")
-        latitude = float(f"{latitude_parts[0]}." + "".join(latitude_parts[1:]))
+        # latitude_parts = lat_str.split(".")
+        # latitude = float(f"{latitude_parts[0]}." + "".join(latitude_parts[1:]))
 
-        longitude_parts = lon_str.split(".")
-        longitude = float(f"{longitude_parts[0]}." + "".join(longitude_parts[1:]))
+        # longitude_parts = lon_str.split(".")
+        # longitude = float(f"{longitude_parts[0]}." + "".join(longitude_parts[1:]))
 
         return {
             "ilce"        : secici.css("div.card-body span:nth-of-type(2)::text").get(),
-            "harita_link" : harita_link,
-            "latitude"    : latitude,
-            "longitude"   : longitude,
+            # "harita_link" : harita_link,
+            # "latitude"    : latitude,
+            # "longitude"   : longitude,
             "hls"         : await self.iframe2hls(secici.css("iframe::attr(src)").get())
         }
 
@@ -59,10 +60,12 @@ class Balikesir:
             if not kamera_detay:
                 continue
 
+            latitude, longitude = await str2latlng(f"{kamera_adi}, Balıkesir")
+
             veri["Belediye"].append({
                 "description" : kamera_adi,
-                "latitude"    : kamera_detay["latitude"],
-                "longitude"   : kamera_detay["longitude"],
+                "latitude"    : latitude,
+                "longitude"   : longitude,
                 "url"         : kamera_detay["hls"],
                 "encoding"    : "H.264",
                 "format"      : "M3U8"
