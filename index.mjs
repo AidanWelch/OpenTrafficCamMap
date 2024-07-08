@@ -48,7 +48,7 @@ compileTurkey().then( res => {
 	// Check if file is empty
 	if ( JSON.stringify( readFileSync( camPath ) ) === '{"type":"Buffer","data":[]}' ) {
 		console.info( 'Creating new file for Turkey.json' );
-		writeFileSync( camPath, JSON.stringify( res ) );
+		writeFileSync( camPath, JSON.stringify(res, null, 2 ) );
 	} else {
 		oldCameras = JSON.parse( readFileSync( camPath ) );
 	}
@@ -73,7 +73,7 @@ compileTurkey().then( res => {
 		);
 	}
 
-	writeFileSync( camPath, JSON.stringify( res ) );
+	writeFileSync( camPath, JSON.stringify( res, null, 2 ) );
 
 	const readmePath = path.join( dir, 'README.md' );
 	let readme = readFileSync( readmePath, 'utf8' );

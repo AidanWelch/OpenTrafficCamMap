@@ -27,8 +27,11 @@
   },
   "homepage": "https://github.com/AidanWelch/OpenTrafficCamMap#readme",
   "devDependencies": {
-    "eslint": "^8.55.0",
-    "eslint-plugin-mocha": "^10.2.0",
-    "mocha": "^10.2.0"
+    "eslint": "^9.6.0",
+    "eslint-plugin-mocha": "^10.4.3",
+    "mocha": "^10.6.0"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12"
   }
 }
