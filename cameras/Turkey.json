@@ -6899,8 +6899,8 @@
       },
       {
         "description": "sahilsanayi",
-        "latitude": 36.5569487,
-        "longitude": 31.9936269,
+        "latitude": 36.5322261,
+        "longitude": 32.03793040000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahilsanayi/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -6942,6 +6942,82 @@
         "latitude": 36.558538,
         "longitude": 31.961724,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahildinek/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Trabzon": {
+    "Belediye": [
+      {
+        "description": "Atapark",
+        "latitude": 41.003775,
+        "longitude": 39.715777,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/atapark/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Boztepe Manzara",
+        "latitude": 40.9965616,
+        "longitude": 39.7327862,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Meydan Park-1",
+        "latitude": 41.0053718,
+        "longitude": 39.73087779999999,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan1/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Meydan Park-2",
+        "latitude": 41.0053718,
+        "longitude": 39.73087779999999,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan2/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Kalkınma",
+        "latitude": 41.0014335,
+        "longitude": 39.7614601,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Kalkinma/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Uzungöl",
+        "latitude": 40.61944070000001,
+        "longitude": 40.2960778,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Köşkü",
+        "latitude": 40.9797269,
+        "longitude": 39.6975109,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ortahisar-1",
+        "latitude": 41.0063948,
+        "longitude": 39.7284114,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ortahisar-2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-2/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
