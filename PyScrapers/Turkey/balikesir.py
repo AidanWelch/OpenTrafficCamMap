@@ -30,8 +30,11 @@ class Balikesir:
         if not lat_str or not lon_str:
             return None
 
-        latitude  = float(lat_str.replace(".", "", lat_str.count(".") - 1))
-        longitude = float(lon_str.replace(".", "", lon_str.count(".") - 1))
+        latitude_parts = lat_str.split(".")
+        latitude = float(f"{latitude_parts[0]}." + "".join(latitude_parts[1:]))
+
+        longitude_parts = lon_str.split(".")
+        longitude = float(f"{longitude_parts[0]}." + "".join(longitude_parts[1:]))
 
         return {
             "ilce"        : secici.css("div.card-body span:nth-of-type(2)::text").get(),
@@ -50,13 +53,13 @@ class Balikesir:
     async def getir(self) -> dict[list[dict]]:
         kameralar = await self.kameralar()
 
-        veri = {"SehirKamera": []}
+        veri = {"Belediye": []}
         for kamera_adi, kamera_url in kameralar.items():
             kamera_detay = await self.kamera_detay(kamera_url)
             if not kamera_detay:
                 continue
 
-            veri["SehirKamera"].append({
+            veri["Belediye"].append({
                 "description" : kamera_adi,
                 "latitude"    : kamera_detay["latitude"],
                 "longitude"   : kamera_detay["longitude"],
@@ -73,7 +76,7 @@ async def basla():
     gelen_veriler = await belediye.getir()
 
     konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Balikesir] [+] {len(gelen_veriler['SehirKamera'])} Adet Kamera Bulundu")
+    konsol.log(f"[yellow][Balikesir] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Bulundu")
 
     turkey_json = "../cameras/Turkey.json"
 
@@ -81,14 +84,15 @@ async def basla():
         mevcut_veriler = load(dosya)
 
 
-    if gelen_veriler == mevcut_veriler.get("Balikesir"):
+    if gelen_veriler == mevcut_veriler.get("Balıkesir"):
         konsol.log("[red][!] [Balikesir] Yeni Veri Yok")
         return
 
-    del mevcut_veriler["Balikesir"]
-    mevcut_veriler["Balikesir"] = gelen_veriler
+    if mevcut_veriler.get("Balıkesir"):
+        del mevcut_veriler["Balıkesir"]
+    mevcut_veriler["Balıkesir"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
         dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][Balikesir] [+] {len(gelen_veriler['SehirKamera'])} Adet Kamera Eklendi")
+    konsol.log(f"[green][Balikesir] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
