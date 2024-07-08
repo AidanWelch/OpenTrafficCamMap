@@ -870,7 +870,7 @@
         "format": "M3U8"
       },
       {
-        "description": "D100  AHL",
+        "description": "D100 AHL",
         "latitude": "41.00083447",
         "longitude": "28.80707131",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/122.stream/playlist.m3u8",
@@ -2646,7 +2646,7 @@
         "format": "M3U8"
       },
       {
-        "description": "ÜMRANİYE  KÜÇÜKSU",
+        "description": "ÜMRANİYE KÜÇÜKSU",
         "latitude": "41.02934797",
         "longitude": "29.10526572",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/401.stream/playlist.m3u8",
@@ -2894,7 +2894,7 @@
         "format": "M3U8"
       },
       {
-        "description": "12015  SARAYBURNU",
+        "description": "12015 SARAYBURNU",
         "latitude": "41.01633919",
         "longitude": "28.9856936",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/489.stream/playlist.m3u8",
@@ -2910,7 +2910,7 @@
         "format": "M3U8"
       },
       {
-        "description": "03055  OSMANİYE",
+        "description": "03055 OSMANİYE",
         "latitude": "40.9957428",
         "longitude": "28.88750478",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/497.stream/playlist.m3u8",
@@ -2934,7 +2934,7 @@
         "format": "M3U8"
       },
       {
-        "description": "15063  YILDIZ BAKKAL",
+        "description": "15063 YILDIZ BAKKAL",
         "latitude": "40.99484114",
         "longitude": "29.03263462",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/442.stream/playlist.m3u8",
@@ -2942,7 +2942,7 @@
         "format": "M3U8"
       },
       {
-        "description": "12043  HIFZISSIHHA",
+        "description": "12043 HIFZISSIHHA",
         "latitude": "41.01682627",
         "longitude": "28.95633098",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/495.stream/playlist.m3u8",
@@ -3022,7 +3022,7 @@
         "format": "M3U8"
       },
       {
-        "description": "25093  BEYLERBEYİ İSKELE",
+        "description": "25093 BEYLERBEYİ İSKELE",
         "latitude": "41.04440298",
         "longitude": "29.04600518",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/455.stream/playlist.m3u8",
@@ -3030,7 +3030,7 @@
         "format": "M3U8"
       },
       {
-        "description": "26025  BELGRATKAPI",
+        "description": "26025 BELGRATKAPI",
         "latitude": "40.99991279",
         "longitude": "28.91970135",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/491.stream/playlist.m3u8",
@@ -3054,7 +3054,7 @@
         "format": "M3U8"
       },
       {
-        "description": "26010  Z.BURNU BOZKURT",
+        "description": "26010 Z.BURNU BOZKURT",
         "latitude": "40.99345274",
         "longitude": "28.89438883",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/496.stream/playlist.m3u8",
@@ -3070,7 +3070,7 @@
         "format": "M3U8"
       },
       {
-        "description": "26028  MEVLANAKAPI",
+        "description": "26028 MEVLANAKAPI",
         "latitude": "41.01368849",
         "longitude": "28.92114234",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/492.stream/playlist.m3u8",
@@ -3078,7 +3078,7 @@
         "format": "M3U8"
       },
       {
-        "description": "22013  ŞİŞLİ ETFAL",
+        "description": "22013 ŞİŞLİ ETFAL",
         "latitude": "41.05819947",
         "longitude": "28.98687647",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/534.stream/playlist.m3u8",
@@ -3118,7 +3118,7 @@
         "format": "M3U8"
       },
       {
-        "description": "25048  ALTUNİZADE CAMİİ",
+        "description": "25048 ALTUNİZADE CAMİİ",
         "latitude": "41.02073494",
         "longitude": "29.04575321",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/448.stream/playlist.m3u8",
@@ -3150,7 +3150,7 @@
         "format": "M3U8"
       },
       {
-        "description": "34050  KÜÇÜKBAKKALÖY",
+        "description": "34050 KÜÇÜKBAKKALÖY",
         "latitude": "40.97902984",
         "longitude": "29.11307886",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/436.stream/playlist.m3u8",
@@ -3166,7 +3166,7 @@
         "format": "M3U8"
       },
       {
-        "description": "15157  GÖZCÜBABA",
+        "description": "15157 GÖZCÜBABA",
         "latitude": "40.98521322",
         "longitude": "29.06769351",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/453.stream/playlist.m3u8",
@@ -3174,7 +3174,7 @@
         "format": "M3U8"
       },
       {
-        "description": "15110  BOSTANCI VUKELA",
+        "description": "15110 BOSTANCI VUKELA",
         "latitude": "40.95832355",
         "longitude": "29.0949512",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/440.stream/playlist.m3u8",
@@ -3182,7 +3182,7 @@
         "format": "M3U8"
       },
       {
-        "description": "05021  BAHCELIEVLER",
+        "description": "05021 BAHCELIEVLER",
         "latitude": "40.99820562",
         "longitude": "28.86737277",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/500.stream/playlist.m3u8",
@@ -3198,7 +3198,7 @@
         "format": "M3U8"
       },
       {
-        "description": "24085  MODOKO CAMİİ",
+        "description": "24085 MODOKO CAMİİ",
         "latitude": "41.00700046",
         "longitude": "29.16182631",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/450.stream/playlist.m3u8",
@@ -3206,7 +3206,7 @@
         "format": "M3U8"
       },
       {
-        "description": "05009  KOCASİNAN",
+        "description": "05009 KOCASİNAN",
         "latitude": "40.99805996",
         "longitude": "28.8570538",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/499.stream/playlist.m3u8",
@@ -3214,7 +3214,7 @@
         "format": "M3U8"
       },
       {
-        "description": "19032  KÜÇÜKYALI ATATÜRK CD.",
+        "description": "19032 KÜÇÜKYALI ATATÜRK CD.",
         "latitude": "40.94605924",
         "longitude": "29.11066237",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/437.stream/playlist.m3u8",
@@ -3222,7 +3222,7 @@
         "format": "M3U8"
       },
       {
-        "description": "24007  ATAKENT",
+        "description": "24007 ATAKENT",
         "latitude": "41.02341882",
         "longitude": "29.10762963",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/451.stream/playlist.m3u8",
@@ -3230,7 +3230,7 @@
         "format": "M3U8"
       },
       {
-        "description": "12028  FATİH YAVUZ SELİM",
+        "description": "12028 FATİH YAVUZ SELİM",
         "latitude": "41.02224742",
         "longitude": "28.94504262",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/494.stream/playlist.m3u8",
@@ -3238,7 +3238,7 @@
         "format": "M3U8"
       },
       {
-        "description": "3004  ÜMRANİYE ÇEKMEKÖY YOLU",
+        "description": "3004 ÜMRANİYE ÇEKMEKÖY YOLU",
         "latitude": "41.01812687",
         "longitude": "29.16808698",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/433.stream/playlist.m3u8",
@@ -3254,7 +3254,7 @@
         "format": "M3U8"
       },
       {
-        "description": "05007  BAHÇELİEVLER YAYLA",
+        "description": "05007 BAHÇELİEVLER YAYLA",
         "latitude": "41.00074898",
         "longitude": "28.86119862",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/498.stream/playlist.m3u8",
@@ -3318,7 +3318,7 @@
         "format": "M3U8"
       },
       {
-        "description": "12024  KIZTAŞI FATİH",
+        "description": "12024 KIZTAŞI FATİH",
         "latitude": "41.0163264",
         "longitude": "28.95110855",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/493.stream/playlist.m3u8",
@@ -3326,7 +3326,7 @@
         "format": "M3U8"
       },
       {
-        "description": "17036  YUNUS MAHALLESİ",
+        "description": "17036 YUNUS MAHALLESİ",
         "latitude": "40.89885486",
         "longitude": "29.20631747",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/454.stream/playlist.m3u8",
@@ -3422,7 +3422,7 @@
         "format": "M3U8"
       },
       {
-        "description": "12012  İST. TİC. ODASI",
+        "description": "12012 İST. TİC. ODASI",
         "latitude": "41.01842501",
         "longitude": "28.96716478",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/502.stream/playlist.m3u8",
@@ -3446,7 +3446,7 @@
         "format": "M3U8"
       },
       {
-        "description": "20026  PENDİK AYDINLI YOLU",
+        "description": "20026 PENDİK AYDINLI YOLU",
         "latitude": "40.88266077",
         "longitude": "29.23442973",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/446.stream/playlist.m3u8",
@@ -3502,7 +3502,7 @@
         "format": "M3U8"
       },
       {
-        "description": "12008  HALİÇ SOSYAL TESİSLERİ",
+        "description": "12008 HALİÇ SOSYAL TESİSLERİ",
         "latitude": "41.02805221",
         "longitude": "28.95664974",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/503.stream/playlist.m3u8",
@@ -3550,7 +3550,7 @@
         "format": "M3U8"
       },
       {
-        "description": "38058 ESENYURT  S. DEMİREL CD.",
+        "description": "38058 ESENYURT S. DEMİREL CD.",
         "latitude": "41.0628938",
         "longitude": "28.67927451",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/528.stream/playlist.m3u8",
@@ -3582,7 +3582,7 @@
         "format": "M3U8"
       },
       {
-        "description": "34037  TÜRK-İŞ BLOKLARI",
+        "description": "34037 TÜRK-İŞ BLOKLARI",
         "latitude": "40.9909511",
         "longitude": "29.15044723",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/449.stream/playlist.m3u8",
@@ -3622,7 +3622,7 @@
         "format": "M3U8"
       },
       {
-        "description": "03001  TELSİZLER",
+        "description": "03001 TELSİZLER",
         "latitude": "40.98696137",
         "longitude": "28.79727428",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/490.stream/playlist.m3u8",
@@ -3726,7 +3726,7 @@
         "format": "M3U8"
       },
       {
-        "description": "35012  İKİTELLİ  3 NOLU KVŞ.",
+        "description": "35012 İKİTELLİ 3 NOLU KVŞ.",
         "latitude": "41.08912387",
         "longitude": "28.80121911",
         "url": "https://hls.ibb.gov.tr/tkm1/hls/518.stream/playlist.m3u8",
@@ -3854,7 +3854,7 @@
         "format": "M3U8"
       },
       {
-        "description": "25035  FISTIKAĞACI",
+        "description": "25035 FISTIKAĞACI",
         "latitude": "41.027599",
         "longitude": "29.03057441",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/434.stream/playlist.m3u8",
@@ -3878,7 +3878,7 @@
         "format": "M3U8"
       },
       {
-        "description": "35011  İKİTELLİ  4 NOLU KVŞ.",
+        "description": "35011 İKİTELLİ 4 NOLU KVŞ.",
         "latitude": "41.08922751",
         "longitude": "28.79609608",
         "url": "https://hls.ibb.gov.tr/tkm4/hls/517.stream/playlist.m3u8",
@@ -6776,6 +6776,65 @@
         "url": "https://izum-cams.izmir.bel.tr/mjpeg/cd91d30d-7166-4a4d-b419-c4dfa6462f25",
         "encoding": "JPEG",
         "format": "IMAGE_STREAM"
+      }
+    ]
+  "Marmaris": {
+    "WowzaYayin": [
+      {
+        "description": "Meydan",
+        "latitude": 36.8548769,
+        "longitude": 28.2678585,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Uzun Yalı",
+        "latitude": 36.8516576,
+        "longitude": 28.2662401,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "İçmeler",
+        "latitude": 36.802893,
+        "longitude": 28.2317378,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Bulvarı",
+        "latitude": 36.8552241,
+        "longitude": 28.2682233,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Bozburun",
+        "latitude": 36.6755598,
+        "longitude": 28.0613853,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Kordon Caddesi 1",
+        "latitude": 36.8512351,
+        "longitude": 28.2686464,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Kordon Caddesi 2",
+        "latitude": 36.8515991,
+        "longitude": 28.2726258,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
       }
     ]
   }

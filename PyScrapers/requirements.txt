@@ -1,0 +1,5 @@
+setuptools
+wheel
+Kekik
+httpx
+parsel
