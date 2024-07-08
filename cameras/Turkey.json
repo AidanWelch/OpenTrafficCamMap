@@ -7098,5 +7098,17 @@
         "format": "M3U8"
       }
     ]
+  },
+  "Tekirdağ": {
+    "Belediye": [
+      {
+        "description": "Süleymanpaşa - Balıkçı Limanı",
+        "latitude": 40.976576,
+        "longitude": 27.521243,
+        "url": "https://wowza.tekirdag.bel.tr:4443/sahil/sahil.stream/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
   }
 }
