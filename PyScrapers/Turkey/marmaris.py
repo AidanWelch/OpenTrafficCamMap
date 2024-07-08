@@ -3,19 +3,10 @@
 from Kekik.cli import konsol
 from httpx     import AsyncClient, Timeout
 from json      import load, dumps
-
+from helpers   import str2latlng
 class Marmaris:
     def __init__(self):
-        self.oturum      = AsyncClient(timeout=Timeout(10, connect=10, read=5*60, write=10))
-        self.kordinatlar = {
-            "Meydan"           : "36.8548769,28.2678585",
-            "Uzun Yalı"        : "36.8516576,28.2662401",
-            "İçmeler"          : "36.802893,28.2317378",
-            "Atatürk Bulvarı"  : "36.8552241,28.2682233",
-            "Bozburun"         : "36.6755598,28.0613853",
-            "Kordon Caddesi 1" : "36.8512351,28.2686464",
-            "Kordon Caddesi 2" : "36.8515991,28.2726258",
-        }
+        self.oturum = AsyncClient(timeout=Timeout(10, connect=10, read=5*60, write=10))
 
     async def kameralar(self) -> dict[str, str]:
         istek = await self.oturum.get("https://wowza.yayin.com.tr/playlist/marmarisbel/playlist_marmarisbel.json")
@@ -24,14 +15,14 @@ class Marmaris:
     async def getir(self) -> dict[list[dict]]:
         kameralar = await self.kameralar()
 
-        veri = {"WowzaYayin": []}
+        veri = {"Belediye": []}
         for kamera_veri in kameralar.get("playlist", []):
-            latitude, longitude = self.kordinatlar.get(kamera_veri["title"], "0,0").split(",")
+            latitude, longitude = await str2latlng(f"{kamera_veri['title']}, Marmaris")
 
-            veri["WowzaYayin"].append({
+            veri["Belediye"].append({
                 "description" : kamera_veri["title"],
-                "latitude"    : float(latitude),
-                "longitude"   : float(longitude),
+                "latitude"    : latitude,
+                "longitude"   : longitude,
                 "url"         : "https:" + kamera_veri["sources"][0]["file"],
                 "encoding"    : "H.264",
                 "format"      : "M3U8"
@@ -45,7 +36,7 @@ async def basla():
     gelen_veriler = await belediye.getir()
 
     konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Marmaris] [+] {len(gelen_veriler['WowzaYayin'])} Adet Kamera Bulundu")
+    konsol.log(f"[yellow][Marmaris] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Bulundu")
 
     turkey_json = "../cameras/Turkey.json"
 
@@ -57,10 +48,11 @@ async def basla():
         konsol.log("[red][Marmaris] [!] Yeni Veri Yok")
         return
 
-    del mevcut_veriler["Marmaris"]
+    if mevcut_veriler.get("Marmaris"):
+        del mevcut_veriler["Marmaris"]
     mevcut_veriler["Marmaris"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
         dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][Marmaris] [+] {len(gelen_veriler['WowzaYayin'])} Adet Kamera Eklendi")
+    konsol.log(f"[green][Marmaris] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
