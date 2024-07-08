@@ -58,21 +58,13 @@ async def basla():
         konsol.log("[red][!] Yeni Veri Yok")
         return
 
-
-    eklenen_say = 0
-    for veri in gelen_veriler["WowzaYayin"]:
-        if veri in mevcut_veriler.get("Marmaris", {}).get("WowzaYayin", []):
-            continue
-
-        mevcut_veriler.get("Marmaris", {}).setdefault("WowzaYayin", []).append(veri)
-        eklenen_say += 1
-
+    del mevcut_veriler["Marmaris"]
+    mevcut_veriler["Marmaris"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
-        mevcut_veriler["Marmaris"] = gelen_veriler
         dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][+] {eklenen_say} Adet Kamera Eklendi")
+    konsol.log(f"[green][+] {len(gelen_veriler['WowzaYayin'])} Adet Kamera Eklendi")
 
 
 if __name__ == "__main__":
