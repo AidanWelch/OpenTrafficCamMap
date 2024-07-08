@@ -62,8 +62,8 @@ class Balikesir:
                 "latitude"    : kamera_detay["latitude"],
                 "longitude"   : kamera_detay["longitude"],
                 "url"         : kamera_detay["hls"],
-                "encoding"    : "JPEG",
-                "format"      : "IMAGE_STREAM"
+                "encoding"    : "H.264",
+                "format"      : "M3U8"
             })
 
         return veri
