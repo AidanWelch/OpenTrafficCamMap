@@ -1,4 +1,128 @@
 {
+  "Balıkesir": {
+    "Belediye": [
+      {
+        "description": "Ali Hikmet Paşa Meydanı",
+        "latitude": 39.64848,
+        "longitude": 27.87971,
+        "url": "https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Bandırma Sahil",
+        "latitude": 39.650763,
+        "longitude": 27.899604,
+        "url": "https://content.tvkur.com/l/ckoflql052aveu40cs4g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Zağnos Paşa Cami",
+        "latitude": 39.64848,
+        "longitude": 27.87971,
+        "url": "https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Zağnos Paşa Cami Meydanı",
+        "latitude": 39.6487735791552,
+        "longitude": 27.879900481776,
+        "url": "https://content.tvkur.com/l/cio0ujpaojt0t645bgk0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Zağnos Paşa Cami Meydanı 2",
+        "latitude": 39.64848,
+        "longitude": 27.87971,
+        "url": "https://content.tvkur.com/l/ciog451aojt0t645cddg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Avlu Yaşam Merkezi",
+        "latitude": 39.65252,
+        "longitude": 27.90098,
+        "url": "https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Toplu Taşıma Merkezi",
+        "latitude": 39.64828,
+        "longitude": 27.88838,
+        "url": "https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Çamlık Tepesi",
+        "latitude": 39.646509,
+        "longitude": 27.873652,
+        "url": "https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Parkı",
+        "latitude": 39.64185,
+        "longitude": 27.88731,
+        "url": "https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Şehitler Parkı",
+        "latitude": 39.65972,
+        "longitude": 27.89486,
+        "url": "https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Akcay Kordon",
+        "latitude": 39.582489,
+        "longitude": 26.925751,
+        "url": "https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Akçay Kordon 2",
+        "latitude": 39.582489,
+        "longitude": 26.925751,
+        "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Altınoluk Kordon",
+        "latitude": 39.564656,
+        "longitude": 26.753514,
+        "url": "https://content.tvkur.com/l/cooanmhpkpqs73c1ui8g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Altınoluk Kordon 2",
+        "latitude": 39.566041,
+        "longitude": 26.747277,
+        "url": "https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Gönen Meydan",
+        "latitude": 40.101364,
+        "longitude": 27.656513,
+        "url": "https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
   "İstanbul": {
     "UYM": [
       {
