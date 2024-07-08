@@ -5,12 +5,12 @@ from httpx     import AsyncClient, Timeout
 from json      import load, dumps
 from helpers   import str2latlng
 
-class Alanya:
+class Caycuma:
     def __init__(self):
         self.oturum = AsyncClient(timeout=Timeout(10, connect=10, read=5*60, write=10))
 
     async def kameralar(self) -> dict[str, str]:
-        istek = await self.oturum.get("https://wowza.yayin.com.tr/playlist/alanyabeltr/playlist_alanyabeltr.json")
+        istek = await self.oturum.get("https://wowza.yayin.com.tr/playlist/caycumabeltr/playlist_caycumabeltr.json")
         return istek.json()
 
     async def getir(self) -> dict[list[dict]]:
@@ -18,7 +18,7 @@ class Alanya:
 
         veri = {"Belediye": []}
         for kamera_veri in kameralar.get("playlist", []):
-            latitude, longitude = await str2latlng(f"{kamera_veri['title']}, Alanya")
+            latitude, longitude = await str2latlng(f"{kamera_veri['title']}, Caycuma")
 
             veri["Belediye"].append({
                 "description" : kamera_veri["title"],
@@ -33,11 +33,11 @@ class Alanya:
         
 
 async def basla():
-    belediye      = Alanya()
+    belediye      = Caycuma()
     gelen_veriler = await belediye.getir()
 
     konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Alanya] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Bulundu")
+    konsol.log(f"[yellow][Caycuma] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Bulundu")
 
     turkey_json = "../cameras/Turkey.json"
 
@@ -45,15 +45,15 @@ async def basla():
         mevcut_veriler = load(dosya)
 
 
-    if gelen_veriler == mevcut_veriler.get("Alanya"):
-        konsol.log("[red][Alanya] [!] Yeni Veri Yok")
+    if gelen_veriler == mevcut_veriler.get("Çaycuma"):
+        konsol.log("[red][Caycuma] [!] Yeni Veri Yok")
         return
 
-    if mevcut_veriler.get("Alanya"):
-        del mevcut_veriler["Alanya"]
-    mevcut_veriler["Alanya"] = gelen_veriler
+    if mevcut_veriler.get("Çaycuma"):
+        del mevcut_veriler["Çaycuma"]
+    mevcut_veriler["Çaycuma"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
         dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][Alanya] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
+    konsol.log(f"[green][Caycuma] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
