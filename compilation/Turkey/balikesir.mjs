@@ -35,9 +35,24 @@ async function getDetail ( url ) {
     
     const enlemBoylam = haritaLink.split( 'loc:@' )[1].split(',');
     if ( !enlemBoylam ) return null;
-    
-    const latitude = parseFloat( enlemBoylam[0] );
-    const longitude = parseFloat( enlemBoylam[1] );
+
+    let latitude = enlemBoylam[0];
+    // Check 2 . in latitude
+    let latitudeLenght = enlemBoylam[0].toString().split('.');
+    if ( latitudeLenght.length > 2 ) {
+        latitude = latitudeLenght.join('');
+        latitude = latitude.slice( 0, 2 ) + '.' + latitude.slice( 2 );
+    }
+    latitude = parseFloat( latitude );
+
+    let longitude = enlemBoylam[1];
+    // Check 2 . in longitude
+    let longitudeLenght = enlemBoylam[1].toString().split('.');
+    if ( longitudeLenght.length > 2 ) {
+        longitude = longitudeLenght.join('');
+        longitude = longitude.slice( 0, 2 ) + '.' + longitude.slice( 2 );
+    }
+    longitude = parseFloat( longitude );
 
     const iframe = $('iframe').attr('src');
     if ( !iframe ) return null;
@@ -72,8 +87,10 @@ async function compile () {
 
     for ( const cam of tempCams ) {
         const county = 'Belediye';
+		if ( !cameras[county] ) {
+			cameras[county] = [];
+		}
         
-        cameras[county] = cameras[county] || [];
         const data = await getDetail( cam.url );
         if ( !data ) continue;
 

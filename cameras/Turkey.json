@@ -27,8 +27,8 @@
       },
       {
         "description": "Zağnos Paşa Cami Meydanı",
-        "latitude": 39.648,
-        "longitude": 2.787,
+        "latitude": 39.6487735791552,
+        "longitude": 27.879900481776,
         "url": "https://content.tvkur.com/l/cio0ujpaojt0t645bgk0/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -43,8 +43,8 @@
       },
       {
         "description": "Avlu Yaşam Merkezi",
-        "latitude": 3.965,
-        "longitude": 2.79,
+        "latitude": 39.65252,
+        "longitude": 27.90098,
         "url": "https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -6780,60 +6780,60 @@
     ]
   },
   "Marmaris": {
-    "WowzaYayin": [
+    "Belediye": [
       {
         "description": "Meydan",
-        "latitude": 36.8548769,
-        "longitude": 28.2678585,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8",
+        "latitude": "36.8548769",
+        "longitude": "28.2678585",
+        "url": "//cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Uzun Yalı",
-        "latitude": 36.8516576,
-        "longitude": 28.2662401,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8",
+        "latitude": "36.8516576",
+        "longitude": "28.2662401",
+        "url": "//cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "İçmeler",
-        "latitude": 36.802893,
-        "longitude": 28.2317378,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8",
+        "latitude": "36.802893",
+        "longitude": "28.2317378",
+        "url": "//cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Atatürk Bulvarı",
-        "latitude": 36.8552241,
-        "longitude": 28.2682233,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8",
+        "latitude": "36.8552241",
+        "longitude": "28.2682233",
+        "url": "//cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Bozburun",
-        "latitude": 36.6755598,
-        "longitude": 28.0613853,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8",
+        "latitude": "36.6755598",
+        "longitude": "28.0613853",
+        "url": "//cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Kordon Caddesi 1",
-        "latitude": 36.8512351,
-        "longitude": 28.2686464,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8",
+        "latitude": "36.8512351",
+        "longitude": "28.2686464",
+        "url": "//cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Kordon Caddesi 2",
-        "latitude": 36.8515991,
-        "longitude": 28.2726258,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8",
+        "latitude": "36.8515991",
+        "longitude": "28.2726258",
+        "url": "//cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
