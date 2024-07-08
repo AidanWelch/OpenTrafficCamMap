@@ -2,11 +2,12 @@
 
 from Kekik.cli import cikis_yap, hata_yakala
 from asyncio   import run
-from Turkey    import balikesir, marmaris
+from Turkey    import balikesir, marmaris, alanya
 
 async def basla():
     await balikesir.basla()
     await marmaris.basla()
+    await alanya.basla()
 
 if __name__ == "__main__":
     try:
