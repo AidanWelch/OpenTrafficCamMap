@@ -5,9 +5,14 @@ const options = {
 	headers: { 'Content-Type': 'application/json, text/plain, */*' }
 };
 
+String.prototype.replaceAll = function(search, replacement) {
+  var target = this;
+  return target.split(search).join(replacement);
+}
+
 class Camera {
 	constructor ( cam, url, direction, description ) {
-		this.description = description.trim();
+		this.description = description.trim().replaceAll('  ',' ');
 		if ( direction.length !== 0 ) {
 			this.direction = standardizeDirection( direction );
 		}
