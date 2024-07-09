@@ -54,6 +54,33 @@ UNIQUE_NEWJERSEYDOT | An example for this is yet to be implemented but it is des
 ## Compilation
 The compilation folder contains scripts for compiling from sources listed in the file name.
 
+## State/Administrative Region
+
+The name should be the name defined by one of [OpenStreetMap's administrative regions](https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#10_admin_level_values_for_specific_countries),
+the question becomes which administrative level to use.  Often admin level `4`
+makes the most sense, although there are many exceptions, other times the highest
+admin level with an `ISO3166-2` tag makes sense- though there are likely exceptions
+for that too, so instead it is left to the discrection of maintainers which admin
+level to use.  The names however are not, and should consistent follow that admin
+levels defined `name` tags- which can be easily got with the following [OSM
+Overpass query](https://overpass-turbo.eu/s/1NVP):
+
+```OverpassQL
+[out:json];
+area["ISO3166-1"="[INSERT COUNTRY ISO3166-1 HERE]"]->.country;
+( 
+  relation["admin_level"="[INSERT THE ADMIN LEVEL HERE]"]["boundary"="administrative"](area.country);
+);
+out tags;
+```
+
+The currently defined administrative regions and their admin levels are:
+
+
+Country | Admin Level | Administrative Region
+--------|-------------|-----------------------
+United States of America | 4 | States, Territories, Commonwealths, and the District of Columbia
+
 ## FAQ
 
 ### Why are there traffic cameras in the Gulf of Guinea?
