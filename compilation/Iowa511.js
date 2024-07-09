@@ -25,7 +25,7 @@ axios.post( 'https://www.511ia.org/api/graphql',
 ).then( ( response ) => {
 	compile( response.data[0].data.mapFeaturesQuery );
 }, ( error ) => {
-	console.log( error );
+	console.error( error );
 });
 
 class Camera {
@@ -38,7 +38,7 @@ class Camera {
 		this.url = cam.imageUrl;
 		this.encoding = cam.encoding;
 		this.format = cam.format;
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 

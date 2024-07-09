@@ -12,7 +12,7 @@ https.request( 'https://opendata.arcgis.com/datasets/8a885da23dfb46caaa1827ad920
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -27,11 +27,11 @@ class Camera {
 		this.url = cam.properties.SnapShot.replace( '\\', '' );
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Illinois ) {
 		cameras.Illinois = {};
 	}

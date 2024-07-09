@@ -12,7 +12,7 @@ https.request( 'https://www.tripcheck.com/Scripts/map/data/cctvinventory.js', ( 
 	});
 
 	res.on( 'end', () => {
-		Compile( JSON.parse( data ) );
+		compile( JSON.parse( data ) );
 	});
 }).end();
 
@@ -26,11 +26,11 @@ class Camera {
 		this.url = `https://tripcheck.com/RoadCams/cams/${cam.attributes.filename}`;
 		this.encoding = 'JPEG';
 		this.format = 'IMAGE_STREAM';
-		this.marked_for_review = false;
+		this.markedForReview = false;
 	}
 }
 
-function Compile ( data ) {
+function compile ( data ) {
 	if ( !cameras.Oregon ) {
 		cameras.Oregon = {};
 	}

@@ -5,9 +5,12 @@
   "main": "index.mjs",
   "scripts": {
     "start": "node index.mjs",
+    "dev": "nodemon index.mjs --watch *.mjs",
     "test": "mocha",
     "lint": "eslint \"**/*{.js,.cjs,.mjs}\"",
-    "fix-lint": "eslint \"**/*{.js,.cjs,.mjs}\" --fix"
+    "fix-lint": "eslint \"**/*{.js,.cjs,.mjs}\" --fix",
+    "browser": "npx http-server -p 8000",
+    "develop": "npm run dev && npm run browser"
   },
   "repository": {
     "type": "git",
@@ -24,8 +27,11 @@
   },
   "homepage": "https://github.com/AidanWelch/OpenTrafficCamMap#readme",
   "devDependencies": {
-    "eslint": "^8.55.0",
-    "eslint-plugin-mocha": "^10.2.0",
-    "mocha": "^10.2.0"
+    "eslint": "^9.6.0",
+    "eslint-plugin-mocha": "^10.4.3",
+    "mocha": "^10.6.0"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12"
   }
 }

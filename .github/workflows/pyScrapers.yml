@@ -1,0 +1,44 @@
+# Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
+
+name: pyScrapers
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 00 * * *"
+
+jobs:
+  pyScrapers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name : Depo Kontrolü
+        uses : actions/checkout@v4
+
+      - name : Python 3.11.8 Yükle
+        uses : actions/setup-python@v5
+        with :
+          python-version: "3.11.8"
+
+      - name : Python Sürümünü Göster
+        run  : python -c "import sys; print(sys.version)"
+
+      - name : Gereksinimleri Yükle
+        run  : |
+          cd PyScrapers
+          python -m pip install --upgrade pip
+          pip install -Ur requirements.txt
+
+      - name : Betiği Çalıştır
+        run  : |
+          cd PyScrapers
+          python scrape.py
+
+      - name : Depoyu Güncelle
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: pyScrapers
+          commit_author: keyiflerolsun <keyiflerolsun@users.noreply.github.com>
+          file_pattern: "cameras/*.json"

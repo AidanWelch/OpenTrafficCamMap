@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-S95TT7F01F"></script>
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-S95TT7F01F"></script>
         <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -13,13 +15,13 @@
         <!-- End of Global site tag (gtag.js) - Google Analytics -->
         
         <title>OpenTrafficCamMap</title>
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
         <script src="https://leafletjs.com/examples/choropleth/us-states.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
         <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
-        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
-        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
         <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -42,9 +44,10 @@
             }
         </style>
         <script>
-            if(location.protocol !== 'http:') {
+            if(location.protocol !== 'http:' && localStorage.getItem('forceSSL') === null){
                 alert("It seems you are attempting to force SSL/TLS.  HTTPS is not used for this site because it can cause issues with some of the traffic camera \
                 providers.  Until they all support HTTPS we won't be able to.  You can continue, but some streams may not work properly.");
+                localStorage.setItem('forceSSL', 'true');
             }
         </script>
     </head>
@@ -81,10 +84,15 @@
                 }]
             }).addTo(map);
 
-            var cameras;
+            var cameras = {};
 
             fetch('./cameras/USA.json').then((response) => {return response.json();}).then((data) => {
-                cameras = data;
+                cameras = {...cameras,...data};
+                DrawClusterMap();
+            });
+
+            fetch('./cameras/Turkey.json').then((response) => {return response.json();}).then((data) => {
+                cameras = {...cameras,...data};
                 DrawClusterMap();
             });
 
@@ -105,6 +113,8 @@
 							case "UNIQUE_COLORADODOT":
 								return `The Colorado DOT for an unknowable reason implements <a href="https://en.wikipedia.org/wiki/Digital_rights_management">DRM</a> making streaming on this site very difficult.
 									So, this should redirect you to a map of Colorado by the state DOT that does work: <a href="https://www.cotrip.org/map.htm#/default">Link</a>`;
+                            case "EMBED":
+                                return `<iframe src="${cam.url}" width="320" height="240" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 							default:
 								return "An error has occurred";
 						}
