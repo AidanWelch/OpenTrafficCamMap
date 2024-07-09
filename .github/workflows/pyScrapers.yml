@@ -33,6 +33,7 @@ jobs:
 
       - name : Betiği Çalıştır
         run  : |
+          cd PyScrapers
           python scrape.py
 
       - name : Depoyu Güncelle
