@@ -6887,42 +6887,6 @@
       }
     ]
   },
-  "Çaycuma": {
-    "Belediye": [
-      {
-        "description": "Uğur Mumcu Caddesi",
-        "latitude": 41.4209312,
-        "longitude": 32.0809664,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Cumhuriyet Meydanı",
-        "latitude": 41.427343,
-        "longitude": 32.072631,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/cumhuriyetmeydani/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Atatürk Bulvarı",
-        "latitude": 41.426629,
-        "longitude": 32.079057,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ataturkbulvari/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Sarıkaş Yaya Köprüsü",
-        "latitude": 41.4157456,
-        "longitude": 32.0850002,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Alanya": {
     "Belediye": [
       {
@@ -6991,8 +6955,8 @@
       },
       {
         "description": "cleopatra",
-        "latitude": 36.5533266,
-        "longitude": 31.9728367,
+        "latitude": 36.5502645,
+        "longitude": 31.9793138,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/cleopatra/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7059,8 +7023,8 @@
       },
       {
         "description": "Meydan Park-2",
-        "latitude": 40.9918149,
-        "longitude": 39.7031777,
+        "latitude": 41.0053718,
+        "longitude": 39.73087779999999,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan2/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7111,8 +7075,8 @@
     "Belediye": [
       {
         "description": "Araştırma Yolu",
-        "latitude": 41.025511,
-        "longitude": 40.517666,
+        "latitude": 41.03765,
+        "longitude": 40.571495,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7143,8 +7107,8 @@
       },
       {
         "description": "Meydan",
-        "latitude": 41.0250436,
-        "longitude": 40.5184264,
+        "latitude": 40.891759,
+        "longitude": 40.929983,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/meydan/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7175,8 +7139,8 @@
       },
       {
         "description": "Dağbaşı",
-        "latitude": 41.0097554,
-        "longitude": 40.5063248,
+        "latitude": 41.002229,
+        "longitude": 40.52657480000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7195,8 +7159,8 @@
       },
       {
         "description": "Giresun Kalesi",
-        "latitude": 40.9216286,
-        "longitude": 38.3891563,
+        "latitude": 40.92162570000001,
+        "longitude": 38.389149,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/kale/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7214,6 +7178,42 @@
         "latitude": 40.91552859999999,
         "longitude": 38.3826454,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Çaycuma": {
+    "Belediye": [
+      {
+        "description": "Uğur Mumcu Caddesi",
+        "latitude": 41.4237007,
+        "longitude": 32.0842759,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Cumhuriyet Meydanı",
+        "latitude": 41.427343,
+        "longitude": 32.072631,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/cumhuriyetmeydani/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Bulvarı",
+        "latitude": 41.426629,
+        "longitude": 32.079057,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ataturkbulvari/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Sarıkaş Yaya Köprüsü",
+        "latitude": 41.4157456,
+        "longitude": 32.0850002,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
