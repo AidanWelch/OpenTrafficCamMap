@@ -6763,42 +6763,6 @@
       }
     ]
   },
-  "Giresun": {
-    "Belediye": [
-      {
-        "description": "Atatürk Meydanı",
-        "latitude": 40.917458,
-        "longitude": 38.383745,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Giresun Kalesi",
-        "latitude": 40.9216286,
-        "longitude": 38.3891563,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/kale/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Cadde Kamera",
-        "latitude": 40.9123895,
-        "longitude": 38.3986715,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Balık pazarı",
-        "latitude": 40.91552859999999,
-        "longitude": 38.3826454,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Balıkesir": {
     "Belediye": [
       {
@@ -6891,8 +6855,8 @@
       },
       {
         "description": "Akçay Kordon 2",
-        "latitude": 39.5821532,
-        "longitude": 26.9268871,
+        "latitude": 39.5712563,
+        "longitude": 26.9410363,
         "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -6918,82 +6882,6 @@
         "latitude": 40.108504,
         "longitude": 27.650346,
         "url": "https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
-  "Rize": {
-    "Belediye": [
-      {
-        "description": "Araştırma Yolu",
-        "latitude": 41.03765,
-        "longitude": 40.571495,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Devlet Hastanesi",
-        "latitude": 41.0283384,
-        "longitude": 40.5144742,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/devlet_hastanesi/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Kale",
-        "latitude": 41.0236649,
-        "longitude": 40.5075715,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/kale/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Menderes Bulvarı",
-        "latitude": 41.0308612,
-        "longitude": 40.55287999999999,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/menderes_bulvari/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Meydan",
-        "latitude": 41.0250436,
-        "longitude": 40.5184264,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/meydan/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Sahil Cami",
-        "latitude": 41.0246134,
-        "longitude": 40.5289733,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/sahil_cami/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Tören Alanı",
-        "latitude": 41.0290957,
-        "longitude": 40.5151561,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/toren_alani/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Ziraat",
-        "latitude": 41.0253782,
-        "longitude": 40.51735619999999,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/ziraat/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Dağbaşı",
-        "latitude": 41.002229,
-        "longitude": 40.52657480000001,
-        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
@@ -7059,8 +6947,8 @@
       },
       {
         "description": "sahilsanayi",
-        "latitude": 36.5322261,
-        "longitude": 32.03793040000001,
+        "latitude": 36.5430025,
+        "longitude": 32.0249249,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahilsanayi/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7127,16 +7015,16 @@
       },
       {
         "description": "Meydan Park-1",
-        "latitude": 41.0053718,
-        "longitude": 39.73087779999999,
+        "latitude": 40.9918149,
+        "longitude": 39.7031777,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan1/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Meydan Park-2",
-        "latitude": 41.0053718,
-        "longitude": 39.73087779999999,
+        "latitude": 40.9918149,
+        "longitude": 39.7031777,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan2/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7167,17 +7055,129 @@
       },
       {
         "description": "Ortahisar-1",
-        "latitude": 41.0063948,
-        "longitude": 39.7284114,
+        "latitude": 40.9562156,
+        "longitude": 39.73504020000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Ortahisar-2",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 41.0060434,
+        "longitude": 39.7263425,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-2/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Rize": {
+    "Belediye": [
+      {
+        "description": "Araştırma Yolu",
+        "latitude": 41.025511,
+        "longitude": 40.517666,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Devlet Hastanesi",
+        "latitude": 41.0283384,
+        "longitude": 40.5144742,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/devlet_hastanesi/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Kale",
+        "latitude": 41.0236649,
+        "longitude": 40.5075715,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/kale/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Menderes Bulvarı",
+        "latitude": 41.0308612,
+        "longitude": 40.55287999999999,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/menderes_bulvari/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Meydan",
+        "latitude": 41.0250436,
+        "longitude": 40.5184264,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Sahil Cami",
+        "latitude": 41.0256131,
+        "longitude": 40.542898,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/sahil_cami/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Tören Alanı",
+        "latitude": 41.0290957,
+        "longitude": 40.5151561,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/toren_alani/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ziraat",
+        "latitude": 41.0253782,
+        "longitude": 40.51735619999999,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/ziraat/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Dağbaşı",
+        "latitude": 41.0097554,
+        "longitude": 40.5063248,
+        "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Giresun": {
+    "Belediye": [
+      {
+        "description": "Atatürk Meydanı",
+        "latitude": 40.917458,
+        "longitude": 38.383745,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Giresun Kalesi",
+        "latitude": 40.92162570000001,
+        "longitude": 38.389149,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/kale/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Cadde Kamera",
+        "latitude": 40.91132109999999,
+        "longitude": 38.3769635,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Balık pazarı",
+        "latitude": 40.91552859999999,
+        "longitude": 38.3826454,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
@@ -7187,8 +7187,8 @@
     "Belediye": [
       {
         "description": "Uğur Mumcu Caddesi",
-        "latitude": 41.4237007,
-        "longitude": 32.0842759,
+        "latitude": 41.4209312,
+        "longitude": 32.0809664,
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
