@@ -7083,8 +7083,8 @@
       },
       {
         "description": "Ortahisar-1",
-        "latitude": 41.0052716,
-        "longitude": 39.7269602,
+        "latitude": 41.0063948,
+        "longitude": 39.7284114,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7103,8 +7103,8 @@
     "Belediye": [
       {
         "description": "Araştırma Yolu",
-        "latitude": 41.025511,
-        "longitude": 40.517666,
+        "latitude": 41.03765,
+        "longitude": 40.571495,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7179,8 +7179,8 @@
     "Belediye": [
       {
         "description": "Tortum Merkez",
-        "latitude": 40.299461,
-        "longitude": 41.543639,
+        "latitude": 40.29465099999999,
+        "longitude": 41.549952,
         "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Merkez/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
