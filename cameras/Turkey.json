@@ -7135,8 +7135,8 @@
       },
       {
         "description": "Ortahisar-1",
-        "latitude": 41.0054651,
-        "longitude": 39.71985249999999,
+        "latitude": 40.9562156,
+        "longitude": 39.73504020000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7219,16 +7219,16 @@
       },
       {
         "description": "Ziraat",
-        "latitude": 41.0253782,
-        "longitude": 40.51735619999999,
+        "latitude": 41.0216502,
+        "longitude": 40.5111393,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/ziraat/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Dağbaşı",
-        "latitude": 41.0097554,
-        "longitude": 40.5063248,
+        "latitude": 41.002229,
+        "longitude": 40.52657480000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
