@@ -7203,8 +7203,8 @@
     "Belediye": [
       {
         "description": "Tortum Merkez",
-        "latitude": 40.299461,
-        "longitude": 41.543639,
+        "latitude": 40.29465099999999,
+        "longitude": 41.549952,
         "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Merkez/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
