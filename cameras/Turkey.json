@@ -7091,6 +7091,42 @@
       }
     ]
   },
+  "Erzurum": {
+    "Belediye": [
+      {
+        "description": "Tortum Merkez",
+        "latitude": 40.29465099999999,
+        "longitude": 41.549952,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Merkez/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Tortum Meydan",
+        "latitude": 40.29465099999999,
+        "longitude": 41.549952,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Tortum Bağbaşı",
+        "latitude": 40.5099919,
+        "longitude": 41.459689,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/tortumbagbasi/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Tortum Şenyurt",
+        "latitude": 40.3911331,
+        "longitude": 41.3310934,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/tortumsenyurt/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
   "Alanya": {
     "Belediye": [
       {
@@ -7143,8 +7179,8 @@
       },
       {
         "description": "dinek",
-        "latitude": 36.560554,
-        "longitude": 31.944955,
+        "latitude": 36.544443,
+        "longitude": 31.995408,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/dinek/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7194,42 +7230,6 @@
         "latitude": 36.558538,
         "longitude": 31.961724,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahildinek/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
-  "Erzurum": {
-    "Belediye": [
-      {
-        "description": "Tortum Merkez",
-        "latitude": 40.29465099999999,
-        "longitude": 41.549952,
-        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Merkez/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Tortum Meydan",
-        "latitude": 40.29465099999999,
-        "longitude": 41.549952,
-        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Meydan/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Tortum Bağbaşı",
-        "latitude": 40.5099919,
-        "longitude": 41.459689,
-        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/tortumbagbasi/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Tortum Şenyurt",
-        "latitude": 40.3911331,
-        "longitude": 41.3310934,
-        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/tortumsenyurt/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
