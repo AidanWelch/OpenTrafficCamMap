@@ -6667,34 +6667,6 @@
       }
     ]
   },
-  "Giresun": {
-    "Belediye": [
-      {
-        "description": "Atatürk Meydanı",
-        "latitude": 40.917458,
-        "longitude": 38.383745,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Cadde Kamera",
-        "latitude": 40.9123895,
-        "longitude": 38.3986715,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Balık pazarı",
-        "latitude": 40.91552859999999,
-        "longitude": 38.3826454,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Çaycuma": {
     "Belediye": [
       {
@@ -6726,90 +6698,6 @@
         "latitude": 41.4157456,
         "longitude": 32.0850002,
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
-  "Trabzon": {
-    "Belediye": [
-      {
-        "description": "Atapark",
-        "latitude": 41.003775,
-        "longitude": 39.715777,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/atapark/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Boztepe Manzara",
-        "latitude": 40.9965616,
-        "longitude": 39.7327862,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Meydan Park-1",
-        "latitude": 41.0053718,
-        "longitude": 39.73087779999999,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan1/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Meydan Park-2",
-        "latitude": 40.9918149,
-        "longitude": 39.7031777,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan2/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Kalkınma",
-        "latitude": 41.0014335,
-        "longitude": 39.7614601,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Kalkinma/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Uzungöl",
-        "latitude": 40.61944070000001,
-        "longitude": 40.2960778,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Atatürk Köşkü",
-        "latitude": 40.9797269,
-        "longitude": 39.6975109,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Ortahisar-1",
-        "latitude": 40.9562156,
-        "longitude": 39.73504020000001,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Ortahisar-2",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-2/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Ayasofya Kavşak",
-        "latitude": 41.0044045,
-        "longitude": 39.6968379,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ayasofya/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
@@ -6959,138 +6847,6 @@
       }
     ]
   },
-  "Balıkesir": {
-    "Belediye": [
-      {
-        "description": "Ali Hikmet Paşa Meydanı",
-        "latitude": 39.6479413,
-        "longitude": 27.8812348,
-        "url": "https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Bandırma Sahil",
-        "latitude": 40.3587974,
-        "longitude": 27.9703586,
-        "url": "https://content.tvkur.com/l/ckoflql052aveu40cs4g/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Zağnos Paşa Cami",
-        "latitude": 39.6487607,
-        "longitude": 27.8799233,
-        "url": "https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Zağnos Paşa Cami Meydanı",
-        "latitude": 39.6487607,
-        "longitude": 27.8799233,
-        "url": "https://content.tvkur.com/l/cio0ujpaojt0t645bgk0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Zağnos Paşa Cami Meydanı 2",
-        "latitude": 39.6487607,
-        "longitude": 27.8799233,
-        "url": "https://content.tvkur.com/l/ciog451aojt0t645cddg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Avlu Yaşam Merkezi",
-        "latitude": 39.6524154,
-        "longitude": 27.900621,
-        "url": "https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Toplu Taşıma Merkezi",
-        "latitude": 39.6483,
-        "longitude": 27.8883,
-        "url": "https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Çamlık Tepesi",
-        "latitude": 39.646468,
-        "longitude": 27.8737268,
-        "url": "https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Atatürk Parkı",
-        "latitude": 39.6435127,
-        "longitude": 27.8860798,
-        "url": "https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Şehitler Parkı",
-        "latitude": 39.6595362,
-        "longitude": 27.8948738,
-        "url": "https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Altınkum Plajı",
-        "latitude": 39.571107,
-        "longitude": 26.9407181,
-        "url": "https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Akcay Kordon",
-        "latitude": 39.5828276,
-        "longitude": 26.9244475,
-        "url": "https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Akçay Kordon 2",
-        "latitude": 39.580535,
-        "longitude": 26.9309968,
-        "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Altınoluk Kordon",
-        "latitude": 39.566041,
-        "longitude": 26.747277,
-        "url": "https://content.tvkur.com/l/cooanmhpkpqs73c1ui8g/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Altınoluk Kordon 2",
-        "latitude": 39.566041,
-        "longitude": 26.747277,
-        "url": "https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Gönen Meydan",
-        "latitude": 40.108504,
-        "longitude": 27.650346,
-        "url": "https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Erzurum": {
     "Belediye": [
       {
@@ -7230,6 +6986,250 @@
         "latitude": 36.558538,
         "longitude": 31.961724,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahildinek/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Balıkesir": {
+    "Belediye": [
+      {
+        "description": "Ali Hikmet Paşa Meydanı",
+        "latitude": 39.6479413,
+        "longitude": 27.8812348,
+        "url": "https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Bandırma Sahil",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/ckoflql052aveu40cs4g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Zağnos Paşa Cami",
+        "latitude": 39.6487607,
+        "longitude": 27.8799233,
+        "url": "https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Zağnos Paşa Cami Meydanı",
+        "latitude": 39.6487607,
+        "longitude": 27.8799233,
+        "url": "https://content.tvkur.com/l/cio0ujpaojt0t645bgk0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Zağnos Paşa Cami Meydanı 2",
+        "latitude": 39.6487607,
+        "longitude": 27.8799233,
+        "url": "https://content.tvkur.com/l/ciog451aojt0t645cddg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Avlu Yaşam Merkezi",
+        "latitude": 39.6524154,
+        "longitude": 27.900621,
+        "url": "https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Toplu Taşıma Merkezi",
+        "latitude": 39.6483,
+        "longitude": 27.8883,
+        "url": "https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Çamlık Tepesi",
+        "latitude": 39.646468,
+        "longitude": 27.8737268,
+        "url": "https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Parkı",
+        "latitude": 39.6435127,
+        "longitude": 27.8860798,
+        "url": "https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Şehitler Parkı",
+        "latitude": 39.6595362,
+        "longitude": 27.8948738,
+        "url": "https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Altınkum Plajı",
+        "latitude": 39.571107,
+        "longitude": 26.9407181,
+        "url": "https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Akcay Kordon",
+        "latitude": 39.5828276,
+        "longitude": 26.9244475,
+        "url": "https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Akçay Kordon 2",
+        "latitude": 39.5821532,
+        "longitude": 26.9268871,
+        "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Altınoluk Kordon",
+        "latitude": 39.566041,
+        "longitude": 26.747277,
+        "url": "https://content.tvkur.com/l/cooanmhpkpqs73c1ui8g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Altınoluk Kordon 2",
+        "latitude": 39.566041,
+        "longitude": 26.747277,
+        "url": "https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Gönen Meydan",
+        "latitude": 40.108504,
+        "longitude": 27.650346,
+        "url": "https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Trabzon": {
+    "Belediye": [
+      {
+        "description": "Atapark",
+        "latitude": 41.003775,
+        "longitude": 39.715777,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/atapark/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Boztepe Manzara",
+        "latitude": 40.9965616,
+        "longitude": 39.7327862,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Meydan Park-1",
+        "latitude": 40.9918149,
+        "longitude": 39.7031777,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan1/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Meydan Park-2",
+        "latitude": 40.9918149,
+        "longitude": 39.7031777,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan2/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Kalkınma",
+        "latitude": 41.0014335,
+        "longitude": 39.7614601,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Kalkinma/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Uzungöl",
+        "latitude": 40.61944070000001,
+        "longitude": 40.2960778,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Köşkü",
+        "latitude": 40.9797269,
+        "longitude": 39.6975109,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ortahisar-1",
+        "latitude": 40.9562156,
+        "longitude": 39.73504020000001,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ortahisar-2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-2/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ayasofya Kavşak",
+        "latitude": 41.0044045,
+        "longitude": 39.6968379,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ayasofya/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Giresun": {
+    "Belediye": [
+      {
+        "description": "Atatürk Meydanı",
+        "latitude": 40.917458,
+        "longitude": 38.383745,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Cadde Kamera",
+        "latitude": 40.91132109999999,
+        "longitude": 38.3769635,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Balık pazarı",
+        "latitude": 40.91552859999999,
+        "longitude": 38.3826454,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
