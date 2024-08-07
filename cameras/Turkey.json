@@ -7003,8 +7003,8 @@
       },
       {
         "description": "Bandırma Sahil",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 40.3587974,
+        "longitude": 27.9703586,
         "url": "https://content.tvkur.com/l/ckoflql052aveu40cs4g/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7143,16 +7143,16 @@
       },
       {
         "description": "Meydan Park-1",
-        "latitude": 40.9918149,
-        "longitude": 39.7031777,
+        "latitude": 41.0053718,
+        "longitude": 39.73087779999999,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan1/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Meydan Park-2",
-        "latitude": 40.9918149,
-        "longitude": 39.7031777,
+        "latitude": 41.0053718,
+        "longitude": 39.73087779999999,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Meydan2/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7191,8 +7191,8 @@
       },
       {
         "description": "Ortahisar-2",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 40.9562156,
+        "longitude": 39.73504020000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-2/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7219,8 +7219,8 @@
       },
       {
         "description": "Cadde Kamera",
-        "latitude": 40.91132109999999,
-        "longitude": 38.3769635,
+        "latitude": 40.9123895,
+        "longitude": 38.3986715,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
