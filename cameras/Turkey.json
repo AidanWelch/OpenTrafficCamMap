@@ -6799,74 +6799,6 @@
       }
     ]
   },
-  "Marmaris": {
-    "Belediye": [
-      {
-        "description": "Meydan",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Yat Limanı",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Uzun Yalı",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "İçmeler",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Atatürk Bulvarı",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Bozburun",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Kordon Caddesi 1",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Kordon Caddesi 2",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Alanya": {
     "Belediye": [
       {
@@ -7190,6 +7122,66 @@
         "latitude": 0.0,
         "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Marmaris": {
+    "Belediye": [
+      {
+        "description": "Meydan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Yat Limanı",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Uzun Yalı",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Bulvarı",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Bozburun",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Kordon Caddesi 1",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Kordon Caddesi 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
