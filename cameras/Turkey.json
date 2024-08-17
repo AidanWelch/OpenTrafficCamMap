@@ -7087,34 +7087,6 @@
       }
     ]
   },
-  "Giresun": {
-    "Belediye": [
-      {
-        "description": "Atatürk Meydanı",
-        "latitude": 40.917458,
-        "longitude": 38.383745,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Cadde Kamera",
-        "latitude": 40.91132109999999,
-        "longitude": 38.3769635,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Balık pazarı",
-        "latitude": 40.91552859999999,
-        "longitude": 38.3826454,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Erzurum": {
     "Belediye": [
       {
@@ -7182,6 +7154,34 @@
         "latitude": 41.4157456,
         "longitude": 32.0850002,
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Giresun": {
+    "Belediye": [
+      {
+        "description": "Atatürk Meydanı",
+        "latitude": 40.917458,
+        "longitude": 38.383745,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Cadde Kamera",
+        "latitude": 40.9123895,
+        "longitude": 38.3986715,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Balık pazarı",
+        "latitude": 40.91552859999999,
+        "longitude": 38.3826454,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
