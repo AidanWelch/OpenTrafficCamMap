@@ -6863,6 +6863,86 @@
       }
     ]
   },
+  "Trabzon": {
+    "Belediye": [
+      {
+        "description": "Boztepe Manzara",
+        "latitude": 40.9965616,
+        "longitude": 39.7327862,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Uzungöl",
+        "latitude": 40.61944070000001,
+        "longitude": 40.2960778,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Köşkü",
+        "latitude": 40.9797269,
+        "longitude": 39.6975109,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ayasofya Kavşak",
+        "latitude": 41.0044045,
+        "longitude": 39.6968379,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ayasofya/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Akyazı",
+        "latitude": 40.992178,
+        "longitude": 39.6331289,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/akyazi/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Çaycuma": {
+    "Belediye": [
+      {
+        "description": "Uğur Mumcu Caddesi",
+        "latitude": 41.4209312,
+        "longitude": 32.0809664,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Cumhuriyet Meydanı",
+        "latitude": 41.427343,
+        "longitude": 32.072631,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/cumhuriyetmeydani/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Bulvarı",
+        "latitude": 41.426629,
+        "longitude": 32.079057,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ataturkbulvari/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Sarıkaş Yaya Köprüsü",
+        "latitude": 41.4157456,
+        "longitude": 32.0850002,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
   "Balıkesir": {
     "Belediye": [
       {
@@ -6963,8 +7043,8 @@
       },
       {
         "description": "Akçay Kordon 2",
-        "latitude": 39.5821532,
-        "longitude": 26.9268871,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7006,50 +7086,6 @@
         "latitude": 39.5639942,
         "longitude": 26.9486893,
         "url": "https://content.tvkur.com/l/cr1j8fhpkpqs73a5rgpg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
-  "Trabzon": {
-    "Belediye": [
-      {
-        "description": "Boztepe Manzara",
-        "latitude": 40.9965616,
-        "longitude": 39.7327862,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Uzungöl",
-        "latitude": 40.61944070000001,
-        "longitude": 40.2960778,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Atatürk Köşkü",
-        "latitude": 40.9797269,
-        "longitude": 39.6975109,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Ayasofya Kavşak",
-        "latitude": 41.0044045,
-        "longitude": 39.6968379,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ayasofya/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Akyazı",
-        "latitude": 40.992178,
-        "longitude": 39.6331289,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/akyazi/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
@@ -7115,8 +7151,8 @@
       },
       {
         "description": "Ziraat",
-        "latitude": 41.0253782,
-        "longitude": 40.51735619999999,
+        "latitude": 41.0216502,
+        "longitude": 40.5111393,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/ziraat/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7135,8 +7171,8 @@
     "Belediye": [
       {
         "description": "Tortum Merkez",
-        "latitude": 40.299461,
-        "longitude": 41.543639,
+        "latitude": 40.29465099999999,
+        "longitude": 41.549952,
         "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Merkez/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7162,42 +7198,6 @@
         "latitude": 40.3911331,
         "longitude": 41.3310934,
         "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/tortumsenyurt/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
-  "Çaycuma": {
-    "Belediye": [
-      {
-        "description": "Uğur Mumcu Caddesi",
-        "latitude": 41.4209312,
-        "longitude": 32.0809664,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Cumhuriyet Meydanı",
-        "latitude": 41.427343,
-        "longitude": 32.072631,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/cumhuriyetmeydani/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Atatürk Bulvarı",
-        "latitude": 41.426629,
-        "longitude": 32.079057,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ataturkbulvari/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Sarıkaş Yaya Köprüsü",
-        "latitude": 41.4157456,
-        "longitude": 32.0850002,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
