@@ -6799,6 +6799,50 @@
       }
     ]
   },
+  "Trabzon": {
+    "Belediye": [
+      {
+        "description": "Boztepe Manzara",
+        "latitude": 40.9965616,
+        "longitude": 39.7327862,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Uzungöl",
+        "latitude": 40.61944070000001,
+        "longitude": 40.2960778,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Köşkü",
+        "latitude": 40.9797269,
+        "longitude": 39.6975109,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Ayasofya Kavşak",
+        "latitude": 41.0044045,
+        "longitude": 39.6968379,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ayasofya/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Oyuncakistan",
+        "latitude": 41.0036429,
+        "longitude": 39.695121,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/oyuncakistan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
   "Balıkesir": {
     "Belediye": [
       {
@@ -6843,16 +6887,16 @@
       },
       {
         "description": "Avlu Yaşam Merkezi",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 39.6524154,
+        "longitude": 27.900621,
         "url": "https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Toplu Taşıma Merkezi",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 39.6483,
+        "longitude": 27.8883,
         "url": "https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -6907,16 +6951,16 @@
       },
       {
         "description": "Altınoluk Kordon",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 39.566041,
+        "longitude": 26.747277,
         "url": "https://content.tvkur.com/l/cooanmhpkpqs73c1ui8g/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
       {
         "description": "Altınoluk Kordon 2",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 39.566041,
+        "longitude": 26.747277,
         "url": "https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7047,53 +7091,9 @@
       },
       {
         "description": "sahildinek",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 36.558538,
+        "longitude": 31.961724,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahildinek/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
-  "Trabzon": {
-    "Belediye": [
-      {
-        "description": "Boztepe Manzara",
-        "latitude": 40.9965616,
-        "longitude": 39.7327862,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Uzungöl",
-        "latitude": 40.61944070000001,
-        "longitude": 40.2960778,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Atatürk Köşkü",
-        "latitude": 40.9797269,
-        "longitude": 39.6975109,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Ayasofya Kavşak",
-        "latitude": 41.0044045,
-        "longitude": 39.6968379,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ayasofya/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Oyuncakistan",
-        "latitude": 41.0036429,
-        "longitude": 39.695121,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/oyuncakistan/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
@@ -7103,8 +7103,8 @@
     "Belediye": [
       {
         "description": "Araştırma Yolu",
-        "latitude": 41.03765,
-        "longitude": 40.571495,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7159,8 +7159,8 @@
       },
       {
         "description": "Ziraat",
-        "latitude": 41.0253782,
-        "longitude": 40.51735619999999,
+        "latitude": 41.0216502,
+        "longitude": 40.5111393,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/ziraat/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
@@ -7187,8 +7187,8 @@
       },
       {
         "description": "Cadde Kamera",
-        "latitude": 40.91132109999999,
-        "longitude": 38.3769635,
+        "latitude": 40.9123923,
+        "longitude": 38.3986712,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
