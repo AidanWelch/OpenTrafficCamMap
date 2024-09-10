@@ -7216,6 +7216,14 @@
         "url": "https://content.tvkur.com/l/crdaoa1pkpqs73a6dfd0/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
+      },
+      {
+        "description": "Bigadiç Meydan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/crdeq61pkpqs73a6dmn0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
       }
     ]
   }
