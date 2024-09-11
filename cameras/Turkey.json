@@ -6983,34 +6983,6 @@
       }
     ]
   },
-  "Giresun": {
-    "Belediye": [
-      {
-        "description": "Atatürk Meydanı",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Giresun Kalesi",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/kale/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Balık pazarı",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Trabzon": {
     "Belediye": [
       {
@@ -7222,6 +7194,42 @@
         "latitude": 0.0,
         "longitude": 0.0,
         "url": "https://content.tvkur.com/l/crdeq61pkpqs73a6dmn0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Giresun": {
+    "Belediye": [
+      {
+        "description": "Atatürk Meydanı",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Giresun Kalesi",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/kale/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Cadde Kamera",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/cadde/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Balık pazarı",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
