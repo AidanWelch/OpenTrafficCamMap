@@ -7186,14 +7186,6 @@
   "Trabzon": {
     "Belediye": [
       {
-        "description": "Boztepe Manzara",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
         "description": "Meydan Park-1",
         "latitude": 0.0,
         "longitude": 0.0,
@@ -7218,7 +7210,7 @@
         "format": "M3U8"
       },
       {
-        "description": "Ortahisar-1",
+        "description": "Pazarkapı Batı",
         "latitude": 0.0,
         "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
