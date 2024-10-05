@@ -7218,6 +7218,14 @@
         "format": "M3U8"
       },
       {
+        "description": "Pazarkapı Batı",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-1/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
         "description": "Ayasofya Kavşak",
         "latitude": 0.0,
         "longitude": 0.0,
@@ -7245,7 +7253,7 @@
         "description": "Kanuni Evi",
         "latitude": 0.0,
         "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/kanunievi2/playlist.m3u8",
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/kanunievi/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
