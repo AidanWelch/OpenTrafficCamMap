@@ -97,3 +97,5 @@ Sources that are simple to pull data from, are of the highest quality, and video
 ## Contribution Tips
 
 [This FHWA site has helpful streaming information.](https://ops.fhwa.dot.gov/publications/fhwahop19037/appb.htm)
+
+[This open registry of official US camera feed sources](https://github.com/bzsasson/traffic-camera-sources) lists each state DOT/511 source with its official site, terms URL, and attribution line - useful for finding sources not yet compiled here (e.g. Alaska, Arizona, California, Georgia).
